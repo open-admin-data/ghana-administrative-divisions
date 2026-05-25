@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH1308_fiemuo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fiemuo",
+      "en": "Fiemuo",
+      "slug": "fiemuo"
+    },
+    "code": {
+      "id": "GH1308_fiemuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1308",
+      "level": 2,
+      "name": {
+        "local": "Sissala West",
+        "en": "Sissala West",
+        "slug": "sissala-west-gh1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1308",
+        "level": 2,
+        "name": {
+          "local": "Sissala West",
+          "en": "Sissala West",
+          "slug": "sissala-west-gh1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.973",
+      "lon": "-2.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1308_gwollu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gwollu",
+      "en": "Gwollu",
+      "slug": "gwollu"
+    },
+    "code": {
+      "id": "GH1308_gwollu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1308",
+      "level": 2,
+      "name": {
+        "local": "Sissala West",
+        "en": "Sissala West",
+        "slug": "sissala-west-gh1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1308",
+        "level": 2,
+        "name": {
+          "local": "Sissala West",
+          "en": "Sissala West",
+          "slug": "sissala-west-gh1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.982",
+      "lon": "-2.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1308_jeffisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jeffisi",
+      "en": "Jeffisi",
+      "slug": "jeffisi"
+    },
+    "code": {
+      "id": "GH1308_jeffisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1308",
+      "level": 2,
+      "name": {
+        "local": "Sissala West",
+        "en": "Sissala West",
+        "slug": "sissala-west-gh1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1308",
+        "level": 2,
+        "name": {
+          "local": "Sissala West",
+          "en": "Sissala West",
+          "slug": "sissala-west-gh1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "-2.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1308_zini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zini",
+      "en": "Zini",
+      "slug": "zini"
+    },
+    "code": {
+      "id": "GH1308_zini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1308",
+      "level": 2,
+      "name": {
+        "local": "Sissala West",
+        "en": "Sissala West",
+        "slug": "sissala-west-gh1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1308",
+        "level": 2,
+        "name": {
+          "local": "Sissala West",
+          "en": "Sissala West",
+          "slug": "sissala-west-gh1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.86",
+      "lon": "-2.409"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

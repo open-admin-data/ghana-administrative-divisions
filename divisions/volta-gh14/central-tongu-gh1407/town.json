@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH1407_adaklu-ahunda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adaklu Ahunda",
+      "en": "Adaklu Ahunda",
+      "slug": "adaklu-ahunda"
+    },
+    "code": {
+      "id": "GH1407_adaklu-ahunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1407",
+      "level": 2,
+      "name": {
+        "local": "Central Tongu",
+        "en": "Central Tongu",
+        "slug": "central-tongu-gh1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1407",
+        "level": 2,
+        "name": {
+          "local": "Central Tongu",
+          "en": "Central Tongu",
+          "slug": "central-tongu-gh1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.288",
+      "lon": "0.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

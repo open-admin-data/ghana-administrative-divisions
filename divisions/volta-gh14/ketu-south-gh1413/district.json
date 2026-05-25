@@ -1,0 +1,47 @@
+{
+  "id": "GH1413",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ketu South",
+    "en": "Ketu South",
+    "slug": "ketu-south-gh1413"
+  },
+  "code": {
+    "id": "GH1413",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.08",
+    "lon": "1.072"
+  },
+  "metadata": {},
+  "source": {}
+}

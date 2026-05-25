@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0726_akusekpong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akuse/Kpong",
+      "en": "Akuse/Kpong",
+      "slug": "akusekpong"
+    },
+    "code": {
+      "id": "GH0726_akusekpong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0726",
+      "level": 2,
+      "name": {
+        "local": "Shai Osudoku",
+        "en": "Shai Osudoku",
+        "slug": "shai-osudoku-gh0726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0726",
+        "level": 2,
+        "name": {
+          "local": "Shai Osudoku",
+          "en": "Shai Osudoku",
+          "slug": "shai-osudoku-gh0726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.098",
+      "lon": "0.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0726_asutsuare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asutsuare",
+      "en": "Asutsuare",
+      "slug": "asutsuare"
+    },
+    "code": {
+      "id": "GH0726_asutsuare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0726",
+      "level": 2,
+      "name": {
+        "local": "Shai Osudoku",
+        "en": "Shai Osudoku",
+        "slug": "shai-osudoku-gh0726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0726",
+        "level": 2,
+        "name": {
+          "local": "Shai Osudoku",
+          "en": "Shai Osudoku",
+          "slug": "shai-osudoku-gh0726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.075",
+      "lon": "0.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0726_kordiabe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kordiabe",
+      "en": "Kordiabe",
+      "slug": "kordiabe"
+    },
+    "code": {
+      "id": "GH0726_kordiabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0726",
+      "level": 2,
+      "name": {
+        "local": "Shai Osudoku",
+        "en": "Shai Osudoku",
+        "slug": "shai-osudoku-gh0726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0726",
+        "level": 2,
+        "name": {
+          "local": "Shai Osudoku",
+          "en": "Shai Osudoku",
+          "slug": "shai-osudoku-gh0726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.925",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0726_osuwem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osuwem",
+      "en": "Osuwem",
+      "slug": "osuwem"
+    },
+    "code": {
+      "id": "GH0726_osuwem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0726",
+      "level": 2,
+      "name": {
+        "local": "Shai Osudoku",
+        "en": "Shai Osudoku",
+        "slug": "shai-osudoku-gh0726"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0726",
+        "level": 2,
+        "name": {
+          "local": "Shai Osudoku",
+          "en": "Shai Osudoku",
+          "slug": "shai-osudoku-gh0726"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.037",
+      "lon": "0.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

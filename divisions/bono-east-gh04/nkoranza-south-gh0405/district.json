@@ -1,0 +1,47 @@
+{
+  "id": "GH0405",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkoranza South",
+    "en": "Nkoranza South",
+    "slug": "nkoranza-south-gh0405"
+  },
+  "code": {
+    "id": "GH0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH04",
+    "level": 1,
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.452",
+    "lon": "-1.677"
+  },
+  "metadata": {},
+  "source": {}
+}

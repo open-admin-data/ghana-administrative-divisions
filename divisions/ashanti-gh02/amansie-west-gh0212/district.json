@@ -1,0 +1,47 @@
+{
+  "id": "GH0212",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amansie West",
+    "en": "Amansie West",
+    "slug": "amansie-west-gh0212"
+  },
+  "code": {
+    "id": "GH0212",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.437",
+    "lon": "-1.856"
+  },
+  "metadata": {},
+  "source": {}
+}

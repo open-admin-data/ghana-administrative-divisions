@@ -1,0 +1,47 @@
+{
+  "id": "GH0506",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Assin Fosu",
+    "en": "Assin Fosu",
+    "slug": "assin-fosu-gh0506"
+  },
+  "code": {
+    "id": "GH0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.724",
+    "lon": "-1.311"
+  },
+  "metadata": {},
+  "source": {}
+}

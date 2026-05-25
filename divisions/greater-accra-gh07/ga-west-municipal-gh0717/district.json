@@ -1,0 +1,47 @@
+{
+  "id": "GH0717",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ga West Municipal",
+    "en": "Ga West Municipal",
+    "slug": "ga-west-municipal-gh0717"
+  },
+  "code": {
+    "id": "GH0717",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.704",
+    "lon": "-0.357"
+  },
+  "metadata": {},
+  "source": {}
+}

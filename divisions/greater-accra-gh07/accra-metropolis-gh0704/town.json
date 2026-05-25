@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GH0704_accra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Accra",
+      "en": "Accra",
+      "slug": "accra"
+    },
+    "code": {
+      "id": "GH0704_accra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.545",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_adabraka-near-goil-headoffice",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adabraka (near Goil headoffice)",
+      "en": "Adabraka (near Goil headoffice)",
+      "slug": "adabraka-near-goil-headoffice"
+    },
+    "code": {
+      "id": "GH0704_adabraka-near-goil-headoffice",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.554",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_adabraka-near-ncr-offices-cinema-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adabraka (near NCR Offices & cinema area)",
+      "en": "Adabraka (near NCR Offices & cinema area)",
+      "slug": "adabraka-near-ncr-offices-cinema-area"
+    },
+    "code": {
+      "id": "GH0704_adabraka-near-ncr-offices-cinema-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.559",
+      "lon": "-0.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_adjabeng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adjabeng",
+      "en": "Adjabeng",
+      "slug": "adjabeng"
+    },
+    "code": {
+      "id": "GH0704_adjabeng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.552",
+      "lon": "-0.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_agbogbloshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agbogbloshie",
+      "en": "Agbogbloshie",
+      "slug": "agbogbloshie"
+    },
+    "code": {
+      "id": "GH0704_agbogbloshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "-0.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_high-street",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "High Street",
+      "en": "High Street",
+      "slug": "high-street"
+    },
+    "code": {
+      "id": "GH0704_high-street",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.54",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_james-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "James Town",
+      "en": "James Town",
+      "slug": "james-town"
+    },
+    "code": {
+      "id": "GH0704_james-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "-0.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_korle-bu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Korle-bu",
+      "en": "Korle-bu",
+      "slug": "korle-bu"
+    },
+    "code": {
+      "id": "GH0704_korle-bu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.536",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_makola",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Makola",
+      "en": "Makola",
+      "slug": "makola"
+    },
+    "code": {
+      "id": "GH0704_makola",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.549",
+      "lon": "-0.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_odorna-adabraka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odorna (Adabraka)",
+      "en": "Odorna (Adabraka)",
+      "slug": "odorna-adabraka"
+    },
+    "code": {
+      "id": "GH0704_odorna-adabraka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.559",
+      "lon": "-0.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_okaishie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okaishie",
+      "en": "Okaishie",
+      "slug": "okaishie"
+    },
+    "code": {
+      "id": "GH0704_okaishie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.549",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_opera-square",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Opera Square",
+      "en": "Opera Square",
+      "slug": "opera-square"
+    },
+    "code": {
+      "id": "GH0704_opera-square",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.545",
+      "lon": "-0.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_paladium",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Paladium",
+      "en": "Paladium",
+      "slug": "paladium"
+    },
+    "code": {
+      "id": "GH0704_paladium",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.545",
+      "lon": "-0.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704_tema-station-near-lotteries",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Station (near Lotteries)",
+      "en": "Tema Station (near Lotteries)",
+      "slug": "tema-station-near-lotteries"
+    },
+    "code": {
+      "id": "GH0704_tema-station-near-lotteries",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0704",
+      "level": 2,
+      "name": {
+        "local": "Accra Metropolis",
+        "en": "Accra Metropolis",
+        "slug": "accra-metropolis-gh0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0704",
+        "level": 2,
+        "name": {
+          "local": "Accra Metropolis",
+          "en": "Accra Metropolis",
+          "slug": "accra-metropolis-gh0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.548",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

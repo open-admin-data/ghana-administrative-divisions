@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "GH0622_abetifi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abetifi",
+      "en": "Abetifi",
+      "slug": "abetifi"
+    },
+    "code": {
+      "id": "GH0622_abetifi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.677",
+      "lon": "-0.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_abetifi-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abetifi Nkwanta",
+      "en": "Abetifi Nkwanta",
+      "slug": "abetifi-nkwanta"
+    },
+    "code": {
+      "id": "GH0622_abetifi-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.637",
+      "lon": "-0.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_achiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Achiase",
+      "en": "Achiase",
+      "slug": "achiase"
+    },
+    "code": {
+      "id": "GH0622_achiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.556",
+      "lon": "-0.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_aduamoah",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aduamoah",
+      "en": "Aduamoah",
+      "slug": "aduamoah"
+    },
+    "code": {
+      "id": "GH0622_aduamoah",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.637",
+      "lon": "-0.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_ankoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ankoma",
+      "en": "Ankoma",
+      "slug": "ankoma"
+    },
+    "code": {
+      "id": "GH0622_ankoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.648",
+      "lon": "-0.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_asakraka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asakraka",
+      "en": "Asakraka",
+      "slug": "asakraka"
+    },
+    "code": {
+      "id": "GH0622_asakraka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.632",
+      "lon": "-0.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_atibie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atibie",
+      "en": "Atibie",
+      "slug": "atibie"
+    },
+    "code": {
+      "id": "GH0622_atibie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.582",
+      "lon": "-0.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_atuobikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atuobikrom",
+      "en": "Atuobikrom",
+      "slug": "atuobikrom"
+    },
+    "code": {
+      "id": "GH0622_atuobikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.66",
+      "lon": "-0.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_awueregya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awueregya",
+      "en": "Awueregya",
+      "slug": "awueregya"
+    },
+    "code": {
+      "id": "GH0622_awueregya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.273",
+      "lon": "-0.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_bepong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bepong",
+      "en": "Bepong",
+      "slug": "bepong"
+    },
+    "code": {
+      "id": "GH0622_bepong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.599",
+      "lon": "-0.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_bepong-oworobong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bepong Oworobong",
+      "en": "Bepong Oworobong",
+      "slug": "bepong-oworobong"
+    },
+    "code": {
+      "id": "GH0622_bepong-oworobong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.592",
+      "lon": "-0.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_fodoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fodoa",
+      "en": "Fodoa",
+      "slug": "fodoa"
+    },
+    "code": {
+      "id": "GH0622_fodoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.595",
+      "lon": "-0.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_hweehwee",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hweehwee",
+      "en": "Hweehwee",
+      "slug": "hweehwee"
+    },
+    "code": {
+      "id": "GH0622_hweehwee",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.716",
+      "lon": "-0.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_hweehwewe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hweehwewe",
+      "en": "Hweehwewe",
+      "slug": "hweehwewe"
+    },
+    "code": {
+      "id": "GH0622_hweehwewe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.713",
+      "lon": "-0.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_kwawu-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwawu Tafo",
+      "en": "Kwawu Tafo",
+      "slug": "kwawu-tafo"
+    },
+    "code": {
+      "id": "GH0622_kwawu-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.659",
+      "lon": "-0.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_miaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Miaso",
+      "en": "Miaso",
+      "slug": "miaso"
+    },
+    "code": {
+      "id": "GH0622_miaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.552",
+      "lon": "-0.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_nkwatia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwatia",
+      "en": "Nkwatia",
+      "slug": "nkwatia"
+    },
+    "code": {
+      "id": "GH0622_nkwatia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.627",
+      "lon": "-0.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_nkyenekyene",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkyenekyene",
+      "en": "Nkyenekyene",
+      "slug": "nkyenekyene"
+    },
+    "code": {
+      "id": "GH0622_nkyenekyene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.703",
+      "lon": "-0.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_obo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obo",
+      "en": "Obo",
+      "slug": "obo"
+    },
+    "code": {
+      "id": "GH0622_obo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.602",
+      "lon": "-0.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_obomeng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obomeng",
+      "en": "Obomeng",
+      "slug": "obomeng"
+    },
+    "code": {
+      "id": "GH0622_obomeng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.594",
+      "lon": "-0.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_oframanso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oframanso",
+      "en": "Oframanso",
+      "slug": "oframanso"
+    },
+    "code": {
+      "id": "GH0622_oframanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.6",
+      "lon": "-0.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_onyemso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Onyemso",
+      "en": "Onyemso",
+      "slug": "onyemso"
+    },
+    "code": {
+      "id": "GH0622_onyemso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.273",
+      "lon": "-0.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_pepease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pepease",
+      "en": "Pepease",
+      "slug": "pepease"
+    },
+    "code": {
+      "id": "GH0622_pepease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-0.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622_praso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Praso",
+      "en": "Praso",
+      "slug": "praso"
+    },
+    "code": {
+      "id": "GH0622_praso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0622",
+      "level": 2,
+      "name": {
+        "local": "Kwahu South",
+        "en": "Kwahu South",
+        "slug": "kwahu-south-gh0622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0622",
+        "level": 2,
+        "name": {
+          "local": "Kwahu South",
+          "en": "Kwahu South",
+          "slug": "kwahu-south-gh0622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.615",
+      "lon": "-0.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

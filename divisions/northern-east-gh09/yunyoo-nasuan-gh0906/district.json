@@ -1,0 +1,47 @@
+{
+  "id": "GH0906",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yunyoo-Nasuan",
+    "en": "Yunyoo-Nasuan",
+    "slug": "yunyoo-nasuan-gh0906"
+  },
+  "code": {
+    "id": "GH0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH09",
+    "level": 1,
+    "name": {
+      "local": "Northern East",
+      "en": "Northern East",
+      "slug": "northern-east-gh09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.434",
+    "lon": "-0.084"
+  },
+  "metadata": {},
+  "source": {}
+}

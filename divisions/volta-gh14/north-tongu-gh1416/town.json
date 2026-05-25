@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH1416_adidome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adidome",
+      "en": "Adidome",
+      "slug": "adidome"
+    },
+    "code": {
+      "id": "GH1416_adidome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.074",
+      "lon": "0.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_avedo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avedo",
+      "en": "Avedo",
+      "slug": "avedo"
+    },
+    "code": {
+      "id": "GH1416_avedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.134",
+      "lon": "0.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_battor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Battor",
+      "en": "Battor",
+      "slug": "battor"
+    },
+    "code": {
+      "id": "GH1416_battor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "0.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_dofor-adidome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dofor Adidome",
+      "en": "Dofor Adidome",
+      "slug": "dofor-adidome"
+    },
+    "code": {
+      "id": "GH1416_dofor-adidome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.119",
+      "lon": "0.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_fodzoku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fodzoku",
+      "en": "Fodzoku",
+      "slug": "fodzoku"
+    },
+    "code": {
+      "id": "GH1416_fodzoku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.162",
+      "lon": "0.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_juapong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Juapong",
+      "en": "Juapong",
+      "slug": "juapong"
+    },
+    "code": {
+      "id": "GH1416_juapong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.258",
+      "lon": "0.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_kpoviadzi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpoviadzi",
+      "en": "Kpoviadzi",
+      "slug": "kpoviadzi"
+    },
+    "code": {
+      "id": "GH1416_kpoviadzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.203",
+      "lon": "0.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_mafi-kumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mafi Kumasi",
+      "en": "Mafi Kumasi",
+      "slug": "mafi-kumasi"
+    },
+    "code": {
+      "id": "GH1416_mafi-kumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.276",
+      "lon": "0.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_mafi-sasekpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mafi Sasekpe",
+      "en": "Mafi Sasekpe",
+      "slug": "mafi-sasekpe"
+    },
+    "code": {
+      "id": "GH1416_mafi-sasekpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.272",
+      "lon": "0.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_podoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Podoe",
+      "en": "Podoe",
+      "slug": "podoe"
+    },
+    "code": {
+      "id": "GH1416_podoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.299",
+      "lon": "0.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_torgome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Torgome",
+      "en": "Torgome",
+      "slug": "torgome"
+    },
+    "code": {
+      "id": "GH1416_torgome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.117",
+      "lon": "0.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416_volo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Volo",
+      "en": "Volo",
+      "slug": "volo"
+    },
+    "code": {
+      "id": "GH1416_volo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1416",
+      "level": 2,
+      "name": {
+        "local": "North Tongu",
+        "en": "North Tongu",
+        "slug": "north-tongu-gh1416"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1416",
+        "level": 2,
+        "name": {
+          "local": "North Tongu",
+          "en": "North Tongu",
+          "slug": "north-tongu-gh1416"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "0.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

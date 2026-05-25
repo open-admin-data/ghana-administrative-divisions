@@ -1,0 +1,44 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0201,Adansi Akrofuom,Adansi Akrofuom,adansi-akrofuom-gh0201,GH0201,0,6.029,-1.673
+GH0202,Adansi Asokwa,Adansi Asokwa,adansi-asokwa-gh0202,GH0202,0,6.168,-1.437
+GH0203,Adansi North,Adansi North,adansi-north-gh0203,GH0203,11,6.3,-1.589
+GH0204,Adansi South,Adansi South,adansi-south-gh0204,GH0204,13,6.003,-1.393
+GH0205,Afigya Kwabre North,Afigya Kwabre North,afigya-kwabre-north-gh0205,GH0205,3,7.039,-1.627
+GH0206,Afigya Kwabre South,Afigya Kwabre South,afigya-kwabre-south-gh0206,GH0206,10,6.839,-1.609
+GH0207,Ahafo Ano North,Ahafo Ano North,ahafo-ano-north-gh0207,GH0207,9,6.91,-2.229
+GH0208,Ahafo Ano South East,Ahafo Ano South East,ahafo-ano-south-east-gh0208,GH0208,5,6.904,-1.888
+GH0209,Ahafo Ano South West,Ahafo Ano South West,ahafo-ano-south-west-gh0209,GH0209,15,6.896,-2.058
+GH0210,Amansie Central,Amansie Central,amansie-central-gh0210,GH0210,5,6.207,-1.829
+GH0211,Amansie South,Amansie South,amansie-south-gh0211,GH0211,0,6.307,-2.011
+GH0212,Amansie West,Amansie West,amansie-west-gh0212,GH0212,19,6.437,-1.856
+GH0213,Asante Akim Central Municipal,Asante Akim Central Municipal,asante-akim-central-municipal-gh0213,GH0213,2,6.565,-1.254
+GH0214,Asante Akim North,Asante Akim North,asante-akim-north-gh0214,GH0214,11,6.842,-0.933
+GH0215,Asante Akim South,Asante Akim South,asante-akim-south-gh0215,GH0215,11,6.462,-1.115
+GH0216,Asokore Mampong Municipal,Asokore Mampong Municipal,asokore-mampong-municipal-gh0216,GH0216,2,6.712,-1.568
+GH0217,Asokwa Municipal,Asokwa Municipal,asokwa-municipal-gh0217,GH0217,0,6.645,-1.582
+GH0218,Atwima Kwanwoma,Atwima Kwanwoma,atwima-kwanwoma-gh0218,GH0218,8,6.59,-1.712
+GH0219,Atwima Mponua,Atwima Mponua,atwima-mponua-gh0219,GH0219,11,6.555,-2.177
+GH0220,Atwima Nwabiagya North,Atwima Nwabiagya North,atwima-nwabiagya-north-gh0220,GH0220,2,6.879,-1.745
+GH0221,Atwima Nwabiagya South,Atwima Nwabiagya South,atwima-nwabiagya-south-gh0221,GH0221,0,6.689,-1.777
+GH0222,Bekwai Municipal,Bekwai Municipal,bekwai-municipal-gh0222,GH0222,11,6.438,-1.594
+GH0223,Bosome Freho,Bosome Freho,bosome-freho-gh0223,GH0223,6,6.368,-1.366
+GH0224,Bosomtwe,Bosomtwe,bosomtwe-gh0224,GH0224,13,6.558,-1.457
+GH0225,Ejisu Municipal,Ejisu Municipal,ejisu-municipal-gh0225,GH0225,2,6.614,-1.311
+GH0226,Ejura-Sekyedumase,Ejura-Sekyedumase,ejura-sekyedumase-gh0226,GH0226,8,7.385,-1.383
+GH0227,Juaben Municipal,Juaben Municipal,juaben-municipal-gh0227,GH0227,6,6.756,-1.378
+GH0228,Kumasi Metropolitan,Kumasi Metropolitan,kumasi-metropolitan-gh0228,GH0228,105,6.689,-1.625
+GH0229,Kwabre East,Kwabre East,kwabre-east-gh0229,GH0229,14,6.788,-1.539
+GH0230,Kwadaso Municipal,Kwadaso Municipal,kwadaso-municipal-gh0230,GH0230,0,6.668,-1.67
+GH0231,Mampong Municipal,Mampong Municipal,mampong-municipal-gh0231,GH0231,12,7.114,-1.424
+GH0232,Obuasi East,Obuasi East,obuasi-east-gh0232,GH0232,0,6.18,-1.605
+GH0233,Obuasi Municipal,Obuasi Municipal,obuasi-municipal-gh0233,GH0233,18,6.189,-1.692
+GH0234,Offinso Municipal,Offinso Municipal,offinso-municipal-gh0234,GH0234,8,7.058,-1.735
+GH0235,Offinso North,Offinso North,offinso-north-gh0235,GH0235,6,7.28,-1.799
+GH0236,Oforikrom Municipal,Oforikrom Municipal,oforikrom-municipal-gh0236,GH0236,8,6.676,-1.551
+GH0237,Old Tafo Municipal,Old Tafo Municipal,old-tafo-municipal-gh0237,GH0237,2,6.736,-1.599
+GH0238,Sekyere Afram Plains North,Sekyere Afram Plains North,sekyere-afram-plains-north-gh0238,GH0238,1,7.211,-0.595
+GH0239,Sekyere Central,Sekyere Central,sekyere-central-gh0239,GH0239,9,7.216,-1.101
+GH0240,Sekyere East,Sekyere East,sekyere-east-gh0240,GH0240,8,6.779,-1.299
+GH0241,Sekyere Kumawu,Sekyere Kumawu,sekyere-kumawu-gh0241,GH0241,4,6.911,-1.239
+GH0242,Sekyere South,Sekyere South,sekyere-south-gh0242,GH0242,10,6.996,-1.503
+GH0243,Suame Municipal,Suame Municipal,suame-municipal-gh0243,GH0243,1,6.736,-1.648

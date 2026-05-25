@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0624_agomanya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agomanya",
+      "en": "Agomanya",
+      "slug": "agomanya"
+    },
+    "code": {
+      "id": "GH0624_agomanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.138",
+      "lon": "0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_agormanya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agormanya",
+      "en": "Agormanya",
+      "slug": "agormanya"
+    },
+    "code": {
+      "id": "GH0624_agormanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.15",
+      "lon": "-0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_akuse",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akuse",
+      "en": "Akuse",
+      "slug": "akuse"
+    },
+    "code": {
+      "id": "GH0624_akuse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.159",
+      "lon": "-0.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_apaaso-new-senchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apaaso New Senchi",
+      "en": "Apaaso New Senchi",
+      "slug": "apaaso-new-senchi"
+    },
+    "code": {
+      "id": "GH0624_apaaso-new-senchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "0.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_atua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atua",
+      "en": "Atua",
+      "slug": "atua"
+    },
+    "code": {
+      "id": "GH0624_atua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.119",
+      "lon": "-0.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_ayipala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayipala",
+      "en": "Ayipala",
+      "slug": "ayipala"
+    },
+    "code": {
+      "id": "GH0624_ayipala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.179",
+      "lon": "0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_menekpo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Menekpo",
+      "en": "Menekpo",
+      "slug": "menekpo"
+    },
+    "code": {
+      "id": "GH0624_menekpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.123",
+      "lon": "-0.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_new-senchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Senchi",
+      "en": "New Senchi",
+      "slug": "new-senchi"
+    },
+    "code": {
+      "id": "GH0624_new-senchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "0.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_obopa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obopa",
+      "en": "Obopa",
+      "slug": "obopa"
+    },
+    "code": {
+      "id": "GH0624_obopa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.174",
+      "lon": "-0.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_odumase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odumase",
+      "en": "Odumase",
+      "slug": "odumase"
+    },
+    "code": {
+      "id": "GH0624_odumase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.138",
+      "lon": "-0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_odumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odumasi",
+      "en": "Odumasi",
+      "slug": "odumasi"
+    },
+    "code": {
+      "id": "GH0624_odumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.138",
+      "lon": "-0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_otrokper",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Otrokper",
+      "en": "Otrokper",
+      "slug": "otrokper"
+    },
+    "code": {
+      "id": "GH0624_otrokper",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.256",
+      "lon": "-0.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_senchi-fery",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Senchi Fery",
+      "en": "Senchi Fery",
+      "slug": "senchi-fery"
+    },
+    "code": {
+      "id": "GH0624_senchi-fery",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "0.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_south-senchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "South Senchi",
+      "en": "South Senchi",
+      "slug": "south-senchi"
+    },
+    "code": {
+      "id": "GH0624_south-senchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.198",
+      "lon": "0.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624_tafo-ati",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo Ati",
+      "en": "Tafo Ati",
+      "slug": "tafo-ati"
+    },
+    "code": {
+      "id": "GH0624_tafo-ati",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0624",
+      "level": 2,
+      "name": {
+        "local": "Lower Manya",
+        "en": "Lower Manya",
+        "slug": "lower-manya-gh0624"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0624",
+        "level": 2,
+        "name": {
+          "local": "Lower Manya",
+          "en": "Lower Manya",
+          "slug": "lower-manya-gh0624"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.22",
+      "lon": "-0.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

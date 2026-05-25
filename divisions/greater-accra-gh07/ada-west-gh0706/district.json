@@ -1,0 +1,47 @@
+{
+  "id": "GH0706",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ada West",
+    "en": "Ada West",
+    "slug": "ada-west-gh0706"
+  },
+  "code": {
+    "id": "GH0706",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.893",
+    "lon": "0.422"
+  },
+  "metadata": {},
+  "source": {}
+}

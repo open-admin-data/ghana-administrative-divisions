@@ -1,0 +1,47 @@
+{
+  "id": "GH0713",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ga Central Municipal",
+    "en": "Ga Central Municipal",
+    "slug": "ga-central-municipal-gh0713"
+  },
+  "code": {
+    "id": "GH0713",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.616",
+    "lon": "-0.307"
+  },
+  "metadata": {},
+  "source": {}
+}

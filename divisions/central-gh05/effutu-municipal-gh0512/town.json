@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0512_winneba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Winneba",
+      "en": "Winneba",
+      "slug": "winneba"
+    },
+    "code": {
+      "id": "GH0512_winneba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0512",
+      "level": 2,
+      "name": {
+        "local": "Effutu Municipal",
+        "en": "Effutu Municipal",
+        "slug": "effutu-municipal-gh0512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0512",
+        "level": 2,
+        "name": {
+          "local": "Effutu Municipal",
+          "en": "Effutu Municipal",
+          "slug": "effutu-municipal-gh0512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.338",
+      "lon": "-0.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

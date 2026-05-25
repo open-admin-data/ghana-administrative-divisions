@@ -1,0 +1,47 @@
+{
+  "id": "GH1203",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Binduri",
+    "en": "Binduri",
+    "slug": "binduri-gh1203"
+  },
+  "code": {
+    "id": "GH1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.946",
+    "lon": "-0.302"
+  },
+  "metadata": {},
+  "source": {}
+}

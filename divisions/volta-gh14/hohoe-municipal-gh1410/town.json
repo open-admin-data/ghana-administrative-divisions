@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "GH1410_akpafu-adorkor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akpafu Adorkor",
+      "en": "Akpafu Adorkor",
+      "slug": "akpafu-adorkor"
+    },
+    "code": {
+      "id": "GH1410_akpafu-adorkor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.281",
+      "lon": "0.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_akpafu-mempeasem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akpafu Mempeasem",
+      "en": "Akpafu Mempeasem",
+      "slug": "akpafu-mempeasem"
+    },
+    "code": {
+      "id": "GH1410_akpafu-mempeasem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.25",
+      "lon": "0.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_akpafu-odomi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akpafu Odomi",
+      "en": "Akpafu Odomi",
+      "slug": "akpafu-odomi"
+    },
+    "code": {
+      "id": "GH1410_akpafu-odomi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.276",
+      "lon": "0.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_alavanyo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Alavanyo",
+      "en": "Alavanyo",
+      "slug": "alavanyo"
+    },
+    "code": {
+      "id": "GH1410_alavanyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.12",
+      "lon": "0.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_fodome-ahor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fodome Ahor",
+      "en": "Fodome Ahor",
+      "slug": "fodome-ahor"
+    },
+    "code": {
+      "id": "GH1410_fodome-ahor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.084",
+      "lon": "0.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_fodome-helu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fodome Helu",
+      "en": "Fodome Helu",
+      "slug": "fodome-helu"
+    },
+    "code": {
+      "id": "GH1410_fodome-helu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.074",
+      "lon": "0.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_fodome-woe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fodome Woe",
+      "en": "Fodome Woe",
+      "slug": "fodome-woe"
+    },
+    "code": {
+      "id": "GH1410_fodome-woe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.07",
+      "lon": "0.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_gbi-wegbe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbi Wegbe",
+      "en": "Gbi Wegbe",
+      "slug": "gbi-wegbe"
+    },
+    "code": {
+      "id": "GH1410_gbi-wegbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.111",
+      "lon": "0.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_gbledi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbledi",
+      "en": "Gbledi",
+      "slug": "gbledi"
+    },
+    "code": {
+      "id": "GH1410_gbledi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.032",
+      "lon": "0.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_goviefe-agodome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goviefe Agodome",
+      "en": "Goviefe Agodome",
+      "slug": "goviefe-agodome"
+    },
+    "code": {
+      "id": "GH1410_goviefe-agodome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.715",
+      "lon": "0.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_hohoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hohoe",
+      "en": "Hohoe",
+      "slug": "hohoe"
+    },
+    "code": {
+      "id": "GH1410_hohoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.158",
+      "lon": "0.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_leklebi-duga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Leklebi  Duga",
+      "en": "Leklebi  Duga",
+      "slug": "leklebi-duga"
+    },
+    "code": {
+      "id": "GH1410_leklebi-duga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.96",
+      "lon": "0.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_leklebi-kame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Leklebi Kame",
+      "en": "Leklebi Kame",
+      "slug": "leklebi-kame"
+    },
+    "code": {
+      "id": "GH1410_leklebi-kame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.968",
+      "lon": "0.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_liati-wote",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Liati Wote",
+      "en": "Liati Wote",
+      "slug": "liati-wote"
+    },
+    "code": {
+      "id": "GH1410_liati-wote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.021",
+      "lon": "0.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_likpe-abrani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Likpe Abrani",
+      "en": "Likpe Abrani",
+      "slug": "likpe-abrani"
+    },
+    "code": {
+      "id": "GH1410_likpe-abrani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.248",
+      "lon": "0.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_likpe-bakwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Likpe Bakwa",
+      "en": "Likpe Bakwa",
+      "slug": "likpe-bakwa"
+    },
+    "code": {
+      "id": "GH1410_likpe-bakwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.163",
+      "lon": "0.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_likpe-bala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Likpe Bala",
+      "en": "Likpe Bala",
+      "slug": "likpe-bala"
+    },
+    "code": {
+      "id": "GH1410_likpe-bala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.203",
+      "lon": "0.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_likpe-kukurntumi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Likpe Kukurntumi",
+      "en": "Likpe Kukurntumi",
+      "slug": "likpe-kukurntumi"
+    },
+    "code": {
+      "id": "GH1410_likpe-kukurntumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.262",
+      "lon": "0.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_logba-alakpeti",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Logba Alakpeti",
+      "en": "Logba Alakpeti",
+      "slug": "logba-alakpeti"
+    },
+    "code": {
+      "id": "GH1410_logba-alakpeti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.89",
+      "lon": "0.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_logba-tota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Logba Tota",
+      "en": "Logba Tota",
+      "slug": "logba-tota"
+    },
+    "code": {
+      "id": "GH1410_logba-tota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.89",
+      "lon": "0.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_logba-vuinta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Logba Vuinta",
+      "en": "Logba Vuinta",
+      "slug": "logba-vuinta"
+    },
+    "code": {
+      "id": "GH1410_logba-vuinta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.923",
+      "lon": "0.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_lolobi-kumase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lolobi Kumase",
+      "en": "Lolobi Kumase",
+      "slug": "lolobi-kumase"
+    },
+    "code": {
+      "id": "GH1410_lolobi-kumase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.219",
+      "lon": "0.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_nyagbo-gagbefe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyagbo Gagbefe",
+      "en": "Nyagbo Gagbefe",
+      "slug": "nyagbo-gagbefe"
+    },
+    "code": {
+      "id": "GH1410_nyagbo-gagbefe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.819",
+      "lon": "0.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_nyangbo-sroe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyangbo Sroe",
+      "en": "Nyangbo Sroe",
+      "slug": "nyangbo-sroe"
+    },
+    "code": {
+      "id": "GH1410_nyangbo-sroe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.774",
+      "lon": "0.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_santrokofi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Santrokofi",
+      "en": "Santrokofi",
+      "slug": "santrokofi"
+    },
+    "code": {
+      "id": "GH1410_santrokofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.215",
+      "lon": "0.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_soba-liati",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Soba Liati",
+      "en": "Soba Liati",
+      "slug": "soba-liati"
+    },
+    "code": {
+      "id": "GH1410_soba-liati",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.01",
+      "lon": "0.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_tafi-agoeme",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafi Agoeme",
+      "en": "Tafi Agoeme",
+      "slug": "tafi-agoeme"
+    },
+    "code": {
+      "id": "GH1410_tafi-agoeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.849",
+      "lon": "0.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_ve-golokwati",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ve Golokwati",
+      "en": "Ve Golokwati",
+      "slug": "ve-golokwati"
+    },
+    "code": {
+      "id": "GH1410_ve-golokwati",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "0.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_ve-hoeme",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ve Hoeme",
+      "en": "Ve Hoeme",
+      "slug": "ve-hoeme"
+    },
+    "code": {
+      "id": "GH1410_ve-hoeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.958",
+      "lon": "0.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_ve-koloenu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ve Koloenu",
+      "en": "Ve Koloenu",
+      "slug": "ve-koloenu"
+    },
+    "code": {
+      "id": "GH1410_ve-koloenu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.045",
+      "lon": "0.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410_wli-afegame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wli Afegame",
+      "en": "Wli Afegame",
+      "slug": "wli-afegame"
+    },
+    "code": {
+      "id": "GH1410_wli-afegame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1410",
+      "level": 2,
+      "name": {
+        "local": "Hohoe Municipal",
+        "en": "Hohoe Municipal",
+        "slug": "hohoe-municipal-gh1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1410",
+        "level": 2,
+        "name": {
+          "local": "Hohoe Municipal",
+          "en": "Hohoe Municipal",
+          "slug": "hohoe-municipal-gh1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.116",
+      "lon": "0.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

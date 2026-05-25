@@ -1,0 +1,47 @@
+{
+  "id": "GH0808",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nanumba South",
+    "en": "Nanumba South",
+    "slug": "nanumba-south-gh0808"
+  },
+  "code": {
+    "id": "GH0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.767",
+    "lon": "0.055"
+  },
+  "metadata": {},
+  "source": {}
+}

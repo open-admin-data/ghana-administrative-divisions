@@ -1,0 +1,47 @@
+{
+  "id": "GH0511",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cape Coast Metropolitan",
+    "en": "Cape Coast Metropolitan",
+    "slug": "cape-coast-metropolitan-gh0511"
+  },
+  "code": {
+    "id": "GH0511",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.176",
+    "lon": "-1.312"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH1004",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krachi East Municipal",
+    "en": "Krachi East Municipal",
+    "slug": "krachi-east-municipal-gh1004"
+  },
+  "code": {
+    "id": "GH1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.805",
+    "lon": "0.264"
+  },
+  "metadata": {},
+  "source": {}
+}

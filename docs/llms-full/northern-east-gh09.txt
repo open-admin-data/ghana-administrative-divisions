@@ -1,0 +1,163 @@
+# Northern East — Ghana Administrative Divisions
+
+> 6 districts, 31 towns
+> Code: GH09
+> Coordinates: 10.321, -0.856
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Bunkpurugu Nakpanduri
+
+Code: GH0901, Coordinates: 10.509, 0.043
+Towns: 2
+
+#### Binde
+
+Code: GH0901_binde, Coordinates: 10.566, -0.029
+
+#### Yunyoo
+
+Code: GH0901_yunyoo, Coordinates: 10.481, -0.016
+
+### Chereponi
+
+Code: GH0902, Coordinates: 10.179, 0.207
+Towns: 4
+
+#### Bunburika
+
+Code: GH0902_bunburika, Coordinates: 10.401, 0.254
+
+#### Chereponi
+
+Code: GH0902_chereponi, Coordinates: 10.131, 0.287
+
+#### Wanjuga
+
+Code: GH0902_wanjuga, Coordinates: 10.216, 0.33
+
+#### Wenchiki
+
+Code: GH0902_wenchiki, Coordinates: 10.273, 0.208
+
+### East Mamprusi
+
+Code: GH0903, Coordinates: 10.453, -0.432
+Towns: 7
+
+#### Gambaga
+
+Code: GH0903_gambaga, Coordinates: 10.528, -0.44
+
+#### Gbingbani
+
+Code: GH0903_gbingbani, Coordinates: 10.387, -0.184
+
+#### Gbintiri
+
+Code: GH0903_gbintiri, Coordinates: 10.281, -0.12
+
+#### Langbinsi
+
+Code: GH0903_langbinsi, Coordinates: 10.407, -0.56
+
+#### Nalerigu
+
+Code: GH0903_nalerigu, Coordinates: 10.52, -0.366
+
+#### Sakogu
+
+Code: GH0903_sakogu, Coordinates: 10.576, -0.278
+
+#### Wundua
+
+Code: GH0903_wundua, Coordinates: 10.334, -0.534
+
+### Mamprugu Moagduri
+
+Code: GH0904, Coordinates: 10.258, -1.318
+Towns: 1
+
+#### Gbedembilisi
+
+Code: GH0904_gbedembilisi, Coordinates: 10.327, -1.247
+
+### West Mamprusi Municipal
+
+Code: GH0905, Coordinates: 10.298, -0.765
+Towns: 14
+
+#### Gbeo
+
+Code: GH0905_gbeo, Coordinates: 10.37, -0.803
+
+#### Janga
+
+Code: GH0905_janga, Coordinates: 10.028, -0.975
+
+#### Kparigu
+
+Code: GH0905_kparigu, Coordinates: 10.3, -0.635
+
+#### Kpesenkpe
+
+Code: GH0905_kpesenkpe, Coordinates: 10.447, -1.047
+
+#### Kubori
+
+Code: GH0905_kubori, Coordinates: 10.147, -1.296
+
+#### Loagri
+
+Code: GH0905_loagri, Coordinates: 10.277, -0.828
+
+#### Nasia
+
+Code: GH0905_nasia, Coordinates: 10.158, -0.805
+
+#### Walewale
+
+Code: GH0905_walewale, Coordinates: 10.36, -0.797
+
+#### West Mamprusi
+
+Code: GH0905_west-mamprusi, Coordinates: 10.363, -0.797
+
+#### Wulugu
+
+Code: GH0905_wulugu, Coordinates: 10.618, -0.809
+
+#### Yagaba
+
+Code: GH0905_yagaba, Coordinates: 10.23, -1.286
+
+#### Yama
+
+Code: GH0905_yama, Coordinates: 10.339, -1.021
+
+#### Yikpabongo
+
+Code: GH0905_yikpabongo, Coordinates: 10.245, -1.568
+
+#### Yizesi
+
+Code: GH0905_yizesi, Coordinates: 10.284, -1.437
+
+### Yunyoo-Nasuan
+
+Code: GH0906, Coordinates: 10.434, -0.084
+Towns: 3
+
+#### Bunkpurugu
+
+Code: GH0906_bunkpurugu, Coordinates: 10.522, -0.089
+
+#### Gimbale
+
+Code: GH0906_gimbale, Coordinates: 10.455, -0.011
+
+#### Nasuan
+
+Code: GH0906_nasuan, Coordinates: 10.513, -0.166
+

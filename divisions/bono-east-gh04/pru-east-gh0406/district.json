@@ -1,0 +1,47 @@
+{
+  "id": "GH0406",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pru East",
+    "en": "Pru East",
+    "slug": "pru-east-gh0406"
+  },
+  "code": {
+    "id": "GH0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH04",
+    "level": 1,
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.137",
+    "lon": "-0.812"
+  },
+  "metadata": {},
+  "source": {}
+}

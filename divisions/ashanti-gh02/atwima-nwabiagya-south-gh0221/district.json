@@ -1,0 +1,47 @@
+{
+  "id": "GH0221",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Atwima Nwabiagya South",
+    "en": "Atwima Nwabiagya South",
+    "slug": "atwima-nwabiagya-south-gh0221"
+  },
+  "code": {
+    "id": "GH0221",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.689",
+    "lon": "-1.777"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0304",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dormaa East",
+    "en": "Dormaa East",
+    "slug": "dormaa-east-gh0304"
+  },
+  "code": {
+    "id": "GH0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.264",
+    "lon": "-2.64"
+  },
+  "metadata": {},
+  "source": {}
+}

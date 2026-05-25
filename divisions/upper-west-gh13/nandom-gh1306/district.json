@@ -1,0 +1,47 @@
+{
+  "id": "GH1306",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nandom",
+    "en": "Nandom",
+    "slug": "nandom-gh1306"
+  },
+  "code": {
+    "id": "GH1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.867",
+    "lon": "-2.8"
+  },
+  "metadata": {},
+  "source": {}
+}

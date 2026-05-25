@@ -1,0 +1,47 @@
+{
+  "id": "GH0815",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yendi Municipal",
+    "en": "Yendi Municipal",
+    "slug": "yendi-municipal-gh0815"
+  },
+  "code": {
+    "id": "GH0815",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.472",
+    "lon": "0.022"
+  },
+  "metadata": {},
+  "source": {}
+}

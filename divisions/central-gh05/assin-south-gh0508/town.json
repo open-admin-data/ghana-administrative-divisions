@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0508_anyinabrim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinabrim",
+      "en": "Anyinabrim",
+      "slug": "anyinabrim"
+    },
+    "code": {
+      "id": "GH0508_anyinabrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.609",
+      "lon": "-1.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_assin-ongwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Assin Ongwa",
+      "en": "Assin Ongwa",
+      "slug": "assin-ongwa"
+    },
+    "code": {
+      "id": "GH0508_assin-ongwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.68",
+      "lon": "-1.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_jakai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jakai",
+      "en": "Jakai",
+      "slug": "jakai"
+    },
+    "code": {
+      "id": "GH0508_jakai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.404",
+      "lon": "-1.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_kyekyewere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kyekyewere",
+      "en": "Kyekyewere",
+      "slug": "kyekyewere"
+    },
+    "code": {
+      "id": "GH0508_kyekyewere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.462",
+      "lon": "-1.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_manso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso",
+      "en": "Manso",
+      "slug": "manso"
+    },
+    "code": {
+      "id": "GH0508_manso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.524",
+      "lon": "-1.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_nsuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuta",
+      "en": "Nsuta",
+      "slug": "nsuta"
+    },
+    "code": {
+      "id": "GH0508_nsuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.628",
+      "lon": "-1.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508_nyaokumasi-ahenkro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyaokumasi Ahenkro",
+      "en": "Nyaokumasi Ahenkro",
+      "slug": "nyaokumasi-ahenkro"
+    },
+    "code": {
+      "id": "GH0508_nyaokumasi-ahenkro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0508",
+      "level": 2,
+      "name": {
+        "local": "Assin South",
+        "en": "Assin South",
+        "slug": "assin-south-gh0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0508",
+        "level": 2,
+        "name": {
+          "local": "Assin South",
+          "en": "Assin South",
+          "slug": "assin-south-gh0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.383",
+      "lon": "-1.149"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

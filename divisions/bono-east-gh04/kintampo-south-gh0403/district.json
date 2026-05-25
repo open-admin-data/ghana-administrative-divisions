@@ -1,0 +1,47 @@
+{
+  "id": "GH0403",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kintampo South",
+    "en": "Kintampo South",
+    "slug": "kintampo-south-gh0403"
+  },
+  "code": {
+    "id": "GH0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH04",
+    "level": 1,
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.942",
+    "lon": "-1.734"
+  },
+  "metadata": {},
+  "source": {}
+}

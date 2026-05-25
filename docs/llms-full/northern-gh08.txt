@@ -1,0 +1,461 @@
+# Northern — Ghana Administrative Divisions
+
+> 16 districts, 93 towns
+> Code: GH08
+> Coordinates: 9.279, 0.003
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Gushegu
+
+Code: GH0801, Coordinates: 9.923, -0.145
+Towns: 5
+
+#### Galwei
+
+Code: GH0801_galwei, Coordinates: 9.621, -0.439
+
+#### Gushegu
+
+Code: GH0801_gushegu, Coordinates: 9.928, -0.215
+
+#### Katani
+
+Code: GH0801_katani, Coordinates: 10.162, -0.085
+
+#### Kpatinga
+
+Code: GH0801_kpatinga, Coordinates: 9.767, -0.268
+
+#### Zinindo
+
+Code: GH0801_zinindo, Coordinates: 9.622, -0.568
+
+### Karaga
+
+Code: GH0802, Coordinates: 9.917, -0.536
+Towns: 3
+
+#### Karaga
+
+Code: GH0802_karaga, Coordinates: 9.916, -0.432
+
+#### Nyong
+
+Code: GH0802_nyong, Coordinates: 9.883, -0.626
+
+#### Pishegu
+
+Code: GH0802_pishegu, Coordinates: 9.967, -0.647
+
+### Kpandai
+
+Code: GH0803, Coordinates: 8.387, -0.065
+Towns: 0
+
+### Kumbungu
+
+Code: GH0804, Coordinates: 9.797, -1.061
+Towns: 3
+
+#### Dalun
+
+Code: GH0804_dalun, Coordinates: 9.63, -1.009
+
+#### Kpendua
+
+Code: GH0804_kpendua, Coordinates: 9.733, -1.064
+
+#### Singa
+
+Code: GH0804_singa, Coordinates: 9.731, -1.063
+
+### Mion
+
+Code: GH0805, Coordinates: 9.453, -0.335
+Towns: 0
+
+### Nanton
+
+Code: GH0806, Coordinates: 9.561, -0.71
+Towns: 5
+
+#### Janjori
+
+Code: GH0806_janjori, Coordinates: 9.653, -0.694
+
+#### Nanton
+
+Code: GH0806_nanton, Coordinates: 9.546, -0.734
+
+#### Pong Tamale
+
+Code: GH0806_pong-tamale, Coordinates: 9.682, -0.834
+
+#### Savelugu
+
+Code: GH0806_savelugu, Coordinates: 9.619, -0.829
+
+#### Zoggu
+
+Code: GH0806_zoggu, Coordinates: 9.667, -0.716
+
+### Nanumba North
+
+Code: GH0807, Coordinates: 8.922, -0.138
+Towns: 6
+
+#### Bimbilla
+
+Code: GH0807_bimbilla, Coordinates: 8.858, -0.056
+
+#### Binchera
+
+Code: GH0807_binchera, Coordinates: 9.113, -0.001
+
+#### Chamba
+
+Code: GH0807_chamba, Coordinates: 8.694, -0.14
+
+#### Juo
+
+Code: GH0807_juo, Coordinates: 9.022, -0.076
+
+#### Lanja
+
+Code: GH0807_lanja, Coordinates: 9.177, -0.018
+
+#### Makayili
+
+Code: GH0807_makayili, Coordinates: 9.001, -0.017
+
+### Nanumba South
+
+Code: GH0808, Coordinates: 8.767, 0.055
+Towns: 6
+
+#### Kukuo
+
+Code: GH0808_kukuo, Coordinates: 8.848, 0.157
+
+#### Lungni
+
+Code: GH0808_lungni, Coordinates: 8.558, -0.003
+
+#### Nakpayili
+
+Code: GH0808_nakpayili, Coordinates: 8.76, 0.054
+
+#### Pudua
+
+Code: GH0808_pudua, Coordinates: 8.87, 0.275
+
+#### Welensi
+
+Code: GH0808_welensi, Coordinates: 8.656, 0.003
+
+#### Wulensi
+
+Code: GH0808_wulensi, Coordinates: 8.656, 0.003
+
+### Saboba
+
+Code: GH0809, Coordinates: 9.709, 0.196
+Towns: 6
+
+#### Garinkuka
+
+Code: GH0809_garinkuka, Coordinates: 9.742, 0.134
+
+#### Gbangbanpong
+
+Code: GH0809_gbangbanpong, Coordinates: 9.851, 0.304
+
+#### Kpalba
+
+Code: GH0809_kpalba, Coordinates: 9.536, 0.226
+
+#### Saboba
+
+Code: GH0809_saboba, Coordinates: 9.71, 0.319
+
+#### Sambuli
+
+Code: GH0809_sambuli, Coordinates: 9.599, 0.277
+
+#### Wapuli
+
+Code: GH0809_wapuli, Coordinates: 9.74, 0.105
+
+### Sagnerigu
+
+Code: GH0810, Coordinates: 9.487, -0.855
+Towns: 7
+
+#### Bontanga
+
+Code: GH0810_bontanga, Coordinates: 9.527, -0.947
+
+#### Cheshegu
+
+Code: GH0810_cheshegu, Coordinates: 9.456, -0.955
+
+#### Gbulun
+
+Code: GH0810_gbulun, Coordinates: 9.49, -1.012
+
+#### Kpiliyin
+
+Code: GH0810_kpiliyin, Coordinates: 9.542, -0.887
+
+#### Kunbungu
+
+Code: GH0810_kunbungu, Coordinates: 9.549, -0.942
+
+#### Moglaa
+
+Code: GH0810_moglaa, Coordinates: 9.593, -0.873
+
+#### Nyankpala
+
+Code: GH0810_nyankpala, Coordinates: 9.404, -0.986
+
+### Savelugu
+
+Code: GH0811, Coordinates: 9.866, -0.902
+Towns: 3
+
+#### Diare
+
+Code: GH0811_diare, Coordinates: 9.875, -0.876
+
+#### Pigu
+
+Code: GH0811_pigu, Coordinates: 9.98, -0.824
+
+#### Tampion
+
+Code: GH0811_tampion, Coordinates: 9.835, -0.78
+
+### Tamale Metropolitan
+
+Code: GH0812, Coordinates: 9.385, -0.743
+Towns: 27
+
+#### Agric
+
+Code: GH0812_agric, Coordinates: 9.435, -0.842
+
+#### Bagabaga
+
+Code: GH0812_bagabaga, Coordinates: 9.422, -0.869
+
+#### Bulpela
+
+Code: GH0812_bulpela, Coordinates: 9.389, -0.842
+
+#### Changli
+
+Code: GH0812_changli, Coordinates: 9.243, -0.502
+
+#### Choggu
+
+Code: GH0812_choggu, Coordinates: 9.425, -0.85
+
+#### Choggu Yapalsi
+
+Code: GH0812_choggu-yapalsi, Coordinates: 9.432, -0.861
+
+#### Gariziegu
+
+Code: GH0812_gariziegu, Coordinates: 9.398, -0.831
+
+#### Gurugu
+
+Code: GH0812_gurugu, Coordinates: 9.455, -0.871
+
+#### Industrial Area
+
+Code: GH0812_industrial-area, Coordinates: 9.392, -0.861
+
+#### Jusonayilli
+
+Code: GH0812_jusonayilli, Coordinates: 9.448, -0.849
+
+#### Kalpohini
+
+Code: GH0812_kalpohini, Coordinates: 9.417, -0.828
+
+#### Kamina
+
+Code: GH0812_kamina, Coordinates: 9.539, -0.852
+
+#### Kotingli
+
+Code: GH0812_kotingli, Coordinates: 9.34, -0.792
+
+#### Kpanvo
+
+Code: GH0812_kpanvo, Coordinates: 9.371, -0.828
+
+#### Lahagu
+
+Code: GH0812_lahagu, Coordinates: 9.33, -0.729
+
+#### Lamashegu
+
+Code: GH0812_lamashegu, Coordinates: 9.392, -0.349
+
+#### Ministries
+
+Code: GH0812_ministries, Coordinates: 9.242, -0.502
+
+#### Nyohini
+
+Code: GH0812_nyohini, Coordinates: 9.401, -0.868
+
+#### Rivoly
+
+Code: GH0812_rivoly, Coordinates: 9.407, -0.841
+
+#### Sabonjida
+
+Code: GH0812_sabonjida, Coordinates: 9.399, -0.844
+
+#### Sangani
+
+Code: GH0812_sangani, Coordinates: 9.417, -0.836
+
+#### Tamale
+
+Code: GH0812_tamale, Coordinates: 9.4, -0.832
+
+#### Tamale Central
+
+Code: GH0812_tamale-central, Coordinates: 9.401, -0.831
+
+#### Vitting/Dabogbh
+
+Code: GH0812_vittingdabogbh, Coordinates: 9.383, -0.797
+
+#### Zagyuri
+
+Code: GH0812_zagyuri, Coordinates: 9.46, -0.844
+
+#### Zobogu
+
+Code: GH0812_zobogu, Coordinates: 9.242, -0.501
+
+#### Zogyele
+
+Code: GH0812_zogyele, Coordinates: 9.4, -0.85
+
+### Tatale Sanguli
+
+Code: GH0813, Coordinates: 9.142, 0.456
+Towns: 4
+
+#### Kandin
+
+Code: GH0813_kandin, Coordinates: 9.2, 0.453
+
+#### Kpalbutabu
+
+Code: GH0813_kpalbutabu, Coordinates: 9.406, 0.429
+
+#### Tatale
+
+Code: GH0813_tatale, Coordinates: 9.364, 0.53
+
+#### Zabzugu
+
+Code: GH0813_zabzugu, Coordinates: 9.296, 0.377
+
+### Tolon
+
+Code: GH0814, Coordinates: 9.556, -1.198
+Towns: 4
+
+#### Lingbinga
+
+Code: GH0814_lingbinga, Coordinates: 9.644, -1.21
+
+#### Tolon
+
+Code: GH0814_tolon, Coordinates: 9.432, -1.056
+
+#### Tonlon
+
+Code: GH0814_tonlon, Coordinates: 9.427, -1.052
+
+#### Wantugu
+
+Code: GH0814_wantugu, Coordinates: 9.514, -1.147
+
+### Yendi Municipal
+
+Code: GH0815, Coordinates: 9.472, 0.022
+Towns: 10
+
+#### Adibo
+
+Code: GH0815_adibo, Coordinates: 9.307, -0.016
+
+#### Balogu  East
+
+Code: GH0815_balogu-east, Coordinates: 9.463, -0.009
+
+#### Bunbon
+
+Code: GH0815_bunbon, Coordinates: 9.701, -0.099
+
+#### Dabogni
+
+Code: GH0815_dabogni, Coordinates: 9.208, -0.183
+
+#### Jimle
+
+Code: GH0815_jimle, Coordinates: 9.4, -0.483
+
+#### Kuni
+
+Code: GH0815_kuni, Coordinates: 9.246, -0.167
+
+#### Nyani
+
+Code: GH0815_nyani, Coordinates: 9.356, -0.197
+
+#### Sang
+
+Code: GH0815_sang, Coordinates: 9.419, -0.277
+
+#### Sunsong
+
+Code: GH0815_sunsong, Coordinates: 9.597, -0.015
+
+#### Yendi
+
+Code: GH0815_yendi, Coordinates: 9.446, -0.004
+
+### Zabzugu
+
+Code: GH0816, Coordinates: 9.091, 0.308
+Towns: 4
+
+#### Kukpalgu
+
+Code: GH0816_kukpalgu, Coordinates: 9.181, 0.316
+
+#### Nakpale
+
+Code: GH0816_nakpale, Coordinates: 8.979, 0.322
+
+#### Sabare
+
+Code: GH0816_sabare, Coordinates: 9.278, 0.263
+
+#### Woriborgu
+
+Code: GH0816_woriborgu, Coordinates: 9.053, 0.253
+

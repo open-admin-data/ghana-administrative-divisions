@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0309_abesim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abesim",
+      "en": "Abesim",
+      "slug": "abesim"
+    },
+    "code": {
+      "id": "GH0309_abesim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.288",
+      "lon": "-2.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_antwtkrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Antwtkrom",
+      "en": "Antwtkrom",
+      "slug": "antwtkrom"
+    },
+    "code": {
+      "id": "GH0309_antwtkrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.22",
+      "lon": "-2.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_atuahenekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atuahenekrom",
+      "en": "Atuahenekrom",
+      "slug": "atuahenekrom"
+    },
+    "code": {
+      "id": "GH0309_atuahenekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.112",
+      "lon": "-2.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_berekum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Berekum",
+      "en": "Berekum",
+      "slug": "berekum"
+    },
+    "code": {
+      "id": "GH0309_berekum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.461",
+      "lon": "-2.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_bofourkrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bofourkrom",
+      "en": "Bofourkrom",
+      "slug": "bofourkrom"
+    },
+    "code": {
+      "id": "GH0309_bofourkrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.546",
+      "lon": "-2.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_chiraa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chiraa",
+      "en": "Chiraa",
+      "slug": "chiraa"
+    },
+    "code": {
+      "id": "GH0309_chiraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.241",
+      "lon": "-2.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_fiapre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fiapre",
+      "en": "Fiapre",
+      "slug": "fiapre"
+    },
+    "code": {
+      "id": "GH0309_fiapre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.363",
+      "lon": "-0.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_kofibadukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofibadukrom",
+      "en": "Kofibadukrom",
+      "slug": "kofibadukrom"
+    },
+    "code": {
+      "id": "GH0309_kofibadukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.293",
+      "lon": "-2.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_kwatire",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwatire",
+      "en": "Kwatire",
+      "slug": "kwatire"
+    },
+    "code": {
+      "id": "GH0309_kwatire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.385",
+      "lon": "-2.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_nsoatre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsoatre",
+      "en": "Nsoatre",
+      "slug": "nsoatre"
+    },
+    "code": {
+      "id": "GH0309_nsoatre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.406",
+      "lon": "-2.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_odumase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odumase",
+      "en": "Odumase",
+      "slug": "odumase"
+    },
+    "code": {
+      "id": "GH0309_odumase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.382",
+      "lon": "-2.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_suniyani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Suniyani",
+      "en": "Suniyani",
+      "slug": "suniyani"
+    },
+    "code": {
+      "id": "GH0309_suniyani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.317",
+      "lon": "-2.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_sunyani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sunyani",
+      "en": "Sunyani",
+      "slug": "sunyani"
+    },
+    "code": {
+      "id": "GH0309_sunyani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.337",
+      "lon": "-2.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_sunyani-barracks",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sunyani-Barracks",
+      "en": "Sunyani-Barracks",
+      "slug": "sunyani-barracks"
+    },
+    "code": {
+      "id": "GH0309_sunyani-barracks",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.342",
+      "lon": "-2.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309_sunyani-penkwasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sunyani-Penkwasi",
+      "en": "Sunyani-Penkwasi",
+      "slug": "sunyani-penkwasi"
+    },
+    "code": {
+      "id": "GH0309_sunyani-penkwasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0309",
+      "level": 2,
+      "name": {
+        "local": "Sunyani Municipal",
+        "en": "Sunyani Municipal",
+        "slug": "sunyani-municipal-gh0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0309",
+        "level": 2,
+        "name": {
+          "local": "Sunyani Municipal",
+          "en": "Sunyani Municipal",
+          "slug": "sunyani-municipal-gh0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "-2.324"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

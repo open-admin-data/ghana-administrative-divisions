@@ -1,0 +1,47 @@
+{
+  "id": "GH1102",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Gonja",
+    "en": "Central Gonja",
+    "slug": "central-gonja-gh1102"
+  },
+  "code": {
+    "id": "GH1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH11",
+    "level": 1,
+    "name": {
+      "local": "Savannah",
+      "en": "Savannah",
+      "slug": "savannah-gh11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.941",
+    "lon": "-1.106"
+  },
+  "metadata": {},
+  "source": {}
+}

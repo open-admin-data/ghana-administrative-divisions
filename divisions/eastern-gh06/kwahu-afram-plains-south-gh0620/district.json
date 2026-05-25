@@ -1,0 +1,47 @@
+{
+  "id": "GH0620",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kwahu Afram Plains South",
+    "en": "Kwahu Afram Plains South",
+    "slug": "kwahu-afram-plains-south-gh0620"
+  },
+  "code": {
+    "id": "GH0620",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.877",
+    "lon": "-0.461"
+  },
+  "metadata": {},
+  "source": {}
+}

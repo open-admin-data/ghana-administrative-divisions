@@ -1,0 +1,47 @@
+{
+  "id": "GH1407",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Tongu",
+    "en": "Central Tongu",
+    "slug": "central-tongu-gh1407"
+  },
+  "code": {
+    "id": "GH1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.165",
+    "lon": "0.611"
+  },
+  "metadata": {},
+  "source": {}
+}

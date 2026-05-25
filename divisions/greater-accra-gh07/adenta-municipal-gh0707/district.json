@@ -1,0 +1,47 @@
+{
+  "id": "GH0707",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adenta Municipal",
+    "en": "Adenta Municipal",
+    "slug": "adenta-municipal-gh0707"
+  },
+  "code": {
+    "id": "GH0707",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.713",
+    "lon": "-0.146"
+  },
+  "metadata": {},
+  "source": {}
+}

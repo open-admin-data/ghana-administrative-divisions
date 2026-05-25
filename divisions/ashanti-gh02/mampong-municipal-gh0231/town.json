@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH0231_adidwan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adidwan",
+      "en": "Adidwan",
+      "slug": "adidwan"
+    },
+    "code": {
+      "id": "GH0231_adidwan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.252",
+      "lon": "-1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_anyinasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinasu",
+      "en": "Anyinasu",
+      "slug": "anyinasu"
+    },
+    "code": {
+      "id": "GH0231_anyinasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.226",
+      "lon": "-1.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_apaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apaa",
+      "en": "Apaa",
+      "slug": "apaa"
+    },
+    "code": {
+      "id": "GH0231_apaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.955",
+      "lon": "-1.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_asaam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asaam",
+      "en": "Asaam",
+      "slug": "asaam"
+    },
+    "code": {
+      "id": "GH0231_asaam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.117",
+      "lon": "-1.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_benim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Benim",
+      "en": "Benim",
+      "slug": "benim"
+    },
+    "code": {
+      "id": "GH0231_benim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.091",
+      "lon": "-1.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_birem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Birem",
+      "en": "Birem",
+      "slug": "birem"
+    },
+    "code": {
+      "id": "GH0231_birem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.227",
+      "lon": "-0.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_kofiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofiase",
+      "en": "Kofiase",
+      "slug": "kofiase"
+    },
+    "code": {
+      "id": "GH0231_kofiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.141",
+      "lon": "-1.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_krobo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Krobo",
+      "en": "Krobo",
+      "slug": "krobo"
+    },
+    "code": {
+      "id": "GH0231_krobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.075",
+      "lon": "-1.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_kumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumasi",
+      "en": "Kumasi",
+      "slug": "kumasi"
+    },
+    "code": {
+      "id": "GH0231_kumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.034",
+      "lon": "-1.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_mampong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mampong",
+      "en": "Mampong",
+      "slug": "mampong"
+    },
+    "code": {
+      "id": "GH0231_mampong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.046",
+      "lon": "-1.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_mampong-kokoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mampong Kokoase",
+      "en": "Mampong Kokoase",
+      "slug": "mampong-kokoase"
+    },
+    "code": {
+      "id": "GH0231_mampong-kokoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.059",
+      "lon": "-1.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231_mampong-new-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mampong New Town",
+      "en": "Mampong New Town",
+      "slug": "mampong-new-town"
+    },
+    "code": {
+      "id": "GH0231_mampong-new-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0231",
+      "level": 2,
+      "name": {
+        "local": "Mampong Municipal",
+        "en": "Mampong Municipal",
+        "slug": "mampong-municipal-gh0231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0231",
+        "level": 2,
+        "name": {
+          "local": "Mampong Municipal",
+          "en": "Mampong Municipal",
+          "slug": "mampong-municipal-gh0231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.066",
+      "lon": "-1.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

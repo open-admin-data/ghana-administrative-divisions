@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH1401_adaklu-hlekpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adaklu Hlekpe",
+      "en": "Adaklu Hlekpe",
+      "slug": "adaklu-hlekpe"
+    },
+    "code": {
+      "id": "GH1401_adaklu-hlekpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1401",
+      "level": 2,
+      "name": {
+        "local": "Adaklu",
+        "en": "Adaklu",
+        "slug": "adaklu-gh1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1401",
+        "level": 2,
+        "name": {
+          "local": "Adaklu",
+          "en": "Adaklu",
+          "slug": "adaklu-gh1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.49",
+      "lon": "0.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

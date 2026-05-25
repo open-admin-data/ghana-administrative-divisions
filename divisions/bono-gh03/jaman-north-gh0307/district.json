@@ -1,0 +1,47 @@
+{
+  "id": "GH0307",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jaman North",
+    "en": "Jaman North",
+    "slug": "jaman-north-gh0307"
+  },
+  "code": {
+    "id": "GH0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.913",
+    "lon": "-2.715"
+  },
+  "metadata": {},
+  "source": {}
+}

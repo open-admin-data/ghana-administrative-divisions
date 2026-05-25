@@ -1,0 +1,30 @@
+{
+  "id": "GH06",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Eastern",
+    "en": "Eastern",
+    "slug": "eastern-gh06"
+  },
+  "code": {
+    "id": "GH06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 33,
+    "town": 260
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.458",
+    "lon": "-0.412"
+  },
+  "metadata": {},
+  "source": {}
+}

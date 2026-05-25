@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH1509_aboadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboadze",
+      "en": "Aboadze",
+      "slug": "aboadze"
+    },
+    "code": {
+      "id": "GH1509_aboadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.974",
+      "lon": "-1.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_daboase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Daboase",
+      "en": "Daboase",
+      "slug": "daboase"
+    },
+    "code": {
+      "id": "GH1509_daboase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.134",
+      "lon": "-1.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_dompim-no-1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dompim No 1",
+      "en": "Dompim No 1",
+      "slug": "dompim-no-1"
+    },
+    "code": {
+      "id": "GH1509_dompim-no-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.106",
+      "lon": "-1.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_inchaban",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Inchaban",
+      "en": "Inchaban",
+      "slug": "inchaban"
+    },
+    "code": {
+      "id": "GH1509_inchaban",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.996",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_shama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Shama",
+      "en": "Shama",
+      "slug": "shama"
+    },
+    "code": {
+      "id": "GH1509_shama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.012",
+      "lon": "-1.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_supomu-dunkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Supomu  Dunkwa",
+      "en": "Supomu  Dunkwa",
+      "slug": "supomu-dunkwa"
+    },
+    "code": {
+      "id": "GH1509_supomu-dunkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.112",
+      "lon": "-1.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509_supomu-dunkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Supomu Dunkwa",
+      "en": "Supomu Dunkwa",
+      "slug": "supomu-dunkwa"
+    },
+    "code": {
+      "id": "GH1509_supomu-dunkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1509",
+      "level": 2,
+      "name": {
+        "local": "Shama",
+        "en": "Shama",
+        "slug": "shama-gh1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1509",
+        "level": 2,
+        "name": {
+          "local": "Shama",
+          "en": "Shama",
+          "slug": "shama-gh1509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

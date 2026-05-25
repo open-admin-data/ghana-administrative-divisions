@@ -1,0 +1,47 @@
+{
+  "id": "GH1408",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ho Municipal",
+    "en": "Ho Municipal",
+    "slug": "ho-municipal-gh1408"
+  },
+  "code": {
+    "id": "GH1408",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.675",
+    "lon": "0.535"
+  },
+  "metadata": {},
+  "source": {}
+}

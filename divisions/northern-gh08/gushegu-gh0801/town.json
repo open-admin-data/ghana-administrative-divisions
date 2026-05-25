@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0801_galwei",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Galwei",
+      "en": "Galwei",
+      "slug": "galwei"
+    },
+    "code": {
+      "id": "GH0801_galwei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0801",
+      "level": 2,
+      "name": {
+        "local": "Gushegu",
+        "en": "Gushegu",
+        "slug": "gushegu-gh0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0801",
+        "level": 2,
+        "name": {
+          "local": "Gushegu",
+          "en": "Gushegu",
+          "slug": "gushegu-gh0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.621",
+      "lon": "-0.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0801_gushegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gushegu",
+      "en": "Gushegu",
+      "slug": "gushegu"
+    },
+    "code": {
+      "id": "GH0801_gushegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0801",
+      "level": 2,
+      "name": {
+        "local": "Gushegu",
+        "en": "Gushegu",
+        "slug": "gushegu-gh0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0801",
+        "level": 2,
+        "name": {
+          "local": "Gushegu",
+          "en": "Gushegu",
+          "slug": "gushegu-gh0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.928",
+      "lon": "-0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0801_katani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Katani",
+      "en": "Katani",
+      "slug": "katani"
+    },
+    "code": {
+      "id": "GH0801_katani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0801",
+      "level": 2,
+      "name": {
+        "local": "Gushegu",
+        "en": "Gushegu",
+        "slug": "gushegu-gh0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0801",
+        "level": 2,
+        "name": {
+          "local": "Gushegu",
+          "en": "Gushegu",
+          "slug": "gushegu-gh0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.162",
+      "lon": "-0.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0801_kpatinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpatinga",
+      "en": "Kpatinga",
+      "slug": "kpatinga"
+    },
+    "code": {
+      "id": "GH0801_kpatinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0801",
+      "level": 2,
+      "name": {
+        "local": "Gushegu",
+        "en": "Gushegu",
+        "slug": "gushegu-gh0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0801",
+        "level": 2,
+        "name": {
+          "local": "Gushegu",
+          "en": "Gushegu",
+          "slug": "gushegu-gh0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.767",
+      "lon": "-0.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0801_zinindo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zinindo",
+      "en": "Zinindo",
+      "slug": "zinindo"
+    },
+    "code": {
+      "id": "GH0801_zinindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0801",
+      "level": 2,
+      "name": {
+        "local": "Gushegu",
+        "en": "Gushegu",
+        "slug": "gushegu-gh0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0801",
+        "level": 2,
+        "name": {
+          "local": "Gushegu",
+          "en": "Gushegu",
+          "slug": "gushegu-gh0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.622",
+      "lon": "-0.568"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

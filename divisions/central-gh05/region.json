@@ -1,0 +1,30 @@
+{
+  "id": "GH05",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Central",
+    "en": "Central",
+    "slug": "central-gh05"
+  },
+  "code": {
+    "id": "GH05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22,
+    "town": 147
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.662",
+    "lon": "-1.158"
+  },
+  "metadata": {},
+  "source": {}
+}

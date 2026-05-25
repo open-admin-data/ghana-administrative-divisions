@@ -1,0 +1,47 @@
+{
+  "id": "GH1308",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sissala West",
+    "en": "Sissala West",
+    "slug": "sissala-west-gh1308"
+  },
+  "code": {
+    "id": "GH1308",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.759",
+    "lon": "-2.305"
+  },
+  "metadata": {},
+  "source": {}
+}

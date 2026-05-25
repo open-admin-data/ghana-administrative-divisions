@@ -1,0 +1,47 @@
+{
+  "id": "GH0231",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mampong Municipal",
+    "en": "Mampong Municipal",
+    "slug": "mampong-municipal-gh0231"
+  },
+  "code": {
+    "id": "GH0231",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.114",
+    "lon": "-1.424"
+  },
+  "metadata": {},
+  "source": {}
+}

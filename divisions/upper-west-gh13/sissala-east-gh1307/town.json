@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH1307_bawiesibella",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bawiesibella",
+      "en": "Bawiesibella",
+      "slug": "bawiesibella"
+    },
+    "code": {
+      "id": "GH1307_bawiesibella",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.152",
+      "lon": "-1.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_kulfuo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kulfuo",
+      "en": "Kulfuo",
+      "slug": "kulfuo"
+    },
+    "code": {
+      "id": "GH1307_kulfuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.605",
+      "lon": "-1.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_kunchogu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kunchogu",
+      "en": "Kunchogu",
+      "slug": "kunchogu"
+    },
+    "code": {
+      "id": "GH1307_kunchogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.862",
+      "lon": "-1.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_nabugubelle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nabugubelle",
+      "en": "Nabugubelle",
+      "slug": "nabugubelle"
+    },
+    "code": {
+      "id": "GH1307_nabugubelle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.708",
+      "lon": "-1.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_nabulo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nabulo",
+      "en": "Nabulo",
+      "slug": "nabulo"
+    },
+    "code": {
+      "id": "GH1307_nabulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.484",
+      "lon": "-1.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_sakia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sakia",
+      "en": "Sakia",
+      "slug": "sakia"
+    },
+    "code": {
+      "id": "GH1307_sakia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.732",
+      "lon": "-1.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_tumu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tumu",
+      "en": "Tumu",
+      "slug": "tumu"
+    },
+    "code": {
+      "id": "GH1307_tumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.876",
+      "lon": "-1.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307_wellembelle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wellembelle",
+      "en": "Wellembelle",
+      "slug": "wellembelle"
+    },
+    "code": {
+      "id": "GH1307_wellembelle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1307",
+      "level": 2,
+      "name": {
+        "local": "Sissala East",
+        "en": "Sissala East",
+        "slug": "sissala-east-gh1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1307",
+        "level": 2,
+        "name": {
+          "local": "Sissala East",
+          "en": "Sissala East",
+          "slug": "sissala-east-gh1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.493",
+      "lon": "-1.936"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

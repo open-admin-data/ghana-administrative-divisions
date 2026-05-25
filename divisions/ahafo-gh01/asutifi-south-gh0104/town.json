@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0104_dadiesoaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dadiesoaba",
+      "en": "Dadiesoaba",
+      "slug": "dadiesoaba"
+    },
+    "code": {
+      "id": "GH0104_dadiesoaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0104",
+      "level": 2,
+      "name": {
+        "local": "Asutifi South",
+        "en": "Asutifi South",
+        "slug": "asutifi-south-gh0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0104",
+        "level": 2,
+        "name": {
+          "local": "Asutifi South",
+          "en": "Asutifi South",
+          "slug": "asutifi-south-gh0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "-2.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0104_kenyasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kenyasi",
+      "en": "Kenyasi",
+      "slug": "kenyasi"
+    },
+    "code": {
+      "id": "GH0104_kenyasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0104",
+      "level": 2,
+      "name": {
+        "local": "Asutifi South",
+        "en": "Asutifi South",
+        "slug": "asutifi-south-gh0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0104",
+        "level": 2,
+        "name": {
+          "local": "Asutifi South",
+          "en": "Asutifi South",
+          "slug": "asutifi-south-gh0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.98",
+      "lon": "-2.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0104_nkasiem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkasiem",
+      "en": "Nkasiem",
+      "slug": "nkasiem"
+    },
+    "code": {
+      "id": "GH0104_nkasiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0104",
+      "level": 2,
+      "name": {
+        "local": "Asutifi South",
+        "en": "Asutifi South",
+        "slug": "asutifi-south-gh0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0104",
+        "level": 2,
+        "name": {
+          "local": "Asutifi South",
+          "en": "Asutifi South",
+          "slug": "asutifi-south-gh0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.865",
+      "lon": "-2.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0104_siekyemu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Siekyemu",
+      "en": "Siekyemu",
+      "slug": "siekyemu"
+    },
+    "code": {
+      "id": "GH0104_siekyemu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0104",
+      "level": 2,
+      "name": {
+        "local": "Asutifi South",
+        "en": "Asutifi South",
+        "slug": "asutifi-south-gh0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0104",
+        "level": 2,
+        "name": {
+          "local": "Asutifi South",
+          "en": "Asutifi South",
+          "slug": "asutifi-south-gh0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.707",
+      "lon": "-2.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0104_twabidi-no1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twabidi No.1",
+      "en": "Twabidi No.1",
+      "slug": "twabidi-no1"
+    },
+    "code": {
+      "id": "GH0104_twabidi-no1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0104",
+      "level": 2,
+      "name": {
+        "local": "Asutifi South",
+        "en": "Asutifi South",
+        "slug": "asutifi-south-gh0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0104",
+        "level": 2,
+        "name": {
+          "local": "Asutifi South",
+          "en": "Asutifi South",
+          "slug": "asutifi-south-gh0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.832",
+      "lon": "-2.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

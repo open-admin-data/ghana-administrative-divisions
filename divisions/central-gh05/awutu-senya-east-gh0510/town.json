@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0510_gyangyanadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyangyanadze",
+      "en": "Gyangyanadze",
+      "slug": "gyangyanadze"
+    },
+    "code": {
+      "id": "GH0510_gyangyanadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0510",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya East",
+        "en": "Awutu Senya East",
+        "slug": "awutu-senya-east-gh0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0510",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya East",
+          "en": "Awutu Senya East",
+          "slug": "awutu-senya-east-gh0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.235",
+      "lon": "-0.344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

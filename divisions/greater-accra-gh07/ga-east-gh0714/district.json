@@ -1,0 +1,47 @@
+{
+  "id": "GH0714",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ga East",
+    "en": "Ga East",
+    "slug": "ga-east-gh0714"
+  },
+  "code": {
+    "id": "GH0714",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.706",
+    "lon": "-0.221"
+  },
+  "metadata": {},
+  "source": {}
+}

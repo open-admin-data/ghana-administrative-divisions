@@ -1,0 +1,1042 @@
+# Greater Accra — Ghana Administrative Divisions
+
+> 29 districts, 222 towns
+> Code: GH07
+> Coordinates: 5.79, 0.247
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Ablekuma Central Municipal
+
+Code: GH0701, Coordinates: 5.555, -0.241
+Towns: 22
+
+#### Abossey Okai
+
+Code: GH0701_abossey-okai, Coordinates: 5.564, -0.235
+
+#### Abossey Okai (near Mosque)
+
+Code: GH0701_abossey-okai-near-mosque, Coordinates: 5.558, -0.231
+
+#### Awudome
+
+Code: GH0701_awudome, Coordinates: 5.569, -0.229
+
+#### Kaneshie
+
+Code: GH0701_kaneshie, Coordinates: 5.565, -0.236
+
+#### Kaneshie (near mkt)
+
+Code: GH0701_kaneshie-near-mkt, Coordinates: 5.568, -0.241
+
+#### Korle-Bu
+
+Code: GH0701_korle-bu, Coordinates: 5.54, -0.23
+
+#### Korle-bu (before mortuary turn right to korlebu flats)
+
+Code: GH0701_korle-bu-before-mortuary-turn-right-to-korlebu-flats, Coordinates: 5.545, -0.23
+
+#### Lartebiokorshie
+
+Code: GH0701_lartebiokorshie, Coordinates: 5.547, -0.241
+
+#### Lartebiokorshie (near Nkruma flats)
+
+Code: GH0701_lartebiokorshie-near-nkruma-flats, Coordinates: 5.55, -0.234
+
+#### Lartebiokorshie (Nkrumah flats)
+
+Code: GH0701_lartebiokorshie-nkrumah-flats, Coordinates: 5.547, -0.233
+
+#### Lartebiokorshie (opposite hope sch)
+
+Code: GH0701_lartebiokorshie-opposite-hope-sch, Coordinates: 5.546, -0.23
+
+#### Lartebiokoshie
+
+Code: GH0701_lartebiokoshie, Coordinates: 5.55, -0.244
+
+#### Lartebiokoshie (k&#39;shie mamprobi rd)
+
+Code: GH0701_lartebiokoshie-kshie-mamprobi-rd, Coordinates: 5.549, -0.24
+
+#### Mamprobi
+
+Code: GH0701_mamprobi, Coordinates: 5.539, -0.245
+
+#### Mamprobi (near mytrs of Uganda)
+
+Code: GH0701_mamprobi-near-mytrs-of-uganda, Coordinates: 5.533, -0.237
+
+#### Mamprobi (off juncion before salvation army)
+
+Code: GH0701_mamprobi-off-juncion-before-salvation-army, Coordinates: 5.542, -0.245
+
+#### Mamprobi (opposite mtyr uganda)
+
+Code: GH0701_mamprobi-opposite-mtyr-uganda, Coordinates: 5.533, -0.237
+
+#### Mataheko
+
+Code: GH0701_mataheko, Coordinates: 5.561, -0.247
+
+#### Russia
+
+Code: GH0701_russia, Coordinates: 5.552, -0.252
+
+#### Sukura
+
+Code: GH0701_sukura, Coordinates: 5.557, -0.247
+
+#### Zongo (near night mkt)
+
+Code: GH0701_zongo-near-night-mkt, Coordinates: 5.555, -0.236
+
+#### Zongo junction
+
+Code: GH0701_zongo-junction, Coordinates: 5.558, -0.24
+
+### Ablekuma North Municipal
+
+Code: GH0702, Coordinates: 5.58, -0.247
+Towns: 15
+
+#### Abaka Lapas
+
+Code: GH0702_abaka-lapas, Coordinates: 5.609, -0.253
+
+#### Abeka Lapas
+
+Code: GH0702_abeka-lapas, Coordinates: 5.606, -0.251
+
+#### Akweteman
+
+Code: GH0702_akweteman, Coordinates: 5.614, -0.24
+
+#### Awoshie
+
+Code: GH0702_awoshie, Coordinates: 5.586, -0.279
+
+#### Awoshie (last stop)
+
+Code: GH0702_awoshie-last-stop, Coordinates: 5.586, -0.28
+
+#### Bubuashie
+
+Code: GH0702_bubuashie, Coordinates: 5.577, -0.237
+
+#### Bubuashie (Atico last stop)
+
+Code: GH0702_bubuashie-atico-last-stop, Coordinates: 5.58, -0.247
+
+#### Darkuman
+
+Code: GH0702_darkuman, Coordinates: 5.587, -0.248
+
+#### Demond (North Kaneshie)
+
+Code: GH0702_demond-north-kaneshie, Coordinates: 5.59, -0.243
+
+#### Fadama
+
+Code: GH0702_fadama, Coordinates: 5.599, -0.245
+
+#### Kaneshie (Sports Complex)
+
+Code: GH0702_kaneshie-sports-complex, Coordinates: 5.575, -0.227
+
+#### North Kaneshie
+
+Code: GH0702_north-kaneshie, Coordinates: 5.572, -0.236
+
+#### Nyamekye (Darkuman)
+
+Code: GH0702_nyamekye-darkuman, Coordinates: 5.598, -0.255
+
+#### Odorkor
+
+Code: GH0702_odorkor, Coordinates: 5.585, -0.271
+
+#### Tesano
+
+Code: GH0702_tesano, Coordinates: 5.599, -0.233
+
+### Ablekuma West Municipal
+
+Code: GH0703, Coordinates: 5.538, -0.263
+Towns: 13
+
+#### Agege (Agege road -Karikari area)
+
+Code: GH0703_agege-agege-road--karikari-area, Coordinates: 5.531, -0.261
+
+#### Agege (Glefe near largoon)
+
+Code: GH0703_agege-glefe-near-largoon, Coordinates: 5.526, -0.274
+
+#### Agege (Karikari area)
+
+Code: GH0703_agege-karikari-area, Coordinates: 5.532, -0.262
+
+#### Chemuna (Chorkor)
+
+Code: GH0703_chemuna-chorkor, Coordinates: 5.526, -0.25
+
+#### Chorkor (near Abodwe)
+
+Code: GH0703_chorkor-near-abodwe, Coordinates: 5.53, -0.242
+
+#### Dansoman
+
+Code: GH0703_dansoman, Coordinates: 5.552, -0.262
+
+#### Dansoman (before sahara)
+
+Code: GH0703_dansoman-before-sahara, Coordinates: 5.552, -0.264
+
+#### Dansoman (Control market)
+
+Code: GH0703_dansoman-control-market, Coordinates: 5.542, -0.265
+
+#### Dansoman (Ebenezer rd)
+
+Code: GH0703_dansoman-ebenezer-rd, Coordinates: 5.536, -0.266
+
+#### Dansoman (Sahara)
+
+Code: GH0703_dansoman-sahara, Coordinates: 5.55, -0.267
+
+#### Dansoman (SSNIT flats)
+
+Code: GH0703_dansoman-ssnit-flats, Coordinates: 5.565, -0.273
+
+#### Glefe (Behing the largoon)
+
+Code: GH0703_glefe-behing-the-largoon, Coordinates: 5.52, -0.271
+
+#### Mpoase (off Glefe rd)
+
+Code: GH0703_mpoase-off-glefe-rd, Coordinates: 5.524, -0.264
+
+### Accra Metropolis
+
+Code: GH0704, Coordinates: 5.544, -0.211
+Towns: 14
+
+#### Accra
+
+Code: GH0704_accra, Coordinates: 5.545, -0.208
+
+#### Adabraka (near Goil headoffice)
+
+Code: GH0704_adabraka-near-goil-headoffice, Coordinates: 5.554, -0.209
+
+#### Adabraka (near NCR Offices &amp; cinema area)
+
+Code: GH0704_adabraka-near-ncr-offices-cinema-area, Coordinates: 5.559, -0.213
+
+#### Adjabeng
+
+Code: GH0704_adjabeng, Coordinates: 5.552, -0.211
+
+#### Agbogbloshie
+
+Code: GH0704_agbogbloshie, Coordinates: 5.55, -0.222
+
+#### High Street
+
+Code: GH0704_high-street, Coordinates: 5.54, -0.208
+
+#### James Town
+
+Code: GH0704_james-town, Coordinates: 5.533, -0.212
+
+#### Korle-bu
+
+Code: GH0704_korle-bu, Coordinates: 5.536, -0.23
+
+#### Makola
+
+Code: GH0704_makola, Coordinates: 5.549, -0.206
+
+#### Odorna (Adabraka)
+
+Code: GH0704_odorna-adabraka, Coordinates: 5.559, -0.216
+
+#### Okaishie
+
+Code: GH0704_okaishie, Coordinates: 5.549, -0.208
+
+#### Opera Square
+
+Code: GH0704_opera-square, Coordinates: 5.545, -0.206
+
+#### Paladium
+
+Code: GH0704_paladium, Coordinates: 5.545, -0.213
+
+#### Tema Station (near Lotteries)
+
+Code: GH0704_tema-station-near-lotteries, Coordinates: 5.548, -0.2
+
+### Ada East
+
+Code: GH0705, Coordinates: 5.876, 0.549
+Towns: 3
+
+#### Ada
+
+Code: GH0705_ada, Coordinates: 5.785, 0.627
+
+#### Kasseh
+
+Code: GH0705_kasseh, Coordinates: 5.897, 0.523
+
+#### Pediator Kope
+
+Code: GH0705_pediator-kope, Coordinates: 5.822, 0.628
+
+### Ada West
+
+Code: GH0706, Coordinates: 5.893, 0.422
+Towns: 3
+
+#### Anyamam
+
+Code: GH0706_anyamam, Coordinates: 5.791, 0.37
+
+#### Bornikope
+
+Code: GH0706_bornikope, Coordinates: 5.847, 0.404
+
+#### Sege
+
+Code: GH0706_sege, Coordinates: 5.875, 0.361
+
+### Adenta Municipal
+
+Code: GH0707, Coordinates: 5.713, -0.146
+Towns: 1
+
+#### Adenta
+
+Code: GH0707_adenta, Coordinates: 5.69, -0.173
+
+### Ashaiman Municipal
+
+Code: GH0708, Coordinates: 5.701, -0.035
+Towns: 0
+
+### Ayawaso Central Municipal
+
+Code: GH0709, Coordinates: 5.579, -0.204
+Towns: 10
+
+#### Asylum Down
+
+Code: GH0709_asylum-down, Coordinates: 5.57, -0.209
+
+#### Caprice (Near carprice hotel)
+
+Code: GH0709_caprice-near-carprice-hotel, Coordinates: 5.583, -0.216
+
+#### Circle
+
+Code: GH0709_circle, Coordinates: 5.568, -0.212
+
+#### Kokomlemle
+
+Code: GH0709_kokomlemle, Coordinates: 5.577, -0.209
+
+#### Mallam Atta
+
+Code: GH0709_mallam-atta, Coordinates: 5.579, -0.208
+
+#### New Town
+
+Code: GH0709_new-town, Coordinates: 5.584, -0.208
+
+#### New Town ( school compound)
+
+Code: GH0709_new-town-school-compound, Coordinates: 5.586, -0.21
+
+#### Nima (Mallam atta gutter. market road)
+
+Code: GH0709_nima-mallam-atta-gutter-market-road, Coordinates: 5.579, -0.204
+
+#### Nima (near Police station)
+
+Code: GH0709_nima-near-police-station, Coordinates: 5.576, -0.2
+
+#### North Ridge
+
+Code: GH0709_north-ridge, Coordinates: 5.573, -0.199
+
+### Ayawaso East Municipal
+
+Code: GH0710, Coordinates: 5.589, -0.193
+Towns: 12
+
+#### 37
+
+Code: GH0710_37, Coordinates: 5.587, -0.184
+
+#### 37 Licencing Office
+
+Code: GH0710_37-licencing-office, Coordinates: 5.594, -0.179
+
+#### Bostal Institution
+
+Code: GH0710_bostal-institution, Coordinates: 5.608, -0.191
+
+#### Cantoments
+
+Code: GH0710_cantoments, Coordinates: 5.574, -0.183
+
+#### Maamobi
+
+Code: GH0710_maamobi, Coordinates: 5.591, -0.199
+
+#### Maamobi (near market)
+
+Code: GH0710_maamobi-near-market, Coordinates: 5.595, -0.194
+
+#### Nima
+
+Code: GH0710_nima, Coordinates: 5.584, -0.194
+
+#### Nima (near gutter )
+
+Code: GH0710_nima-near-gutter, Coordinates: 5.588, -0.198
+
+#### Nima (near Gutter)
+
+Code: GH0710_nima-near-gutter, Coordinates: 5.59, -0.196
+
+#### Nima 441 (area near bridge)
+
+Code: GH0710_nima-441-area-near-bridge, Coordinates: 5.588, -0.195
+
+#### Roman Ridge
+
+Code: GH0710_roman-ridge, Coordinates: 5.608, -0.191
+
+#### Roman Ridge (near Jack and Jill)
+
+Code: GH0710_roman-ridge-near-jack-and-jill, Coordinates: 5.602, -0.192
+
+### Ayawaso North Municipal
+
+Code: GH0711, Coordinates: 5.595, -0.208
+Towns: 9
+
+#### Abelemkpe
+
+Code: GH0711_abelemkpe, Coordinates: 5.611, -0.222
+
+#### Alajo
+
+Code: GH0711_alajo, Coordinates: 5.598, -0.213
+
+#### Alajo (ask at Faith medical centre for direction)
+
+Code: GH0711_alajo-ask-at-faith-medical-centre-for-direction, Coordinates: 5.598, -0.219
+
+#### Alajo (near T junction)
+
+Code: GH0711_alajo-near-t-junction, Coordinates: 5.6, -0.218
+
+#### Dzorwulu (junction)
+
+Code: GH0711_dzorwulu-junction, Coordinates: 5.608, -0.207
+
+#### Kotobabi
+
+Code: GH0711_kotobabi, Coordinates: 5.593, -0.206
+
+#### New Town (Nkasan-Djan junction)
+
+Code: GH0711_new-town-nkasan-djan-junction, Coordinates: 5.591, -0.206
+
+#### Pig Farm (lorry station)
+
+Code: GH0711_pig-farm-lorry-station, Coordinates: 5.598, -0.199
+
+#### Roman Ridge (near Ghana inst of engineers buidling)
+
+Code: GH0711_roman-ridge-near-ghana-inst-of-engineers-buidling, Coordinates: 5.605, -0.198
+
+### Ayawaso West
+
+Code: GH0712, Coordinates: 5.631, -0.164
+Towns: 6
+
+#### Airport residential area
+
+Code: GH0712_airport-residential-area, Coordinates: 5.617, -0.179
+
+#### East Legon
+
+Code: GH0712_east-legon, Coordinates: 5.64, -0.164
+
+#### East Legon (before America house road)
+
+Code: GH0712_east-legon-before-america-house-road, Coordinates: 5.642, -0.161
+
+#### East Legon (towards America house -Social X&#39;tian centre)
+
+Code: GH0712_east-legon-towards-america-house--social-xtian-centre, Coordinates: 5.637, -0.15
+
+#### Legon
+
+Code: GH0712_legon, Coordinates: 5.651, -0.178
+
+#### Mempeasem
+
+Code: GH0712_mempeasem, Coordinates: 5.651, -0.159
+
+### Ga Central Municipal
+
+Code: GH0713, Coordinates: 5.616, -0.307
+Towns: 0
+
+### Ga East
+
+Code: GH0714, Coordinates: 5.706, -0.221
+Towns: 15
+
+#### Abokobi
+
+Code: GH0714_abokobi, Coordinates: 5.734, -0.203
+
+#### Adenta
+
+Code: GH0714_adenta, Coordinates: 5.717, -0.166
+
+#### Amasaman
+
+Code: GH0714_amasaman, Coordinates: 5.702, -0.3
+
+#### Atomic
+
+Code: GH0714_atomic, Coordinates: 5.629, -0.215
+
+#### Atomic Road
+
+Code: GH0714_atomic-road, Coordinates: 5.667, -0.208
+
+#### Danfa
+
+Code: GH0714_danfa, Coordinates: 5.789, -0.159
+
+#### Kokrobite
+
+Code: GH0714_kokrobite, Coordinates: 5.502, -0.37
+
+#### Korle-bu
+
+Code: GH0714_korle-bu, Coordinates: 5.537, -0.223
+
+#### Madina
+
+Code: GH0714_madina, Coordinates: 5.664, -0.157
+
+#### Madina (near market)
+
+Code: GH0714_madina-near-market, Coordinates: 5.682, -0.166
+
+#### Madina (Old road)
+
+Code: GH0714_madina-old-road, Coordinates: 5.679, -0.168
+
+#### North Legon (off Atomic Energy Road)
+
+Code: GH0714_north-legon-off-atomic-energy-road, Coordinates: 5.669, -0.182
+
+#### Pantang
+
+Code: GH0714_pantang, Coordinates: 5.715, -0.188
+
+#### Pantang hosp road
+
+Code: GH0714_pantang-hosp-road, Coordinates: 5.719, -0.174
+
+#### Taifa
+
+Code: GH0714_taifa, Coordinates: 5.66, -0.251
+
+### Ga North Municipal
+
+Code: GH0715, Coordinates: 5.711, -0.28
+Towns: 0
+
+### Ga South Municipal
+
+Code: GH0716, Coordinates: 5.678, -0.437
+Towns: 0
+
+### Ga West Municipal
+
+Code: GH0717, Coordinates: 5.704, -0.357
+Towns: 28
+
+#### Amasaman
+
+Code: GH0717_amasaman, Coordinates: 5.701, -0.301
+
+#### Antiaku (near north kwashieman)
+
+Code: GH0717_antiaku-near-north-kwashieman, Coordinates: 5.608, -0.279
+
+#### Asabaham (near Domiabra)
+
+Code: GH0717_asabaham-near-domiabra, Coordinates: 5.606, -0.416
+
+#### Awoshie (last stop)
+
+Code: GH0717_awoshie-last-stop, Coordinates: 5.591, -0.287
+
+#### Chorkor (behind police station)
+
+Code: GH0717_chorkor-behind-police-station, Coordinates: 5.528, -0.237
+
+#### Dome Sampah-mang
+
+Code: GH0717_dome-sampah-mang, Coordinates: 5.719, -0.366
+
+#### Domiabra
+
+Code: GH0717_domiabra, Coordinates: 5.612, -0.415
+
+#### Gbawe
+
+Code: GH0717_gbawe, Coordinates: 5.577, -0.285
+
+#### Horbor
+
+Code: GH0717_horbor, Coordinates: 5.689, -0.426
+
+#### Jei Krodua
+
+Code: GH0717_jei-krodua, Coordinates: 5.646, -0.493
+
+#### Kokrobite
+
+Code: GH0717_kokrobite, Coordinates: 5.502, -0.37
+
+#### Mallam
+
+Code: GH0717_mallam, Coordinates: 5.578, -0.299
+
+#### Mamprobi (salvation army schls)
+
+Code: GH0717_mamprobi-salvation-army-schls, Coordinates: 5.541, -0.241
+
+#### Marcathy Hill Junction
+
+Code: GH0717_marcathy-hill-junction, Coordinates: 5.566, -0.29
+
+#### Medie
+
+Code: GH0717_medie, Coordinates: 5.758, -0.026
+
+#### Ngleshie Amamfrom
+
+Code: GH0717_ngleshie-amamfrom, Coordinates: 5.536, -0.411
+
+#### North Kaneshie
+
+Code: GH0717_north-kaneshie, Coordinates: 5.589, -0.261
+
+#### North Kwashieman
+
+Code: GH0717_north-kwashieman, Coordinates: 5.594, -0.271
+
+#### Nsakina
+
+Code: GH0717_nsakina, Coordinates: 5.652, -0.324
+
+#### Obom
+
+Code: GH0717_obom, Coordinates: 5.736, -0.44
+
+#### Oduman
+
+Code: GH0717_oduman, Coordinates: 5.642, -0.33
+
+#### Ofankor
+
+Code: GH0717_ofankor, Coordinates: 5.644, -0.262
+
+#### Osuwem
+
+Code: GH0717_osuwem, Coordinates: 6.032, 0.175
+
+#### Pokuase
+
+Code: GH0717_pokuase, Coordinates: 5.689, -0.286
+
+#### Santamaria
+
+Code: GH0717_santamaria, Coordinates: 5.602, -0.274
+
+#### Taifa
+
+Code: GH0717_taifa, Coordinates: 5.656, -0.252
+
+#### Trantra Hill
+
+Code: GH0717_trantra-hill, Coordinates: 5.641, -0.263
+
+#### Weija
+
+Code: GH0717_weija, Coordinates: 5.574, -0.338
+
+### Korle Klottey Municipal
+
+Code: GH0718, Coordinates: 5.561, -0.196
+Towns: 5
+
+#### Adabraka
+
+Code: GH0718_adabraka, Coordinates: 5.562, -0.204
+
+#### La
+
+Code: GH0718_la, Coordinates: 5.562, -0.172
+
+#### Osu
+
+Code: GH0718_osu, Coordinates: 5.566, -0.183
+
+#### Osu (Nyaniba Estate)
+
+Code: GH0718_osu-nyaniba-estate, Coordinates: 5.56, -0.174
+
+#### Ridge
+
+Code: GH0718_ridge, Coordinates: 5.566, -0.197
+
+### Kpone Katamanso
+
+Code: GH0719, Coordinates: 5.767, -0.074
+Towns: 3
+
+#### Afienya
+
+Code: GH0719_afienya, Coordinates: 5.801, 0.006
+
+#### Dodowa
+
+Code: GH0719_dodowa, Coordinates: 5.886, -0.093
+
+#### New Dawhenya
+
+Code: GH0719_new-dawhenya, Coordinates: 5.755, -0.047
+
+### Krowor Municipal
+
+Code: GH0720, Coordinates: 5.613, -0.083
+Towns: 1
+
+#### Nungua
+
+Code: GH0720_nungua, Coordinates: 5.607, -0.078
+
+### La Dade-Kotopon
+
+Code: GH0721, Coordinates: 5.588, -0.158
+Towns: 2
+
+#### Airport
+
+Code: GH0721_airport, Coordinates: 5.604, -0.172
+
+#### Burma Camp
+
+Code: GH0721_burma-camp, Coordinates: 5.597, -0.151
+
+### La-Nkwantanang-Madina
+
+Code: GH0722, Coordinates: 5.741, -0.173
+Towns: 0
+
+### Ledzokuku Municipal
+
+Code: GH0723, Coordinates: 5.604, -0.114
+Towns: 2
+
+#### Teshie
+
+Code: GH0723_teshie, Coordinates: 5.607, -0.109
+
+#### Teshie/Nungua
+
+Code: GH0723_teshienungua, Coordinates: 5.591, -0.099
+
+### Ningo/Prampram
+
+Code: GH0724, Coordinates: 5.815, 0.139
+Towns: 5
+
+#### Dawhenya
+
+Code: GH0724_dawhenya, Coordinates: 5.767, 0.054
+
+#### Lower Prampram
+
+Code: GH0724_lower-prampram, Coordinates: 5.709, 0.113
+
+#### Nugbenya
+
+Code: GH0724_nugbenya, Coordinates: 5.835, 0.219
+
+#### Old Ningo
+
+Code: GH0724_old-ningo, Coordinates: 5.752, 0.186
+
+#### Prampram
+
+Code: GH0724_prampram, Coordinates: 5.712, 0.11
+
+### Okaikwei North Municipal
+
+Code: GH0725, Coordinates: 5.629, -0.209
+Towns: 5
+
+#### Abofu (Achimota)
+
+Code: GH0725_abofu-achimota, Coordinates: 5.617, -0.226
+
+#### Achimota
+
+Code: GH0725_achimota, Coordinates: 5.623, -0.232
+
+#### Dzorwulu
+
+Code: GH0725_dzorwulu, Coordinates: 5.615, -0.2
+
+#### Greenhill
+
+Code: GH0725_greenhill, Coordinates: 5.636, -0.2
+
+#### New Achimota (mile 7)
+
+Code: GH0725_new-achimota-mile-7, Coordinates: 5.629, -0.248
+
+### Shai Osudoku
+
+Code: GH0726, Coordinates: 5.966, 0.168
+Towns: 4
+
+#### Akuse/Kpong
+
+Code: GH0726_akusekpong, Coordinates: 6.098, 0.125
+
+#### Asutsuare
+
+Code: GH0726_asutsuare, Coordinates: 6.075, 0.195
+
+#### Kordiabe
+
+Code: GH0726_kordiabe, Coordinates: 5.925, 0.018
+
+#### Osuwem
+
+Code: GH0726_osuwem, Coordinates: 6.037, 0.176
+
+### Tema Metropolitan
+
+Code: GH0727, Coordinates: 5.648, -0.005
+Towns: 44
+
+#### Adabraka (near Goil headoffice)
+
+Code: GH0727_adabraka-near-goil-headoffice, Coordinates: 5.554, -0.209
+
+#### Adenta
+
+Code: GH0727_adenta, Coordinates: 5.746, -0.155
+
+#### Adenta Estate
+
+Code: GH0727_adenta-estate, Coordinates: 5.706, -0.168
+
+#### Adenta Estate (Housing Down)
+
+Code: GH0727_adenta-estate-housing-down, Coordinates: 5.706, -0.147
+
+#### Amrahia
+
+Code: GH0727_amrahia, Coordinates: 5.768, -0.142
+
+#### Ashaima
+
+Code: GH0727_ashaima, Coordinates: 5.694, -0.028
+
+#### Ashaima New Town
+
+Code: GH0727_ashaima-new-town, Coordinates: 5.704, -0.03
+
+#### Ashaiman
+
+Code: GH0727_ashaiman, Coordinates: 5.69, -0.034
+
+#### Ashaiman (Nii Amui Park {Manannanyo}
+
+Code: GH0727_ashaiman-nii-amui-park-manannanyo, Coordinates: 5.699, -0.035
+
+#### Ashaiman Community 12
+
+Code: GH0727_ashaiman-community-12, Coordinates: 5.678, -0.03
+
+#### Ashaiman Lebanon
+
+Code: GH0727_ashaiman-lebanon, Coordinates: 5.703, -0.044
+
+#### Ashalebotwe
+
+Code: GH0727_ashalebotwe, Coordinates: 5.684, -0.134
+
+#### Baba Yara (Madina)
+
+Code: GH0727_baba-yara-madina, Coordinates: 5.686, -0.157
+
+#### Betlehem (near Michael Camp)
+
+Code: GH0727_betlehem-near-michael-camp, Coordinates: 5.707, -0.013
+
+#### Kaneshie (near mkt)
+
+Code: GH0727_kaneshie-near-mkt, Coordinates: 5.568, -0.241
+
+#### Kpone
+
+Code: GH0727_kpone, Coordinates: 5.696, 0.047
+
+#### Kpone Bawaleshi
+
+Code: GH0727_kpone-bawaleshi, Coordinates: 5.856, -0.11
+
+#### Lashibi
+
+Code: GH0727_lashibi, Coordinates: 5.665, -0.05
+
+#### Lashibi Community 19
+
+Code: GH0727_lashibi-community-19, Coordinates: 5.656, -0.062
+
+#### Lashibi Community 20
+
+Code: GH0727_lashibi-community-20, Coordinates: 5.653, -0.07
+
+#### Maamobi
+
+Code: GH0727_maamobi, Coordinates: 5.594, -0.195
+
+#### Mile 7 (New Achimota)
+
+Code: GH0727_mile-7-new-achimota, Coordinates: 5.629, -0.248
+
+#### Nima
+
+Code: GH0727_nima, Coordinates: 5.587, -0.197
+
+#### Osu
+
+Code: GH0727_osu, Coordinates: 5.551, -0.194
+
+#### Oyibi
+
+Code: GH0727_oyibi, Coordinates: 5.806, -0.108
+
+#### Sakumano Estate
+
+Code: GH0727_sakumano-estate, Coordinates: 5.624, -0.06
+
+#### Spintex road
+
+Code: GH0727_spintex-road, Coordinates: 5.619, -0.146
+
+#### Tema
+
+Code: GH0727_tema, Coordinates: 5.666, null
+
+#### Tema Community 1
+
+Code: GH0727_tema-community-1, Coordinates: 5.646, -0.009
+
+#### Tema Community 10
+
+Code: GH0727_tema-community-10, Coordinates: 5.653, -0.023
+
+#### Tema Community 11
+
+Code: GH0727_tema-community-11, Coordinates: 5.665, -0.025
+
+#### Tema Community 2
+
+Code: GH0727_tema-community-2, Coordinates: 5.633, -0.009
+
+#### Tema Community 4
+
+Code: GH0727_tema-community-4, Coordinates: 5.658, -0.011
+
+#### Tema Community 5
+
+Code: GH0727_tema-community-5, Coordinates: 5.643, -0.019
+
+#### Tema Community 6
+
+Code: GH0727_tema-community-6, Coordinates: 5.652, -0.02
+
+#### Tema Community 7
+
+Code: GH0727_tema-community-7, Coordinates: 5.66, -0.012
+
+#### Tema Community 8
+
+Code: GH0727_tema-community-8, Coordinates: 5.668, -0.011
+
+#### Tema Community 9
+
+Code: GH0727_tema-community-9, Coordinates: 5.672, -0.02
+
+#### Tema Fishing Habour
+
+Code: GH0727_tema-fishing-habour, Coordinates: 5.645, 0.013
+
+#### Tema Heavy Industrial Town
+
+Code: GH0727_tema-heavy-industrial-town, Coordinates: 5.657, 0.002
+
+#### Tema Main Habour
+
+Code: GH0727_tema-main-habour, Coordinates: 5.633, 0.008
+
+#### Tema Manhean
+
+Code: GH0727_tema-manhean, Coordinates: 5.657, 0.028
+
+#### Tema Mataheko
+
+Code: GH0727_tema-mataheko, Coordinates: 5.772, -0.005
+
+#### Tema New Town
+
+Code: GH0727_tema-new-town, Coordinates: 5.648, 0.023
+
+### Tema West Municipal
+
+Code: GH0728, Coordinates: 5.651, -0.068
+Towns: 0
+
+### Weija Gbawe Municipal
+
+Code: GH0729, Coordinates: 5.54, -0.343
+Towns: 0
+

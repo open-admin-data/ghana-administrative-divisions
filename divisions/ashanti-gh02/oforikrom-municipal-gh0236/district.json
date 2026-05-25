@@ -1,0 +1,47 @@
+{
+  "id": "GH0236",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oforikrom Municipal",
+    "en": "Oforikrom Municipal",
+    "slug": "oforikrom-municipal-gh0236"
+  },
+  "code": {
+    "id": "GH0236",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.676",
+    "lon": "-1.551"
+  },
+  "metadata": {},
+  "source": {}
+}

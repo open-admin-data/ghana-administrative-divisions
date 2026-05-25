@@ -1,0 +1,47 @@
+{
+  "id": "GH0810",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sagnerigu",
+    "en": "Sagnerigu",
+    "slug": "sagnerigu-gh0810"
+  },
+  "code": {
+    "id": "GH0810",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.487",
+    "lon": "-0.855"
+  },
+  "metadata": {},
+  "source": {}
+}

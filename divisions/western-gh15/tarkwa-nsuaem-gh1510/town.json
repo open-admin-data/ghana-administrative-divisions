@@ -1,0 +1,974 @@
+[
+  {
+    "id": "GH1510_abontiakoon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abontiakoon",
+      "en": "Abontiakoon",
+      "slug": "abontiakoon"
+    },
+    "code": {
+      "id": "GH1510_abontiakoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.321",
+      "lon": "-1.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_aboso-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboso Road",
+      "en": "Aboso Road",
+      "slug": "aboso-road"
+    },
+    "code": {
+      "id": "GH1510_aboso-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.311",
+      "lon": "-1.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_akyempim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akyempim",
+      "en": "Akyempim",
+      "slug": "akyempim"
+    },
+    "code": {
+      "id": "GH1510_akyempim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.262",
+      "lon": "-2.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_bankyim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bankyim",
+      "en": "Bankyim",
+      "slug": "bankyim"
+    },
+    "code": {
+      "id": "GH1510_bankyim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.264",
+      "lon": "-2.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_benso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Benso",
+      "en": "Benso",
+      "slug": "benso"
+    },
+    "code": {
+      "id": "GH1510_benso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.156",
+      "lon": "-1.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_commercial-street",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Commercial Street",
+      "en": "Commercial Street",
+      "slug": "commercial-street"
+    },
+    "code": {
+      "id": "GH1510_commercial-street",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.306",
+      "lon": "-1.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_dompim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dompim",
+      "en": "Dompim",
+      "slug": "dompim"
+    },
+    "code": {
+      "id": "GH1510_dompim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.156",
+      "lon": "-2.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_iduapriem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Iduapriem",
+      "en": "Iduapriem",
+      "slug": "iduapriem"
+    },
+    "code": {
+      "id": "GH1510_iduapriem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.245",
+      "lon": "-2.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_kwaminakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwaminakrom",
+      "en": "Kwaminakrom",
+      "slug": "kwaminakrom"
+    },
+    "code": {
+      "id": "GH1510_kwaminakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.279",
+      "lon": "-1.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_new-atuabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Atuabo",
+      "en": "New Atuabo",
+      "slug": "new-atuabo"
+    },
+    "code": {
+      "id": "GH1510_new-atuabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.323",
+      "lon": "-1.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_new-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Layout",
+      "en": "New Layout",
+      "slug": "new-layout"
+    },
+    "code": {
+      "id": "GH1510_new-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.3",
+      "lon": "-1.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_nsuaem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuaem",
+      "en": "Nsuaem",
+      "slug": "nsuaem"
+    },
+    "code": {
+      "id": "GH1510_nsuaem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.003",
+      "lon": "-2.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_nsuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuta",
+      "en": "Nsuta",
+      "slug": "nsuta"
+    },
+    "code": {
+      "id": "GH1510_nsuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.28",
+      "lon": "-1.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_nyarso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyarso",
+      "en": "Nyarso",
+      "slug": "nyarso"
+    },
+    "code": {
+      "id": "GH1510_nyarso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.985",
+      "lon": "-2.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_simpa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Simpa",
+      "en": "Simpa",
+      "slug": "simpa"
+    },
+    "code": {
+      "id": "GH1510_simpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.111",
+      "lon": "-2.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_tamso-estates",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tamso Estates",
+      "en": "Tamso Estates",
+      "slug": "tamso-estates"
+    },
+    "code": {
+      "id": "GH1510_tamso-estates",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.282",
+      "lon": "-1.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_tarkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tarkwa",
+      "en": "Tarkwa",
+      "slug": "tarkwa"
+    },
+    "code": {
+      "id": "GH1510_tarkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.306",
+      "lon": "-1.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510_tarkwa-naboso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tarkwa Naboso",
+      "en": "Tarkwa Naboso",
+      "slug": "tarkwa-naboso"
+    },
+    "code": {
+      "id": "GH1510_tarkwa-naboso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1510",
+      "level": 2,
+      "name": {
+        "local": "Tarkwa Nsuaem",
+        "en": "Tarkwa Nsuaem",
+        "slug": "tarkwa-nsuaem-gh1510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1510",
+        "level": 2,
+        "name": {
+          "local": "Tarkwa Nsuaem",
+          "en": "Tarkwa Nsuaem",
+          "slug": "tarkwa-nsuaem-gh1510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.301",
+      "lon": "-1.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

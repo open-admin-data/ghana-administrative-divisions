@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0706_anyamam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyamam",
+      "en": "Anyamam",
+      "slug": "anyamam"
+    },
+    "code": {
+      "id": "GH0706_anyamam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0706",
+      "level": 2,
+      "name": {
+        "local": "Ada West",
+        "en": "Ada West",
+        "slug": "ada-west-gh0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0706",
+        "level": 2,
+        "name": {
+          "local": "Ada West",
+          "en": "Ada West",
+          "slug": "ada-west-gh0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.791",
+      "lon": "0.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0706_bornikope",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bornikope",
+      "en": "Bornikope",
+      "slug": "bornikope"
+    },
+    "code": {
+      "id": "GH0706_bornikope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0706",
+      "level": 2,
+      "name": {
+        "local": "Ada West",
+        "en": "Ada West",
+        "slug": "ada-west-gh0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0706",
+        "level": 2,
+        "name": {
+          "local": "Ada West",
+          "en": "Ada West",
+          "slug": "ada-west-gh0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.847",
+      "lon": "0.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0706_sege",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sege",
+      "en": "Sege",
+      "slug": "sege"
+    },
+    "code": {
+      "id": "GH0706_sege",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0706",
+      "level": 2,
+      "name": {
+        "local": "Ada West",
+        "en": "Ada West",
+        "slug": "ada-west-gh0706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0706",
+        "level": 2,
+        "name": {
+          "local": "Ada West",
+          "en": "Ada West",
+          "slug": "ada-west-gh0706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.875",
+      "lon": "0.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

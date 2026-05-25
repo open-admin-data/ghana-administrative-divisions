@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0409_bantama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bantama",
+      "en": "Bantama",
+      "slug": "bantama"
+    },
+    "code": {
+      "id": "GH0409_bantama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0409",
+      "level": 2,
+      "name": {
+        "local": "Sene West",
+        "en": "Sene West",
+        "slug": "sene-west-gh0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0409",
+        "level": 2,
+        "name": {
+          "local": "Sene West",
+          "en": "Sene West",
+          "slug": "sene-west-gh0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.712",
+      "lon": "-0.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0409_bassa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bassa",
+      "en": "Bassa",
+      "slug": "bassa"
+    },
+    "code": {
+      "id": "GH0409_bassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0409",
+      "level": 2,
+      "name": {
+        "local": "Sene West",
+        "en": "Sene West",
+        "slug": "sene-west-gh0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0409",
+        "level": 2,
+        "name": {
+          "local": "Sene West",
+          "en": "Sene West",
+          "slug": "sene-west-gh0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.79",
+      "lon": "-0.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0409_kwame-danso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwame Danso",
+      "en": "Kwame Danso",
+      "slug": "kwame-danso"
+    },
+    "code": {
+      "id": "GH0409_kwame-danso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0409",
+      "level": 2,
+      "name": {
+        "local": "Sene West",
+        "en": "Sene West",
+        "slug": "sene-west-gh0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0409",
+        "level": 2,
+        "name": {
+          "local": "Sene West",
+          "en": "Sene West",
+          "slug": "sene-west-gh0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.732",
+      "lon": "-0.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0409_kwami-danso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwami Danso",
+      "en": "Kwami Danso",
+      "slug": "kwami-danso"
+    },
+    "code": {
+      "id": "GH0409_kwami-danso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0409",
+      "level": 2,
+      "name": {
+        "local": "Sene West",
+        "en": "Sene West",
+        "slug": "sene-west-gh0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0409",
+        "level": 2,
+        "name": {
+          "local": "Sene West",
+          "en": "Sene West",
+          "slug": "sene-west-gh0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.73",
+      "lon": "-0.686"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

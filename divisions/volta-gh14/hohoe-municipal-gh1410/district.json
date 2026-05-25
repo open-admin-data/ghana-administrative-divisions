@@ -1,0 +1,47 @@
+{
+  "id": "GH1410",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hohoe Municipal",
+    "en": "Hohoe Municipal",
+    "slug": "hohoe-municipal-gh1410"
+  },
+  "code": {
+    "id": "GH1410",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.153",
+    "lon": "0.487"
+  },
+  "metadata": {},
+  "source": {}
+}

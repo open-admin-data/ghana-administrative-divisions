@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0814_lingbinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lingbinga",
+      "en": "Lingbinga",
+      "slug": "lingbinga"
+    },
+    "code": {
+      "id": "GH0814_lingbinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0814",
+      "level": 2,
+      "name": {
+        "local": "Tolon",
+        "en": "Tolon",
+        "slug": "tolon-gh0814"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0814",
+        "level": 2,
+        "name": {
+          "local": "Tolon",
+          "en": "Tolon",
+          "slug": "tolon-gh0814"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.644",
+      "lon": "-1.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0814_tolon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tolon",
+      "en": "Tolon",
+      "slug": "tolon"
+    },
+    "code": {
+      "id": "GH0814_tolon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0814",
+      "level": 2,
+      "name": {
+        "local": "Tolon",
+        "en": "Tolon",
+        "slug": "tolon-gh0814"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0814",
+        "level": 2,
+        "name": {
+          "local": "Tolon",
+          "en": "Tolon",
+          "slug": "tolon-gh0814"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.432",
+      "lon": "-1.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0814_tonlon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tonlon",
+      "en": "Tonlon",
+      "slug": "tonlon"
+    },
+    "code": {
+      "id": "GH0814_tonlon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0814",
+      "level": 2,
+      "name": {
+        "local": "Tolon",
+        "en": "Tolon",
+        "slug": "tolon-gh0814"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0814",
+        "level": 2,
+        "name": {
+          "local": "Tolon",
+          "en": "Tolon",
+          "slug": "tolon-gh0814"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.427",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0814_wantugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wantugu",
+      "en": "Wantugu",
+      "slug": "wantugu"
+    },
+    "code": {
+      "id": "GH0814_wantugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0814",
+      "level": 2,
+      "name": {
+        "local": "Tolon",
+        "en": "Tolon",
+        "slug": "tolon-gh0814"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0814",
+        "level": 2,
+        "name": {
+          "local": "Tolon",
+          "en": "Tolon",
+          "slug": "tolon-gh0814"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.514",
+      "lon": "-1.147"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "GH0511_aboom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboom",
+      "en": "Aboom",
+      "slug": "aboom"
+    },
+    "code": {
+      "id": "GH0511_aboom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.112",
+      "lon": "-1.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_abura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abura",
+      "en": "Abura",
+      "slug": "abura"
+    },
+    "code": {
+      "id": "GH0511_abura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.133",
+      "lon": "-1.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_adiebikrom-abura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adiebikrom-Abura",
+      "en": "Adiebikrom-Abura",
+      "slug": "adiebikrom-abura"
+    },
+    "code": {
+      "id": "GH0511_adiebikrom-abura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.136",
+      "lon": "-1.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_adisadel",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adisadel",
+      "en": "Adisadel",
+      "slug": "adisadel"
+    },
+    "code": {
+      "id": "GH0511_adisadel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "-1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_bakano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bakano",
+      "en": "Bakano",
+      "slug": "bakano"
+    },
+    "code": {
+      "id": "GH0511_bakano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.102",
+      "lon": "-1.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_borofoyedur",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Borofoyedur",
+      "en": "Borofoyedur",
+      "slug": "borofoyedur"
+    },
+    "code": {
+      "id": "GH0511_borofoyedur",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.111",
+      "lon": "-1.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_brimsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brimsu",
+      "en": "Brimsu",
+      "slug": "brimsu"
+    },
+    "code": {
+      "id": "GH0511_brimsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.111",
+      "lon": "-1.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_brofoyedu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brofoyedu",
+      "en": "Brofoyedu",
+      "slug": "brofoyedu"
+    },
+    "code": {
+      "id": "GH0511_brofoyedu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.067",
+      "lon": "-1.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_cape-coast",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cape Coast",
+      "en": "Cape Coast",
+      "slug": "cape-coast"
+    },
+    "code": {
+      "id": "GH0511_cape-coast",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.105",
+      "lon": "-1.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_efutu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Efutu",
+      "en": "Efutu",
+      "slug": "efutu"
+    },
+    "code": {
+      "id": "GH0511_efutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.211",
+      "lon": "-1.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_ekon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekon",
+      "en": "Ekon",
+      "slug": "ekon"
+    },
+    "code": {
+      "id": "GH0511_ekon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.121",
+      "lon": "-1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_ewim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ewim",
+      "en": "Ewim",
+      "slug": "ewim"
+    },
+    "code": {
+      "id": "GH0511_ewim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.115",
+      "lon": "-1.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_jukwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jukwa",
+      "en": "Jukwa",
+      "slug": "jukwa"
+    },
+    "code": {
+      "id": "GH0511_jukwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.26",
+      "lon": "-1.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_municipal-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Municipal Road",
+      "en": "Municipal Road",
+      "slug": "municipal-road"
+    },
+    "code": {
+      "id": "GH0511_municipal-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.11",
+      "lon": "-1.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_nkanfoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkanfoa",
+      "en": "Nkanfoa",
+      "slug": "nkanfoa"
+    },
+    "code": {
+      "id": "GH0511_nkanfoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.084",
+      "lon": "-1.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_north-ola",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North OLA",
+      "en": "North OLA",
+      "slug": "north-ola"
+    },
+    "code": {
+      "id": "GH0511_north-ola",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "-1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_ola",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ola",
+      "en": "Ola",
+      "slug": "ola"
+    },
+    "code": {
+      "id": "GH0511_ola",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.102",
+      "lon": "-1.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_pedu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pedu",
+      "en": "Pedu",
+      "slug": "pedu"
+    },
+    "code": {
+      "id": "GH0511_pedu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.125",
+      "lon": "-1.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_pedu-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pedu Junction",
+      "en": "Pedu Junction",
+      "slug": "pedu-junction"
+    },
+    "code": {
+      "id": "GH0511_pedu-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.122",
+      "lon": "-1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511_tantri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tantri",
+      "en": "Tantri",
+      "slug": "tantri"
+    },
+    "code": {
+      "id": "GH0511_tantri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0511",
+      "level": 2,
+      "name": {
+        "local": "Cape Coast Metropolitan",
+        "en": "Cape Coast Metropolitan",
+        "slug": "cape-coast-metropolitan-gh0511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0511",
+        "level": 2,
+        "name": {
+          "local": "Cape Coast Metropolitan",
+          "en": "Cape Coast Metropolitan",
+          "slug": "cape-coast-metropolitan-gh0511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.113",
+      "lon": "-1.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

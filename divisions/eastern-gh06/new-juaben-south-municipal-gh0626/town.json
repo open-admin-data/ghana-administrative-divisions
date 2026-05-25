@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0626_adweso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adweso",
+      "en": "Adweso",
+      "slug": "adweso"
+    },
+    "code": {
+      "id": "GH0626_adweso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.064",
+      "lon": "-0.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_agavenya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agavenya",
+      "en": "Agavenya",
+      "slug": "agavenya"
+    },
+    "code": {
+      "id": "GH0626_agavenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.067",
+      "lon": "-0.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_asokore",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asokore",
+      "en": "Asokore",
+      "slug": "asokore"
+    },
+    "code": {
+      "id": "GH0626_asokore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.119",
+      "lon": "-0.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_betom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Betom",
+      "en": "Betom",
+      "slug": "betom"
+    },
+    "code": {
+      "id": "GH0626_betom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.082",
+      "lon": "-0.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_bronya-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bronya Junction",
+      "en": "Bronya Junction",
+      "slug": "bronya-junction"
+    },
+    "code": {
+      "id": "GH0626_bronya-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.07",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_densuano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Densuano",
+      "en": "Densuano",
+      "slug": "densuano"
+    },
+    "code": {
+      "id": "GH0626_densuano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.073",
+      "lon": "-0.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_effiduasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Effiduasi",
+      "en": "Effiduasi",
+      "slug": "effiduasi"
+    },
+    "code": {
+      "id": "GH0626_effiduasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.078",
+      "lon": "-0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_galloway",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Galloway",
+      "en": "Galloway",
+      "slug": "galloway"
+    },
+    "code": {
+      "id": "GH0626_galloway",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.079",
+      "lon": "-0.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_koforidua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Koforidua",
+      "en": "Koforidua",
+      "slug": "koforidua"
+    },
+    "code": {
+      "id": "GH0626_koforidua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.065",
+      "lon": "-0.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_magazine",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Magazine",
+      "en": "Magazine",
+      "slug": "magazine"
+    },
+    "code": {
+      "id": "GH0626_magazine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.115",
+      "lon": "-0.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_medical-village",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Medical Village",
+      "en": "Medical Village",
+      "slug": "medical-village"
+    },
+    "code": {
+      "id": "GH0626_medical-village",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.076",
+      "lon": "-0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_nanabanyin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nanabanyin",
+      "en": "Nanabanyin",
+      "slug": "nanabanyin"
+    },
+    "code": {
+      "id": "GH0626_nanabanyin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.066",
+      "lon": "-0.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_new-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Zongo",
+      "en": "New Zongo",
+      "slug": "new-zongo"
+    },
+    "code": {
+      "id": "GH0626_new-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.108",
+      "lon": "-0.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_okorase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okorase",
+      "en": "Okorase",
+      "slug": "okorase"
+    },
+    "code": {
+      "id": "GH0626_okorase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.089",
+      "lon": "-0.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626_srodae",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Srodae",
+      "en": "Srodae",
+      "slug": "srodae"
+    },
+    "code": {
+      "id": "GH0626_srodae",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0626",
+      "level": 2,
+      "name": {
+        "local": "New Juaben South Municipal",
+        "en": "New Juaben South Municipal",
+        "slug": "new-juaben-south-municipal-gh0626"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0626",
+        "level": 2,
+        "name": {
+          "local": "New Juaben South Municipal",
+          "en": "New Juaben South Municipal",
+          "slug": "new-juaben-south-municipal-gh0626"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.094",
+      "lon": "-0.256"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

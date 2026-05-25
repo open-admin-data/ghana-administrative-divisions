@@ -1,0 +1,47 @@
+{
+  "id": "GH1603",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bia West",
+    "en": "Bia West",
+    "slug": "bia-west-gh1603"
+  },
+  "code": {
+    "id": "GH1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH16",
+    "level": 1,
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.569",
+    "lon": "-3.066"
+  },
+  "metadata": {},
+  "source": {}
+}

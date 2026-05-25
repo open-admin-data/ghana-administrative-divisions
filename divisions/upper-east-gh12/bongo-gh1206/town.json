@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "GH1206_adaboya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adaboya",
+      "en": "Adaboya",
+      "slug": "adaboya"
+    },
+    "code": {
+      "id": "GH1206_adaboya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-0.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_akolpolsiga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akolpolsiga",
+      "en": "Akolpolsiga",
+      "slug": "akolpolsiga"
+    },
+    "code": {
+      "id": "GH1206_akolpolsiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.995",
+      "lon": "-0.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_anafobisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anafobisi",
+      "en": "Anafobisi",
+      "slug": "anafobisi"
+    },
+    "code": {
+      "id": "GH1206_anafobisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.896",
+      "lon": "-0.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_apatanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apatanga",
+      "en": "Apatanga",
+      "slug": "apatanga"
+    },
+    "code": {
+      "id": "GH1206_apatanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.92",
+      "lon": "-0.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_atampiisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atampiisi",
+      "en": "Atampiisi",
+      "slug": "atampiisi"
+    },
+    "code": {
+      "id": "GH1206_atampiisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.91",
+      "lon": "-0.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_balungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Balungu",
+      "en": "Balungu",
+      "slug": "balungu"
+    },
+    "code": {
+      "id": "GH1206_balungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.938",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bembisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bembisi",
+      "en": "Bembisi",
+      "slug": "bembisi"
+    },
+    "code": {
+      "id": "GH1206_bembisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.926",
+      "lon": "-0.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_beo-tankoo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Beo Tankoo",
+      "en": "Beo Tankoo",
+      "slug": "beo-tankoo"
+    },
+    "code": {
+      "id": "GH1206_beo-tankoo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.872",
+      "lon": "-0.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bogrigo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bogrigo",
+      "en": "Bogrigo",
+      "slug": "bogrigo"
+    },
+    "code": {
+      "id": "GH1206_bogrigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.902",
+      "lon": "-0.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_boko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko"
+    },
+    "code": {
+      "id": "GH1206_boko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.982",
+      "lon": "-0.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo"
+    },
+    "code": {
+      "id": "GH1206_bongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.914",
+      "lon": "-0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bongosoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bongo/Soe",
+      "en": "Bongo/Soe",
+      "slug": "bongosoe"
+    },
+    "code": {
+      "id": "GH1206_bongosoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.964",
+      "lon": "-0.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bongowegurugo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bongo/Wegurugo",
+      "en": "Bongo/Wegurugo",
+      "slug": "bongowegurugo"
+    },
+    "code": {
+      "id": "GH1206_bongowegurugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.915",
+      "lon": "-0.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_bugsongonyangolingo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bugsongo/Nyangolingo",
+      "en": "Bugsongo/Nyangolingo",
+      "slug": "bugsongonyangolingo"
+    },
+    "code": {
+      "id": "GH1206_bugsongonyangolingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.971",
+      "lon": "-0.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_dua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dua",
+      "en": "Dua",
+      "slug": "dua"
+    },
+    "code": {
+      "id": "GH1206_dua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.881",
+      "lon": "-0.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_feo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Feo",
+      "en": "Feo",
+      "slug": "feo"
+    },
+    "code": {
+      "id": "GH1206_feo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.988",
+      "lon": "-0.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_gambrongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gambrongo",
+      "en": "Gambrongo",
+      "slug": "gambrongo"
+    },
+    "code": {
+      "id": "GH1206_gambrongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.899",
+      "lon": "-0.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_goo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goo",
+      "en": "Goo",
+      "slug": "goo"
+    },
+    "code": {
+      "id": "GH1206_goo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "-0.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_gowrie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gowrie",
+      "en": "Gowrie",
+      "slug": "gowrie"
+    },
+    "code": {
+      "id": "GH1206_gowrie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.858",
+      "lon": "-0.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_kabre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kabre",
+      "en": "Kabre",
+      "slug": "kabre"
+    },
+    "code": {
+      "id": "GH1206_kabre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.944",
+      "lon": "-0.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_kadare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kadare",
+      "en": "Kadare",
+      "slug": "kadare"
+    },
+    "code": {
+      "id": "GH1206_kadare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.945",
+      "lon": "-0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_kodorogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kodorogo",
+      "en": "Kodorogo",
+      "slug": "kodorogo"
+    },
+    "code": {
+      "id": "GH1206_kodorogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.925",
+      "lon": "-0.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_kunkua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kunkua",
+      "en": "Kunkua",
+      "slug": "kunkua"
+    },
+    "code": {
+      "id": "GH1206_kunkua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.876",
+      "lon": "-0.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_manyoro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manyoro",
+      "en": "Manyoro",
+      "slug": "manyoro"
+    },
+    "code": {
+      "id": "GH1206_manyoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.981",
+      "lon": "-0.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_nakolo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nakolo",
+      "en": "Nakolo",
+      "slug": "nakolo"
+    },
+    "code": {
+      "id": "GH1206_nakolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.99",
+      "lon": "-1.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_namoo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Namoo",
+      "en": "Namoo",
+      "slug": "namoo"
+    },
+    "code": {
+      "id": "GH1206_namoo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.969",
+      "lon": "-0.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_natugnia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Natugnia",
+      "en": "Natugnia",
+      "slug": "natugnia"
+    },
+    "code": {
+      "id": "GH1206_natugnia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.968",
+      "lon": "-0.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_nayorogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nayorogo",
+      "en": "Nayorogo",
+      "slug": "nayorogo"
+    },
+    "code": {
+      "id": "GH1206_nayorogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.936",
+      "lon": "-0.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_saporo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Saporo",
+      "en": "Saporo",
+      "slug": "saporo"
+    },
+    "code": {
+      "id": "GH1206_saporo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "-0.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_sirigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sirigu",
+      "en": "Sirigu",
+      "slug": "sirigu"
+    },
+    "code": {
+      "id": "GH1206_sirigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.958",
+      "lon": "-0.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_soe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Soe",
+      "en": "Soe",
+      "slug": "soe"
+    },
+    "code": {
+      "id": "GH1206_soe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.95",
+      "lon": "-0.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_vea",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vea",
+      "en": "Vea",
+      "slug": "vea"
+    },
+    "code": {
+      "id": "GH1206_vea",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.876",
+      "lon": "-0.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_wagliga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wagliga",
+      "en": "Wagliga",
+      "slug": "wagliga"
+    },
+    "code": {
+      "id": "GH1206_wagliga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.871",
+      "lon": "-0.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_yua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yua",
+      "en": "Yua",
+      "slug": "yua"
+    },
+    "code": {
+      "id": "GH1206_yua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.979",
+      "lon": "-0.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1206_zorko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zorko",
+      "en": "Zorko",
+      "slug": "zorko"
+    },
+    "code": {
+      "id": "GH1206_zorko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1206",
+      "level": 2,
+      "name": {
+        "local": "Bongo",
+        "en": "Bongo",
+        "slug": "bongo-gh1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1206",
+        "level": 2,
+        "name": {
+          "local": "Bongo",
+          "en": "Bongo",
+          "slug": "bongo-gh1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.909",
+      "lon": "-0.886"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "GH0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda-gh0301"
+    },
+    "code": {
+      "id": "GH0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.352",
+      "lon": "-2.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berekum East Municipal",
+      "en": "Berekum East Municipal",
+      "slug": "berekum-east-municipal-gh0302"
+    },
+    "code": {
+      "id": "GH0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.484",
+      "lon": "-2.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berekum West",
+      "en": "Berekum West",
+      "slug": "berekum-west-gh0303"
+    },
+    "code": {
+      "id": "GH0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.472",
+      "lon": "-2.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dormaa East",
+      "en": "Dormaa East",
+      "slug": "dormaa-east-gh0304"
+    },
+    "code": {
+      "id": "GH0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.264",
+      "lon": "-2.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dormaa Municipal",
+      "en": "Dormaa Municipal",
+      "slug": "dormaa-municipal-gh0305"
+    },
+    "code": {
+      "id": "GH0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.237",
+      "lon": "-2.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dormaa West",
+      "en": "Dormaa West",
+      "slug": "dormaa-west-gh0306"
+    },
+    "code": {
+      "id": "GH0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.975",
+      "lon": "-2.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jaman North",
+      "en": "Jaman North",
+      "slug": "jaman-north-gh0307"
+    },
+    "code": {
+      "id": "GH0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.913",
+      "lon": "-2.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jaman South Municipal",
+      "en": "Jaman South Municipal",
+      "slug": "jaman-south-municipal-gh0308"
+    },
+    "code": {
+      "id": "GH0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.623",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sunyani Municipal",
+      "en": "Sunyani Municipal",
+      "slug": "sunyani-municipal-gh0309"
+    },
+    "code": {
+      "id": "GH0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.229",
+      "lon": "-2.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0310",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sunyani West",
+      "en": "Sunyani West",
+      "slug": "sunyani-west-gh0310"
+    },
+    "code": {
+      "id": "GH0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.424",
+      "lon": "-2.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tain",
+      "en": "Tain",
+      "slug": "tain-gh0311"
+    },
+    "code": {
+      "id": "GH0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.792",
+      "lon": "-2.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0312",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wenchi Municipal",
+      "en": "Wenchi Municipal",
+      "slug": "wenchi-municipal-gh0312"
+    },
+    "code": {
+      "id": "GH0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.804",
+      "lon": "-2.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

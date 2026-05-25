@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH1502_airport-ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Airport  Ridge",
+      "en": "Airport  Ridge",
+      "slug": "airport-ridge"
+    },
+    "code": {
+      "id": "GH1502_airport-ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.902",
+      "lon": "-1.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_airport-ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Airport Ridge",
+      "en": "Airport Ridge",
+      "slug": "airport-ridge"
+    },
+    "code": {
+      "id": "GH1502_airport-ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.905",
+      "lon": "-1.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_apollo-junction-apremdo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apollo Junction Apremdo",
+      "en": "Apollo Junction Apremdo",
+      "slug": "apollo-junction-apremdo"
+    },
+    "code": {
+      "id": "GH1502_apollo-junction-apremdo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.91",
+      "lon": "-1.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_apremdo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apremdo",
+      "en": "Apremdo",
+      "slug": "apremdo"
+    },
+    "code": {
+      "id": "GH1502_apremdo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.914",
+      "lon": "-1.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_kwesimintsim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwesimintsim",
+      "en": "Kwesimintsim",
+      "slug": "kwesimintsim"
+    },
+    "code": {
+      "id": "GH1502_kwesimintsim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.917",
+      "lon": "-1.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_kwesimintsim-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwesimintsim Zongo",
+      "en": "Kwesimintsim Zongo",
+      "slug": "kwesimintsim-zongo"
+    },
+    "code": {
+      "id": "GH1502_kwesimintsim-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.916",
+      "lon": "-1.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502_mpohor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpohor",
+      "en": "Mpohor",
+      "slug": "mpohor"
+    },
+    "code": {
+      "id": "GH1502_mpohor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1502",
+      "level": 2,
+      "name": {
+        "local": "Effia Kwesimintsim Municipal",
+        "en": "Effia Kwesimintsim Municipal",
+        "slug": "effia-kwesimintsim-municipal-gh1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1502",
+        "level": 2,
+        "name": {
+          "local": "Effia Kwesimintsim Municipal",
+          "en": "Effia Kwesimintsim Municipal",
+          "slug": "effia-kwesimintsim-municipal-gh1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "-1.893"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

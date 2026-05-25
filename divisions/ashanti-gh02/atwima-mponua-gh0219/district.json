@@ -1,0 +1,47 @@
+{
+  "id": "GH0219",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Atwima Mponua",
+    "en": "Atwima Mponua",
+    "slug": "atwima-mponua-gh0219"
+  },
+  "code": {
+    "id": "GH0219",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.555",
+    "lon": "-2.177"
+  },
+  "metadata": {},
+  "source": {}
+}

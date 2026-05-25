@@ -1,0 +1,47 @@
+{
+  "id": "GH1106",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sawla-Tuna-Kalba",
+    "en": "Sawla-Tuna-Kalba",
+    "slug": "sawla-tuna-kalba-gh1106"
+  },
+  "code": {
+    "id": "GH1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH11",
+    "level": 1,
+    "name": {
+      "local": "Savannah",
+      "en": "Savannah",
+      "slug": "savannah-gh11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.479",
+    "lon": "-2.413"
+  },
+  "metadata": {},
+  "source": {}
+}

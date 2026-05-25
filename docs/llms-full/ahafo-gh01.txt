@@ -1,0 +1,175 @@
+# Ahafo — Ghana Administrative Divisions
+
+> 6 districts, 34 towns
+> Code: GH01
+> Coordinates: 6.874, -2.618
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Asunafo North Municipal
+
+Code: GH0101, Coordinates: 6.814, -2.681
+Towns: 9
+
+#### Akrodie
+
+Code: GH0101_akrodie, Coordinates: 6.695, -2.557
+
+#### Ampenkro
+
+Code: GH0101_ampenkro, Coordinates: 6.944, -2.763
+
+#### Asumura
+
+Code: GH0101_asumura, Coordinates: 6.692, -2.562
+
+#### Ayomso
+
+Code: GH0101_ayomso, Coordinates: 6.764, -2.582
+
+#### Fawohoyeden
+
+Code: GH0101_fawohoyeden, Coordinates: 6.737, -2.573
+
+#### Gaoso
+
+Code: GH0101_gaoso, Coordinates: 6.802, -2.517
+
+#### Goaso
+
+Code: GH0101_goaso, Coordinates: 6.806, -2.522
+
+#### Kasapin
+
+Code: GH0101_kasapin, Coordinates: 6.943, -2.805
+
+#### Mim
+
+Code: GH0101_mim, Coordinates: 6.906, -2.564
+
+### Asunafo South
+
+Code: GH0102, Coordinates: 6.56, -2.532
+Towns: 7
+
+#### Abuom
+
+Code: GH0102_abuom, Coordinates: 6.619, -2.706
+
+#### Asarekrom
+
+Code: GH0102_asarekrom, Coordinates: 6.576, -2.639
+
+#### Kokooso
+
+Code: GH0102_kokooso, Coordinates: 6.643, -2.586
+
+#### Kukuom
+
+Code: GH0102_kukuom, Coordinates: 6.697, -2.439
+
+#### Kwapong
+
+Code: GH0102_kwapong, Coordinates: 6.623, -2.475
+
+#### Norbeko
+
+Code: GH0102_norbeko, Coordinates: 6.651, -2.424
+
+#### Sankore
+
+Code: GH0102_sankore, Coordinates: 6.503, -2.502
+
+### Asutifi North
+
+Code: GH0103, Coordinates: 7.076, -2.527
+Towns: 2
+
+#### Gambia  No.1
+
+Code: GH0103_gambia-no1, Coordinates: 7.038, -2.636
+
+#### Nkensere
+
+Code: GH0103_nkensere, Coordinates: 6.994, -2.537
+
+### Asutifi South
+
+Code: GH0104, Coordinates: 6.85, -2.461
+Towns: 5
+
+#### Dadiesoaba
+
+Code: GH0104_dadiesoaba, Coordinates: 6.779, -2.42
+
+#### Kenyasi
+
+Code: GH0104_kenyasi, Coordinates: 6.98, -2.386
+
+#### Nkasiem
+
+Code: GH0104_nkasiem, Coordinates: 6.865, -2.449
+
+#### Siekyemu
+
+Code: GH0104_siekyemu, Coordinates: 6.707, -2.395
+
+#### Twabidi No.1
+
+Code: GH0104_twabidi-no1, Coordinates: 6.832, -2.362
+
+### Tano North Municipal
+
+Code: GH0105, Coordinates: 7.195, -2.208
+Towns: 6
+
+#### Adrobaa
+
+Code: GH0105_adrobaa, Coordinates: 7.263, -2.132
+
+#### Bomaa
+
+Code: GH0105_bomaa, Coordinates: 7.087, -2.168
+
+#### Duayaw Nkwanta
+
+Code: GH0105_duayaw-nkwanta, Coordinates: 7.176, -2.097
+
+#### Gyedu
+
+Code: GH0105_gyedu, Coordinates: 7.069, -2.325
+
+#### Tanoso
+
+Code: GH0105_tanoso, Coordinates: 7.268, -2.236
+
+#### Yamfo
+
+Code: GH0105_yamfo, Coordinates: 7.226, -2.241
+
+### Tano South Municipal
+
+Code: GH0106, Coordinates: 7.162, -1.998
+Towns: 5
+
+#### Bechem
+
+Code: GH0106_bechem, Coordinates: 7.088, -2.029
+
+#### Brosankro
+
+Code: GH0106_brosankro, Coordinates: 7.047, -2.1
+
+#### Derma
+
+Code: GH0106_derma, Coordinates: 7.209, -1.949
+
+#### Sabronum
+
+Code: GH0106_sabronum, Coordinates: 7.088, -1.891
+
+#### Techimantia
+
+Code: GH0106_techimantia, Coordinates: 7.181, -2.029
+

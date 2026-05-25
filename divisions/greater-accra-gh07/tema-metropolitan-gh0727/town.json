@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "GH0727_adabraka-near-goil-headoffice",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adabraka (near Goil headoffice)",
+      "en": "Adabraka (near Goil headoffice)",
+      "slug": "adabraka-near-goil-headoffice"
+    },
+    "code": {
+      "id": "GH0727_adabraka-near-goil-headoffice",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.554",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_adenta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adenta",
+      "en": "Adenta",
+      "slug": "adenta"
+    },
+    "code": {
+      "id": "GH0727_adenta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.746",
+      "lon": "-0.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_adenta-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adenta Estate",
+      "en": "Adenta Estate",
+      "slug": "adenta-estate"
+    },
+    "code": {
+      "id": "GH0727_adenta-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.706",
+      "lon": "-0.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_adenta-estate-housing-down",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adenta Estate (Housing Down)",
+      "en": "Adenta Estate (Housing Down)",
+      "slug": "adenta-estate-housing-down"
+    },
+    "code": {
+      "id": "GH0727_adenta-estate-housing-down",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.706",
+      "lon": "-0.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_amrahia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amrahia",
+      "en": "Amrahia",
+      "slug": "amrahia"
+    },
+    "code": {
+      "id": "GH0727_amrahia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.768",
+      "lon": "-0.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaima",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaima",
+      "en": "Ashaima",
+      "slug": "ashaima"
+    },
+    "code": {
+      "id": "GH0727_ashaima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.694",
+      "lon": "-0.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaima-new-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaima New Town",
+      "en": "Ashaima New Town",
+      "slug": "ashaima-new-town"
+    },
+    "code": {
+      "id": "GH0727_ashaima-new-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.704",
+      "lon": "-0.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaiman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaiman",
+      "en": "Ashaiman",
+      "slug": "ashaiman"
+    },
+    "code": {
+      "id": "GH0727_ashaiman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.69",
+      "lon": "-0.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaiman-nii-amui-park-manannanyo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaiman (Nii Amui Park {Manannanyo}",
+      "en": "Ashaiman (Nii Amui Park {Manannanyo}",
+      "slug": "ashaiman-nii-amui-park-manannanyo"
+    },
+    "code": {
+      "id": "GH0727_ashaiman-nii-amui-park-manannanyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.699",
+      "lon": "-0.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaiman-community-12",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaiman Community 12",
+      "en": "Ashaiman Community 12",
+      "slug": "ashaiman-community-12"
+    },
+    "code": {
+      "id": "GH0727_ashaiman-community-12",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.678",
+      "lon": "-0.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashaiman-lebanon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashaiman Lebanon",
+      "en": "Ashaiman Lebanon",
+      "slug": "ashaiman-lebanon"
+    },
+    "code": {
+      "id": "GH0727_ashaiman-lebanon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.703",
+      "lon": "-0.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_ashalebotwe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashalebotwe",
+      "en": "Ashalebotwe",
+      "slug": "ashalebotwe"
+    },
+    "code": {
+      "id": "GH0727_ashalebotwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.684",
+      "lon": "-0.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_baba-yara-madina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Baba Yara (Madina)",
+      "en": "Baba Yara (Madina)",
+      "slug": "baba-yara-madina"
+    },
+    "code": {
+      "id": "GH0727_baba-yara-madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.686",
+      "lon": "-0.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_betlehem-near-michael-camp",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Betlehem (near Michael Camp)",
+      "en": "Betlehem (near Michael Camp)",
+      "slug": "betlehem-near-michael-camp"
+    },
+    "code": {
+      "id": "GH0727_betlehem-near-michael-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.707",
+      "lon": "-0.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_kaneshie-near-mkt",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kaneshie (near mkt)",
+      "en": "Kaneshie (near mkt)",
+      "slug": "kaneshie-near-mkt"
+    },
+    "code": {
+      "id": "GH0727_kaneshie-near-mkt",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_kpone",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpone",
+      "en": "Kpone",
+      "slug": "kpone"
+    },
+    "code": {
+      "id": "GH0727_kpone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.696",
+      "lon": "0.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_kpone-bawaleshi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpone Bawaleshi",
+      "en": "Kpone Bawaleshi",
+      "slug": "kpone-bawaleshi"
+    },
+    "code": {
+      "id": "GH0727_kpone-bawaleshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.856",
+      "lon": "-0.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_lashibi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lashibi",
+      "en": "Lashibi",
+      "slug": "lashibi"
+    },
+    "code": {
+      "id": "GH0727_lashibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.665",
+      "lon": "-0.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_lashibi-community-19",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lashibi Community 19",
+      "en": "Lashibi Community 19",
+      "slug": "lashibi-community-19"
+    },
+    "code": {
+      "id": "GH0727_lashibi-community-19",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.656",
+      "lon": "-0.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_lashibi-community-20",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lashibi Community 20",
+      "en": "Lashibi Community 20",
+      "slug": "lashibi-community-20"
+    },
+    "code": {
+      "id": "GH0727_lashibi-community-20",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.653",
+      "lon": "-0.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_maamobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maamobi",
+      "en": "Maamobi",
+      "slug": "maamobi"
+    },
+    "code": {
+      "id": "GH0727_maamobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.594",
+      "lon": "-0.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_mile-7-new-achimota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mile 7 (New Achimota)",
+      "en": "Mile 7 (New Achimota)",
+      "slug": "mile-7-new-achimota"
+    },
+    "code": {
+      "id": "GH0727_mile-7-new-achimota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "-0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_nima",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima",
+      "en": "Nima",
+      "slug": "nima"
+    },
+    "code": {
+      "id": "GH0727_nima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.587",
+      "lon": "-0.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_osu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osu",
+      "en": "Osu",
+      "slug": "osu"
+    },
+    "code": {
+      "id": "GH0727_osu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.551",
+      "lon": "-0.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_oyibi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oyibi",
+      "en": "Oyibi",
+      "slug": "oyibi"
+    },
+    "code": {
+      "id": "GH0727_oyibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.806",
+      "lon": "-0.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_sakumano-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sakumano Estate",
+      "en": "Sakumano Estate",
+      "slug": "sakumano-estate"
+    },
+    "code": {
+      "id": "GH0727_sakumano-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.624",
+      "lon": "-0.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_spintex-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Spintex road",
+      "en": "Spintex road",
+      "slug": "spintex-road"
+    },
+    "code": {
+      "id": "GH0727_spintex-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.619",
+      "lon": "-0.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema",
+      "en": "Tema",
+      "slug": "tema"
+    },
+    "code": {
+      "id": "GH0727_tema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.666",
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 1",
+      "en": "Tema Community 1",
+      "slug": "tema-community-1"
+    },
+    "code": {
+      "id": "GH0727_tema-community-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.646",
+      "lon": "-0.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-10",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 10",
+      "en": "Tema Community 10",
+      "slug": "tema-community-10"
+    },
+    "code": {
+      "id": "GH0727_tema-community-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.653",
+      "lon": "-0.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-11",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 11",
+      "en": "Tema Community 11",
+      "slug": "tema-community-11"
+    },
+    "code": {
+      "id": "GH0727_tema-community-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.665",
+      "lon": "-0.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 2",
+      "en": "Tema Community 2",
+      "slug": "tema-community-2"
+    },
+    "code": {
+      "id": "GH0727_tema-community-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.633",
+      "lon": "-0.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-4",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 4",
+      "en": "Tema Community 4",
+      "slug": "tema-community-4"
+    },
+    "code": {
+      "id": "GH0727_tema-community-4",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.658",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-5",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 5",
+      "en": "Tema Community 5",
+      "slug": "tema-community-5"
+    },
+    "code": {
+      "id": "GH0727_tema-community-5",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.643",
+      "lon": "-0.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-6",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 6",
+      "en": "Tema Community 6",
+      "slug": "tema-community-6"
+    },
+    "code": {
+      "id": "GH0727_tema-community-6",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.652",
+      "lon": "-0.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-7",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 7",
+      "en": "Tema Community 7",
+      "slug": "tema-community-7"
+    },
+    "code": {
+      "id": "GH0727_tema-community-7",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.66",
+      "lon": "-0.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-8",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 8",
+      "en": "Tema Community 8",
+      "slug": "tema-community-8"
+    },
+    "code": {
+      "id": "GH0727_tema-community-8",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.668",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-community-9",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Community 9",
+      "en": "Tema Community 9",
+      "slug": "tema-community-9"
+    },
+    "code": {
+      "id": "GH0727_tema-community-9",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.672",
+      "lon": "-0.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-fishing-habour",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Fishing Habour",
+      "en": "Tema Fishing Habour",
+      "slug": "tema-fishing-habour"
+    },
+    "code": {
+      "id": "GH0727_tema-fishing-habour",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.645",
+      "lon": "0.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-heavy-industrial-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Heavy Industrial Town",
+      "en": "Tema Heavy Industrial Town",
+      "slug": "tema-heavy-industrial-town"
+    },
+    "code": {
+      "id": "GH0727_tema-heavy-industrial-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.657",
+      "lon": "0.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-main-habour",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Main Habour",
+      "en": "Tema Main Habour",
+      "slug": "tema-main-habour"
+    },
+    "code": {
+      "id": "GH0727_tema-main-habour",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.633",
+      "lon": "0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-manhean",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Manhean",
+      "en": "Tema Manhean",
+      "slug": "tema-manhean"
+    },
+    "code": {
+      "id": "GH0727_tema-manhean",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.657",
+      "lon": "0.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-mataheko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema Mataheko",
+      "en": "Tema Mataheko",
+      "slug": "tema-mataheko"
+    },
+    "code": {
+      "id": "GH0727_tema-mataheko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.772",
+      "lon": "-0.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727_tema-new-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tema New Town",
+      "en": "Tema New Town",
+      "slug": "tema-new-town"
+    },
+    "code": {
+      "id": "GH0727_tema-new-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0727",
+      "level": 2,
+      "name": {
+        "local": "Tema Metropolitan",
+        "en": "Tema Metropolitan",
+        "slug": "tema-metropolitan-gh0727"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0727",
+        "level": 2,
+        "name": {
+          "local": "Tema Metropolitan",
+          "en": "Tema Metropolitan",
+          "slug": "tema-metropolitan-gh0727"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.648",
+      "lon": "0.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

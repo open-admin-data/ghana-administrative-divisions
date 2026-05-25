@@ -1,0 +1,252 @@
+# Bono East — Ghana Administrative Divisions
+
+> 11 districts, 47 towns
+> Code: GH04
+> Coordinates: 7.975, -1.104
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Atebubu Amantin
+
+Code: GH0401, Coordinates: 7.729, -1.096
+Towns: 4
+
+#### Akokoa
+
+Code: GH0401_akokoa, Coordinates: 7.585, -1.154
+
+#### Amanteng
+
+Code: GH0401_amanteng, Coordinates: 7.538, -1.208
+
+#### Atebubu
+
+Code: GH0401_atebubu, Coordinates: 7.748, -0.982
+
+#### Jato Zongo
+
+Code: GH0401_jato-zongo, Coordinates: 7.654, -1.065
+
+### Kintampo North Municipal
+
+Code: GH0402, Coordinates: 8.386, -1.578
+Towns: 5
+
+#### Busuama
+
+Code: GH0402_busuama, Coordinates: 8.232, -1.855
+
+#### Dawadawa
+
+Code: GH0402_dawadawa, Coordinates: 8.355, -1.566
+
+#### Kintampo
+
+Code: GH0402_kintampo, Coordinates: 8.051, -1.731
+
+#### Kunsu
+
+Code: GH0402_kunsu, Coordinates: 8.147, -1.512
+
+#### New Longoro
+
+Code: GH0402_new-longoro, Coordinates: 8.173, -1.838
+
+### Kintampo South
+
+Code: GH0403, Coordinates: 7.942, -1.734
+Towns: 4
+
+#### Amoma
+
+Code: GH0403_amoma, Coordinates: 7.784, -1.871
+
+#### Anyima
+
+Code: GH0403_anyima, Coordinates: 7.893, -1.874
+
+#### Apesika
+
+Code: GH0403_apesika, Coordinates: 8, -1.549
+
+#### Jema
+
+Code: GH0403_jema, Coordinates: 7.891, -1.773
+
+### Nkoranza North
+
+Code: GH0404, Coordinates: 7.72, -1.643
+Towns: 3
+
+#### Busunyaa
+
+Code: GH0404_busunyaa, Coordinates: 7.685, -1.658
+
+#### Dromankese
+
+Code: GH0404_dromankese, Coordinates: 7.709, -1.561
+
+#### Yefri
+
+Code: GH0404_yefri, Coordinates: 7.691, -1.748
+
+### Nkoranza South
+
+Code: GH0405, Coordinates: 7.452, -1.677
+Towns: 7
+
+#### Akuma
+
+Code: GH0405_akuma, Coordinates: 7.487, -1.718
+
+#### Ayerede
+
+Code: GH0405_ayerede, Coordinates: 7.486, -1.649
+
+#### Bonsu
+
+Code: GH0405_bonsu, Coordinates: 7.552, -1.78
+
+#### Donkro-Nkwanta
+
+Code: GH0405_donkro-nkwanta, Coordinates: 7.435, -1.66
+
+#### Nkoranza
+
+Code: GH0405_nkoranza, Coordinates: 7.556, -1.7
+
+#### Nkwabeng
+
+Code: GH0405_nkwabeng, Coordinates: 7.5, -1.738
+
+#### Sekyedumase Health Centre
+
+Code: GH0405_sekyedumase-health-centre, Coordinates: 7.314, -1.579
+
+### Pru East
+
+Code: GH0406, Coordinates: 8.137, -0.812
+Towns: 3
+
+#### Parambo
+
+Code: GH0406_parambo, Coordinates: 8.125, -0.794
+
+#### Prang
+
+Code: GH0406_prang, Coordinates: 7.995, -0.889
+
+#### Yeji
+
+Code: GH0406_yeji, Coordinates: 8.229, -0.652
+
+### Pru West
+
+Code: GH0407, Coordinates: 8.038, -1.31
+Towns: 1
+
+#### Abease
+
+Code: GH0407_abease, Coordinates: 7.958, -1.182
+
+### Sene East
+
+Code: GH0408, Coordinates: 7.669, -0.209
+Towns: 3
+
+#### Kajaji
+
+Code: GH0408_kajaji, Coordinates: 7.781, -0.221
+
+#### Kojokrom
+
+Code: GH0408_kojokrom, Coordinates: 7.779, -0.171
+
+#### Nyakontre
+
+Code: GH0408_nyakontre, Coordinates: 7.793, -0.342
+
+### Sene West
+
+Code: GH0409, Coordinates: 7.749, -0.618
+Towns: 4
+
+#### Bantama
+
+Code: GH0409_bantama, Coordinates: 7.712, -0.753
+
+#### Bassa
+
+Code: GH0409_bassa, Coordinates: 7.79, -0.41
+
+#### Kwame Danso
+
+Code: GH0409_kwame-danso, Coordinates: 7.732, -0.673
+
+#### Kwami Danso
+
+Code: GH0409_kwami-danso, Coordinates: 7.73, -0.686
+
+### Techiman Municipal
+
+Code: GH0410, Coordinates: 7.526, -1.974
+Towns: 12
+
+#### Asantanso
+
+Code: GH0410_asantanso, Coordinates: 7.546, -1.865
+
+#### Aworowa
+
+Code: GH0410_aworowa, Coordinates: 7.62, -2.012
+
+#### Buotem
+
+Code: GH0410_buotem, Coordinates: 7.666, -1.961
+
+#### Fiaso
+
+Code: GH0410_fiaso, Coordinates: 7.579, -1.818
+
+#### Forikrom
+
+Code: GH0410_forikrom, Coordinates: 7.594, -1.864
+
+#### Gyako
+
+Code: GH0410_gyako, Coordinates: 7.591, -1.947
+
+#### Koraso
+
+Code: GH0410_koraso, Coordinates: 7.482, -2.027
+
+#### Nsuta
+
+Code: GH0410_nsuta, Coordinates: 7.528, -2.074
+
+#### Offuman
+
+Code: GH0410_offuman, Coordinates: 7.784, -1.97
+
+#### Tanoso
+
+Code: GH0410_tanoso, Coordinates: 7.471, -1.979
+
+#### Techiman
+
+Code: GH0410_techiman, Coordinates: 7.562, -1.935
+
+#### Tuobodom
+
+Code: GH0410_tuobodom, Coordinates: 7.635, -1.912
+
+### Techiman North
+
+Code: GH0411, Coordinates: 7.702, -1.984
+Towns: 1
+
+#### Kranka
+
+Code: GH0411_kranka, Coordinates: 7.667, -1.811
+

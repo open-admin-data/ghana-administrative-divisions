@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0105_adrobaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adrobaa",
+      "en": "Adrobaa",
+      "slug": "adrobaa"
+    },
+    "code": {
+      "id": "GH0105_adrobaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.263",
+      "lon": "-2.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105_bomaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bomaa",
+      "en": "Bomaa",
+      "slug": "bomaa"
+    },
+    "code": {
+      "id": "GH0105_bomaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.087",
+      "lon": "-2.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105_duayaw-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duayaw Nkwanta",
+      "en": "Duayaw Nkwanta",
+      "slug": "duayaw-nkwanta"
+    },
+    "code": {
+      "id": "GH0105_duayaw-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.176",
+      "lon": "-2.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105_gyedu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyedu",
+      "en": "Gyedu",
+      "slug": "gyedu"
+    },
+    "code": {
+      "id": "GH0105_gyedu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.069",
+      "lon": "-2.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105_tanoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tanoso",
+      "en": "Tanoso",
+      "slug": "tanoso"
+    },
+    "code": {
+      "id": "GH0105_tanoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.268",
+      "lon": "-2.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105_yamfo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yamfo",
+      "en": "Yamfo",
+      "slug": "yamfo"
+    },
+    "code": {
+      "id": "GH0105_yamfo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0105",
+      "level": 2,
+      "name": {
+        "local": "Tano North Municipal",
+        "en": "Tano North Municipal",
+        "slug": "tano-north-municipal-gh0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0105",
+        "level": 2,
+        "name": {
+          "local": "Tano North Municipal",
+          "en": "Tano North Municipal",
+          "slug": "tano-north-municipal-gh0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.226",
+      "lon": "-2.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

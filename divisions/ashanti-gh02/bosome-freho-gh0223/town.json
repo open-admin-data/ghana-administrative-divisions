@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0223_achiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Achiase",
+      "en": "Achiase",
+      "slug": "achiase"
+    },
+    "code": {
+      "id": "GH0223_achiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.455",
+      "lon": "-1.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223_asiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asiwa",
+      "en": "Asiwa",
+      "slug": "asiwa"
+    },
+    "code": {
+      "id": "GH0223_asiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.423",
+      "lon": "-1.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223_brofoyedru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brofoyedru",
+      "en": "Brofoyedru",
+      "slug": "brofoyedru"
+    },
+    "code": {
+      "id": "GH0223_brofoyedru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.473",
+      "lon": "-1.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223_detieso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Detieso",
+      "en": "Detieso",
+      "slug": "detieso"
+    },
+    "code": {
+      "id": "GH0223_detieso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.477",
+      "lon": "-1.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223_duasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duasi",
+      "en": "Duasi",
+      "slug": "duasi"
+    },
+    "code": {
+      "id": "GH0223_duasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.469",
+      "lon": "-1.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223_gyasikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyasikrom",
+      "en": "Gyasikrom",
+      "slug": "gyasikrom"
+    },
+    "code": {
+      "id": "GH0223_gyasikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0223",
+      "level": 2,
+      "name": {
+        "local": "Bosome Freho",
+        "en": "Bosome Freho",
+        "slug": "bosome-freho-gh0223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0223",
+        "level": 2,
+        "name": {
+          "local": "Bosome Freho",
+          "en": "Bosome Freho",
+          "slug": "bosome-freho-gh0223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.401",
+      "lon": "-1.473"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

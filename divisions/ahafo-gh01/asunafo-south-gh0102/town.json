@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0102_abuom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abuom",
+      "en": "Abuom",
+      "slug": "abuom"
+    },
+    "code": {
+      "id": "GH0102_abuom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.619",
+      "lon": "-2.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_asarekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asarekrom",
+      "en": "Asarekrom",
+      "slug": "asarekrom"
+    },
+    "code": {
+      "id": "GH0102_asarekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.576",
+      "lon": "-2.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_kokooso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokooso",
+      "en": "Kokooso",
+      "slug": "kokooso"
+    },
+    "code": {
+      "id": "GH0102_kokooso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.643",
+      "lon": "-2.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_kukuom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukuom",
+      "en": "Kukuom",
+      "slug": "kukuom"
+    },
+    "code": {
+      "id": "GH0102_kukuom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.697",
+      "lon": "-2.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_kwapong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwapong",
+      "en": "Kwapong",
+      "slug": "kwapong"
+    },
+    "code": {
+      "id": "GH0102_kwapong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.623",
+      "lon": "-2.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_norbeko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Norbeko",
+      "en": "Norbeko",
+      "slug": "norbeko"
+    },
+    "code": {
+      "id": "GH0102_norbeko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.651",
+      "lon": "-2.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102_sankore",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sankore",
+      "en": "Sankore",
+      "slug": "sankore"
+    },
+    "code": {
+      "id": "GH0102_sankore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0102",
+      "level": 2,
+      "name": {
+        "local": "Asunafo South",
+        "en": "Asunafo South",
+        "slug": "asunafo-south-gh0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0102",
+        "level": 2,
+        "name": {
+          "local": "Asunafo South",
+          "en": "Asunafo South",
+          "slug": "asunafo-south-gh0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.503",
+      "lon": "-2.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

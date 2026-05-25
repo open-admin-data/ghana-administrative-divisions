@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1101_bamboi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bamboi",
+      "en": "Bamboi",
+      "slug": "bamboi"
+    },
+    "code": {
+      "id": "GH1101_bamboi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.165",
+      "lon": "-2.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1101_banda-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banda-Nkwanta",
+      "en": "Banda-Nkwanta",
+      "slug": "banda-nkwanta"
+    },
+    "code": {
+      "id": "GH1101_banda-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.353",
+      "lon": "-2.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1101_bole",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bole",
+      "en": "Bole",
+      "slug": "bole"
+    },
+    "code": {
+      "id": "GH1101_bole",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.032",
+      "lon": "-2.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1101_jama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jama",
+      "en": "Jama",
+      "slug": "jama"
+    },
+    "code": {
+      "id": "GH1101_jama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.3",
+      "lon": "-2.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1101_mandari",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mandari",
+      "en": "Mandari",
+      "slug": "mandari"
+    },
+    "code": {
+      "id": "GH1101_mandari",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.023",
+      "lon": "-2.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1101_tinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tinga",
+      "en": "Tinga",
+      "slug": "tinga"
+    },
+    "code": {
+      "id": "GH1101_tinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1101",
+      "level": 2,
+      "name": {
+        "local": "Bole",
+        "en": "Bole",
+        "slug": "bole-gh1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1101",
+        "level": 2,
+        "name": {
+          "local": "Bole",
+          "en": "Bole",
+          "slug": "bole-gh1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.581",
+      "lon": "-2.224"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

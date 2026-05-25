@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH0504_ajumako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ajumako",
+      "en": "Ajumako",
+      "slug": "ajumako"
+    },
+    "code": {
+      "id": "GH0504_ajumako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.424",
+      "lon": "-0.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_ajumako-ba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ajumako Ba",
+      "en": "Ajumako Ba",
+      "slug": "ajumako-ba"
+    },
+    "code": {
+      "id": "GH0504_ajumako-ba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.476",
+      "lon": "-0.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_ajumako-bisease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ajumako Bisease",
+      "en": "Ajumako Bisease",
+      "slug": "ajumako-bisease"
+    },
+    "code": {
+      "id": "GH0504_ajumako-bisease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.465",
+      "lon": "-0.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_ajumako-entumbil",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ajumako Entumbil",
+      "en": "Ajumako Entumbil",
+      "slug": "ajumako-entumbil"
+    },
+    "code": {
+      "id": "GH0504_ajumako-entumbil",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.48",
+      "lon": "-0.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_ekukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekukrom",
+      "en": "Ekukrom",
+      "slug": "ekukrom"
+    },
+    "code": {
+      "id": "GH0504_ekukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.411",
+      "lon": "-1.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_enyan-abaasa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyan Abaasa",
+      "en": "Enyan Abaasa",
+      "slug": "enyan-abaasa"
+    },
+    "code": {
+      "id": "GH0504_enyan-abaasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.354",
+      "lon": "-0.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_enyan-maim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyan Maim",
+      "en": "Enyan Maim",
+      "slug": "enyan-maim"
+    },
+    "code": {
+      "id": "GH0504_enyan-maim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.314",
+      "lon": "-1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_etsi-sonkwaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Etsi Sonkwaa",
+      "en": "Etsi Sonkwaa",
+      "slug": "etsi-sonkwaa"
+    },
+    "code": {
+      "id": "GH0504_etsi-sonkwaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.359",
+      "lon": "-1.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_kwanyako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwanyako",
+      "en": "Kwanyako",
+      "slug": "kwanyako"
+    },
+    "code": {
+      "id": "GH0504_kwanyako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.45",
+      "lon": "-0.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_nkodwo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkodwo",
+      "en": "Nkodwo",
+      "slug": "nkodwo"
+    },
+    "code": {
+      "id": "GH0504_nkodwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.356",
+      "lon": "-0.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_nkwantanum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwantanum",
+      "en": "Nkwantanum",
+      "slug": "nkwantanum"
+    },
+    "code": {
+      "id": "GH0504_nkwantanum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.412",
+      "lon": "-0.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504_zion-denkyira",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zion Denkyira",
+      "en": "Zion Denkyira",
+      "slug": "zion-denkyira"
+    },
+    "code": {
+      "id": "GH0504_zion-denkyira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0504",
+      "level": 2,
+      "name": {
+        "local": "Ajumako-Enyan-Essiam",
+        "en": "Ajumako-Enyan-Essiam",
+        "slug": "ajumako-enyan-essiam-gh0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0504",
+        "level": 2,
+        "name": {
+          "local": "Ajumako-Enyan-Essiam",
+          "en": "Ajumako-Enyan-Essiam",
+          "slug": "ajumako-enyan-essiam-gh0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.394",
+      "lon": "-0.982"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

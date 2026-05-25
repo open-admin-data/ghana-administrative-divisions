@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "GH1205_aguusi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aguusi",
+      "en": "Aguusi",
+      "slug": "aguusi"
+    },
+    "code": {
+      "id": "GH1205_aguusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.85",
+      "lon": "-0.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_atulbabisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atulbabisi",
+      "en": "Atulbabisi",
+      "slug": "atulbabisi"
+    },
+    "code": {
+      "id": "GH1205_atulbabisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.788",
+      "lon": "-0.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_bolga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bolga",
+      "en": "Bolga",
+      "slug": "bolga"
+    },
+    "code": {
+      "id": "GH1205_bolga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.776",
+      "lon": "-0.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_bolga-soe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bolga Soe",
+      "en": "Bolga Soe",
+      "slug": "bolga-soe"
+    },
+    "code": {
+      "id": "GH1205_bolga-soe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.803",
+      "lon": "-0.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_bolgatanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bolgatanga",
+      "en": "Bolgatanga",
+      "slug": "bolgatanga"
+    },
+    "code": {
+      "id": "GH1205_bolgatanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.794",
+      "lon": "-0.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_damweo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Damweo",
+      "en": "Damweo",
+      "slug": "damweo"
+    },
+    "code": {
+      "id": "GH1205_damweo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.779",
+      "lon": "-0.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_daporetidongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Daporetidongo",
+      "en": "Daporetidongo",
+      "slug": "daporetidongo"
+    },
+    "code": {
+      "id": "GH1205_daporetidongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.789",
+      "lon": "-0.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_gambibgo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gambibgo",
+      "en": "Gambibgo",
+      "slug": "gambibgo"
+    },
+    "code": {
+      "id": "GH1205_gambibgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.756",
+      "lon": "-0.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_gonigoawaradone",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gonigo/Awaradone",
+      "en": "Gonigo/Awaradone",
+      "slug": "gonigoawaradone"
+    },
+    "code": {
+      "id": "GH1205_gonigoawaradone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.726",
+      "lon": "-0.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_kalbeo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kalbeo",
+      "en": "Kalbeo",
+      "slug": "kalbeo"
+    },
+    "code": {
+      "id": "GH1205_kalbeo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.752",
+      "lon": "-0.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_mirigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mirigu",
+      "en": "Mirigu",
+      "slug": "mirigu"
+    },
+    "code": {
+      "id": "GH1205_mirigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.909",
+      "lon": "-0.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_nyariga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyariga",
+      "en": "Nyariga",
+      "slug": "nyariga"
+    },
+    "code": {
+      "id": "GH1205_nyariga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.848",
+      "lon": "-0.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_pwalugu-soe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pwalugu Soe",
+      "en": "Pwalugu Soe",
+      "slug": "pwalugu-soe"
+    },
+    "code": {
+      "id": "GH1205_pwalugu-soe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.612",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_sherigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sherigu",
+      "en": "Sherigu",
+      "slug": "sherigu"
+    },
+    "code": {
+      "id": "GH1205_sherigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.773",
+      "lon": "-0.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_sokabisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sokabisi",
+      "en": "Sokabisi",
+      "slug": "sokabisi"
+    },
+    "code": {
+      "id": "GH1205_sokabisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.791",
+      "lon": "-0.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_sumbrungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sumbrungu",
+      "en": "Sumbrungu",
+      "slug": "sumbrungu"
+    },
+    "code": {
+      "id": "GH1205_sumbrungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.823",
+      "lon": "-0.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_winkogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Winkogo",
+      "en": "Winkogo",
+      "slug": "winkogo"
+    },
+    "code": {
+      "id": "GH1205_winkogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.718",
+      "lon": "-0.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_zaare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zaare",
+      "en": "Zaare",
+      "slug": "zaare"
+    },
+    "code": {
+      "id": "GH1205_zaare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.806",
+      "lon": "-0.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_zuarungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zuarungu",
+      "en": "Zuarungu",
+      "slug": "zuarungu"
+    },
+    "code": {
+      "id": "GH1205_zuarungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.791",
+      "lon": "-0.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1205_zuarungu-moshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zuarungu-Moshie",
+      "en": "Zuarungu-Moshie",
+      "slug": "zuarungu-moshie"
+    },
+    "code": {
+      "id": "GH1205_zuarungu-moshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1205",
+      "level": 2,
+      "name": {
+        "local": "Bolgatanga Municipal",
+        "en": "Bolgatanga Municipal",
+        "slug": "bolgatanga-municipal-gh1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1205",
+        "level": 2,
+        "name": {
+          "local": "Bolgatanga Municipal",
+          "en": "Bolgatanga Municipal",
+          "slug": "bolgatanga-municipal-gh1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.834",
+      "lon": "-0.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

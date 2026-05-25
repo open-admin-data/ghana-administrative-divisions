@@ -1,0 +1,394 @@
+# Western North — Ghana Administrative Divisions
+
+> 9 districts, 85 towns
+> Code: GH16
+> Coordinates: 6.176, -2.656
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Aowin
+
+Code: GH1601, Coordinates: 5.695, -2.754
+Towns: 9
+
+#### Achimfo
+
+Code: GH1601_achimfo, Coordinates: 5.784, -2.723
+
+#### Acquai Allah
+
+Code: GH1601_acquai-allah, Coordinates: 5.884, -2.664
+
+#### Adjoum
+
+Code: GH1601_adjoum, Coordinates: 5.693, -2.655
+
+#### Amonie
+
+Code: GH1601_amonie, Coordinates: 5.712, -2.797
+
+#### Boinso
+
+Code: GH1601_boinso, Coordinates: 5.555, -2.722
+
+#### Enchi
+
+Code: GH1601_enchi, Coordinates: 5.809, -2.834
+
+#### Papueso
+
+Code: GH1601_papueso, Coordinates: 5.747, -2.718
+
+#### Sewum
+
+Code: GH1601_sewum, Coordinates: 5.676, -2.819
+
+#### Yiwabra
+
+Code: GH1601_yiwabra, Coordinates: 5.759, -2.662
+
+### Bia East
+
+Code: GH1602, Coordinates: 6.828, -3.041
+Towns: 13
+
+#### Adabokrom
+
+Code: GH1602_adabokrom, Coordinates: 6.821, -3.02
+
+#### Adiema
+
+Code: GH1602_adiema, Coordinates: 6.729, -3.157
+
+#### Adumkrom
+
+Code: GH1602_adumkrom, Coordinates: 6.886, -3.149
+
+#### Ahimakrom
+
+Code: GH1602_ahimakrom, Coordinates: 6.946, -3.126
+
+#### Alhajikrom
+
+Code: GH1602_alhajikrom, Coordinates: 6.896, -3.118
+
+#### Camp15
+
+Code: GH1602_camp15, Coordinates: 6.795, -2.905
+
+#### Camp15 Junction
+
+Code: GH1602_camp15-junction, Coordinates: 6.828, -2.908
+
+#### Kaase
+
+Code: GH1602_kaase, Coordinates: 6.859, -3.152
+
+#### Mangoase
+
+Code: GH1602_mangoase, Coordinates: 6.823, -3.135
+
+#### Mayera
+
+Code: GH1602_mayera, Coordinates: 6.833, -3.199
+
+#### Nkwantakese
+
+Code: GH1602_nkwantakese, Coordinates: 6.824, -3.197
+
+#### Yawatwa
+
+Code: GH1602_yawatwa, Coordinates: 6.855, -3.158
+
+#### Yawmatwa
+
+Code: GH1602_yawmatwa, Coordinates: 6.764, -3.184
+
+### Bia West
+
+Code: GH1603, Coordinates: 6.569, -3.066
+Towns: 14
+
+#### Akaatiso
+
+Code: GH1603_akaatiso, Coordinates: 6.406, -3.199
+
+#### Amoakrom
+
+Code: GH1603_amoakrom, Coordinates: 6.598, -3.182
+
+#### Asuonta
+
+Code: GH1603_asuonta, Coordinates: 6.549, -2.969
+
+#### Brebre
+
+Code: GH1603_brebre, Coordinates: 6.603, -3.226
+
+#### Debiso
+
+Code: GH1603_debiso, Coordinates: 6.663, -3.092
+
+#### Essam
+
+Code: GH1603_essam, Coordinates: 6.665, -3.107
+
+#### Essem
+
+Code: GH1603_essem, Coordinates: 6.665, -3.107
+
+#### Kojoaba
+
+Code: GH1603_kojoaba, Coordinates: 6.669, -3.184
+
+#### Kwamebikrom
+
+Code: GH1603_kwamebikrom, Coordinates: 6.631, -3.119
+
+#### New Abesim
+
+Code: GH1603_new-abesim, Coordinates: 6.467, -3.183
+
+#### Osei Kojokrom
+
+Code: GH1603_osei-kojokrom, Coordinates: 6.659, -3.236
+
+#### Oseikojokrom
+
+Code: GH1603_oseikojokrom, Coordinates: 6.661, -3.235
+
+#### Prampamase
+
+Code: GH1603_prampamase, Coordinates: 6.658, -2.901
+
+#### Sukusuko
+
+Code: GH1603_sukusuko, Coordinates: 6.51, -3.183
+
+### Bibiani-Anhwiaso-Bekwai Municipal
+
+Code: GH1604, Coordinates: 6.294, -2.232
+Towns: 13
+
+#### Anhwiaso
+
+Code: GH1604_anhwiaso, Coordinates: 6.331, -2.256
+
+#### Asawinso A&#39;
+
+Code: GH1604_asawinso-a, Coordinates: 6.256, -2.136
+
+#### Asempaneye
+
+Code: GH1604_asempaneye, Coordinates: 6.238, -2.258
+
+#### Awaso
+
+Code: GH1604_awaso, Coordinates: 6.257, -2.28
+
+#### Bassengele
+
+Code: GH1604_bassengele, Coordinates: 6.412, -2.247
+
+#### Bibiani
+
+Code: GH1604_bibiani, Coordinates: 6.457, -2.322
+
+#### Bibiani Afram Clinic
+
+Code: GH1604_bibiani-afram-clinic, Coordinates: 6.453, -2.316
+
+#### Chirano
+
+Code: GH1604_chirano, Coordinates: 6.273, -2.319
+
+#### Humjibre
+
+Code: GH1604_humjibre, Coordinates: 6.156, -2.269
+
+#### Merewa
+
+Code: GH1604_merewa, Coordinates: 6.286, -2.136
+
+#### Sefwi  Bekwai
+
+Code: GH1604_sefwi-bekwai, Coordinates: 6.188, -2.326
+
+#### Sefwi Wenchi
+
+Code: GH1604_sefwi-wenchi, Coordinates: 6.374, -2.309
+
+#### Subri
+
+Code: GH1604_subri, Coordinates: 6.277, -2.291
+
+### Bodi
+
+Code: GH1605, Coordinates: 6.24, -2.855
+Towns: 8
+
+#### Ahinbenso
+
+Code: GH1605_ahinbenso, Coordinates: 6.113, -2.807
+
+#### Amoaya
+
+Code: GH1605_amoaya, Coordinates: 6.237, -2.94
+
+#### Denchemoisue
+
+Code: GH1605_denchemoisue, Coordinates: 6.244, -2.72
+
+#### Juabeso
+
+Code: GH1605_juabeso, Coordinates: 6.334, -2.83
+
+#### Mamudukrom
+
+Code: GH1605_mamudukrom, Coordinates: 6.143, -2.781
+
+#### Sefwi Boadi
+
+Code: GH1605_sefwi-boadi, Coordinates: 6.223, -2.758
+
+#### Sefwi Bodi
+
+Code: GH1605_sefwi-bodi, Coordinates: 6.219, -2.755
+
+#### Sui-Ano
+
+Code: GH1605_sui-ano, Coordinates: 6.279, -2.773
+
+### Juaboso
+
+Code: GH1606, Coordinates: 6.432, -2.913
+Towns: 8
+
+#### Anhwiafutu
+
+Code: GH1606_anhwiafutu, Coordinates: 6.393, -2.976
+
+#### Asempaneye
+
+Code: GH1606_asempaneye, Coordinates: 6.502, -2.908
+
+#### Boinzan
+
+Code: GH1606_boinzan, Coordinates: 6.384, -2.879
+
+#### Bonsu Nkwanta
+
+Code: GH1606_bonsu-nkwanta, Coordinates: 6.327, -3.014
+
+#### Elluokrom
+
+Code: GH1606_elluokrom, Coordinates: 6.524, -2.928
+
+#### Kofikrom
+
+Code: GH1606_kofikrom, Coordinates: 6.344, -2.901
+
+#### Mempeasem
+
+Code: GH1606_mempeasem, Coordinates: 6.495, -2.989
+
+#### New Brekum
+
+Code: GH1606_new-brekum, Coordinates: 6.322, -3.04
+
+### Sefwi Akontombra
+
+Code: GH1607, Coordinates: 6.094, -2.653
+Towns: 5
+
+#### Akontombra
+
+Code: GH1607_akontombra, Coordinates: 6.048, -2.873
+
+#### Asantekrom
+
+Code: GH1607_asantekrom, Coordinates: 6.06, -2.573
+
+#### Nsawora
+
+Code: GH1607_nsawora, Coordinates: 6.151, -2.602
+
+#### Nsawura
+
+Code: GH1607_nsawura, Coordinates: 6.152, -2.605
+
+#### Wiawso
+
+Code: GH1607_wiawso, Coordinates: 6.215, -2.484
+
+### Sefwi-Wiawso
+
+Code: GH1608, Coordinates: 6.307, -2.518
+Towns: 10
+
+#### Ackaakrom
+
+Code: GH1608_ackaakrom, Coordinates: 6.212, -2.628
+
+#### Akontombra
+
+Code: GH1608_akontombra, Coordinates: 6.05, -2.866
+
+#### Anyinabrim
+
+Code: GH1608_anyinabrim, Coordinates: 6.369, -2.551
+
+#### Asafo
+
+Code: GH1608_asafo, Coordinates: 6.394, -2.658
+
+#### Asawinso
+
+Code: GH1608_asawinso, Coordinates: 6.426, -2.712
+
+#### Edewarakrom
+
+Code: GH1608_edewarakrom, Coordinates: 6.005, -2.815
+
+#### Kramokrom
+
+Code: GH1608_kramokrom, Coordinates: 6.07, -2.646
+
+#### Nkonya
+
+Code: GH1608_nkonya, Coordinates: 6.283, -2.624
+
+#### Nyamegyeso
+
+Code: GH1608_nyamegyeso, Coordinates: 6.249, -2.516
+
+#### Wiawso
+
+Code: GH1608_wiawso, Coordinates: 6.206, -2.494
+
+### Suaman
+
+Code: GH1609, Coordinates: 6.107, -3.008
+Towns: 5
+
+#### Akontombra Nkwanta
+
+Code: GH1609_akontombra-nkwanta, Coordinates: 5.976, -2.941
+
+#### Dadieso
+
+Code: GH1609_dadieso, Coordinates: 6.119, -3.037
+
+#### Gyatokrom
+
+Code: GH1609_gyatokrom, Coordinates: 6.297, -3.091
+
+#### Helehele
+
+Code: GH1609_helehele, Coordinates: 6.293, -3.124
+
+#### Kwesikrom
+
+Code: GH1609_kwesikrom, Coordinates: 6.19, -2.956
+

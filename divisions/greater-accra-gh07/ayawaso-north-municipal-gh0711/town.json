@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0711_abelemkpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abelemkpe",
+      "en": "Abelemkpe",
+      "slug": "abelemkpe"
+    },
+    "code": {
+      "id": "GH0711_abelemkpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.611",
+      "lon": "-0.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_alajo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Alajo",
+      "en": "Alajo",
+      "slug": "alajo"
+    },
+    "code": {
+      "id": "GH0711_alajo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "-0.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_alajo-ask-at-faith-medical-centre-for-direction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Alajo (ask at Faith medical centre for direction)",
+      "en": "Alajo (ask at Faith medical centre for direction)",
+      "slug": "alajo-ask-at-faith-medical-centre-for-direction"
+    },
+    "code": {
+      "id": "GH0711_alajo-ask-at-faith-medical-centre-for-direction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "-0.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_alajo-near-t-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Alajo (near T junction)",
+      "en": "Alajo (near T junction)",
+      "slug": "alajo-near-t-junction"
+    },
+    "code": {
+      "id": "GH0711_alajo-near-t-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.6",
+      "lon": "-0.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_dzorwulu-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzorwulu (junction)",
+      "en": "Dzorwulu (junction)",
+      "slug": "dzorwulu-junction"
+    },
+    "code": {
+      "id": "GH0711_dzorwulu-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.608",
+      "lon": "-0.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_kotobabi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kotobabi",
+      "en": "Kotobabi",
+      "slug": "kotobabi"
+    },
+    "code": {
+      "id": "GH0711_kotobabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.593",
+      "lon": "-0.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_new-town-nkasan-djan-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Town (Nkasan-Djan junction)",
+      "en": "New Town (Nkasan-Djan junction)",
+      "slug": "new-town-nkasan-djan-junction"
+    },
+    "code": {
+      "id": "GH0711_new-town-nkasan-djan-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "-0.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_pig-farm-lorry-station",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pig Farm (lorry station)",
+      "en": "Pig Farm (lorry station)",
+      "slug": "pig-farm-lorry-station"
+    },
+    "code": {
+      "id": "GH0711_pig-farm-lorry-station",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "-0.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711_roman-ridge-near-ghana-inst-of-engineers-buidling",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Roman Ridge (near Ghana inst of engineers buidling)",
+      "en": "Roman Ridge (near Ghana inst of engineers buidling)",
+      "slug": "roman-ridge-near-ghana-inst-of-engineers-buidling"
+    },
+    "code": {
+      "id": "GH0711_roman-ridge-near-ghana-inst-of-engineers-buidling",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0711",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso North Municipal",
+        "en": "Ayawaso North Municipal",
+        "slug": "ayawaso-north-municipal-gh0711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0711",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso North Municipal",
+          "en": "Ayawaso North Municipal",
+          "slug": "ayawaso-north-municipal-gh0711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "-0.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

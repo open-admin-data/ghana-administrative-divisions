@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GH1603_akaatiso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akaatiso",
+      "en": "Akaatiso",
+      "slug": "akaatiso"
+    },
+    "code": {
+      "id": "GH1603_akaatiso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.406",
+      "lon": "-3.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_amoakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoakrom",
+      "en": "Amoakrom",
+      "slug": "amoakrom"
+    },
+    "code": {
+      "id": "GH1603_amoakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.598",
+      "lon": "-3.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_asuonta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuonta",
+      "en": "Asuonta",
+      "slug": "asuonta"
+    },
+    "code": {
+      "id": "GH1603_asuonta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.549",
+      "lon": "-2.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_brebre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brebre",
+      "en": "Brebre",
+      "slug": "brebre"
+    },
+    "code": {
+      "id": "GH1603_brebre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.603",
+      "lon": "-3.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_debiso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Debiso",
+      "en": "Debiso",
+      "slug": "debiso"
+    },
+    "code": {
+      "id": "GH1603_debiso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.663",
+      "lon": "-3.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_essam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essam",
+      "en": "Essam",
+      "slug": "essam"
+    },
+    "code": {
+      "id": "GH1603_essam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.665",
+      "lon": "-3.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_essem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essem",
+      "en": "Essem",
+      "slug": "essem"
+    },
+    "code": {
+      "id": "GH1603_essem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.665",
+      "lon": "-3.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_kojoaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kojoaba",
+      "en": "Kojoaba",
+      "slug": "kojoaba"
+    },
+    "code": {
+      "id": "GH1603_kojoaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.669",
+      "lon": "-3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_kwamebikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamebikrom",
+      "en": "Kwamebikrom",
+      "slug": "kwamebikrom"
+    },
+    "code": {
+      "id": "GH1603_kwamebikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.631",
+      "lon": "-3.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_new-abesim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Abesim",
+      "en": "New Abesim",
+      "slug": "new-abesim"
+    },
+    "code": {
+      "id": "GH1603_new-abesim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.467",
+      "lon": "-3.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_osei-kojokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osei Kojokrom",
+      "en": "Osei Kojokrom",
+      "slug": "osei-kojokrom"
+    },
+    "code": {
+      "id": "GH1603_osei-kojokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.659",
+      "lon": "-3.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_oseikojokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oseikojokrom",
+      "en": "Oseikojokrom",
+      "slug": "oseikojokrom"
+    },
+    "code": {
+      "id": "GH1603_oseikojokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.661",
+      "lon": "-3.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_prampamase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Prampamase",
+      "en": "Prampamase",
+      "slug": "prampamase"
+    },
+    "code": {
+      "id": "GH1603_prampamase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.658",
+      "lon": "-2.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603_sukusuko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sukusuko",
+      "en": "Sukusuko",
+      "slug": "sukusuko"
+    },
+    "code": {
+      "id": "GH1603_sukusuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1603",
+      "level": 2,
+      "name": {
+        "local": "Bia West",
+        "en": "Bia West",
+        "slug": "bia-west-gh1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1603",
+        "level": 2,
+        "name": {
+          "local": "Bia West",
+          "en": "Bia West",
+          "slug": "bia-west-gh1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.51",
+      "lon": "-3.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

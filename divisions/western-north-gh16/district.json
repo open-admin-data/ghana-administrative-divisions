@@ -1,0 +1,425 @@
+[
+  {
+    "id": "GH1601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aowin",
+      "en": "Aowin",
+      "slug": "aowin-gh1601"
+    },
+    "code": {
+      "id": "GH1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.695",
+      "lon": "-2.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bia East",
+      "en": "Bia East",
+      "slug": "bia-east-gh1602"
+    },
+    "code": {
+      "id": "GH1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.828",
+      "lon": "-3.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bia West",
+      "en": "Bia West",
+      "slug": "bia-west-gh1603"
+    },
+    "code": {
+      "id": "GH1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.569",
+      "lon": "-3.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+      "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+      "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+    },
+    "code": {
+      "id": "GH1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.294",
+      "lon": "-2.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bodi",
+      "en": "Bodi",
+      "slug": "bodi-gh1605"
+    },
+    "code": {
+      "id": "GH1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.24",
+      "lon": "-2.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1606",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Juaboso",
+      "en": "Juaboso",
+      "slug": "juaboso-gh1606"
+    },
+    "code": {
+      "id": "GH1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.432",
+      "lon": "-2.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1607",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sefwi Akontombra",
+      "en": "Sefwi Akontombra",
+      "slug": "sefwi-akontombra-gh1607"
+    },
+    "code": {
+      "id": "GH1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.094",
+      "lon": "-2.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sefwi-Wiawso",
+      "en": "Sefwi-Wiawso",
+      "slug": "sefwi-wiawso-gh1608"
+    },
+    "code": {
+      "id": "GH1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.307",
+      "lon": "-2.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1609",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suaman",
+      "en": "Suaman",
+      "slug": "suaman-gh1609"
+    },
+    "code": {
+      "id": "GH1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.107",
+      "lon": "-3.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH0710_37",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "37",
+      "en": "37",
+      "slug": "37"
+    },
+    "code": {
+      "id": "GH0710_37",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.587",
+      "lon": "-0.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_37-licencing-office",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "37 Licencing Office",
+      "en": "37 Licencing Office",
+      "slug": "37-licencing-office"
+    },
+    "code": {
+      "id": "GH0710_37-licencing-office",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.594",
+      "lon": "-0.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_bostal-institution",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bostal Institution",
+      "en": "Bostal Institution",
+      "slug": "bostal-institution"
+    },
+    "code": {
+      "id": "GH0710_bostal-institution",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.608",
+      "lon": "-0.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_cantoments",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cantoments",
+      "en": "Cantoments",
+      "slug": "cantoments"
+    },
+    "code": {
+      "id": "GH0710_cantoments",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.574",
+      "lon": "-0.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_maamobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maamobi",
+      "en": "Maamobi",
+      "slug": "maamobi"
+    },
+    "code": {
+      "id": "GH0710_maamobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "-0.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_maamobi-near-market",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maamobi (near market)",
+      "en": "Maamobi (near market)",
+      "slug": "maamobi-near-market"
+    },
+    "code": {
+      "id": "GH0710_maamobi-near-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.595",
+      "lon": "-0.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_nima",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima",
+      "en": "Nima",
+      "slug": "nima"
+    },
+    "code": {
+      "id": "GH0710_nima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.584",
+      "lon": "-0.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_nima-near-gutter",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima (near gutter )",
+      "en": "Nima (near gutter )",
+      "slug": "nima-near-gutter"
+    },
+    "code": {
+      "id": "GH0710_nima-near-gutter",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.588",
+      "lon": "-0.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_nima-near-gutter",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima (near Gutter)",
+      "en": "Nima (near Gutter)",
+      "slug": "nima-near-gutter"
+    },
+    "code": {
+      "id": "GH0710_nima-near-gutter",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.59",
+      "lon": "-0.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_nima-441-area-near-bridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima 441 (area near bridge)",
+      "en": "Nima 441 (area near bridge)",
+      "slug": "nima-441-area-near-bridge"
+    },
+    "code": {
+      "id": "GH0710_nima-441-area-near-bridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.588",
+      "lon": "-0.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_roman-ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Roman Ridge",
+      "en": "Roman Ridge",
+      "slug": "roman-ridge"
+    },
+    "code": {
+      "id": "GH0710_roman-ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.608",
+      "lon": "-0.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710_roman-ridge-near-jack-and-jill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Roman Ridge (near Jack and Jill)",
+      "en": "Roman Ridge (near Jack and Jill)",
+      "slug": "roman-ridge-near-jack-and-jill"
+    },
+    "code": {
+      "id": "GH0710_roman-ridge-near-jack-and-jill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0710",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso East Municipal",
+        "en": "Ayawaso East Municipal",
+        "slug": "ayawaso-east-municipal-gh0710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0710",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso East Municipal",
+          "en": "Ayawaso East Municipal",
+          "slug": "ayawaso-east-municipal-gh0710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.602",
+      "lon": "-0.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

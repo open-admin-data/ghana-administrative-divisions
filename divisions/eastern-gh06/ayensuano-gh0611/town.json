@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0611_akyeansa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akyeansa",
+      "en": "Akyeansa",
+      "slug": "akyeansa"
+    },
+    "code": {
+      "id": "GH0611_akyeansa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0611",
+      "level": 2,
+      "name": {
+        "local": "Ayensuano",
+        "en": "Ayensuano",
+        "slug": "ayensuano-gh0611"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0611",
+        "level": 2,
+        "name": {
+          "local": "Ayensuano",
+          "en": "Ayensuano",
+          "slug": "ayensuano-gh0611"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.027",
+      "lon": "-0.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0611_amanase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amanase",
+      "en": "Amanase",
+      "slug": "amanase"
+    },
+    "code": {
+      "id": "GH0611_amanase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0611",
+      "level": 2,
+      "name": {
+        "local": "Ayensuano",
+        "en": "Ayensuano",
+        "slug": "ayensuano-gh0611"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0611",
+        "level": 2,
+        "name": {
+          "local": "Ayensuano",
+          "en": "Ayensuano",
+          "slug": "ayensuano-gh0611"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "-0.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0611_asuboi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuboi",
+      "en": "Asuboi",
+      "slug": "asuboi"
+    },
+    "code": {
+      "id": "GH0611_asuboi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0611",
+      "level": 2,
+      "name": {
+        "local": "Ayensuano",
+        "en": "Ayensuano",
+        "slug": "ayensuano-gh0611"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0611",
+        "level": 2,
+        "name": {
+          "local": "Ayensuano",
+          "en": "Ayensuano",
+          "slug": "ayensuano-gh0611"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.951",
+      "lon": "-0.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0611_coaltar",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Coaltar",
+      "en": "Coaltar",
+      "slug": "coaltar"
+    },
+    "code": {
+      "id": "GH0611_coaltar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0611",
+      "level": 2,
+      "name": {
+        "local": "Ayensuano",
+        "en": "Ayensuano",
+        "slug": "ayensuano-gh0611"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0611",
+        "level": 2,
+        "name": {
+          "local": "Ayensuano",
+          "en": "Ayensuano",
+          "slug": "ayensuano-gh0611"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.909",
+      "lon": "-0.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0611_dokruchiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dokruchiwa",
+      "en": "Dokruchiwa",
+      "slug": "dokruchiwa"
+    },
+    "code": {
+      "id": "GH0611_dokruchiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0611",
+      "level": 2,
+      "name": {
+        "local": "Ayensuano",
+        "en": "Ayensuano",
+        "slug": "ayensuano-gh0611"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0611",
+        "level": 2,
+        "name": {
+          "local": "Ayensuano",
+          "en": "Ayensuano",
+          "slug": "ayensuano-gh0611"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.929",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

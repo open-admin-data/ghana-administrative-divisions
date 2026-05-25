@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH1305_chekali",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chekali",
+      "en": "Chekali",
+      "slug": "chekali"
+    },
+    "code": {
+      "id": "GH1305_chekali",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.424",
+      "lon": "-2.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_cheri-sombo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cheri-sombo",
+      "en": "Cheri-sombo",
+      "slug": "cheri-sombo"
+    },
+    "code": {
+      "id": "GH1305_cheri-sombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.304",
+      "lon": "-2.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_fian",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fian",
+      "en": "Fian",
+      "slug": "fian"
+    },
+    "code": {
+      "id": "GH1305_fian",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.386",
+      "lon": "-2.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_gabilee",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gabilee",
+      "en": "Gabilee",
+      "slug": "gabilee"
+    },
+    "code": {
+      "id": "GH1305_gabilee",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.357",
+      "lon": "-2.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_goli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goli",
+      "en": "Goli",
+      "slug": "goli"
+    },
+    "code": {
+      "id": "GH1305_goli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.301",
+      "lon": "-2.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_kaleo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kaleo",
+      "en": "Kaleo",
+      "slug": "kaleo"
+    },
+    "code": {
+      "id": "GH1305_kaleo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.171",
+      "lon": "-2.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_nadowli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nadowli",
+      "en": "Nadowli",
+      "slug": "nadowli"
+    },
+    "code": {
+      "id": "GH1305_nadowli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.362",
+      "lon": "-2.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_nanvilli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nanvilli",
+      "en": "Nanvilli",
+      "slug": "nanvilli"
+    },
+    "code": {
+      "id": "GH1305_nanvilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.229",
+      "lon": "-2.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_naro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Naro",
+      "en": "Naro",
+      "slug": "naro"
+    },
+    "code": {
+      "id": "GH1305_naro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.318",
+      "lon": "-2.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_nator",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nator",
+      "en": "Nator",
+      "slug": "nator"
+    },
+    "code": {
+      "id": "GH1305_nator",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.268",
+      "lon": "-2.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_sankana",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sankana",
+      "en": "Sankana",
+      "slug": "sankana"
+    },
+    "code": {
+      "id": "GH1305_sankana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.199",
+      "lon": "-2.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_sombo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sombo",
+      "en": "Sombo",
+      "slug": "sombo"
+    },
+    "code": {
+      "id": "GH1305_sombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.258",
+      "lon": "-2.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305_takpo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takpo",
+      "en": "Takpo",
+      "slug": "takpo"
+    },
+    "code": {
+      "id": "GH1305_takpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1305",
+      "level": 2,
+      "name": {
+        "local": "Nadowli-Kaleo",
+        "en": "Nadowli-Kaleo",
+        "slug": "nadowli-kaleo-gh1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1305",
+        "level": 2,
+        "name": {
+          "local": "Nadowli-Kaleo",
+          "en": "Nadowli-Kaleo",
+          "slug": "nadowli-kaleo-gh1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.213",
+      "lon": "-2.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

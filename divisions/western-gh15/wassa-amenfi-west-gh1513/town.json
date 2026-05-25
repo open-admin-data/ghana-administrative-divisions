@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH1513_adjakaa-manso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adjakaa Manso",
+      "en": "Adjakaa Manso",
+      "slug": "adjakaa-manso"
+    },
+    "code": {
+      "id": "GH1513_adjakaa-manso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.034",
+      "lon": "-2.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_agona-amenfi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Amenfi",
+      "en": "Agona Amenfi",
+      "slug": "agona-amenfi"
+    },
+    "code": {
+      "id": "GH1513_agona-amenfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.95",
+      "lon": "-2.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_anyinabrim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinabrim",
+      "en": "Anyinabrim",
+      "slug": "anyinabrim"
+    },
+    "code": {
+      "id": "GH1513_anyinabrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "-2.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_asankra-saa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asankra Saa",
+      "en": "Asankra Saa",
+      "slug": "asankra-saa"
+    },
+    "code": {
+      "id": "GH1513_asankra-saa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.846",
+      "lon": "-2.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_asankragwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asankragwa",
+      "en": "Asankragwa",
+      "slug": "asankragwa"
+    },
+    "code": {
+      "id": "GH1513_asankragwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.801",
+      "lon": "-2.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_asankran-breman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asankran Breman",
+      "en": "Asankran Breman",
+      "slug": "asankran-breman"
+    },
+    "code": {
+      "id": "GH1513_asankran-breman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.849",
+      "lon": "-2.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_gravel-yard",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gravel Yard",
+      "en": "Gravel Yard",
+      "slug": "gravel-yard"
+    },
+    "code": {
+      "id": "GH1513_gravel-yard",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.419",
+      "lon": "-2.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_manso-amenfi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso Amenfi",
+      "en": "Manso Amenfi",
+      "slug": "manso-amenfi"
+    },
+    "code": {
+      "id": "GH1513_manso-amenfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.632",
+      "lon": "-2.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_nope",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nope",
+      "en": "Nope",
+      "slug": "nope"
+    },
+    "code": {
+      "id": "GH1513_nope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.441",
+      "lon": "-2.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_prestea-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Prestea Nkwanta",
+      "en": "Prestea Nkwanta",
+      "slug": "prestea-nkwanta"
+    },
+    "code": {
+      "id": "GH1513_prestea-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.417",
+      "lon": "-2.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_samreboi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Samreboi",
+      "en": "Samreboi",
+      "slug": "samreboi"
+    },
+    "code": {
+      "id": "GH1513_samreboi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.616",
+      "lon": "-2.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513_wassa-juabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wassa Juabo",
+      "en": "Wassa Juabo",
+      "slug": "wassa-juabo"
+    },
+    "code": {
+      "id": "GH1513_wassa-juabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1513",
+      "level": 2,
+      "name": {
+        "local": "Wassa Amenfi West",
+        "en": "Wassa Amenfi West",
+        "slug": "wassa-amenfi-west-gh1513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1513",
+        "level": 2,
+        "name": {
+          "local": "Wassa Amenfi West",
+          "en": "Wassa Amenfi West",
+          "slug": "wassa-amenfi-west-gh1513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.093",
+      "lon": "-2.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

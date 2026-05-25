@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0804_dalun",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dalun",
+      "en": "Dalun",
+      "slug": "dalun"
+    },
+    "code": {
+      "id": "GH0804_dalun",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0804",
+      "level": 2,
+      "name": {
+        "local": "Kumbungu",
+        "en": "Kumbungu",
+        "slug": "kumbungu-gh0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0804",
+        "level": 2,
+        "name": {
+          "local": "Kumbungu",
+          "en": "Kumbungu",
+          "slug": "kumbungu-gh0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.63",
+      "lon": "-1.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0804_kpendua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpendua",
+      "en": "Kpendua",
+      "slug": "kpendua"
+    },
+    "code": {
+      "id": "GH0804_kpendua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0804",
+      "level": 2,
+      "name": {
+        "local": "Kumbungu",
+        "en": "Kumbungu",
+        "slug": "kumbungu-gh0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0804",
+        "level": 2,
+        "name": {
+          "local": "Kumbungu",
+          "en": "Kumbungu",
+          "slug": "kumbungu-gh0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.733",
+      "lon": "-1.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0804_singa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Singa",
+      "en": "Singa",
+      "slug": "singa"
+    },
+    "code": {
+      "id": "GH0804_singa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0804",
+      "level": 2,
+      "name": {
+        "local": "Kumbungu",
+        "en": "Kumbungu",
+        "slug": "kumbungu-gh0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0804",
+        "level": 2,
+        "name": {
+          "local": "Kumbungu",
+          "en": "Kumbungu",
+          "slug": "kumbungu-gh0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.731",
+      "lon": "-1.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1601",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aowin",
+    "en": "Aowin",
+    "slug": "aowin-gh1601"
+  },
+  "code": {
+    "id": "GH1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH16",
+    "level": 1,
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.695",
+    "lon": "-2.754"
+  },
+  "metadata": {},
+  "source": {}
+}

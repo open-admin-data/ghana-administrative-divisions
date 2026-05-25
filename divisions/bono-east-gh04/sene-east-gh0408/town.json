@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0408_kajaji",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kajaji",
+      "en": "Kajaji",
+      "slug": "kajaji"
+    },
+    "code": {
+      "id": "GH0408_kajaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0408",
+      "level": 2,
+      "name": {
+        "local": "Sene East",
+        "en": "Sene East",
+        "slug": "sene-east-gh0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0408",
+        "level": 2,
+        "name": {
+          "local": "Sene East",
+          "en": "Sene East",
+          "slug": "sene-east-gh0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.781",
+      "lon": "-0.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0408_kojokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kojokrom",
+      "en": "Kojokrom",
+      "slug": "kojokrom"
+    },
+    "code": {
+      "id": "GH0408_kojokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0408",
+      "level": 2,
+      "name": {
+        "local": "Sene East",
+        "en": "Sene East",
+        "slug": "sene-east-gh0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0408",
+        "level": 2,
+        "name": {
+          "local": "Sene East",
+          "en": "Sene East",
+          "slug": "sene-east-gh0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.779",
+      "lon": "-0.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0408_nyakontre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyakontre",
+      "en": "Nyakontre",
+      "slug": "nyakontre"
+    },
+    "code": {
+      "id": "GH0408_nyakontre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0408",
+      "level": 2,
+      "name": {
+        "local": "Sene East",
+        "en": "Sene East",
+        "slug": "sene-east-gh0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0408",
+        "level": 2,
+        "name": {
+          "local": "Sene East",
+          "en": "Sene East",
+          "slug": "sene-east-gh0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.793",
+      "lon": "-0.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

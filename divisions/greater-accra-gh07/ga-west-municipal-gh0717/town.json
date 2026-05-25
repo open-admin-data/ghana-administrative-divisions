@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "GH0717_amasaman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amasaman",
+      "en": "Amasaman",
+      "slug": "amasaman"
+    },
+    "code": {
+      "id": "GH0717_amasaman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "-0.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_antiaku-near-north-kwashieman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Antiaku (near north kwashieman)",
+      "en": "Antiaku (near north kwashieman)",
+      "slug": "antiaku-near-north-kwashieman"
+    },
+    "code": {
+      "id": "GH0717_antiaku-near-north-kwashieman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.608",
+      "lon": "-0.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_asabaham-near-domiabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asabaham (near Domiabra)",
+      "en": "Asabaham (near Domiabra)",
+      "slug": "asabaham-near-domiabra"
+    },
+    "code": {
+      "id": "GH0717_asabaham-near-domiabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "-0.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_awoshie-last-stop",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awoshie (last stop)",
+      "en": "Awoshie (last stop)",
+      "slug": "awoshie-last-stop"
+    },
+    "code": {
+      "id": "GH0717_awoshie-last-stop",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "-0.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_chorkor-behind-police-station",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chorkor (behind police station)",
+      "en": "Chorkor (behind police station)",
+      "slug": "chorkor-behind-police-station"
+    },
+    "code": {
+      "id": "GH0717_chorkor-behind-police-station",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.528",
+      "lon": "-0.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_dome-sampah-mang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dome Sampah-mang",
+      "en": "Dome Sampah-mang",
+      "slug": "dome-sampah-mang"
+    },
+    "code": {
+      "id": "GH0717_dome-sampah-mang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.719",
+      "lon": "-0.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_domiabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Domiabra",
+      "en": "Domiabra",
+      "slug": "domiabra"
+    },
+    "code": {
+      "id": "GH0717_domiabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.612",
+      "lon": "-0.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_gbawe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbawe",
+      "en": "Gbawe",
+      "slug": "gbawe"
+    },
+    "code": {
+      "id": "GH0717_gbawe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.577",
+      "lon": "-0.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_horbor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Horbor",
+      "en": "Horbor",
+      "slug": "horbor"
+    },
+    "code": {
+      "id": "GH0717_horbor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.689",
+      "lon": "-0.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_jei-krodua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jei Krodua",
+      "en": "Jei Krodua",
+      "slug": "jei-krodua"
+    },
+    "code": {
+      "id": "GH0717_jei-krodua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.646",
+      "lon": "-0.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_kokrobite",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokrobite",
+      "en": "Kokrobite",
+      "slug": "kokrobite"
+    },
+    "code": {
+      "id": "GH0717_kokrobite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.502",
+      "lon": "-0.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_mallam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mallam",
+      "en": "Mallam",
+      "slug": "mallam"
+    },
+    "code": {
+      "id": "GH0717_mallam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.578",
+      "lon": "-0.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_mamprobi-salvation-army-schls",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamprobi (salvation army schls)",
+      "en": "Mamprobi (salvation army schls)",
+      "slug": "mamprobi-salvation-army-schls"
+    },
+    "code": {
+      "id": "GH0717_mamprobi-salvation-army-schls",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.541",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_marcathy-hill-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Marcathy Hill Junction",
+      "en": "Marcathy Hill Junction",
+      "slug": "marcathy-hill-junction"
+    },
+    "code": {
+      "id": "GH0717_marcathy-hill-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.566",
+      "lon": "-0.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_medie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Medie",
+      "en": "Medie",
+      "slug": "medie"
+    },
+    "code": {
+      "id": "GH0717_medie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.758",
+      "lon": "-0.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_ngleshie-amamfrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ngleshie Amamfrom",
+      "en": "Ngleshie Amamfrom",
+      "slug": "ngleshie-amamfrom"
+    },
+    "code": {
+      "id": "GH0717_ngleshie-amamfrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.536",
+      "lon": "-0.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_north-kaneshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North Kaneshie",
+      "en": "North Kaneshie",
+      "slug": "north-kaneshie"
+    },
+    "code": {
+      "id": "GH0717_north-kaneshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.589",
+      "lon": "-0.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_north-kwashieman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North Kwashieman",
+      "en": "North Kwashieman",
+      "slug": "north-kwashieman"
+    },
+    "code": {
+      "id": "GH0717_north-kwashieman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.594",
+      "lon": "-0.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_nsakina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsakina",
+      "en": "Nsakina",
+      "slug": "nsakina"
+    },
+    "code": {
+      "id": "GH0717_nsakina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.652",
+      "lon": "-0.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_obom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obom",
+      "en": "Obom",
+      "slug": "obom"
+    },
+    "code": {
+      "id": "GH0717_obom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.736",
+      "lon": "-0.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_oduman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oduman",
+      "en": "Oduman",
+      "slug": "oduman"
+    },
+    "code": {
+      "id": "GH0717_oduman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.642",
+      "lon": "-0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_ofankor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ofankor",
+      "en": "Ofankor",
+      "slug": "ofankor"
+    },
+    "code": {
+      "id": "GH0717_ofankor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.644",
+      "lon": "-0.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_osuwem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osuwem",
+      "en": "Osuwem",
+      "slug": "osuwem"
+    },
+    "code": {
+      "id": "GH0717_osuwem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.032",
+      "lon": "0.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_pokuase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pokuase",
+      "en": "Pokuase",
+      "slug": "pokuase"
+    },
+    "code": {
+      "id": "GH0717_pokuase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.689",
+      "lon": "-0.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_santamaria",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Santamaria",
+      "en": "Santamaria",
+      "slug": "santamaria"
+    },
+    "code": {
+      "id": "GH0717_santamaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.602",
+      "lon": "-0.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_taifa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Taifa",
+      "en": "Taifa",
+      "slug": "taifa"
+    },
+    "code": {
+      "id": "GH0717_taifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.656",
+      "lon": "-0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_trantra-hill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Trantra Hill",
+      "en": "Trantra Hill",
+      "slug": "trantra-hill"
+    },
+    "code": {
+      "id": "GH0717_trantra-hill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.641",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717_weija",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Weija",
+      "en": "Weija",
+      "slug": "weija"
+    },
+    "code": {
+      "id": "GH0717_weija",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0717",
+      "level": 2,
+      "name": {
+        "local": "Ga West Municipal",
+        "en": "Ga West Municipal",
+        "slug": "ga-west-municipal-gh0717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0717",
+        "level": 2,
+        "name": {
+          "local": "Ga West Municipal",
+          "en": "Ga West Municipal",
+          "slug": "ga-west-municipal-gh0717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.574",
+      "lon": "-0.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

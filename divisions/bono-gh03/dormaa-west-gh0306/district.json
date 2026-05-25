@@ -1,0 +1,47 @@
+{
+  "id": "GH0306",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dormaa West",
+    "en": "Dormaa West",
+    "slug": "dormaa-west-gh0306"
+  },
+  "code": {
+    "id": "GH0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.975",
+    "lon": "-2.946"
+  },
+  "metadata": {},
+  "source": {}
+}

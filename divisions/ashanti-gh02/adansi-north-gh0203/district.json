@@ -1,0 +1,47 @@
+{
+  "id": "GH0203",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adansi North",
+    "en": "Adansi North",
+    "slug": "adansi-north-gh0203"
+  },
+  "code": {
+    "id": "GH0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.3",
+    "lon": "-1.589"
+  },
+  "metadata": {},
+  "source": {}
+}

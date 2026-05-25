@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0605_aburi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aburi",
+      "en": "Aburi",
+      "slug": "aburi"
+    },
+    "code": {
+      "id": "GH0605_aburi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.881",
+      "lon": "-0.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_adoagire-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adoagire Zongo",
+      "en": "Adoagire Zongo",
+      "slug": "adoagire-zongo"
+    },
+    "code": {
+      "id": "GH0605_adoagire-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "-0.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_brekuso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brekuso",
+      "en": "Brekuso",
+      "slug": "brekuso"
+    },
+    "code": {
+      "id": "GH0605_brekuso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.782",
+      "lon": "-0.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_kitase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kitase",
+      "en": "Kitase",
+      "slug": "kitase"
+    },
+    "code": {
+      "id": "GH0605_kitase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.814",
+      "lon": "-0.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_obosonmase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obosonmase",
+      "en": "Obosonmase",
+      "slug": "obosonmase"
+    },
+    "code": {
+      "id": "GH0605_obosonmase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.874",
+      "lon": "-0.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_obothebire",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obothebire",
+      "en": "Obothebire",
+      "slug": "obothebire"
+    },
+    "code": {
+      "id": "GH0605_obothebire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.859",
+      "lon": "-0.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605_pokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pokrom",
+      "en": "Pokrom",
+      "slug": "pokrom"
+    },
+    "code": {
+      "id": "GH0605_pokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0605",
+      "level": 2,
+      "name": {
+        "local": "Akwapem South",
+        "en": "Akwapem South",
+        "slug": "akwapem-south-gh0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0605",
+        "level": 2,
+        "name": {
+          "local": "Akwapem South",
+          "en": "Akwapem South",
+          "slug": "akwapem-south-gh0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "-0.227"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH0726",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shai Osudoku",
+    "en": "Shai Osudoku",
+    "slug": "shai-osudoku-gh0726"
+  },
+  "code": {
+    "id": "GH0726",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.966",
+    "lon": "0.168"
+  },
+  "metadata": {},
+  "source": {}
+}

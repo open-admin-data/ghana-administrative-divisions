@@ -1,0 +1,30 @@
+{
+  "id": "GH01",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ahafo",
+    "en": "Ahafo",
+    "slug": "ahafo-gh01"
+  },
+  "code": {
+    "id": "GH01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "town": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.874",
+    "lon": "-2.618"
+  },
+  "metadata": {},
+  "source": {}
+}

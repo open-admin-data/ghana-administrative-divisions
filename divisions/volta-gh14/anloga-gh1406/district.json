@@ -1,0 +1,47 @@
+{
+  "id": "GH1406",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Anloga",
+    "en": "Anloga",
+    "slug": "anloga-gh1406"
+  },
+  "code": {
+    "id": "GH1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.825",
+    "lon": "0.795"
+  },
+  "metadata": {},
+  "source": {}
+}

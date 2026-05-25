@@ -1,0 +1,30 @@
+{
+  "id": "GH11",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Savannah",
+    "en": "Savannah",
+    "slug": "savannah-gh11"
+  },
+  "code": {
+    "id": "GH11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "town": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.049",
+    "lon": "-1.494"
+  },
+  "metadata": {},
+  "source": {}
+}

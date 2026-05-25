@@ -1,0 +1,47 @@
+{
+  "id": "GH0813",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tatale Sanguli",
+    "en": "Tatale Sanguli",
+    "slug": "tatale-sanguli-gh0813"
+  },
+  "code": {
+    "id": "GH0813",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.142",
+    "lon": "0.456"
+  },
+  "metadata": {},
+  "source": {}
+}

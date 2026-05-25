@@ -1,0 +1,47 @@
+{
+  "id": "GH0411",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Techiman North",
+    "en": "Techiman North",
+    "slug": "techiman-north-gh0411"
+  },
+  "code": {
+    "id": "GH0411",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH04",
+    "level": 1,
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.702",
+    "lon": "-1.984"
+  },
+  "metadata": {},
+  "source": {}
+}

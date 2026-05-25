@@ -1,0 +1,47 @@
+{
+  "id": "GH0708",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ashaiman Municipal",
+    "en": "Ashaiman Municipal",
+    "slug": "ashaiman-municipal-gh0708"
+  },
+  "code": {
+    "id": "GH0708",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.701",
+    "lon": "-0.035"
+  },
+  "metadata": {},
+  "source": {}
+}

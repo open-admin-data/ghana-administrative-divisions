@@ -1,0 +1,47 @@
+{
+  "id": "GH0238",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekyere Afram Plains North",
+    "en": "Sekyere Afram Plains North",
+    "slug": "sekyere-afram-plains-north-gh0238"
+  },
+  "code": {
+    "id": "GH0238",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.211",
+    "lon": "-0.595"
+  },
+  "metadata": {},
+  "source": {}
+}

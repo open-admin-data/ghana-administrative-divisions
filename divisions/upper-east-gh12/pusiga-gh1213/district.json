@@ -1,0 +1,47 @@
+{
+  "id": "GH1213",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pusiga",
+    "en": "Pusiga",
+    "slug": "pusiga-gh1213"
+  },
+  "code": {
+    "id": "GH1213",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.077",
+    "lon": "-0.092"
+  },
+  "metadata": {},
+  "source": {}
+}

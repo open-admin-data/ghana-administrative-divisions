@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "GH0212_abuoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abuoso",
+      "en": "Abuoso",
+      "slug": "abuoso"
+    },
+    "code": {
+      "id": "GH0212_abuoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "-2.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_adimposo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adimposo",
+      "en": "Adimposo",
+      "slug": "adimposo"
+    },
+    "code": {
+      "id": "GH0212_adimposo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.337",
+      "lon": "-1.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_agroyesum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agroyesum",
+      "en": "Agroyesum",
+      "slug": "agroyesum"
+    },
+    "code": {
+      "id": "GH0212_agroyesum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.413",
+      "lon": "-1.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_assuowin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Assuowin",
+      "en": "Assuowin",
+      "slug": "assuowin"
+    },
+    "code": {
+      "id": "GH0212_assuowin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.537",
+      "lon": "-1.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_datano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Datano",
+      "en": "Datano",
+      "slug": "datano"
+    },
+    "code": {
+      "id": "GH0212_datano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.294",
+      "lon": "-1.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_esaase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Esaase",
+      "en": "Esaase",
+      "slug": "esaase"
+    },
+    "code": {
+      "id": "GH0212_esaase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "-1.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_keniago",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Keniago",
+      "en": "Keniago",
+      "slug": "keniago"
+    },
+    "code": {
+      "id": "GH0212_keniago",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.373",
+      "lon": "-2.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_manso-abore",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso Abore",
+      "en": "Manso Abore",
+      "slug": "manso-abore"
+    },
+    "code": {
+      "id": "GH0212_manso-abore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "-1.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_manso-moseaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso Moseaso",
+      "en": "Manso Moseaso",
+      "slug": "manso-moseaso"
+    },
+    "code": {
+      "id": "GH0212_manso-moseaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.511",
+      "lon": "-1.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_manso-nkran",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso Nkran",
+      "en": "Manso Nkran",
+      "slug": "manso-nkran"
+    },
+    "code": {
+      "id": "GH0212_manso-nkran",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.346",
+      "lon": "-1.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_manso-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso Nkwanta",
+      "en": "Manso Nkwanta",
+      "slug": "manso-nkwanta"
+    },
+    "code": {
+      "id": "GH0212_manso-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.477",
+      "lon": "-1.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_manso-adubia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso-Adubia",
+      "en": "Manso-Adubia",
+      "slug": "manso-adubia"
+    },
+    "code": {
+      "id": "GH0212_manso-adubia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.403",
+      "lon": "-1.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_mpatoum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpatoum",
+      "en": "Mpatoum",
+      "slug": "mpatoum"
+    },
+    "code": {
+      "id": "GH0212_mpatoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.541",
+      "lon": "-1.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_mpatuom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpatuom",
+      "en": "Mpatuom",
+      "slug": "mpatuom"
+    },
+    "code": {
+      "id": "GH0212_mpatuom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.541",
+      "lon": "-1.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_nipankyeremia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nipankyeremia",
+      "en": "Nipankyeremia",
+      "slug": "nipankyeremia"
+    },
+    "code": {
+      "id": "GH0212_nipankyeremia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.37",
+      "lon": "-2.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_odaho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odaho",
+      "en": "Odaho",
+      "slug": "odaho"
+    },
+    "code": {
+      "id": "GH0212_odaho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.274",
+      "lon": "-1.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_pakyi-no-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pakyi  No 2",
+      "en": "Pakyi  No 2",
+      "slug": "pakyi-no-2"
+    },
+    "code": {
+      "id": "GH0212_pakyi-no-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.48",
+      "lon": "-1.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_tontokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tontokrom",
+      "en": "Tontokrom",
+      "slug": "tontokrom"
+    },
+    "code": {
+      "id": "GH0212_tontokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.249",
+      "lon": "-1.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212_watreso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Watreso",
+      "en": "Watreso",
+      "slug": "watreso"
+    },
+    "code": {
+      "id": "GH0212_watreso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0212",
+      "level": 2,
+      "name": {
+        "local": "Amansie West",
+        "en": "Amansie West",
+        "slug": "amansie-west-gh0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0212",
+        "level": 2,
+        "name": {
+          "local": "Amansie West",
+          "en": "Amansie West",
+          "slug": "amansie-west-gh0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.254",
+      "lon": "-1.918"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

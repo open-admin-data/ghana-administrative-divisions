@@ -1,0 +1,47 @@
+{
+  "id": "GH0811",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Savelugu",
+    "en": "Savelugu",
+    "slug": "savelugu-gh0811"
+  },
+  "code": {
+    "id": "GH0811",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.866",
+    "lon": "-0.902"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0515_buduatta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buduatta",
+      "en": "Buduatta",
+      "slug": "buduatta"
+    },
+    "code": {
+      "id": "GH0515_buduatta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.497",
+      "lon": "-0.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_buduburam-camp",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buduburam Camp",
+      "en": "Buduburam Camp",
+      "slug": "buduburam-camp"
+    },
+    "code": {
+      "id": "GH0515_buduburam-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.524",
+      "lon": "-0.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_budumburam-camp",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Budumburam Camp",
+      "en": "Budumburam Camp",
+      "slug": "budumburam-camp"
+    },
+    "code": {
+      "id": "GH0515_budumburam-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.524",
+      "lon": "-0.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_fetteh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fetteh",
+      "en": "Fetteh",
+      "slug": "fetteh"
+    },
+    "code": {
+      "id": "GH0515_fetteh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.431",
+      "lon": "-0.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_mankoadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankoadze",
+      "en": "Mankoadze",
+      "slug": "mankoadze"
+    },
+    "code": {
+      "id": "GH0515_mankoadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.318",
+      "lon": "-0.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_nyanyano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyanyano",
+      "en": "Nyanyano",
+      "slug": "nyanyano"
+    },
+    "code": {
+      "id": "GH0515_nyanyano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.467",
+      "lon": "-0.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_obuasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obuasi",
+      "en": "Obuasi",
+      "slug": "obuasi"
+    },
+    "code": {
+      "id": "GH0515_obuasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.504",
+      "lon": "-0.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_ojobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ojobi",
+      "en": "Ojobi",
+      "slug": "ojobi"
+    },
+    "code": {
+      "id": "GH0515_ojobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.48",
+      "lon": "-0.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_okyerko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okyerko",
+      "en": "Okyerko",
+      "slug": "okyerko"
+    },
+    "code": {
+      "id": "GH0515_okyerko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.418",
+      "lon": "-0.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515_potsin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Potsin",
+      "en": "Potsin",
+      "slug": "potsin"
+    },
+    "code": {
+      "id": "GH0515_potsin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0515",
+      "level": 2,
+      "name": {
+        "local": "Gomoa East",
+        "en": "Gomoa East",
+        "slug": "gomoa-east-gh0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0515",
+        "level": 2,
+        "name": {
+          "local": "Gomoa East",
+          "en": "Gomoa East",
+          "slug": "gomoa-east-gh0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.455",
+      "lon": "-0.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

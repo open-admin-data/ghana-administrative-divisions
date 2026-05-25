@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0620_ekye-amanfram",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekye Amanfram",
+      "en": "Ekye Amanfram",
+      "slug": "ekye-amanfram"
+    },
+    "code": {
+      "id": "GH0620_ekye-amanfram",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0620",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains South",
+        "en": "Kwahu Afram Plains South",
+        "slug": "kwahu-afram-plains-south-gh0620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0620",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains South",
+          "en": "Kwahu Afram Plains South",
+          "slug": "kwahu-afram-plains-south-gh0620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.756",
+      "lon": "-0.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0620_kwasi-fante",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwasi Fante",
+      "en": "Kwasi Fante",
+      "slug": "kwasi-fante"
+    },
+    "code": {
+      "id": "GH0620_kwasi-fante",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0620",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains South",
+        "en": "Kwahu Afram Plains South",
+        "slug": "kwahu-afram-plains-south-gh0620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0620",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains South",
+          "en": "Kwahu Afram Plains South",
+          "slug": "kwahu-afram-plains-south-gh0620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.031",
+      "lon": "-0.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0620_maame-krobo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maame Krobo",
+      "en": "Maame Krobo",
+      "slug": "maame-krobo"
+    },
+    "code": {
+      "id": "GH0620_maame-krobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0620",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains South",
+        "en": "Kwahu Afram Plains South",
+        "slug": "kwahu-afram-plains-south-gh0620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0620",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains South",
+          "en": "Kwahu Afram Plains South",
+          "slug": "kwahu-afram-plains-south-gh0620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.953",
+      "lon": "-0.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0620_tease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tease",
+      "en": "Tease",
+      "slug": "tease"
+    },
+    "code": {
+      "id": "GH0620_tease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0620",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains South",
+        "en": "Kwahu Afram Plains South",
+        "slug": "kwahu-afram-plains-south-gh0620"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0620",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains South",
+          "en": "Kwahu Afram Plains South",
+          "slug": "kwahu-afram-plains-south-gh0620"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.936",
+      "lon": "-0.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

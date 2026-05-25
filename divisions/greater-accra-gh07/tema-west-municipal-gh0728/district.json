@@ -1,0 +1,47 @@
+{
+  "id": "GH0728",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tema West Municipal",
+    "en": "Tema West Municipal",
+    "slug": "tema-west-municipal-gh0728"
+  },
+  "code": {
+    "id": "GH0728",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.651",
+    "lon": "-0.068"
+  },
+  "metadata": {},
+  "source": {}
+}

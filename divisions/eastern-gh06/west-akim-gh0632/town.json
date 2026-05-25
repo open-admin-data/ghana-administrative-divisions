@@ -1,0 +1,920 @@
+[
+  {
+    "id": "GH0632_abamkrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abamkrom",
+      "en": "Abamkrom",
+      "slug": "abamkrom"
+    },
+    "code": {
+      "id": "GH0632_abamkrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.637",
+      "lon": "-0.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_adeiso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adeiso",
+      "en": "Adeiso",
+      "slug": "adeiso"
+    },
+    "code": {
+      "id": "GH0632_adeiso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.8",
+      "lon": "-0.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_adieso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adieso",
+      "en": "Adieso",
+      "slug": "adieso"
+    },
+    "code": {
+      "id": "GH0632_adieso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.793",
+      "lon": "-0.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_akim-bremang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akim Bremang",
+      "en": "Akim Bremang",
+      "slug": "akim-bremang"
+    },
+    "code": {
+      "id": "GH0632_akim-bremang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.773",
+      "lon": "-0.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_anumapapam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anumapapam",
+      "en": "Anumapapam",
+      "slug": "anumapapam"
+    },
+    "code": {
+      "id": "GH0632_anumapapam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.981",
+      "lon": "-0.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_asamankese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asamankese",
+      "en": "Asamankese",
+      "slug": "asamankese"
+    },
+    "code": {
+      "id": "GH0632_asamankese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.855",
+      "lon": "-0.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_asamankese-beposo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asamankese Beposo",
+      "en": "Asamankese Beposo",
+      "slug": "asamankese-beposo"
+    },
+    "code": {
+      "id": "GH0632_asamankese-beposo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.867",
+      "lon": "-0.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_asamanketewa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asamanketewa",
+      "en": "Asamanketewa",
+      "slug": "asamanketewa"
+    },
+    "code": {
+      "id": "GH0632_asamanketewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.867",
+      "lon": "-0.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_asikasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asikasu",
+      "en": "Asikasu",
+      "slug": "asikasu"
+    },
+    "code": {
+      "id": "GH0632_asikasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.777",
+      "lon": "-0.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_asuokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuokwa",
+      "en": "Asuokwa",
+      "slug": "asuokwa"
+    },
+    "code": {
+      "id": "GH0632_asuokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.82",
+      "lon": "-0.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_beposo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Beposo",
+      "en": "Beposo",
+      "slug": "beposo"
+    },
+    "code": {
+      "id": "GH0632_beposo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.859",
+      "lon": "-0.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_brekumanso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brekumanso",
+      "en": "Brekumanso",
+      "slug": "brekumanso"
+    },
+    "code": {
+      "id": "GH0632_brekumanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.911",
+      "lon": "-0.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_ekoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekoso",
+      "en": "Ekoso",
+      "slug": "ekoso"
+    },
+    "code": {
+      "id": "GH0632_ekoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.902",
+      "lon": "-0.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_kofipare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofipare",
+      "en": "Kofipare",
+      "slug": "kofipare"
+    },
+    "code": {
+      "id": "GH0632_kofipare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.954",
+      "lon": "-0.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_mepom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mepom",
+      "en": "Mepom",
+      "slug": "mepom"
+    },
+    "code": {
+      "id": "GH0632_mepom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.796",
+      "lon": "-0.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_osenase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osenase",
+      "en": "Osenase",
+      "slug": "osenase"
+    },
+    "code": {
+      "id": "GH0632_osenase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.96",
+      "lon": "-0.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632_oworam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oworam",
+      "en": "Oworam",
+      "slug": "oworam"
+    },
+    "code": {
+      "id": "GH0632_oworam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0632",
+      "level": 2,
+      "name": {
+        "local": "West Akim",
+        "en": "West Akim",
+        "slug": "west-akim-gh0632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0632",
+        "level": 2,
+        "name": {
+          "local": "West Akim",
+          "en": "West Akim",
+          "slug": "west-akim-gh0632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.941",
+      "lon": "-0.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

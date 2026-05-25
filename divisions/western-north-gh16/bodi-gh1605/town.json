@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH1605_ahinbenso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahinbenso",
+      "en": "Ahinbenso",
+      "slug": "ahinbenso"
+    },
+    "code": {
+      "id": "GH1605_ahinbenso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.113",
+      "lon": "-2.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_amoaya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoaya",
+      "en": "Amoaya",
+      "slug": "amoaya"
+    },
+    "code": {
+      "id": "GH1605_amoaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.237",
+      "lon": "-2.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_denchemoisue",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Denchemoisue",
+      "en": "Denchemoisue",
+      "slug": "denchemoisue"
+    },
+    "code": {
+      "id": "GH1605_denchemoisue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.244",
+      "lon": "-2.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_juabeso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Juabeso",
+      "en": "Juabeso",
+      "slug": "juabeso"
+    },
+    "code": {
+      "id": "GH1605_juabeso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.334",
+      "lon": "-2.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_mamudukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamudukrom",
+      "en": "Mamudukrom",
+      "slug": "mamudukrom"
+    },
+    "code": {
+      "id": "GH1605_mamudukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.143",
+      "lon": "-2.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_sefwi-boadi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sefwi Boadi",
+      "en": "Sefwi Boadi",
+      "slug": "sefwi-boadi"
+    },
+    "code": {
+      "id": "GH1605_sefwi-boadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.223",
+      "lon": "-2.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_sefwi-bodi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sefwi Bodi",
+      "en": "Sefwi Bodi",
+      "slug": "sefwi-bodi"
+    },
+    "code": {
+      "id": "GH1605_sefwi-bodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.219",
+      "lon": "-2.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1605_sui-ano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sui-Ano",
+      "en": "Sui-Ano",
+      "slug": "sui-ano"
+    },
+    "code": {
+      "id": "GH1605_sui-ano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1605",
+      "level": 2,
+      "name": {
+        "local": "Bodi",
+        "en": "Bodi",
+        "slug": "bodi-gh1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1605",
+        "level": 2,
+        "name": {
+          "local": "Bodi",
+          "en": "Bodi",
+          "slug": "bodi-gh1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "-2.773"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

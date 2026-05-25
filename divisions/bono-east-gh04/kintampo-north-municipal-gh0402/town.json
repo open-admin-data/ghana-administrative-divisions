@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0402_busuama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Busuama",
+      "en": "Busuama",
+      "slug": "busuama"
+    },
+    "code": {
+      "id": "GH0402_busuama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0402",
+      "level": 2,
+      "name": {
+        "local": "Kintampo North Municipal",
+        "en": "Kintampo North Municipal",
+        "slug": "kintampo-north-municipal-gh0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0402",
+        "level": 2,
+        "name": {
+          "local": "Kintampo North Municipal",
+          "en": "Kintampo North Municipal",
+          "slug": "kintampo-north-municipal-gh0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.232",
+      "lon": "-1.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0402_dawadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dawadawa",
+      "en": "Dawadawa",
+      "slug": "dawadawa"
+    },
+    "code": {
+      "id": "GH0402_dawadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0402",
+      "level": 2,
+      "name": {
+        "local": "Kintampo North Municipal",
+        "en": "Kintampo North Municipal",
+        "slug": "kintampo-north-municipal-gh0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0402",
+        "level": 2,
+        "name": {
+          "local": "Kintampo North Municipal",
+          "en": "Kintampo North Municipal",
+          "slug": "kintampo-north-municipal-gh0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.355",
+      "lon": "-1.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0402_kintampo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kintampo",
+      "en": "Kintampo",
+      "slug": "kintampo"
+    },
+    "code": {
+      "id": "GH0402_kintampo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0402",
+      "level": 2,
+      "name": {
+        "local": "Kintampo North Municipal",
+        "en": "Kintampo North Municipal",
+        "slug": "kintampo-north-municipal-gh0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0402",
+        "level": 2,
+        "name": {
+          "local": "Kintampo North Municipal",
+          "en": "Kintampo North Municipal",
+          "slug": "kintampo-north-municipal-gh0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.051",
+      "lon": "-1.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0402_kunsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kunsu",
+      "en": "Kunsu",
+      "slug": "kunsu"
+    },
+    "code": {
+      "id": "GH0402_kunsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0402",
+      "level": 2,
+      "name": {
+        "local": "Kintampo North Municipal",
+        "en": "Kintampo North Municipal",
+        "slug": "kintampo-north-municipal-gh0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0402",
+        "level": 2,
+        "name": {
+          "local": "Kintampo North Municipal",
+          "en": "Kintampo North Municipal",
+          "slug": "kintampo-north-municipal-gh0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.147",
+      "lon": "-1.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0402_new-longoro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Longoro",
+      "en": "New Longoro",
+      "slug": "new-longoro"
+    },
+    "code": {
+      "id": "GH0402_new-longoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0402",
+      "level": 2,
+      "name": {
+        "local": "Kintampo North Municipal",
+        "en": "Kintampo North Municipal",
+        "slug": "kintampo-north-municipal-gh0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0402",
+        "level": 2,
+        "name": {
+          "local": "Kintampo North Municipal",
+          "en": "Kintampo North Municipal",
+          "slug": "kintampo-north-municipal-gh0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.173",
+      "lon": "-1.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

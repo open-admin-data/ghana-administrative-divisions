@@ -1,0 +1,47 @@
+{
+  "id": "GH0518",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mfantseman Municipal",
+    "en": "Mfantseman Municipal",
+    "slug": "mfantseman-municipal-gh0518"
+  },
+  "code": {
+    "id": "GH0518",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.276",
+    "lon": "-1.035"
+  },
+  "metadata": {},
+  "source": {}
+}

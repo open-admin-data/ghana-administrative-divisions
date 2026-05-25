@@ -1,0 +1,47 @@
+{
+  "id": "GH1510",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tarkwa Nsuaem",
+    "en": "Tarkwa Nsuaem",
+    "slug": "tarkwa-nsuaem-gh1510"
+  },
+  "code": {
+    "id": "GH1510",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.138",
+    "lon": "-2.035"
+  },
+  "metadata": {},
+  "source": {}
+}

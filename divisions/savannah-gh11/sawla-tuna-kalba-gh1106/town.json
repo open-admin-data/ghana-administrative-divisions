@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1106_gindabuo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gindabuo",
+      "en": "Gindabuo",
+      "slug": "gindabuo"
+    },
+    "code": {
+      "id": "GH1106_gindabuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.629",
+      "lon": "-2.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106_kalba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kalba",
+      "en": "Kalba",
+      "slug": "kalba"
+    },
+    "code": {
+      "id": "GH1106_kalba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.549",
+      "lon": "-2.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106_kulmasa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kulmasa",
+      "en": "Kulmasa",
+      "slug": "kulmasa"
+    },
+    "code": {
+      "id": "GH1106_kulmasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.692",
+      "lon": "-2.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106_sawla",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sawla",
+      "en": "Sawla",
+      "slug": "sawla"
+    },
+    "code": {
+      "id": "GH1106_sawla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.268",
+      "lon": "-2.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106_soma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Soma",
+      "en": "Soma",
+      "slug": "soma"
+    },
+    "code": {
+      "id": "GH1106_soma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.464",
+      "lon": "-2.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106_tuna",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tuna",
+      "en": "Tuna",
+      "slug": "tuna"
+    },
+    "code": {
+      "id": "GH1106_tuna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1106",
+      "level": 2,
+      "name": {
+        "local": "Sawla-Tuna-Kalba",
+        "en": "Sawla-Tuna-Kalba",
+        "slug": "sawla-tuna-kalba-gh1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1106",
+        "level": 2,
+        "name": {
+          "local": "Sawla-Tuna-Kalba",
+          "en": "Sawla-Tuna-Kalba",
+          "slug": "sawla-tuna-kalba-gh1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.492",
+      "lon": "-2.419"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

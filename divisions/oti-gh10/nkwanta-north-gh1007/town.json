@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH1007_damanko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Damanko",
+      "en": "Damanko",
+      "slug": "damanko"
+    },
+    "code": {
+      "id": "GH1007_damanko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1007",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta North",
+        "en": "Nkwanta North",
+        "slug": "nkwanta-north-gh1007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1007",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta North",
+          "en": "Nkwanta North",
+          "slug": "nkwanta-north-gh1007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.688",
+      "lon": "0.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1007_kpassa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpassa",
+      "en": "Kpassa",
+      "slug": "kpassa"
+    },
+    "code": {
+      "id": "GH1007_kpassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1007",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta North",
+        "en": "Nkwanta North",
+        "slug": "nkwanta-north-gh1007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1007",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta North",
+          "en": "Nkwanta North",
+          "slug": "nkwanta-north-gh1007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.496",
+      "lon": "0.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1007_sibi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sibi",
+      "en": "Sibi",
+      "slug": "sibi"
+    },
+    "code": {
+      "id": "GH1007_sibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1007",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta North",
+        "en": "Nkwanta North",
+        "slug": "nkwanta-north-gh1007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1007",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta North",
+          "en": "Nkwanta North",
+          "slug": "nkwanta-north-gh1007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.612",
+      "lon": "0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1007_tinjase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tinjase",
+      "en": "Tinjase",
+      "slug": "tinjase"
+    },
+    "code": {
+      "id": "GH1007_tinjase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1007",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta North",
+        "en": "Nkwanta North",
+        "slug": "nkwanta-north-gh1007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1007",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta North",
+          "en": "Nkwanta North",
+          "slug": "nkwanta-north-gh1007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.57",
+      "lon": "0.405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

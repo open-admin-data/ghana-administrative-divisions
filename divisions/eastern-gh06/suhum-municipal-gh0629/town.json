@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0629_akorabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akorabo",
+      "en": "Akorabo",
+      "slug": "akorabo"
+    },
+    "code": {
+      "id": "GH0629_akorabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.024",
+      "lon": "-0.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629_nankese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nankese",
+      "en": "Nankese",
+      "slug": "nankese"
+    },
+    "code": {
+      "id": "GH0629_nankese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.095",
+      "lon": "-0.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629_ntunkum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntunkum",
+      "en": "Ntunkum",
+      "slug": "ntunkum"
+    },
+    "code": {
+      "id": "GH0629_ntunkum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.105",
+      "lon": "-0.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629_obomofedensua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obomofedensua",
+      "en": "Obomofedensua",
+      "slug": "obomofedensua"
+    },
+    "code": {
+      "id": "GH0629_obomofedensua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.103",
+      "lon": "-0.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629_oforikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oforikrom",
+      "en": "Oforikrom",
+      "slug": "oforikrom"
+    },
+    "code": {
+      "id": "GH0629_oforikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.035",
+      "lon": "-0.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629_suhum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Suhum",
+      "en": "Suhum",
+      "slug": "suhum"
+    },
+    "code": {
+      "id": "GH0629_suhum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0629",
+      "level": 2,
+      "name": {
+        "local": "Suhum Municipal",
+        "en": "Suhum Municipal",
+        "slug": "suhum-municipal-gh0629"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0629",
+        "level": 2,
+        "name": {
+          "local": "Suhum Municipal",
+          "en": "Suhum Municipal",
+          "slug": "suhum-municipal-gh0629"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.037",
+      "lon": "-0.46"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

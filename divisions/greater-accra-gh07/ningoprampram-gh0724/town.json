@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0724_dawhenya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dawhenya",
+      "en": "Dawhenya",
+      "slug": "dawhenya"
+    },
+    "code": {
+      "id": "GH0724_dawhenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0724",
+      "level": 2,
+      "name": {
+        "local": "Ningo/Prampram",
+        "en": "Ningo/Prampram",
+        "slug": "ningoprampram-gh0724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0724",
+        "level": 2,
+        "name": {
+          "local": "Ningo/Prampram",
+          "en": "Ningo/Prampram",
+          "slug": "ningoprampram-gh0724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.767",
+      "lon": "0.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0724_lower-prampram",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lower Prampram",
+      "en": "Lower Prampram",
+      "slug": "lower-prampram"
+    },
+    "code": {
+      "id": "GH0724_lower-prampram",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0724",
+      "level": 2,
+      "name": {
+        "local": "Ningo/Prampram",
+        "en": "Ningo/Prampram",
+        "slug": "ningoprampram-gh0724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0724",
+        "level": 2,
+        "name": {
+          "local": "Ningo/Prampram",
+          "en": "Ningo/Prampram",
+          "slug": "ningoprampram-gh0724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "0.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0724_nugbenya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nugbenya",
+      "en": "Nugbenya",
+      "slug": "nugbenya"
+    },
+    "code": {
+      "id": "GH0724_nugbenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0724",
+      "level": 2,
+      "name": {
+        "local": "Ningo/Prampram",
+        "en": "Ningo/Prampram",
+        "slug": "ningoprampram-gh0724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0724",
+        "level": 2,
+        "name": {
+          "local": "Ningo/Prampram",
+          "en": "Ningo/Prampram",
+          "slug": "ningoprampram-gh0724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.835",
+      "lon": "0.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0724_old-ningo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old Ningo",
+      "en": "Old Ningo",
+      "slug": "old-ningo"
+    },
+    "code": {
+      "id": "GH0724_old-ningo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0724",
+      "level": 2,
+      "name": {
+        "local": "Ningo/Prampram",
+        "en": "Ningo/Prampram",
+        "slug": "ningoprampram-gh0724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0724",
+        "level": 2,
+        "name": {
+          "local": "Ningo/Prampram",
+          "en": "Ningo/Prampram",
+          "slug": "ningoprampram-gh0724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.752",
+      "lon": "0.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0724_prampram",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Prampram",
+      "en": "Prampram",
+      "slug": "prampram"
+    },
+    "code": {
+      "id": "GH0724_prampram",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0724",
+      "level": 2,
+      "name": {
+        "local": "Ningo/Prampram",
+        "en": "Ningo/Prampram",
+        "slug": "ningoprampram-gh0724"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0724",
+        "level": 2,
+        "name": {
+          "local": "Ningo/Prampram",
+          "en": "Ningo/Prampram",
+          "slug": "ningoprampram-gh0724"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.712",
+      "lon": "0.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

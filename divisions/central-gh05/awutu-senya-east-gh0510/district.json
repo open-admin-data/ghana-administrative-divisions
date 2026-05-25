@@ -1,0 +1,47 @@
+{
+  "id": "GH0510",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Awutu Senya East",
+    "en": "Awutu Senya East",
+    "slug": "awutu-senya-east-gh0510"
+  },
+  "code": {
+    "id": "GH0510",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.403",
+    "lon": "-0.518"
+  },
+  "metadata": {},
+  "source": {}
+}

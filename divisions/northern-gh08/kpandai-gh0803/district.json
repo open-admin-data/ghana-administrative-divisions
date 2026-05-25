@@ -1,0 +1,47 @@
+{
+  "id": "GH0803",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kpandai",
+    "en": "Kpandai",
+    "slug": "kpandai-gh0803"
+  },
+  "code": {
+    "id": "GH0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.387",
+    "lon": "-0.065"
+  },
+  "metadata": {},
+  "source": {}
+}

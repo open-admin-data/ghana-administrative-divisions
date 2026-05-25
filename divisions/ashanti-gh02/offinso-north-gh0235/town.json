@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0235_aboffour",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboffour",
+      "en": "Aboffour",
+      "slug": "aboffour"
+    },
+    "code": {
+      "id": "GH0235_aboffour",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.13",
+      "lon": "-1.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235_afrancho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afrancho",
+      "en": "Afrancho",
+      "slug": "afrancho"
+    },
+    "code": {
+      "id": "GH0235_afrancho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.408",
+      "lon": "-1.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235_akomadan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akomadan",
+      "en": "Akomadan",
+      "slug": "akomadan"
+    },
+    "code": {
+      "id": "GH0235_akomadan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.397",
+      "lon": "-1.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235_akomadan-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akomadan zongo",
+      "en": "Akomadan zongo",
+      "slug": "akomadan-zongo"
+    },
+    "code": {
+      "id": "GH0235_akomadan-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.406",
+      "lon": "-1.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235_anyinasusu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinasusu",
+      "en": "Anyinasusu",
+      "slug": "anyinasusu"
+    },
+    "code": {
+      "id": "GH0235_anyinasusu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.015",
+      "lon": "-1.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235_nkenkasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkenkasu",
+      "en": "Nkenkasu",
+      "slug": "nkenkasu"
+    },
+    "code": {
+      "id": "GH0235_nkenkasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0235",
+      "level": 2,
+      "name": {
+        "local": "Offinso North",
+        "en": "Offinso North",
+        "slug": "offinso-north-gh0235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0235",
+        "level": 2,
+        "name": {
+          "local": "Offinso North",
+          "en": "Offinso North",
+          "slug": "offinso-north-gh0235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "-1.903"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

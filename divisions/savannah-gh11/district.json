@@ -1,0 +1,331 @@
+[
+  {
+    "id": "GH1101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bole",
+      "en": "Bole",
+      "slug": "bole-gh1101"
+    },
+    "code": {
+      "id": "GH1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.692",
+      "lon": "-2.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Gonja",
+      "en": "Central Gonja",
+      "slug": "central-gonja-gh1102"
+    },
+    "code": {
+      "id": "GH1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.941",
+      "lon": "-1.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "East Gonja Municipal",
+      "en": "East Gonja Municipal",
+      "slug": "east-gonja-municipal-gh1103"
+    },
+    "code": {
+      "id": "GH1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.349",
+      "lon": "-1.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "North East Gonja",
+      "en": "North East Gonja",
+      "slug": "north-east-gonja-gh1104"
+    },
+    "code": {
+      "id": "GH1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.741",
+      "lon": "-0.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "North Gonja",
+      "en": "North Gonja",
+      "slug": "north-gonja-gh1105"
+    },
+    "code": {
+      "id": "GH1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.691",
+      "lon": "-1.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawla-Tuna-Kalba",
+      "en": "Sawla-Tuna-Kalba",
+      "slug": "sawla-tuna-kalba-gh1106"
+    },
+    "code": {
+      "id": "GH1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.479",
+      "lon": "-2.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "West Gonja",
+      "en": "West Gonja",
+      "slug": "west-gonja-gh1107"
+    },
+    "code": {
+      "id": "GH1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.223",
+      "lon": "-1.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

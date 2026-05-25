@@ -1,0 +1,47 @@
+{
+  "id": "GH0514",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gomoa Central",
+    "en": "Gomoa Central",
+    "slug": "gomoa-central-gh0514"
+  },
+  "code": {
+    "id": "GH0514",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.353",
+    "lon": "-0.725"
+  },
+  "metadata": {},
+  "source": {}
+}

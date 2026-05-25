@@ -1,0 +1,47 @@
+{
+  "id": "GH0816",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zabzugu",
+    "en": "Zabzugu",
+    "slug": "zabzugu-gh0816"
+  },
+  "code": {
+    "id": "GH0816",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.091",
+    "lon": "0.308"
+  },
+  "metadata": {},
+  "source": {}
+}

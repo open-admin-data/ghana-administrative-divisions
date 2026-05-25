@@ -1,0 +1,1553 @@
+[
+  {
+    "id": "GH0601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abuakwa North",
+      "en": "Abuakwa North",
+      "slug": "abuakwa-north-gh0601"
+    },
+    "code": {
+      "id": "GH0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.236",
+      "lon": "-0.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abuakwa South",
+      "en": "Abuakwa South",
+      "slug": "abuakwa-south-gh0602"
+    },
+    "code": {
+      "id": "GH0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.172",
+      "lon": "-0.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Achiase",
+      "en": "Achiase",
+      "slug": "achiase-gh0603"
+    },
+    "code": {
+      "id": "GH0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.795",
+      "lon": "-1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akwapem North",
+      "en": "Akwapem North",
+      "slug": "akwapem-north-gh0604"
+    },
+    "code": {
+      "id": "GH0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "-0.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akwapem South",
+      "en": "Akwapem South",
+      "slug": "akwapem-south-gh0605"
+    },
+    "code": {
+      "id": "GH0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.844",
+      "lon": "-0.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0606",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akyem Mansa",
+      "en": "Akyem Mansa",
+      "slug": "akyem-mansa-gh0606"
+    },
+    "code": {
+      "id": "GH0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.082",
+      "lon": "-1.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0607",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asene Akroso Manso",
+      "en": "Asene Akroso Manso",
+      "slug": "asene-akroso-manso-gh0607"
+    },
+    "code": {
+      "id": "GH0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.856",
+      "lon": "-0.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0608",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asuogyaman",
+      "en": "Asuogyaman",
+      "slug": "asuogyaman-gh0608"
+    },
+    "code": {
+      "id": "GH0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.365",
+      "lon": "0.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atiwa East",
+      "en": "Atiwa East",
+      "slug": "atiwa-east-gh0609"
+    },
+    "code": {
+      "id": "GH0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.396",
+      "lon": "-0.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atiwa West",
+      "en": "Atiwa West",
+      "slug": "atiwa-west-gh0610"
+    },
+    "code": {
+      "id": "GH0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.208",
+      "lon": "-0.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0611",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayensuano",
+      "en": "Ayensuano",
+      "slug": "ayensuano-gh0611"
+    },
+    "code": {
+      "id": "GH0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.945",
+      "lon": "-0.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0612",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Birim Central Municipal",
+      "en": "Birim Central Municipal",
+      "slug": "birim-central-municipal-gh0612"
+    },
+    "code": {
+      "id": "GH0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.976",
+      "lon": "-1.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Birim North",
+      "en": "Birim North",
+      "slug": "birim-north-gh0613"
+    },
+    "code": {
+      "id": "GH0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.368",
+      "lon": "-1.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0614",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Birim South",
+      "en": "Birim South",
+      "slug": "birim-south-gh0614"
+    },
+    "code": {
+      "id": "GH0614",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.901",
+      "lon": "-1.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0615",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denkyembour",
+      "en": "Denkyembour",
+      "slug": "denkyembour-gh0615"
+    },
+    "code": {
+      "id": "GH0615",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.056",
+      "lon": "-0.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0616",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fanteakwa North",
+      "en": "Fanteakwa North",
+      "slug": "fanteakwa-north-gh0616"
+    },
+    "code": {
+      "id": "GH0616",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.498",
+      "lon": "-0.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0617",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fanteakwa South",
+      "en": "Fanteakwa South",
+      "slug": "fanteakwa-south-gh0617"
+    },
+    "code": {
+      "id": "GH0617",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.371",
+      "lon": "-0.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0618",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwaebibirem",
+      "en": "Kwaebibirem",
+      "slug": "kwaebibirem-gh0618"
+    },
+    "code": {
+      "id": "GH0618",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "-0.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0619",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwahu Afram Plains North",
+      "en": "Kwahu Afram Plains North",
+      "slug": "kwahu-afram-plains-north-gh0619"
+    },
+    "code": {
+      "id": "GH0619",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.868",
+      "lon": "-0.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0620",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwahu Afram Plains South",
+      "en": "Kwahu Afram Plains South",
+      "slug": "kwahu-afram-plains-south-gh0620"
+    },
+    "code": {
+      "id": "GH0620",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.877",
+      "lon": "-0.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0621",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwahu East",
+      "en": "Kwahu East",
+      "slug": "kwahu-east-gh0621"
+    },
+    "code": {
+      "id": "GH0621",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.731",
+      "lon": "-0.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0622",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwahu South",
+      "en": "Kwahu South",
+      "slug": "kwahu-south-gh0622"
+    },
+    "code": {
+      "id": "GH0622",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.628",
+      "lon": "-0.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwahu West",
+      "en": "Kwahu West",
+      "slug": "kwahu-west-gh0623"
+    },
+    "code": {
+      "id": "GH0623",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.491",
+      "lon": "-0.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0624",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lower Manya",
+      "en": "Lower Manya",
+      "slug": "lower-manya-gh0624"
+    },
+    "code": {
+      "id": "GH0624",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.212",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0625",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "New Juaben North Municipal",
+      "en": "New Juaben North Municipal",
+      "slug": "new-juaben-north-municipal-gh0625"
+    },
+    "code": {
+      "id": "GH0625",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "-0.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0626",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "New Juaben South Municipal",
+      "en": "New Juaben South Municipal",
+      "slug": "new-juaben-south-municipal-gh0626"
+    },
+    "code": {
+      "id": "GH0626",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.08",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nsawam Adoagyiri",
+      "en": "Nsawam Adoagyiri",
+      "slug": "nsawam-adoagyiri-gh0627"
+    },
+    "code": {
+      "id": "GH0627",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.828",
+      "lon": "-0.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okere",
+      "en": "Okere",
+      "slug": "okere-gh0628"
+    },
+    "code": {
+      "id": "GH0628",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.04",
+      "lon": "-0.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0629",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suhum Municipal",
+      "en": "Suhum Municipal",
+      "slug": "suhum-municipal-gh0629"
+    },
+    "code": {
+      "id": "GH0629",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.043",
+      "lon": "-0.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Manya",
+      "en": "Upper Manya",
+      "slug": "upper-manya-gh0630"
+    },
+    "code": {
+      "id": "GH0630",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.384",
+      "lon": "-0.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0631",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper West Akim",
+      "en": "Upper West Akim",
+      "slug": "upper-west-akim-gh0631"
+    },
+    "code": {
+      "id": "GH0631",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.806",
+      "lon": "-0.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0632",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "West Akim",
+      "en": "West Akim",
+      "slug": "west-akim-gh0632"
+    },
+    "code": {
+      "id": "GH0632",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.907",
+      "lon": "-0.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yilo Krobo",
+      "en": "Yilo Krobo",
+      "slug": "yilo-krobo-gh0633"
+    },
+    "code": {
+      "id": "GH0633",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.156",
+      "lon": "-0.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1304",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lawra",
+    "en": "Lawra",
+    "slug": "lawra-gh1304"
+  },
+  "code": {
+    "id": "GH1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.62",
+    "lon": "-2.851"
+  },
+  "metadata": {},
+  "source": {}
+}

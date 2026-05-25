@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1301_duong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duong",
+      "en": "Duong",
+      "slug": "duong"
+    },
+    "code": {
+      "id": "GH1301_duong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.209",
+      "lon": "-2.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1301_issa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Issa",
+      "en": "Issa",
+      "slug": "issa"
+    },
+    "code": {
+      "id": "GH1301_issa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.384",
+      "lon": "-2.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1301_kojokpere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kojokpere",
+      "en": "Kojokpere",
+      "slug": "kojokpere"
+    },
+    "code": {
+      "id": "GH1301_kojokpere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.361",
+      "lon": "-2.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1301_ping",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ping",
+      "en": "Ping",
+      "slug": "ping"
+    },
+    "code": {
+      "id": "GH1301_ping",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.375",
+      "lon": "-2.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1301_samanbo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Samanbo",
+      "en": "Samanbo",
+      "slug": "samanbo"
+    },
+    "code": {
+      "id": "GH1301_samanbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.29",
+      "lon": "-2.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1301_suke",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Suke",
+      "en": "Suke",
+      "slug": "suke"
+    },
+    "code": {
+      "id": "GH1301_suke",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1301",
+      "level": 2,
+      "name": {
+        "local": "Daffiama Bussie Issa",
+        "en": "Daffiama Bussie Issa",
+        "slug": "daffiama-bussie-issa-gh1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1301",
+        "level": 2,
+        "name": {
+          "local": "Daffiama Bussie Issa",
+          "en": "Daffiama Bussie Issa",
+          "slug": "daffiama-bussie-issa-gh1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.51",
+      "lon": "-2.31"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

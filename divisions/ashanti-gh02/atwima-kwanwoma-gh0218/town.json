@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0218_aburaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aburaso",
+      "en": "Aburaso",
+      "slug": "aburaso"
+    },
+    "code": {
+      "id": "GH0218_aburaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.661",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_ahenema-kokoben",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahenema kokoben",
+      "en": "Ahenema kokoben",
+      "slug": "ahenema-kokoben"
+    },
+    "code": {
+      "id": "GH0218_ahenema-kokoben",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.626",
+      "lon": "-1.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_bebu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bebu",
+      "en": "Bebu",
+      "slug": "bebu"
+    },
+    "code": {
+      "id": "GH0218_bebu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.612",
+      "lon": "-1.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_brofoyeduru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brofoyeduru",
+      "en": "Brofoyeduru",
+      "slug": "brofoyeduru"
+    },
+    "code": {
+      "id": "GH0218_brofoyeduru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.615",
+      "lon": "-1.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_foase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Foase",
+      "en": "Foase",
+      "slug": "foase"
+    },
+    "code": {
+      "id": "GH0218_foase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.638",
+      "lon": "-1.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_kwanwoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwanwoma",
+      "en": "Kwanwoma",
+      "slug": "kwanwoma"
+    },
+    "code": {
+      "id": "GH0218_kwanwoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.629",
+      "lon": "-1.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_trabuom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Trabuom",
+      "en": "Trabuom",
+      "slug": "trabuom"
+    },
+    "code": {
+      "id": "GH0218_trabuom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.611",
+      "lon": "-1.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218_trede",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Trede",
+      "en": "Trede",
+      "slug": "trede"
+    },
+    "code": {
+      "id": "GH0218_trede",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0218",
+      "level": 2,
+      "name": {
+        "local": "Atwima Kwanwoma",
+        "en": "Atwima Kwanwoma",
+        "slug": "atwima-kwanwoma-gh0218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0218",
+        "level": 2,
+        "name": {
+          "local": "Atwima Kwanwoma",
+          "en": "Atwima Kwanwoma",
+          "slug": "atwima-kwanwoma-gh0218"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.578",
+      "lon": "-1.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

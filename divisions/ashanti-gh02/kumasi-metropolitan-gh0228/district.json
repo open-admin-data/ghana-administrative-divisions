@@ -1,0 +1,47 @@
+{
+  "id": "GH0228",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kumasi Metropolitan",
+    "en": "Kumasi Metropolitan",
+    "slug": "kumasi-metropolitan-gh0228"
+  },
+  "code": {
+    "id": "GH0228",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.689",
+    "lon": "-1.625"
+  },
+  "metadata": {},
+  "source": {}
+}

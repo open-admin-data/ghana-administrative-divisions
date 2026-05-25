@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH0623_adoagyiri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adoagyiri",
+      "en": "Adoagyiri",
+      "slug": "adoagyiri"
+    },
+    "code": {
+      "id": "GH0623_adoagyiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.545",
+      "lon": "-0.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_apradan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apradan",
+      "en": "Apradan",
+      "slug": "apradan"
+    },
+    "code": {
+      "id": "GH0623_apradan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.549",
+      "lon": "-0.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_asubone",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asubone",
+      "en": "Asubone",
+      "slug": "asubone"
+    },
+    "code": {
+      "id": "GH0623_asubone",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.469",
+      "lon": "-0.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_asuboni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuboni",
+      "en": "Asuboni",
+      "slug": "asuboni"
+    },
+    "code": {
+      "id": "GH0623_asuboni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.543",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_danteng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Danteng",
+      "en": "Danteng",
+      "slug": "danteng"
+    },
+    "code": {
+      "id": "GH0623_danteng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.599",
+      "lon": "-0.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_domiabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Domiabra",
+      "en": "Domiabra",
+      "slug": "domiabra"
+    },
+    "code": {
+      "id": "GH0623_domiabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.553",
+      "lon": "-0.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_kadewaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kadewaso",
+      "en": "Kadewaso",
+      "slug": "kadewaso"
+    },
+    "code": {
+      "id": "GH0623_kadewaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.434",
+      "lon": "-0.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_kwahu-jejeti",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwahu Jejeti",
+      "en": "Kwahu Jejeti",
+      "slug": "kwahu-jejeti"
+    },
+    "code": {
+      "id": "GH0623_kwahu-jejeti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.469",
+      "lon": "-0.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_new-jejeti",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Jejeti",
+      "en": "New Jejeti",
+      "slug": "new-jejeti"
+    },
+    "code": {
+      "id": "GH0623_new-jejeti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.474",
+      "lon": "-0.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_nkawkaw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkawkaw",
+      "en": "Nkawkaw",
+      "slug": "nkawkaw"
+    },
+    "code": {
+      "id": "GH0623_nkawkaw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.551",
+      "lon": "-0.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_nkawkaw-asuboni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkawkaw Asuboni",
+      "en": "Nkawkaw Asuboni",
+      "slug": "nkawkaw-asuboni"
+    },
+    "code": {
+      "id": "GH0623_nkawkaw-asuboni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.543",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_nkawkaw-west",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkawkaw West",
+      "en": "Nkawkaw West",
+      "slug": "nkawkaw-west"
+    },
+    "code": {
+      "id": "GH0623_nkawkaw-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.563",
+      "lon": "-0.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0623_nkawkaw-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkawkaw Zongo",
+      "en": "Nkawkaw Zongo",
+      "slug": "nkawkaw-zongo"
+    },
+    "code": {
+      "id": "GH0623_nkawkaw-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0623",
+      "level": 2,
+      "name": {
+        "local": "Kwahu West",
+        "en": "Kwahu West",
+        "slug": "kwahu-west-gh0623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0623",
+        "level": 2,
+        "name": {
+          "local": "Kwahu West",
+          "en": "Kwahu West",
+          "slug": "kwahu-west-gh0623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.548",
+      "lon": "-0.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

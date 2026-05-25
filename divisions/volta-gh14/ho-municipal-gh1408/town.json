@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "GH1408_abutia-agove",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abutia Agove",
+      "en": "Abutia Agove",
+      "slug": "abutia-agove"
+    },
+    "code": {
+      "id": "GH1408_abutia-agove",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.506",
+      "lon": "0.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_abutia-kloe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abutia Kloe",
+      "en": "Abutia Kloe",
+      "slug": "abutia-kloe"
+    },
+    "code": {
+      "id": "GH1408_abutia-kloe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.484",
+      "lon": "0.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_abutia-kpota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abutia Kpota",
+      "en": "Abutia Kpota",
+      "slug": "abutia-kpota"
+    },
+    "code": {
+      "id": "GH1408_abutia-kpota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.425",
+      "lon": "0.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_akoefe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akoefe",
+      "en": "Akoefe",
+      "slug": "akoefe"
+    },
+    "code": {
+      "id": "GH1408_akoefe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.656",
+      "lon": "0.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_akrofu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrofu",
+      "en": "Akrofu",
+      "slug": "akrofu"
+    },
+    "code": {
+      "id": "GH1408_akrofu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.633",
+      "lon": "0.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_amedzope",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amedzope",
+      "en": "Amedzope",
+      "slug": "amedzope"
+    },
+    "code": {
+      "id": "GH1408_amedzope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.852",
+      "lon": "0.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_atikpui",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atikpui",
+      "en": "Atikpui",
+      "slug": "atikpui"
+    },
+    "code": {
+      "id": "GH1408_atikpui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.746",
+      "lon": "0.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_dodome-awiasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodome Awiasu",
+      "en": "Dodome Awiasu",
+      "slug": "dodome-awiasu"
+    },
+    "code": {
+      "id": "GH1408_dodome-awiasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.768",
+      "lon": "0.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_dodome-teleafenu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodome Teleafenu",
+      "en": "Dodome Teleafenu",
+      "slug": "dodome-teleafenu"
+    },
+    "code": {
+      "id": "GH1408_dodome-teleafenu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.803",
+      "lon": "0.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_dzolo-gbogame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzolo Gbogame",
+      "en": "Dzolo Gbogame",
+      "slug": "dzolo-gbogame"
+    },
+    "code": {
+      "id": "GH1408_dzolo-gbogame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.775",
+      "lon": "0.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_dzolo-kpuita",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzolo Kpuita",
+      "en": "Dzolo Kpuita",
+      "slug": "dzolo-kpuita"
+    },
+    "code": {
+      "id": "GH1408_dzolo-kpuita",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.735",
+      "lon": "0.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_fume",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fume",
+      "en": "Fume",
+      "slug": "fume"
+    },
+    "code": {
+      "id": "GH1408_fume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.879",
+      "lon": "0.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_gbadzeme",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbadzeme",
+      "en": "Gbadzeme",
+      "slug": "gbadzeme"
+    },
+    "code": {
+      "id": "GH1408_gbadzeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.861",
+      "lon": "0.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_hlefi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hlefi",
+      "en": "Hlefi",
+      "slug": "hlefi"
+    },
+    "code": {
+      "id": "GH1408_hlefi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.721",
+      "lon": "0.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_ho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ho",
+      "en": "Ho",
+      "slug": "ho"
+    },
+    "code": {
+      "id": "GH1408_ho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.599",
+      "lon": "0.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_hodzoga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hodzoga",
+      "en": "Hodzoga",
+      "slug": "hodzoga"
+    },
+    "code": {
+      "id": "GH1408_hodzoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.672",
+      "lon": "0.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_klefe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Klefe",
+      "en": "Klefe",
+      "slug": "klefe"
+    },
+    "code": {
+      "id": "GH1408_klefe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.618",
+      "lon": "0.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_kpedze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpedze",
+      "en": "Kpedze",
+      "slug": "kpedze"
+    },
+    "code": {
+      "id": "GH1408_kpedze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.846",
+      "lon": "0.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_lume",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lume",
+      "en": "Lume",
+      "slug": "lume"
+    },
+    "code": {
+      "id": "GH1408_lume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_matse",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Matse",
+      "en": "Matse",
+      "slug": "matse"
+    },
+    "code": {
+      "id": "GH1408_matse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.689",
+      "lon": "0.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_nyive",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyive",
+      "en": "Nyive",
+      "slug": "nyive"
+    },
+    "code": {
+      "id": "GH1408_nyive",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.762",
+      "lon": "0.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_saviefe-agorkpo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Saviefe Agorkpo",
+      "en": "Saviefe Agorkpo",
+      "slug": "saviefe-agorkpo"
+    },
+    "code": {
+      "id": "GH1408_saviefe-agorkpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.784",
+      "lon": "0.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_shia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Shia",
+      "en": "Shia",
+      "slug": "shia"
+    },
+    "code": {
+      "id": "GH1408_shia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.795",
+      "lon": "0.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_tanyigbe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tanyigbe",
+      "en": "Tanyigbe",
+      "slug": "tanyigbe"
+    },
+    "code": {
+      "id": "GH1408_tanyigbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.696",
+      "lon": "0.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_taviafe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Taviafe",
+      "en": "Taviafe",
+      "slug": "taviafe"
+    },
+    "code": {
+      "id": "GH1408_taviafe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.664",
+      "lon": "0.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_tokokoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tokokoe",
+      "en": "Tokokoe",
+      "slug": "tokokoe"
+    },
+    "code": {
+      "id": "GH1408_tokokoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.719",
+      "lon": "0.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_tsibu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tsibu",
+      "en": "Tsibu",
+      "slug": "tsibu"
+    },
+    "code": {
+      "id": "GH1408_tsibu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.578",
+      "lon": "0.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_tsito",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tsito",
+      "en": "Tsito",
+      "slug": "tsito"
+    },
+    "code": {
+      "id": "GH1408_tsito",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.551",
+      "lon": "0.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_vane",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vane",
+      "en": "Vane",
+      "slug": "vane"
+    },
+    "code": {
+      "id": "GH1408_vane",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.824",
+      "lon": "0.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408_ziavi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ziavi",
+      "en": "Ziavi",
+      "slug": "ziavi"
+    },
+    "code": {
+      "id": "GH1408_ziavi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1408",
+      "level": 2,
+      "name": {
+        "local": "Ho Municipal",
+        "en": "Ho Municipal",
+        "slug": "ho-municipal-gh1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1408",
+        "level": 2,
+        "name": {
+          "local": "Ho Municipal",
+          "en": "Ho Municipal",
+          "slug": "ho-municipal-gh1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.65",
+      "lon": "0.443"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

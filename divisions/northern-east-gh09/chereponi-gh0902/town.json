@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0902_bunburika",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bunburika",
+      "en": "Bunburika",
+      "slug": "bunburika"
+    },
+    "code": {
+      "id": "GH0902_bunburika",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0902",
+      "level": 2,
+      "name": {
+        "local": "Chereponi",
+        "en": "Chereponi",
+        "slug": "chereponi-gh0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0902",
+        "level": 2,
+        "name": {
+          "local": "Chereponi",
+          "en": "Chereponi",
+          "slug": "chereponi-gh0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.401",
+      "lon": "0.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0902_chereponi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chereponi",
+      "en": "Chereponi",
+      "slug": "chereponi"
+    },
+    "code": {
+      "id": "GH0902_chereponi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0902",
+      "level": 2,
+      "name": {
+        "local": "Chereponi",
+        "en": "Chereponi",
+        "slug": "chereponi-gh0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0902",
+        "level": 2,
+        "name": {
+          "local": "Chereponi",
+          "en": "Chereponi",
+          "slug": "chereponi-gh0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.131",
+      "lon": "0.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0902_wanjuga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wanjuga",
+      "en": "Wanjuga",
+      "slug": "wanjuga"
+    },
+    "code": {
+      "id": "GH0902_wanjuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0902",
+      "level": 2,
+      "name": {
+        "local": "Chereponi",
+        "en": "Chereponi",
+        "slug": "chereponi-gh0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0902",
+        "level": 2,
+        "name": {
+          "local": "Chereponi",
+          "en": "Chereponi",
+          "slug": "chereponi-gh0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.216",
+      "lon": "0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0902_wenchiki",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wenchiki",
+      "en": "Wenchiki",
+      "slug": "wenchiki"
+    },
+    "code": {
+      "id": "GH0902_wenchiki",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0902",
+      "level": 2,
+      "name": {
+        "local": "Chereponi",
+        "en": "Chereponi",
+        "slug": "chereponi-gh0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0902",
+        "level": 2,
+        "name": {
+          "local": "Chereponi",
+          "en": "Chereponi",
+          "slug": "chereponi-gh0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.273",
+      "lon": "0.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

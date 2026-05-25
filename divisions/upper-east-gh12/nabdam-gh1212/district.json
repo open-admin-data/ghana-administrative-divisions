@@ -1,0 +1,47 @@
+{
+  "id": "GH1212",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nabdam",
+    "en": "Nabdam",
+    "slug": "nabdam-gh1212"
+  },
+  "code": {
+    "id": "GH1212",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.847",
+    "lon": "-0.661"
+  },
+  "metadata": {},
+  "source": {}
+}

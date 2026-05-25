@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0404_busunyaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Busunyaa",
+      "en": "Busunyaa",
+      "slug": "busunyaa"
+    },
+    "code": {
+      "id": "GH0404_busunyaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0404",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza North",
+        "en": "Nkoranza North",
+        "slug": "nkoranza-north-gh0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0404",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza North",
+          "en": "Nkoranza North",
+          "slug": "nkoranza-north-gh0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.685",
+      "lon": "-1.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0404_dromankese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dromankese",
+      "en": "Dromankese",
+      "slug": "dromankese"
+    },
+    "code": {
+      "id": "GH0404_dromankese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0404",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza North",
+        "en": "Nkoranza North",
+        "slug": "nkoranza-north-gh0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0404",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza North",
+          "en": "Nkoranza North",
+          "slug": "nkoranza-north-gh0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.709",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0404_yefri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yefri",
+      "en": "Yefri",
+      "slug": "yefri"
+    },
+    "code": {
+      "id": "GH0404_yefri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0404",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza North",
+        "en": "Nkoranza North",
+        "slug": "nkoranza-north-gh0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0404",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza North",
+          "en": "Nkoranza North",
+          "slug": "nkoranza-north-gh0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.691",
+      "lon": "-1.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

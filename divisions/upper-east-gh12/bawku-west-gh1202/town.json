@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "GH1202_apodabogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apodabogo",
+      "en": "Apodabogo",
+      "slug": "apodabogo"
+    },
+    "code": {
+      "id": "GH1202_apodabogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.718",
+      "lon": "-0.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_asogummore",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asogummore",
+      "en": "Asogummore",
+      "slug": "asogummore"
+    },
+    "code": {
+      "id": "GH1202_asogummore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.941",
+      "lon": "-0.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_azuwera",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Azuwera",
+      "en": "Azuwera",
+      "slug": "azuwera"
+    },
+    "code": {
+      "id": "GH1202_azuwera",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.791",
+      "lon": "-0.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_binaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Binaba",
+      "en": "Binaba",
+      "slug": "binaba"
+    },
+    "code": {
+      "id": "GH1202_binaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.762",
+      "lon": "-0.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_bulinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bulinga",
+      "en": "Bulinga",
+      "slug": "bulinga"
+    },
+    "code": {
+      "id": "GH1202_bulinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.69",
+      "lon": "-0.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_googo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Googo",
+      "en": "Googo",
+      "slug": "googo"
+    },
+    "code": {
+      "id": "GH1202_googo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.024",
+      "lon": "-0.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_kansoogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kansoogo",
+      "en": "Kansoogo",
+      "slug": "kansoogo"
+    },
+    "code": {
+      "id": "GH1202_kansoogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.972",
+      "lon": "-0.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_kukore",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukore",
+      "en": "Kukore",
+      "slug": "kukore"
+    },
+    "code": {
+      "id": "GH1202_kukore",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.83",
+      "lon": "-0.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_sapelliga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sapelliga",
+      "en": "Sapelliga",
+      "slug": "sapelliga"
+    },
+    "code": {
+      "id": "GH1202_sapelliga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.062",
+      "lon": "-0.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_tanga-central",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tanga-Central",
+      "en": "Tanga-Central",
+      "slug": "tanga-central"
+    },
+    "code": {
+      "id": "GH1202_tanga-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.908",
+      "lon": "-0.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_teshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Teshie",
+      "en": "Teshie",
+      "slug": "teshie"
+    },
+    "code": {
+      "id": "GH1202_teshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.979",
+      "lon": "-0.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_tilli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tilli",
+      "en": "Tilli",
+      "slug": "tilli"
+    },
+    "code": {
+      "id": "GH1202_tilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.883",
+      "lon": "-0.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_timonde",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Timonde",
+      "en": "Timonde",
+      "slug": "timonde"
+    },
+    "code": {
+      "id": "GH1202_timonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.912",
+      "lon": "-0.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_timonde-natriga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Timonde-Natriga",
+      "en": "Timonde-Natriga",
+      "slug": "timonde-natriga"
+    },
+    "code": {
+      "id": "GH1202_timonde-natriga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.912",
+      "lon": "-0.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_widnaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Widnaba",
+      "en": "Widnaba",
+      "slug": "widnaba"
+    },
+    "code": {
+      "id": "GH1202_widnaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.972",
+      "lon": "-0.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_yarigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yarigu",
+      "en": "Yarigu",
+      "slug": "yarigu"
+    },
+    "code": {
+      "id": "GH1202_yarigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.958",
+      "lon": "-0.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_yelwoko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yelwoko",
+      "en": "Yelwoko",
+      "slug": "yelwoko"
+    },
+    "code": {
+      "id": "GH1202_yelwoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.859",
+      "lon": "-0.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_zebilla",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zebilla",
+      "en": "Zebilla",
+      "slug": "zebilla"
+    },
+    "code": {
+      "id": "GH1202_zebilla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.936",
+      "lon": "-0.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1202_zongoirenatinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zongoire/Natinga",
+      "en": "Zongoire/Natinga",
+      "slug": "zongoirenatinga"
+    },
+    "code": {
+      "id": "GH1202_zongoirenatinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1202",
+      "level": 2,
+      "name": {
+        "local": "Bawku West",
+        "en": "Bawku West",
+        "slug": "bawku-west-gh1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1202",
+        "level": 2,
+        "name": {
+          "local": "Bawku West",
+          "en": "Bawku West",
+          "slug": "bawku-west-gh1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.665",
+      "lon": "-0.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

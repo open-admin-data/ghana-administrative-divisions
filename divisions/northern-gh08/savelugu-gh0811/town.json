@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0811_diare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Diare",
+      "en": "Diare",
+      "slug": "diare"
+    },
+    "code": {
+      "id": "GH0811_diare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0811",
+      "level": 2,
+      "name": {
+        "local": "Savelugu",
+        "en": "Savelugu",
+        "slug": "savelugu-gh0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0811",
+        "level": 2,
+        "name": {
+          "local": "Savelugu",
+          "en": "Savelugu",
+          "slug": "savelugu-gh0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.875",
+      "lon": "-0.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0811_pigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pigu",
+      "en": "Pigu",
+      "slug": "pigu"
+    },
+    "code": {
+      "id": "GH0811_pigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0811",
+      "level": 2,
+      "name": {
+        "local": "Savelugu",
+        "en": "Savelugu",
+        "slug": "savelugu-gh0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0811",
+        "level": 2,
+        "name": {
+          "local": "Savelugu",
+          "en": "Savelugu",
+          "slug": "savelugu-gh0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.98",
+      "lon": "-0.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0811_tampion",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tampion",
+      "en": "Tampion",
+      "slug": "tampion"
+    },
+    "code": {
+      "id": "GH0811_tampion",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0811",
+      "level": 2,
+      "name": {
+        "local": "Savelugu",
+        "en": "Savelugu",
+        "slug": "savelugu-gh0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0811",
+        "level": 2,
+        "name": {
+          "local": "Savelugu",
+          "en": "Savelugu",
+          "slug": "savelugu-gh0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.835",
+      "lon": "-0.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

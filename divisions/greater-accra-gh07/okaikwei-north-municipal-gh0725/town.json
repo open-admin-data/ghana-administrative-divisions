@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0725_abofu-achimota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abofu (Achimota)",
+      "en": "Abofu (Achimota)",
+      "slug": "abofu-achimota"
+    },
+    "code": {
+      "id": "GH0725_abofu-achimota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0725",
+      "level": 2,
+      "name": {
+        "local": "Okaikwei North Municipal",
+        "en": "Okaikwei North Municipal",
+        "slug": "okaikwei-north-municipal-gh0725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0725",
+        "level": 2,
+        "name": {
+          "local": "Okaikwei North Municipal",
+          "en": "Okaikwei North Municipal",
+          "slug": "okaikwei-north-municipal-gh0725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.617",
+      "lon": "-0.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0725_achimota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Achimota",
+      "en": "Achimota",
+      "slug": "achimota"
+    },
+    "code": {
+      "id": "GH0725_achimota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0725",
+      "level": 2,
+      "name": {
+        "local": "Okaikwei North Municipal",
+        "en": "Okaikwei North Municipal",
+        "slug": "okaikwei-north-municipal-gh0725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0725",
+        "level": 2,
+        "name": {
+          "local": "Okaikwei North Municipal",
+          "en": "Okaikwei North Municipal",
+          "slug": "okaikwei-north-municipal-gh0725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.623",
+      "lon": "-0.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0725_dzorwulu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzorwulu",
+      "en": "Dzorwulu",
+      "slug": "dzorwulu"
+    },
+    "code": {
+      "id": "GH0725_dzorwulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0725",
+      "level": 2,
+      "name": {
+        "local": "Okaikwei North Municipal",
+        "en": "Okaikwei North Municipal",
+        "slug": "okaikwei-north-municipal-gh0725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0725",
+        "level": 2,
+        "name": {
+          "local": "Okaikwei North Municipal",
+          "en": "Okaikwei North Municipal",
+          "slug": "okaikwei-north-municipal-gh0725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.615",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0725_greenhill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Greenhill",
+      "en": "Greenhill",
+      "slug": "greenhill"
+    },
+    "code": {
+      "id": "GH0725_greenhill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0725",
+      "level": 2,
+      "name": {
+        "local": "Okaikwei North Municipal",
+        "en": "Okaikwei North Municipal",
+        "slug": "okaikwei-north-municipal-gh0725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0725",
+        "level": 2,
+        "name": {
+          "local": "Okaikwei North Municipal",
+          "en": "Okaikwei North Municipal",
+          "slug": "okaikwei-north-municipal-gh0725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.636",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0725_new-achimota-mile-7",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Achimota (mile 7)",
+      "en": "New Achimota (mile 7)",
+      "slug": "new-achimota-mile-7"
+    },
+    "code": {
+      "id": "GH0725_new-achimota-mile-7",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0725",
+      "level": 2,
+      "name": {
+        "local": "Okaikwei North Municipal",
+        "en": "Okaikwei North Municipal",
+        "slug": "okaikwei-north-municipal-gh0725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0725",
+        "level": 2,
+        "name": {
+          "local": "Okaikwei North Municipal",
+          "en": "Okaikwei North Municipal",
+          "slug": "okaikwei-north-municipal-gh0725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "-0.248"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

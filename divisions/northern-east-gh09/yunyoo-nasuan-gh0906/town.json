@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0906_bunkpurugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bunkpurugu",
+      "en": "Bunkpurugu",
+      "slug": "bunkpurugu"
+    },
+    "code": {
+      "id": "GH0906_bunkpurugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0906",
+      "level": 2,
+      "name": {
+        "local": "Yunyoo-Nasuan",
+        "en": "Yunyoo-Nasuan",
+        "slug": "yunyoo-nasuan-gh0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0906",
+        "level": 2,
+        "name": {
+          "local": "Yunyoo-Nasuan",
+          "en": "Yunyoo-Nasuan",
+          "slug": "yunyoo-nasuan-gh0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.522",
+      "lon": "-0.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0906_gimbale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gimbale",
+      "en": "Gimbale",
+      "slug": "gimbale"
+    },
+    "code": {
+      "id": "GH0906_gimbale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0906",
+      "level": 2,
+      "name": {
+        "local": "Yunyoo-Nasuan",
+        "en": "Yunyoo-Nasuan",
+        "slug": "yunyoo-nasuan-gh0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0906",
+        "level": 2,
+        "name": {
+          "local": "Yunyoo-Nasuan",
+          "en": "Yunyoo-Nasuan",
+          "slug": "yunyoo-nasuan-gh0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.455",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0906_nasuan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nasuan",
+      "en": "Nasuan",
+      "slug": "nasuan"
+    },
+    "code": {
+      "id": "GH0906_nasuan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0906",
+      "level": 2,
+      "name": {
+        "local": "Yunyoo-Nasuan",
+        "en": "Yunyoo-Nasuan",
+        "slug": "yunyoo-nasuan-gh0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0906",
+        "level": 2,
+        "name": {
+          "local": "Yunyoo-Nasuan",
+          "en": "Yunyoo-Nasuan",
+          "slug": "yunyoo-nasuan-gh0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.513",
+      "lon": "-0.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

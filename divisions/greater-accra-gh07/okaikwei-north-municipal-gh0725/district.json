@@ -1,0 +1,47 @@
+{
+  "id": "GH0725",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Okaikwei North Municipal",
+    "en": "Okaikwei North Municipal",
+    "slug": "okaikwei-north-municipal-gh0725"
+  },
+  "code": {
+    "id": "GH0725",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.629",
+    "lon": "-0.209"
+  },
+  "metadata": {},
+  "source": {}
+}

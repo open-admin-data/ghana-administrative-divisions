@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0619_amankwah",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amankwah",
+      "en": "Amankwah",
+      "slug": "amankwah"
+    },
+    "code": {
+      "id": "GH0619_amankwah",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0619",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains North",
+        "en": "Kwahu Afram Plains North",
+        "slug": "kwahu-afram-plains-north-gh0619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0619",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains North",
+          "en": "Kwahu Afram Plains North",
+          "slug": "kwahu-afram-plains-north-gh0619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.053",
+      "lon": "-0.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0619_donkorkrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Donkorkrom",
+      "en": "Donkorkrom",
+      "slug": "donkorkrom"
+    },
+    "code": {
+      "id": "GH0619_donkorkrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0619",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains North",
+        "en": "Kwahu Afram Plains North",
+        "slug": "kwahu-afram-plains-north-gh0619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0619",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains North",
+          "en": "Kwahu Afram Plains North",
+          "slug": "kwahu-afram-plains-north-gh0619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.933",
+      "lon": "-0.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0619_forifori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Forifori",
+      "en": "Forifori",
+      "slug": "forifori"
+    },
+    "code": {
+      "id": "GH0619_forifori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0619",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains North",
+        "en": "Kwahu Afram Plains North",
+        "slug": "kwahu-afram-plains-north-gh0619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0619",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains North",
+          "en": "Kwahu Afram Plains North",
+          "slug": "kwahu-afram-plains-north-gh0619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.83",
+      "lon": "-0.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0619_samanhyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Samanhyia",
+      "en": "Samanhyia",
+      "slug": "samanhyia"
+    },
+    "code": {
+      "id": "GH0619_samanhyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0619",
+      "level": 2,
+      "name": {
+        "local": "Kwahu Afram Plains North",
+        "en": "Kwahu Afram Plains North",
+        "slug": "kwahu-afram-plains-north-gh0619"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0619",
+        "level": 2,
+        "name": {
+          "local": "Kwahu Afram Plains North",
+          "en": "Kwahu Afram Plains North",
+          "slug": "kwahu-afram-plains-north-gh0619"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.991",
+      "lon": "-0.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

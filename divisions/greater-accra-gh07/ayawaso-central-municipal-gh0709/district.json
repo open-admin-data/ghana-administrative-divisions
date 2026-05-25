@@ -1,0 +1,47 @@
+{
+  "id": "GH0709",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ayawaso Central Municipal",
+    "en": "Ayawaso Central Municipal",
+    "slug": "ayawaso-central-municipal-gh0709"
+  },
+  "code": {
+    "id": "GH0709",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.579",
+    "lon": "-0.204"
+  },
+  "metadata": {},
+  "source": {}
+}

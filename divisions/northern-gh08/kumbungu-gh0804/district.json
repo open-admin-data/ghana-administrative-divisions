@@ -1,0 +1,47 @@
+{
+  "id": "GH0804",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kumbungu",
+    "en": "Kumbungu",
+    "slug": "kumbungu-gh0804"
+  },
+  "code": {
+    "id": "GH0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH08",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH08",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-gh08"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.797",
+    "lon": "-1.061"
+  },
+  "metadata": {},
+  "source": {}
+}

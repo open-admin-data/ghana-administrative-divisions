@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0208_adinyana",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adinyana",
+      "en": "Adinyana",
+      "slug": "adinyana"
+    },
+    "code": {
+      "id": "GH0208_adinyana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0208",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South East",
+        "en": "Ahafo Ano South East",
+        "slug": "ahafo-ano-south-east-gh0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0208",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South East",
+          "en": "Ahafo Ano South East",
+          "slug": "ahafo-ano-south-east-gh0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.884",
+      "lon": "-1.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0208_adwinyama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adwinyama",
+      "en": "Adwinyama",
+      "slug": "adwinyama"
+    },
+    "code": {
+      "id": "GH0208_adwinyama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0208",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South East",
+        "en": "Ahafo Ano South East",
+        "slug": "ahafo-ano-south-east-gh0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0208",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South East",
+          "en": "Ahafo Ano South East",
+          "slug": "ahafo-ano-south-east-gh0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.88",
+      "lon": "-1.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0208_essienkyem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essienkyem",
+      "en": "Essienkyem",
+      "slug": "essienkyem"
+    },
+    "code": {
+      "id": "GH0208_essienkyem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0208",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South East",
+        "en": "Ahafo Ano South East",
+        "slug": "ahafo-ano-south-east-gh0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0208",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South East",
+          "en": "Ahafo Ano South East",
+          "slug": "ahafo-ano-south-east-gh0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.976",
+      "lon": "-1.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0208_mankranso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankranso",
+      "en": "Mankranso",
+      "slug": "mankranso"
+    },
+    "code": {
+      "id": "GH0208_mankranso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0208",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South East",
+        "en": "Ahafo Ano South East",
+        "slug": "ahafo-ano-south-east-gh0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0208",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South East",
+          "en": "Ahafo Ano South East",
+          "slug": "ahafo-ano-south-east-gh0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.821",
+      "lon": "-1.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0208_pokukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pokukrom",
+      "en": "Pokukrom",
+      "slug": "pokukrom"
+    },
+    "code": {
+      "id": "GH0208_pokukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0208",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South East",
+        "en": "Ahafo Ano South East",
+        "slug": "ahafo-ano-south-east-gh0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0208",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South East",
+          "en": "Ahafo Ano South East",
+          "slug": "ahafo-ano-south-east-gh0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.004",
+      "lon": "-1.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

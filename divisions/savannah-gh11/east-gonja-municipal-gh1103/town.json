@@ -1,0 +1,866 @@
+[
+  {
+    "id": "GH1103_abromase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abromase",
+      "en": "Abromase",
+      "slug": "abromase"
+    },
+    "code": {
+      "id": "GH1103_abromase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.464",
+      "lon": "-1.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_blajai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Blajai",
+      "en": "Blajai",
+      "slug": "blajai"
+    },
+    "code": {
+      "id": "GH1103_blajai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.376",
+      "lon": "0.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_buma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buma",
+      "en": "Buma",
+      "slug": "buma"
+    },
+    "code": {
+      "id": "GH1103_buma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.298",
+      "lon": "-0.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_bunjai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bunjai",
+      "en": "Bunjai",
+      "slug": "bunjai"
+    },
+    "code": {
+      "id": "GH1103_bunjai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.737",
+      "lon": "-0.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_ekumde",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekumde",
+      "en": "Ekumde",
+      "slug": "ekumde"
+    },
+    "code": {
+      "id": "GH1103_ekumde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.465",
+      "lon": "-0.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_gulbi-quarters",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gulbi Quarters",
+      "en": "Gulbi Quarters",
+      "slug": "gulbi-quarters"
+    },
+    "code": {
+      "id": "GH1103_gulbi-quarters",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.26",
+      "lon": "-0.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_jantong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jantong",
+      "en": "Jantong",
+      "slug": "jantong"
+    },
+    "code": {
+      "id": "GH1103_jantong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.234",
+      "lon": "-0.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_kitare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kitare",
+      "en": "Kitare",
+      "slug": "kitare"
+    },
+    "code": {
+      "id": "GH1103_kitare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.262",
+      "lon": "-0.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_kpalbe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpalbe",
+      "en": "Kpalbe",
+      "slug": "kpalbe"
+    },
+    "code": {
+      "id": "GH1103_kpalbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.12",
+      "lon": "-0.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_kpandai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpandai",
+      "en": "Kpandai",
+      "slug": "kpandai"
+    },
+    "code": {
+      "id": "GH1103_kpandai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.463",
+      "lon": "0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_loloto",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Loloto",
+      "en": "Loloto",
+      "slug": "loloto"
+    },
+    "code": {
+      "id": "GH1103_loloto",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.366",
+      "lon": "-0.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_lonton",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lonton",
+      "en": "Lonton",
+      "slug": "lonton"
+    },
+    "code": {
+      "id": "GH1103_lonton",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "-0.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_makango",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Makango",
+      "en": "Makango",
+      "slug": "makango"
+    },
+    "code": {
+      "id": "GH1103_makango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.324",
+      "lon": "-0.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_nkanchina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkanchina",
+      "en": "Nkanchina",
+      "slug": "nkanchina"
+    },
+    "code": {
+      "id": "GH1103_nkanchina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.45",
+      "lon": "-0.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_sabonjida",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabonjida",
+      "en": "Sabonjida",
+      "slug": "sabonjida"
+    },
+    "code": {
+      "id": "GH1103_sabonjida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.312",
+      "lon": "-0.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1103_salaga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Salaga",
+      "en": "Salaga",
+      "slug": "salaga"
+    },
+    "code": {
+      "id": "GH1103_salaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1103",
+      "level": 2,
+      "name": {
+        "local": "East Gonja Municipal",
+        "en": "East Gonja Municipal",
+        "slug": "east-gonja-municipal-gh1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1103",
+        "level": 2,
+        "name": {
+          "local": "East Gonja Municipal",
+          "en": "East Gonja Municipal",
+          "slug": "east-gonja-municipal-gh1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.557",
+      "lon": "-0.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

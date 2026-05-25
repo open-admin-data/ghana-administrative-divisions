@@ -1,0 +1,47 @@
+{
+  "id": "GH0303",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Berekum West",
+    "en": "Berekum West",
+    "slug": "berekum-west-gh0303"
+  },
+  "code": {
+    "id": "GH0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.472",
+    "lon": "-2.71"
+  },
+  "metadata": {},
+  "source": {}
+}

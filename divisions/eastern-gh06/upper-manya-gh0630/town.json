@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0630_akateng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akateng",
+      "en": "Akateng",
+      "slug": "akateng"
+    },
+    "code": {
+      "id": "GH0630_akateng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.517",
+      "lon": "-0.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630_anyaboni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyaboni",
+      "en": "Anyaboni",
+      "slug": "anyaboni"
+    },
+    "code": {
+      "id": "GH0630_anyaboni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.34",
+      "lon": "-0.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630_asesewa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asesewa",
+      "en": "Asesewa",
+      "slug": "asesewa"
+    },
+    "code": {
+      "id": "GH0630_asesewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.402",
+      "lon": "-0.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630_djamam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Djamam",
+      "en": "Djamam",
+      "slug": "djamam"
+    },
+    "code": {
+      "id": "GH0630_djamam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.377",
+      "lon": "-0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630_odometta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odometta",
+      "en": "Odometta",
+      "slug": "odometta"
+    },
+    "code": {
+      "id": "GH0630_odometta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.394",
+      "lon": "-0.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0630_sekesua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekesua",
+      "en": "Sekesua",
+      "slug": "sekesua"
+    },
+    "code": {
+      "id": "GH0630_sekesua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0630",
+      "level": 2,
+      "name": {
+        "local": "Upper Manya",
+        "en": "Upper Manya",
+        "slug": "upper-manya-gh0630"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0630",
+        "level": 2,
+        "name": {
+          "local": "Upper Manya",
+          "en": "Upper Manya",
+          "slug": "upper-manya-gh0630"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.314",
+      "lon": "-0.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

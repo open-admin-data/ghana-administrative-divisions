@@ -1,0 +1,47 @@
+{
+  "id": "GH1405",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akatsi South",
+    "en": "Akatsi South",
+    "slug": "akatsi-south-gh1405"
+  },
+  "code": {
+    "id": "GH1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.153",
+    "lon": "0.799"
+  },
+  "metadata": {},
+  "source": {}
+}

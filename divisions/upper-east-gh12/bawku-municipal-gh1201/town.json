@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "GH1201_bansi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bansi",
+      "en": "Bansi",
+      "slug": "bansi"
+    },
+    "code": {
+      "id": "GH1201_bansi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.061",
+      "lon": "-0.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_bawku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bawku",
+      "en": "Bawku",
+      "slug": "bawku"
+    },
+    "code": {
+      "id": "GH1201_bawku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "-0.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_bawku-kariamah",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bawku-Kariamah",
+      "en": "Bawku-Kariamah",
+      "slug": "bawku-kariamah"
+    },
+    "code": {
+      "id": "GH1201_bawku-kariamah",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "-0.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_bazua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bazua",
+      "en": "Bazua",
+      "slug": "bazua"
+    },
+    "code": {
+      "id": "GH1201_bazua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.003",
+      "lon": "-0.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_binduri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Binduri",
+      "en": "Binduri",
+      "slug": "binduri"
+    },
+    "code": {
+      "id": "GH1201_binduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.96",
+      "lon": "-0.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kuka",
+      "en": "Kuka",
+      "slug": "kuka"
+    },
+    "code": {
+      "id": "GH1201_kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.014",
+      "lon": "-0.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_kukparigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukparigu",
+      "en": "Kukparigu",
+      "slug": "kukparigu"
+    },
+    "code": {
+      "id": "GH1201_kukparigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.914",
+      "lon": "-0.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_kultamise",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kultamise",
+      "en": "Kultamise",
+      "slug": "kultamise"
+    },
+    "code": {
+      "id": "GH1201_kultamise",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.128",
+      "lon": "-0.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_kulungungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kulungungu",
+      "en": "Kulungungu",
+      "slug": "kulungungu"
+    },
+    "code": {
+      "id": "GH1201_kulungungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.147",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_manga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manga",
+      "en": "Manga",
+      "slug": "manga"
+    },
+    "code": {
+      "id": "GH1201_manga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.024",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_mognori-gumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mognori Gumbo",
+      "en": "Mognori Gumbo",
+      "slug": "mognori-gumbo"
+    },
+    "code": {
+      "id": "GH1201_mognori-gumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.117",
+      "lon": "-0.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_nafkoliga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nafkoliga",
+      "en": "Nafkoliga",
+      "slug": "nafkoliga"
+    },
+    "code": {
+      "id": "GH1201_nafkoliga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.889",
+      "lon": "-0.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_pusiga-natinga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pusiga Natinga",
+      "en": "Pusiga Natinga",
+      "slug": "pusiga-natinga"
+    },
+    "code": {
+      "id": "GH1201_pusiga-natinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.081",
+      "lon": "-0.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_pusiga-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pusiga Zongo",
+      "en": "Pusiga Zongo",
+      "slug": "pusiga-zongo"
+    },
+    "code": {
+      "id": "GH1201_pusiga-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.084",
+      "lon": "-0.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_sarabogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sarabogo",
+      "en": "Sarabogo",
+      "slug": "sarabogo"
+    },
+    "code": {
+      "id": "GH1201_sarabogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.058",
+      "lon": "-0.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_widana",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Widana",
+      "en": "Widana",
+      "slug": "widana"
+    },
+    "code": {
+      "id": "GH1201_widana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.082",
+      "lon": "-0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_wiidi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiidi",
+      "en": "Wiidi",
+      "slug": "wiidi"
+    },
+    "code": {
+      "id": "GH1201_wiidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.055",
+      "lon": "-0.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_zawse",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zawse",
+      "en": "Zawse",
+      "slug": "zawse"
+    },
+    "code": {
+      "id": "GH1201_zawse",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.053",
+      "lon": "-0.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1201_zuabulga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zuabulga",
+      "en": "Zuabulga",
+      "slug": "zuabulga"
+    },
+    "code": {
+      "id": "GH1201_zuabulga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1201",
+      "level": 2,
+      "name": {
+        "local": "Bawku Municipal",
+        "en": "Bawku Municipal",
+        "slug": "bawku-municipal-gh1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1201",
+        "level": 2,
+        "name": {
+          "local": "Bawku Municipal",
+          "en": "Bawku Municipal",
+          "slug": "bawku-municipal-gh1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.049",
+      "lon": "-0.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

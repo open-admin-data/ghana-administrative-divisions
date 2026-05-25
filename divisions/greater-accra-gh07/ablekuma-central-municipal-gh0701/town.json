@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "GH0701_abossey-okai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abossey Okai",
+      "en": "Abossey Okai",
+      "slug": "abossey-okai"
+    },
+    "code": {
+      "id": "GH0701_abossey-okai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.564",
+      "lon": "-0.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_abossey-okai-near-mosque",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abossey Okai (near Mosque)",
+      "en": "Abossey Okai (near Mosque)",
+      "slug": "abossey-okai-near-mosque"
+    },
+    "code": {
+      "id": "GH0701_abossey-okai-near-mosque",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.558",
+      "lon": "-0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_awudome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awudome",
+      "en": "Awudome",
+      "slug": "awudome"
+    },
+    "code": {
+      "id": "GH0701_awudome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.569",
+      "lon": "-0.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_kaneshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kaneshie",
+      "en": "Kaneshie",
+      "slug": "kaneshie"
+    },
+    "code": {
+      "id": "GH0701_kaneshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.565",
+      "lon": "-0.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_kaneshie-near-mkt",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kaneshie (near mkt)",
+      "en": "Kaneshie (near mkt)",
+      "slug": "kaneshie-near-mkt"
+    },
+    "code": {
+      "id": "GH0701_kaneshie-near-mkt",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_korle-bu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Korle-Bu",
+      "en": "Korle-Bu",
+      "slug": "korle-bu"
+    },
+    "code": {
+      "id": "GH0701_korle-bu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.54",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_korle-bu-before-mortuary-turn-right-to-korlebu-flats",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Korle-bu (before mortuary turn right to korlebu flats)",
+      "en": "Korle-bu (before mortuary turn right to korlebu flats)",
+      "slug": "korle-bu-before-mortuary-turn-right-to-korlebu-flats"
+    },
+    "code": {
+      "id": "GH0701_korle-bu-before-mortuary-turn-right-to-korlebu-flats",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.545",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokorshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokorshie",
+      "en": "Lartebiokorshie",
+      "slug": "lartebiokorshie"
+    },
+    "code": {
+      "id": "GH0701_lartebiokorshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokorshie-near-nkruma-flats",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokorshie (near Nkruma flats)",
+      "en": "Lartebiokorshie (near Nkruma flats)",
+      "slug": "lartebiokorshie-near-nkruma-flats"
+    },
+    "code": {
+      "id": "GH0701_lartebiokorshie-near-nkruma-flats",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "-0.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokorshie-nkrumah-flats",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokorshie (Nkrumah flats)",
+      "en": "Lartebiokorshie (Nkrumah flats)",
+      "slug": "lartebiokorshie-nkrumah-flats"
+    },
+    "code": {
+      "id": "GH0701_lartebiokorshie-nkrumah-flats",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "-0.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokorshie-opposite-hope-sch",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokorshie (opposite hope sch)",
+      "en": "Lartebiokorshie (opposite hope sch)",
+      "slug": "lartebiokorshie-opposite-hope-sch"
+    },
+    "code": {
+      "id": "GH0701_lartebiokorshie-opposite-hope-sch",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.546",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokoshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokoshie",
+      "en": "Lartebiokoshie",
+      "slug": "lartebiokoshie"
+    },
+    "code": {
+      "id": "GH0701_lartebiokoshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "-0.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_lartebiokoshie-kshie-mamprobi-rd",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lartebiokoshie (k'shie mamprobi rd)",
+      "en": "Lartebiokoshie (k'shie mamprobi rd)",
+      "slug": "lartebiokoshie-kshie-mamprobi-rd"
+    },
+    "code": {
+      "id": "GH0701_lartebiokoshie-kshie-mamprobi-rd",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.549",
+      "lon": "-0.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_mamprobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamprobi",
+      "en": "Mamprobi",
+      "slug": "mamprobi"
+    },
+    "code": {
+      "id": "GH0701_mamprobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.539",
+      "lon": "-0.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_mamprobi-near-mytrs-of-uganda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamprobi (near mytrs of Uganda)",
+      "en": "Mamprobi (near mytrs of Uganda)",
+      "slug": "mamprobi-near-mytrs-of-uganda"
+    },
+    "code": {
+      "id": "GH0701_mamprobi-near-mytrs-of-uganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "-0.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_mamprobi-off-juncion-before-salvation-army",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamprobi (off juncion before salvation army)",
+      "en": "Mamprobi (off juncion before salvation army)",
+      "slug": "mamprobi-off-juncion-before-salvation-army"
+    },
+    "code": {
+      "id": "GH0701_mamprobi-off-juncion-before-salvation-army",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.542",
+      "lon": "-0.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_mamprobi-opposite-mtyr-uganda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamprobi (opposite mtyr uganda)",
+      "en": "Mamprobi (opposite mtyr uganda)",
+      "slug": "mamprobi-opposite-mtyr-uganda"
+    },
+    "code": {
+      "id": "GH0701_mamprobi-opposite-mtyr-uganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "-0.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_mataheko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mataheko",
+      "en": "Mataheko",
+      "slug": "mataheko"
+    },
+    "code": {
+      "id": "GH0701_mataheko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.561",
+      "lon": "-0.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_russia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Russia",
+      "en": "Russia",
+      "slug": "russia"
+    },
+    "code": {
+      "id": "GH0701_russia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.552",
+      "lon": "-0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_sukura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sukura",
+      "en": "Sukura",
+      "slug": "sukura"
+    },
+    "code": {
+      "id": "GH0701_sukura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.557",
+      "lon": "-0.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_zongo-near-night-mkt",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zongo (near night mkt)",
+      "en": "Zongo (near night mkt)",
+      "slug": "zongo-near-night-mkt"
+    },
+    "code": {
+      "id": "GH0701_zongo-near-night-mkt",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "-0.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0701_zongo-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zongo junction",
+      "en": "Zongo junction",
+      "slug": "zongo-junction"
+    },
+    "code": {
+      "id": "GH0701_zongo-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0701",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma Central Municipal",
+        "en": "Ablekuma Central Municipal",
+        "slug": "ablekuma-central-municipal-gh0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0701",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma Central Municipal",
+          "en": "Ablekuma Central Municipal",
+          "slug": "ablekuma-central-municipal-gh0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.558",
+      "lon": "-0.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

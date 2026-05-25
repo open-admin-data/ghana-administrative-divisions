@@ -1,0 +1,47 @@
+{
+  "id": "GH0606",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akyem Mansa",
+    "en": "Akyem Mansa",
+    "slug": "akyem-mansa-gh0606"
+  },
+  "code": {
+    "id": "GH0606",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.082",
+    "lon": "-1.116"
+  },
+  "metadata": {},
+  "source": {}
+}

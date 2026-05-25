@@ -1,0 +1,378 @@
+[
+  {
+    "id": "GH1001",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Biakoye",
+      "en": "Biakoye",
+      "slug": "biakoye-gh1001"
+    },
+    "code": {
+      "id": "GH1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.393",
+      "lon": "0.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jasikan",
+      "en": "Jasikan",
+      "slug": "jasikan-gh1002"
+    },
+    "code": {
+      "id": "GH1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.376",
+      "lon": "0.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kadjebi",
+      "en": "Kadjebi",
+      "slug": "kadjebi-gh1003"
+    },
+    "code": {
+      "id": "GH1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.718",
+      "lon": "0.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krachi East Municipal",
+      "en": "Krachi East Municipal",
+      "slug": "krachi-east-municipal-gh1004"
+    },
+    "code": {
+      "id": "GH1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.805",
+      "lon": "0.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1005",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krachi Nchumuru",
+      "en": "Krachi Nchumuru",
+      "slug": "krachi-nchumuru-gh1005"
+    },
+    "code": {
+      "id": "GH1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.189",
+      "lon": "-0.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krachi West",
+      "en": "Krachi West",
+      "slug": "krachi-west-gh1006"
+    },
+    "code": {
+      "id": "GH1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.89",
+      "lon": "-0.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1007",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkwanta North",
+      "en": "Nkwanta North",
+      "slug": "nkwanta-north-gh1007"
+    },
+    "code": {
+      "id": "GH1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.551",
+      "lon": "0.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkwanta South Municipal",
+      "en": "Nkwanta South Municipal",
+      "slug": "nkwanta-south-municipal-gh1008"
+    },
+    "code": {
+      "id": "GH1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.25",
+      "lon": "0.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH0301",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banda",
+    "en": "Banda",
+    "slug": "banda-gh0301"
+  },
+  "code": {
+    "id": "GH0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.352",
+    "lon": "-2.406"
+  },
+  "metadata": {},
+  "source": {}
+}

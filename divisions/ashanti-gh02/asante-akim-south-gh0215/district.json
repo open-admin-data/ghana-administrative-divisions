@@ -1,0 +1,47 @@
+{
+  "id": "GH0215",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asante Akim South",
+    "en": "Asante Akim South",
+    "slug": "asante-akim-south-gh0215"
+  },
+  "code": {
+    "id": "GH0215",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.462",
+    "lon": "-1.115"
+  },
+  "metadata": {},
+  "source": {}
+}

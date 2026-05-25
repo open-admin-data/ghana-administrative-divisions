@@ -1,0 +1,47 @@
+{
+  "id": "GH1606",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Juaboso",
+    "en": "Juaboso",
+    "slug": "juaboso-gh1606"
+  },
+  "code": {
+    "id": "GH1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH16",
+    "level": 1,
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.432",
+    "lon": "-2.913"
+  },
+  "metadata": {},
+  "source": {}
+}

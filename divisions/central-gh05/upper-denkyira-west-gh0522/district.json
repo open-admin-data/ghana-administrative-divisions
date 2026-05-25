@@ -1,0 +1,47 @@
+{
+  "id": "GH0522",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upper Denkyira West",
+    "en": "Upper Denkyira West",
+    "slug": "upper-denkyira-west-gh0522"
+  },
+  "code": {
+    "id": "GH0522",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.107",
+    "lon": "-2.071"
+  },
+  "metadata": {},
+  "source": {}
+}

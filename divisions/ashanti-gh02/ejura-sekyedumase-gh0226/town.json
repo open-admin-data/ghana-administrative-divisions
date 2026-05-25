@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0226_ahyiayem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahyiayem",
+      "en": "Ahyiayem",
+      "slug": "ahyiayem"
+    },
+    "code": {
+      "id": "GH0226_ahyiayem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.467",
+      "lon": "-1.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_babaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Babaso",
+      "en": "Babaso",
+      "slug": "babaso"
+    },
+    "code": {
+      "id": "GH0226_babaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.341",
+      "lon": "-1.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_ejura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ejura",
+      "en": "Ejura",
+      "slug": "ejura"
+    },
+    "code": {
+      "id": "GH0226_ejura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.389",
+      "lon": "-1.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_ejura-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ejura Nkwanta",
+      "en": "Ejura Nkwanta",
+      "slug": "ejura-nkwanta"
+    },
+    "code": {
+      "id": "GH0226_ejura-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.514",
+      "lon": "-1.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_homako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Homako",
+      "en": "Homako",
+      "slug": "homako"
+    },
+    "code": {
+      "id": "GH0226_homako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.429",
+      "lon": "-1.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_kasei",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kasei",
+      "en": "Kasei",
+      "slug": "kasei"
+    },
+    "code": {
+      "id": "GH0226_kasei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "-1.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_kontokori-line",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kontokori Line",
+      "en": "Kontokori Line",
+      "slug": "kontokori-line"
+    },
+    "code": {
+      "id": "GH0226_kontokori-line",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.379",
+      "lon": "-1.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226_zambrama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zambrama",
+      "en": "Zambrama",
+      "slug": "zambrama"
+    },
+    "code": {
+      "id": "GH0226_zambrama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0226",
+      "level": 2,
+      "name": {
+        "local": "Ejura-Sekyedumase",
+        "en": "Ejura-Sekyedumase",
+        "slug": "ejura-sekyedumase-gh0226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0226",
+        "level": 2,
+        "name": {
+          "local": "Ejura-Sekyedumase",
+          "en": "Ejura-Sekyedumase",
+          "slug": "ejura-sekyedumase-gh0226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.52",
+      "lon": "-1.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

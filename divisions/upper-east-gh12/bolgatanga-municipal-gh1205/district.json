@@ -1,0 +1,47 @@
+{
+  "id": "GH1205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bolgatanga Municipal",
+    "en": "Bolgatanga Municipal",
+    "slug": "bolgatanga-municipal-gh1205"
+  },
+  "code": {
+    "id": "GH1205",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.749",
+    "lon": "-0.933"
+  },
+  "metadata": {},
+  "source": {}
+}

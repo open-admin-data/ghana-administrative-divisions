@@ -1,0 +1,47 @@
+{
+  "id": "GH0513",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ekumfi",
+    "en": "Ekumfi",
+    "slug": "ekumfi-gh0513"
+  },
+  "code": {
+    "id": "GH0513",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.288",
+    "lon": "-0.91"
+  },
+  "metadata": {},
+  "source": {}
+}

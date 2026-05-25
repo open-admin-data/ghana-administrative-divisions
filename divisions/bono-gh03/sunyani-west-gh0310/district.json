@@ -1,0 +1,47 @@
+{
+  "id": "GH0310",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sunyani West",
+    "en": "Sunyani West",
+    "slug": "sunyani-west-gh0310"
+  },
+  "code": {
+    "id": "GH0310",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.424",
+    "lon": "-2.33"
+  },
+  "metadata": {},
+  "source": {}
+}

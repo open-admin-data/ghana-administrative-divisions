@@ -1,0 +1,47 @@
+{
+  "id": "GH0233",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Obuasi Municipal",
+    "en": "Obuasi Municipal",
+    "slug": "obuasi-municipal-gh0233"
+  },
+  "code": {
+    "id": "GH0233",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.189",
+    "lon": "-1.692"
+  },
+  "metadata": {},
+  "source": {}
+}

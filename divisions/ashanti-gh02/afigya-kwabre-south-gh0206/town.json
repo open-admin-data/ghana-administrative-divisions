@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0206_aboabogya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboabogya",
+      "en": "Aboabogya",
+      "slug": "aboabogya"
+    },
+    "code": {
+      "id": "GH0206_aboabogya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.842",
+      "lon": "-1.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_aboaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboaso",
+      "en": "Aboaso",
+      "slug": "aboaso"
+    },
+    "code": {
+      "id": "GH0206_aboaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.842",
+      "lon": "-1.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_afrancho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afrancho",
+      "en": "Afrancho",
+      "slug": "afrancho"
+    },
+    "code": {
+      "id": "GH0206_afrancho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.815",
+      "lon": "-1.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_ahenkro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahenkro",
+      "en": "Ahenkro",
+      "slug": "ahenkro"
+    },
+    "code": {
+      "id": "GH0206_ahenkro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.872",
+      "lon": "-1.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_ankaase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ankaase",
+      "en": "Ankaase",
+      "slug": "ankaase"
+    },
+    "code": {
+      "id": "GH0206_ankaase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.848",
+      "lon": "-1.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_fawade",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fawade",
+      "en": "Fawade",
+      "slug": "fawade"
+    },
+    "code": {
+      "id": "GH0206_fawade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.81",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_kwamang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamang",
+      "en": "Kwamang",
+      "slug": "kwamang"
+    },
+    "code": {
+      "id": "GH0206_kwamang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.897",
+      "lon": "-1.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_mamponteng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamponteng",
+      "en": "Mamponteng",
+      "slug": "mamponteng"
+    },
+    "code": {
+      "id": "GH0206_mamponteng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.8",
+      "lon": "-1.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_mpobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpobi",
+      "en": "Mpobi",
+      "slug": "mpobi"
+    },
+    "code": {
+      "id": "GH0206_mpobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.848",
+      "lon": "-1.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206_nkukua-buoho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkukua Buoho",
+      "en": "Nkukua Buoho",
+      "slug": "nkukua-buoho"
+    },
+    "code": {
+      "id": "GH0206_nkukua-buoho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0206",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre South",
+        "en": "Afigya Kwabre South",
+        "slug": "afigya-kwabre-south-gh0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0206",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre South",
+          "en": "Afigya Kwabre South",
+          "slug": "afigya-kwabre-south-gh0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.815",
+      "lon": "-1.649"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

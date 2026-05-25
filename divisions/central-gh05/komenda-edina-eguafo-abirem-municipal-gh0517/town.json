@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0517_abrem-agona",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abrem Agona",
+      "en": "Abrem Agona",
+      "slug": "abrem-agona"
+    },
+    "code": {
+      "id": "GH0517_abrem-agona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "-1.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_aburansa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aburansa",
+      "en": "Aburansa",
+      "slug": "aburansa"
+    },
+    "code": {
+      "id": "GH0517_aburansa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.079",
+      "lon": "-1.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_ankaful",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ankaful",
+      "en": "Ankaful",
+      "slug": "ankaful"
+    },
+    "code": {
+      "id": "GH0517_ankaful",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.155",
+      "lon": "-1.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_antseamboa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Antseamboa",
+      "en": "Antseamboa",
+      "slug": "antseamboa"
+    },
+    "code": {
+      "id": "GH0517_antseamboa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.155",
+      "lon": "-1.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_atonkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atonkwa",
+      "en": "Atonkwa",
+      "slug": "atonkwa"
+    },
+    "code": {
+      "id": "GH0517_atonkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.113",
+      "lon": "-1.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_benyadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Benyadze",
+      "en": "Benyadze",
+      "slug": "benyadze"
+    },
+    "code": {
+      "id": "GH0517_benyadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.117",
+      "lon": "-1.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_chaple-square",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chaple Square",
+      "en": "Chaple Square",
+      "slug": "chaple-square"
+    },
+    "code": {
+      "id": "GH0517_chaple-square",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.085",
+      "lon": "-1.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_elmina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Elmina",
+      "en": "Elmina",
+      "slug": "elmina"
+    },
+    "code": {
+      "id": "GH0517_elmina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.1",
+      "lon": "-1.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_kissi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kissi",
+      "en": "Kissi",
+      "slug": "kissi"
+    },
+    "code": {
+      "id": "GH0517_kissi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.087",
+      "lon": "-1.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_komenda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Komenda",
+      "en": "Komenda",
+      "slug": "komenda"
+    },
+    "code": {
+      "id": "GH0517_komenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.053",
+      "lon": "-1.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517_low-cost",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Low Cost",
+      "en": "Low Cost",
+      "slug": "low-cost"
+    },
+    "code": {
+      "id": "GH0517_low-cost",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0517",
+      "level": 2,
+      "name": {
+        "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0517",
+        "level": 2,
+        "name": {
+          "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+          "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.051",
+      "lon": "-1.498"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

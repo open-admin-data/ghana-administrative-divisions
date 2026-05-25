@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH1003_ahamansu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahamansu",
+      "en": "Ahamansu",
+      "slug": "ahamansu"
+    },
+    "code": {
+      "id": "GH1003_ahamansu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.726",
+      "lon": "0.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_dodi-papase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodi Papase",
+      "en": "Dodi Papase",
+      "slug": "dodi-papase"
+    },
+    "code": {
+      "id": "GH1003_dodi-papase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.742",
+      "lon": "0.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_dodi-mempeasem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodi-Mempeasem",
+      "en": "Dodi-Mempeasem",
+      "slug": "dodi-mempeasem"
+    },
+    "code": {
+      "id": "GH1003_dodi-mempeasem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.634",
+      "lon": "0.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_dodo-amanfrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodo Amanfrom",
+      "en": "Dodo Amanfrom",
+      "slug": "dodo-amanfrom"
+    },
+    "code": {
+      "id": "GH1003_dodo-amanfrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.821",
+      "lon": "0.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_dzamlome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzamlome",
+      "en": "Dzamlome",
+      "slug": "dzamlome"
+    },
+    "code": {
+      "id": "GH1003_dzamlome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.58",
+      "lon": "0.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_dzindjiso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzindjiso",
+      "en": "Dzindjiso",
+      "slug": "dzindjiso"
+    },
+    "code": {
+      "id": "GH1003_dzindjiso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.598",
+      "lon": "0.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_kadjebi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kadjebi",
+      "en": "Kadjebi",
+      "slug": "kadjebi"
+    },
+    "code": {
+      "id": "GH1003_kadjebi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.534",
+      "lon": "0.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_obanda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obanda",
+      "en": "Obanda",
+      "slug": "obanda"
+    },
+    "code": {
+      "id": "GH1003_obanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.941",
+      "lon": "0.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_pampawie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pampawie",
+      "en": "Pampawie",
+      "slug": "pampawie"
+    },
+    "code": {
+      "id": "GH1003_pampawie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.811",
+      "lon": "0.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_poase-cement",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Poase Cement",
+      "en": "Poase Cement",
+      "slug": "poase-cement"
+    },
+    "code": {
+      "id": "GH1003_poase-cement",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.651",
+      "lon": "0.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1003_woraworso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Woraworso",
+      "en": "Woraworso",
+      "slug": "woraworso"
+    },
+    "code": {
+      "id": "GH1003_woraworso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1003",
+      "level": 2,
+      "name": {
+        "local": "Kadjebi",
+        "en": "Kadjebi",
+        "slug": "kadjebi-gh1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1003",
+        "level": 2,
+        "name": {
+          "local": "Kadjebi",
+          "en": "Kadjebi",
+          "slug": "kadjebi-gh1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.655",
+      "lon": "0.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

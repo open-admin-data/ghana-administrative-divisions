@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0215_banka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banka",
+      "en": "Banka",
+      "slug": "banka"
+    },
+    "code": {
+      "id": "GH0215_banka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.298",
+      "lon": "-1.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_banso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banso",
+      "en": "Banso",
+      "slug": "banso"
+    },
+    "code": {
+      "id": "GH0215_banso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.476",
+      "lon": "-1.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_bompata",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bompata",
+      "en": "Bompata",
+      "slug": "bompata"
+    },
+    "code": {
+      "id": "GH0215_bompata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.667",
+      "lon": "-1.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_dwendwenase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dwendwenase",
+      "en": "Dwendwenase",
+      "slug": "dwendwenase"
+    },
+    "code": {
+      "id": "GH0215_dwendwenase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.412",
+      "lon": "-1.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_juaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Juaso",
+      "en": "Juaso",
+      "slug": "juaso"
+    },
+    "code": {
+      "id": "GH0215_juaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.592",
+      "lon": "-1.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_kumeso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumeso",
+      "en": "Kumeso",
+      "slug": "kumeso"
+    },
+    "code": {
+      "id": "GH0215_kumeso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "-1.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_morso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Morso",
+      "en": "Morso",
+      "slug": "morso"
+    },
+    "code": {
+      "id": "GH0215_morso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.655",
+      "lon": "-1.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_muronam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Muronam",
+      "en": "Muronam",
+      "slug": "muronam"
+    },
+    "code": {
+      "id": "GH0215_muronam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.247",
+      "lon": "-1.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_nnadieso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nnadieso",
+      "en": "Nnadieso",
+      "slug": "nnadieso"
+    },
+    "code": {
+      "id": "GH0215_nnadieso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.6",
+      "lon": "-1.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_obogu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obogu",
+      "en": "Obogu",
+      "slug": "obogu"
+    },
+    "code": {
+      "id": "GH0215_obogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.515",
+      "lon": "-1.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215_ofoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ofoase",
+      "en": "Ofoase",
+      "slug": "ofoase"
+    },
+    "code": {
+      "id": "GH0215_ofoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0215",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim South",
+        "en": "Asante Akim South",
+        "slug": "asante-akim-south-gh0215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0215",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim South",
+          "en": "Asante Akim South",
+          "slug": "asante-akim-south-gh0215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.378",
+      "lon": "-1.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

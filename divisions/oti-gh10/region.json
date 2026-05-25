@@ -1,0 +1,30 @@
+{
+  "id": "GH10",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Oti",
+    "en": "Oti",
+    "slug": "oti-gh10"
+  },
+  "code": {
+    "id": "GH10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "town": 58
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.932",
+    "lon": "0.242"
+  },
+  "metadata": {},
+  "source": {}
+}

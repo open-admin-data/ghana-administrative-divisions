@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0810_bontanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bontanga",
+      "en": "Bontanga",
+      "slug": "bontanga"
+    },
+    "code": {
+      "id": "GH0810_bontanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.527",
+      "lon": "-0.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_cheshegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cheshegu",
+      "en": "Cheshegu",
+      "slug": "cheshegu"
+    },
+    "code": {
+      "id": "GH0810_cheshegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.456",
+      "lon": "-0.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_gbulun",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbulun",
+      "en": "Gbulun",
+      "slug": "gbulun"
+    },
+    "code": {
+      "id": "GH0810_gbulun",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.49",
+      "lon": "-1.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_kpiliyin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpiliyin",
+      "en": "Kpiliyin",
+      "slug": "kpiliyin"
+    },
+    "code": {
+      "id": "GH0810_kpiliyin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.542",
+      "lon": "-0.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_kunbungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kunbungu",
+      "en": "Kunbungu",
+      "slug": "kunbungu"
+    },
+    "code": {
+      "id": "GH0810_kunbungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.549",
+      "lon": "-0.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_moglaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Moglaa",
+      "en": "Moglaa",
+      "slug": "moglaa"
+    },
+    "code": {
+      "id": "GH0810_moglaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.593",
+      "lon": "-0.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0810_nyankpala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyankpala",
+      "en": "Nyankpala",
+      "slug": "nyankpala"
+    },
+    "code": {
+      "id": "GH0810_nyankpala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0810",
+      "level": 2,
+      "name": {
+        "local": "Sagnerigu",
+        "en": "Sagnerigu",
+        "slug": "sagnerigu-gh0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0810",
+        "level": 2,
+        "name": {
+          "local": "Sagnerigu",
+          "en": "Sagnerigu",
+          "slug": "sagnerigu-gh0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.404",
+      "lon": "-0.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

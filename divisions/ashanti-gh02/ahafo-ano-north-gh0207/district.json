@@ -1,0 +1,47 @@
+{
+  "id": "GH0207",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ahafo Ano North",
+    "en": "Ahafo Ano North",
+    "slug": "ahafo-ano-north-gh0207"
+  },
+  "code": {
+    "id": "GH0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.91",
+    "lon": "-2.229"
+  },
+  "metadata": {},
+  "source": {}
+}

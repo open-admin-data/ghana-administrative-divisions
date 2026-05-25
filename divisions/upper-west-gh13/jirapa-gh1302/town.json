@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH1302_bussie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bussie",
+      "en": "Bussie",
+      "slug": "bussie"
+    },
+    "code": {
+      "id": "GH1302_bussie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.491",
+      "lon": "-2.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_dahile",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dahile",
+      "en": "Dahile",
+      "slug": "dahile"
+    },
+    "code": {
+      "id": "GH1302_dahile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.573",
+      "lon": "-2.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_duori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duori",
+      "en": "Duori",
+      "slug": "duori"
+    },
+    "code": {
+      "id": "GH1302_duori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.594",
+      "lon": "-2.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_hain",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hain",
+      "en": "Hain",
+      "slug": "hain"
+    },
+    "code": {
+      "id": "GH1302_hain",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.692",
+      "lon": "-2.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_henteng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Henteng",
+      "en": "Henteng",
+      "slug": "henteng"
+    },
+    "code": {
+      "id": "GH1302_henteng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.558",
+      "lon": "-2.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_jirapa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jirapa",
+      "en": "Jirapa",
+      "slug": "jirapa"
+    },
+    "code": {
+      "id": "GH1302_jirapa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "-2.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_kamahegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kamahegu",
+      "en": "Kamahegu",
+      "slug": "kamahegu"
+    },
+    "code": {
+      "id": "GH1302_kamahegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.49",
+      "lon": "-2.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_karni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Karni",
+      "en": "Karni",
+      "slug": "karni"
+    },
+    "code": {
+      "id": "GH1302_karni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.67",
+      "lon": "-2.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_ping",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ping",
+      "en": "Ping",
+      "slug": "ping"
+    },
+    "code": {
+      "id": "GH1302_ping",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.375",
+      "lon": "-2.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_sabuli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabuli",
+      "en": "Sabuli",
+      "slug": "sabuli"
+    },
+    "code": {
+      "id": "GH1302_sabuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.572",
+      "lon": "-2.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_somboro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Somboro",
+      "en": "Somboro",
+      "slug": "somboro"
+    },
+    "code": {
+      "id": "GH1302_somboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.482",
+      "lon": "-2.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_tampaala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tampaala",
+      "en": "Tampaala",
+      "slug": "tampaala"
+    },
+    "code": {
+      "id": "GH1302_tampaala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.482",
+      "lon": "-2.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_tuggo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tuggo",
+      "en": "Tuggo",
+      "slug": "tuggo"
+    },
+    "code": {
+      "id": "GH1302_tuggo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.511",
+      "lon": "-2.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_ullo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ullo",
+      "en": "Ullo",
+      "slug": "ullo"
+    },
+    "code": {
+      "id": "GH1302_ullo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.693",
+      "lon": "-2.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302_yagha",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yagha",
+      "en": "Yagha",
+      "slug": "yagha"
+    },
+    "code": {
+      "id": "GH1302_yagha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1302",
+      "level": 2,
+      "name": {
+        "local": "Jirapa",
+        "en": "Jirapa",
+        "slug": "jirapa-gh1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1302",
+        "level": 2,
+        "name": {
+          "local": "Jirapa",
+          "en": "Jirapa",
+          "slug": "jirapa-gh1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.481",
+      "lon": "-2.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1514",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wassa East",
+    "en": "Wassa East",
+    "slug": "wassa-east-gh1514"
+  },
+  "code": {
+    "id": "GH1514",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.368",
+    "lon": "-1.622"
+  },
+  "metadata": {},
+  "source": {}
+}

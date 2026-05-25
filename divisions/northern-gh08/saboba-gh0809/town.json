@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0809_garinkuka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Garinkuka",
+      "en": "Garinkuka",
+      "slug": "garinkuka"
+    },
+    "code": {
+      "id": "GH0809_garinkuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.742",
+      "lon": "0.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0809_gbangbanpong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbangbanpong",
+      "en": "Gbangbanpong",
+      "slug": "gbangbanpong"
+    },
+    "code": {
+      "id": "GH0809_gbangbanpong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.851",
+      "lon": "0.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0809_kpalba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpalba",
+      "en": "Kpalba",
+      "slug": "kpalba"
+    },
+    "code": {
+      "id": "GH0809_kpalba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "0.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0809_saboba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Saboba",
+      "en": "Saboba",
+      "slug": "saboba"
+    },
+    "code": {
+      "id": "GH0809_saboba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "0.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0809_sambuli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sambuli",
+      "en": "Sambuli",
+      "slug": "sambuli"
+    },
+    "code": {
+      "id": "GH0809_sambuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.599",
+      "lon": "0.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0809_wapuli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wapuli",
+      "en": "Wapuli",
+      "slug": "wapuli"
+    },
+    "code": {
+      "id": "GH0809_wapuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0809",
+      "level": 2,
+      "name": {
+        "local": "Saboba",
+        "en": "Saboba",
+        "slug": "saboba-gh0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0809",
+        "level": 2,
+        "name": {
+          "local": "Saboba",
+          "en": "Saboba",
+          "slug": "saboba-gh0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.74",
+      "lon": "0.105"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

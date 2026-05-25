@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0238_anyinofi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinofi",
+      "en": "Anyinofi",
+      "slug": "anyinofi"
+    },
+    "code": {
+      "id": "GH0238_anyinofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0238",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Afram Plains North",
+        "en": "Sekyere Afram Plains North",
+        "slug": "sekyere-afram-plains-north-gh0238"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0238",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Afram Plains North",
+          "en": "Sekyere Afram Plains North",
+          "slug": "sekyere-afram-plains-north-gh0238"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.425",
+      "lon": "-0.77"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

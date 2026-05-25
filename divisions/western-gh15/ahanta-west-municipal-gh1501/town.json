@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1501_abura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abura",
+      "en": "Abura",
+      "slug": "abura"
+    },
+    "code": {
+      "id": "GH1501_abura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "-2.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_agona-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Nkwanta",
+      "en": "Agona Nkwanta",
+      "slug": "agona-nkwanta"
+    },
+    "code": {
+      "id": "GH1501_agona-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.89",
+      "lon": "-1.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_apowa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apowa",
+      "en": "Apowa",
+      "slug": "apowa"
+    },
+    "code": {
+      "id": "GH1501_apowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.888",
+      "lon": "-1.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_asemasa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asemasa",
+      "en": "Asemasa",
+      "slug": "asemasa"
+    },
+    "code": {
+      "id": "GH1501_asemasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.854",
+      "lon": "-1.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_dixcove",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dixcove",
+      "en": "Dixcove",
+      "slug": "dixcove"
+    },
+    "code": {
+      "id": "GH1501_dixcove",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.798",
+      "lon": "-1.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_egyam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Egyam",
+      "en": "Egyam",
+      "slug": "egyam"
+    },
+    "code": {
+      "id": "GH1501_egyam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.869",
+      "lon": "-1.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_egyambra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Egyambra",
+      "en": "Egyambra",
+      "slug": "egyambra"
+    },
+    "code": {
+      "id": "GH1501_egyambra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.821",
+      "lon": "-2.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_fasin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fasin",
+      "en": "Fasin",
+      "slug": "fasin"
+    },
+    "code": {
+      "id": "GH1501_fasin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.927",
+      "lon": "-1.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_fretsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fretsi",
+      "en": "Fretsi",
+      "slug": "fretsi"
+    },
+    "code": {
+      "id": "GH1501_fretsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.878",
+      "lon": "-1.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1501_princesstown",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Princesstown",
+      "en": "Princesstown",
+      "slug": "princesstown"
+    },
+    "code": {
+      "id": "GH1501_princesstown",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1501",
+      "level": 2,
+      "name": {
+        "local": "Ahanta West Municipal",
+        "en": "Ahanta West Municipal",
+        "slug": "ahanta-west-municipal-gh1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1501",
+        "level": 2,
+        "name": {
+          "local": "Ahanta West Municipal",
+          "en": "Ahanta West Municipal",
+          "slug": "ahanta-west-municipal-gh1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "-2.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

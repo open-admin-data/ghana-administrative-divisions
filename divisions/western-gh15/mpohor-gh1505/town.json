@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH1505_adansi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adansi",
+      "en": "Adansi",
+      "slug": "adansi"
+    },
+    "code": {
+      "id": "GH1505_adansi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1505",
+      "level": 2,
+      "name": {
+        "local": "Mpohor",
+        "en": "Mpohor",
+        "slug": "mpohor-gh1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1505",
+        "level": 2,
+        "name": {
+          "local": "Mpohor",
+          "en": "Mpohor",
+          "slug": "mpohor-gh1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.133",
+      "lon": "-1.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1505_adum-bamso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adum Bamso",
+      "en": "Adum Bamso",
+      "slug": "adum-bamso"
+    },
+    "code": {
+      "id": "GH1505_adum-bamso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1505",
+      "level": 2,
+      "name": {
+        "local": "Mpohor",
+        "en": "Mpohor",
+        "slug": "mpohor-gh1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1505",
+        "level": 2,
+        "name": {
+          "local": "Mpohor",
+          "en": "Mpohor",
+          "slug": "mpohor-gh1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.059",
+      "lon": "-1.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1505_manso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manso",
+      "en": "Manso",
+      "slug": "manso"
+    },
+    "code": {
+      "id": "GH1505_manso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1505",
+      "level": 2,
+      "name": {
+        "local": "Mpohor",
+        "en": "Mpohor",
+        "slug": "mpohor-gh1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1505",
+        "level": 2,
+        "name": {
+          "local": "Mpohor",
+          "en": "Mpohor",
+          "slug": "mpohor-gh1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.08",
+      "lon": "-1.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

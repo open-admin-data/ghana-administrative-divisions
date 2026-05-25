@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH1403_adaklu-sopa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adaklu Sopa",
+      "en": "Adaklu Sopa",
+      "slug": "adaklu-sopa"
+    },
+    "code": {
+      "id": "GH1403_adaklu-sopa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.383",
+      "lon": "0.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_adaklu-waya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adaklu Waya",
+      "en": "Adaklu Waya",
+      "slug": "adaklu-waya"
+    },
+    "code": {
+      "id": "GH1403_adaklu-waya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.448",
+      "lon": "0.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_dzalele",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzalele",
+      "en": "Dzalele",
+      "slug": "dzalele"
+    },
+    "code": {
+      "id": "GH1403_dzalele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.414",
+      "lon": "0.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_keyime",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Keyime",
+      "en": "Keyime",
+      "slug": "keyime"
+    },
+    "code": {
+      "id": "GH1403_keyime",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.346",
+      "lon": "0.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_kpetoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpetoe",
+      "en": "Kpetoe",
+      "slug": "kpetoe"
+    },
+    "code": {
+      "id": "GH1403_kpetoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.548",
+      "lon": "0.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_wudzedeke",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wudzedeke",
+      "en": "Wudzedeke",
+      "slug": "wudzedeke"
+    },
+    "code": {
+      "id": "GH1403_wudzedeke",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.353",
+      "lon": "0.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403_ziope",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ziope",
+      "en": "Ziope",
+      "slug": "ziope"
+    },
+    "code": {
+      "id": "GH1403_ziope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1403",
+      "level": 2,
+      "name": {
+        "local": "Agotime Ziope",
+        "en": "Agotime Ziope",
+        "slug": "agotime-ziope-gh1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1403",
+        "level": 2,
+        "name": {
+          "local": "Agotime Ziope",
+          "en": "Agotime Ziope",
+          "slug": "agotime-ziope-gh1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.422",
+      "lon": "0.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

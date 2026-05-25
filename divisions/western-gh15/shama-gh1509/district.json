@@ -1,0 +1,47 @@
+{
+  "id": "GH1509",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shama",
+    "en": "Shama",
+    "slug": "shama-gh1509"
+  },
+  "code": {
+    "id": "GH1509",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.059",
+    "lon": "-1.641"
+  },
+  "metadata": {},
+  "source": {}
+}

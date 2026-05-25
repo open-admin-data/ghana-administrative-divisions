@@ -1,0 +1,866 @@
+[
+  {
+    "id": "GH1413_adina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adina",
+      "en": "Adina",
+      "slug": "adina"
+    },
+    "code": {
+      "id": "GH1413_adina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.042",
+      "lon": "1.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_aflao",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aflao",
+      "en": "Aflao",
+      "slug": "aflao"
+    },
+    "code": {
+      "id": "GH1413_aflao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.118",
+      "lon": "1.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_agavedzi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agavedzi",
+      "en": "Agavedzi",
+      "slug": "agavedzi"
+    },
+    "code": {
+      "id": "GH1413_agavedzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.005",
+      "lon": "1.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_agbozume",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agbozume",
+      "en": "Agbozume",
+      "slug": "agbozume"
+    },
+    "code": {
+      "id": "GH1413_agbozume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.079",
+      "lon": "1.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_akporkploe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akporkploe",
+      "en": "Akporkploe",
+      "slug": "akporkploe"
+    },
+    "code": {
+      "id": "GH1413_akporkploe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.155",
+      "lon": "1.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_avoeme-aflao",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avoeme  Aflao",
+      "en": "Avoeme  Aflao",
+      "slug": "avoeme-aflao"
+    },
+    "code": {
+      "id": "GH1413_avoeme-aflao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.115",
+      "lon": "1.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_blekusu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Blekusu",
+      "en": "Blekusu",
+      "slug": "blekusu"
+    },
+    "code": {
+      "id": "GH1413_blekusu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.987",
+      "lon": "1.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_denu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Denu",
+      "en": "Denu",
+      "slug": "denu"
+    },
+    "code": {
+      "id": "GH1413_denu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.101",
+      "lon": "1.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_hedzranawo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hedzranawo",
+      "en": "Hedzranawo",
+      "slug": "hedzranawo"
+    },
+    "code": {
+      "id": "GH1413_hedzranawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.097",
+      "lon": "1.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_klikoor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Klikoor",
+      "en": "Klikoor",
+      "slug": "klikoor"
+    },
+    "code": {
+      "id": "GH1413_klikoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.075",
+      "lon": "1.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_kopeyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kopeyia",
+      "en": "Kopeyia",
+      "slug": "kopeyia"
+    },
+    "code": {
+      "id": "GH1413_kopeyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.141",
+      "lon": "1.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_kpoglu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpoglu",
+      "en": "Kpoglu",
+      "slug": "kpoglu"
+    },
+    "code": {
+      "id": "GH1413_kpoglu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.174",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_nogokpo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nogokpo",
+      "en": "Nogokpo",
+      "slug": "nogokpo"
+    },
+    "code": {
+      "id": "GH1413_nogokpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.091",
+      "lon": "1.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_srohume",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Srohume",
+      "en": "Srohume",
+      "slug": "srohume"
+    },
+    "code": {
+      "id": "GH1413_srohume",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.047",
+      "lon": "1.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_viefe-aflao",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Viefe  Aflao",
+      "en": "Viefe  Aflao",
+      "slug": "viefe-aflao"
+    },
+    "code": {
+      "id": "GH1413_viefe-aflao",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.109",
+      "lon": "1.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413_wheta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wheta",
+      "en": "Wheta",
+      "slug": "wheta"
+    },
+    "code": {
+      "id": "GH1413_wheta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1413",
+      "level": 2,
+      "name": {
+        "local": "Ketu South",
+        "en": "Ketu South",
+        "slug": "ketu-south-gh1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1413",
+        "level": 2,
+        "name": {
+          "local": "Ketu South",
+          "en": "Ketu South",
+          "slug": "ketu-south-gh1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.083",
+      "lon": "0.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

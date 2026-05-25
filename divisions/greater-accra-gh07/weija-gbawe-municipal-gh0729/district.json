@@ -1,0 +1,47 @@
+{
+  "id": "GH0729",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Weija Gbawe Municipal",
+    "en": "Weija Gbawe Municipal",
+    "slug": "weija-gbawe-municipal-gh0729"
+  },
+  "code": {
+    "id": "GH0729",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.54",
+    "lon": "-0.343"
+  },
+  "metadata": {},
+  "source": {}
+}

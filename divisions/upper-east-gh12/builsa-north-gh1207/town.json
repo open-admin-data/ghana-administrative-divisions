@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH1207_bachongsa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bachongsa",
+      "en": "Bachongsa",
+      "slug": "bachongsa"
+    },
+    "code": {
+      "id": "GH1207_bachongsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.683",
+      "lon": "-1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_builsa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Builsa",
+      "en": "Builsa",
+      "slug": "builsa"
+    },
+    "code": {
+      "id": "GH1207_builsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.732",
+      "lon": "-1.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_kalijiisa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kalijiisa",
+      "en": "Kalijiisa",
+      "slug": "kalijiisa"
+    },
+    "code": {
+      "id": "GH1207_kalijiisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.77",
+      "lon": "-1.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_kori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kori",
+      "en": "Kori",
+      "slug": "kori"
+    },
+    "code": {
+      "id": "GH1207_kori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.735",
+      "lon": "-1.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_sandema",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sandema",
+      "en": "Sandema",
+      "slug": "sandema"
+    },
+    "code": {
+      "id": "GH1207_sandema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "-1.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_siniensi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Siniensi",
+      "en": "Siniensi",
+      "slug": "siniensi"
+    },
+    "code": {
+      "id": "GH1207_siniensi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.666",
+      "lon": "-1.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1207_wiaga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiaga",
+      "en": "Wiaga",
+      "slug": "wiaga"
+    },
+    "code": {
+      "id": "GH1207_wiaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1207",
+      "level": 2,
+      "name": {
+        "local": "Builsa North",
+        "en": "Builsa North",
+        "slug": "builsa-north-gh1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1207",
+        "level": 2,
+        "name": {
+          "local": "Builsa North",
+          "en": "Builsa North",
+          "slug": "builsa-north-gh1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.655",
+      "lon": "-1.257"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

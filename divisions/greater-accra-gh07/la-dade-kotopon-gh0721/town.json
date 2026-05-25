@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0721_airport",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Airport",
+      "en": "Airport",
+      "slug": "airport"
+    },
+    "code": {
+      "id": "GH0721_airport",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0721",
+      "level": 2,
+      "name": {
+        "local": "La Dade-Kotopon",
+        "en": "La Dade-Kotopon",
+        "slug": "la-dade-kotopon-gh0721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0721",
+        "level": 2,
+        "name": {
+          "local": "La Dade-Kotopon",
+          "en": "La Dade-Kotopon",
+          "slug": "la-dade-kotopon-gh0721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.604",
+      "lon": "-0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0721_burma-camp",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Burma Camp",
+      "en": "Burma Camp",
+      "slug": "burma-camp"
+    },
+    "code": {
+      "id": "GH0721_burma-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0721",
+      "level": 2,
+      "name": {
+        "local": "La Dade-Kotopon",
+        "en": "La Dade-Kotopon",
+        "slug": "la-dade-kotopon-gh0721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0721",
+        "level": 2,
+        "name": {
+          "local": "La Dade-Kotopon",
+          "en": "La Dade-Kotopon",
+          "slug": "la-dade-kotopon-gh0721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.597",
+      "lon": "-0.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH1311_chogsia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chogsia",
+      "en": "Chogsia",
+      "slug": "chogsia"
+    },
+    "code": {
+      "id": "GH1311_chogsia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.765",
+      "lon": "-2.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_dabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dabo",
+      "en": "Dabo",
+      "slug": "dabo"
+    },
+    "code": {
+      "id": "GH1311_dabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.07",
+      "lon": "-2.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_dorimon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dorimon",
+      "en": "Dorimon",
+      "slug": "dorimon"
+    },
+    "code": {
+      "id": "GH1311_dorimon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.035",
+      "lon": "-2.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_dornye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dornye",
+      "en": "Dornye",
+      "slug": "dornye"
+    },
+    "code": {
+      "id": "GH1311_dornye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.683",
+      "lon": "-2.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_eggu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Eggu",
+      "en": "Eggu",
+      "slug": "eggu"
+    },
+    "code": {
+      "id": "GH1311_eggu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.146",
+      "lon": "-2.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_gurungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gurungu",
+      "en": "Gurungu",
+      "slug": "gurungu"
+    },
+    "code": {
+      "id": "GH1311_gurungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.723",
+      "lon": "-2.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_kunchelleyiri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kunchelleyiri",
+      "en": "Kunchelleyiri",
+      "slug": "kunchelleyiri"
+    },
+    "code": {
+      "id": "GH1311_kunchelleyiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.455",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_lassia-tuolu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lassia tuolu",
+      "en": "Lassia tuolu",
+      "slug": "lassia-tuolu"
+    },
+    "code": {
+      "id": "GH1311_lassia-tuolu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.837",
+      "lon": "-2.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_nyoli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyoli",
+      "en": "Nyoli",
+      "slug": "nyoli"
+    },
+    "code": {
+      "id": "GH1311_nyoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.79",
+      "lon": "-2.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_poyentanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Poyentanga",
+      "en": "Poyentanga",
+      "slug": "poyentanga"
+    },
+    "code": {
+      "id": "GH1311_poyentanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.866",
+      "lon": "-2.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_vieri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vieri",
+      "en": "Vieri",
+      "slug": "vieri"
+    },
+    "code": {
+      "id": "GH1311_vieri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.929",
+      "lon": "-2.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311_wechau",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wechau",
+      "en": "Wechau",
+      "slug": "wechau"
+    },
+    "code": {
+      "id": "GH1311_wechau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1311",
+      "level": 2,
+      "name": {
+        "local": "Wa West",
+        "en": "Wa West",
+        "slug": "wa-west-gh1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1311",
+        "level": 2,
+        "name": {
+          "local": "Wa West",
+          "en": "Wa West",
+          "slug": "wa-west-gh1311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.826",
+      "lon": "-2.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

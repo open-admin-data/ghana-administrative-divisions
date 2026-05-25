@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0411_kranka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kranka",
+      "en": "Kranka",
+      "slug": "kranka"
+    },
+    "code": {
+      "id": "GH0411_kranka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0411",
+      "level": 2,
+      "name": {
+        "local": "Techiman North",
+        "en": "Techiman North",
+        "slug": "techiman-north-gh0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0411",
+        "level": 2,
+        "name": {
+          "local": "Techiman North",
+          "en": "Techiman North",
+          "slug": "techiman-north-gh0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.667",
+      "lon": "-1.811"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

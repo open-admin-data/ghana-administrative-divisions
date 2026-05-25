@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH1609_akontombra-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akontombra Nkwanta",
+      "en": "Akontombra Nkwanta",
+      "slug": "akontombra-nkwanta"
+    },
+    "code": {
+      "id": "GH1609_akontombra-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1609",
+      "level": 2,
+      "name": {
+        "local": "Suaman",
+        "en": "Suaman",
+        "slug": "suaman-gh1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1609",
+        "level": 2,
+        "name": {
+          "local": "Suaman",
+          "en": "Suaman",
+          "slug": "suaman-gh1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.976",
+      "lon": "-2.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1609_dadieso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dadieso",
+      "en": "Dadieso",
+      "slug": "dadieso"
+    },
+    "code": {
+      "id": "GH1609_dadieso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1609",
+      "level": 2,
+      "name": {
+        "local": "Suaman",
+        "en": "Suaman",
+        "slug": "suaman-gh1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1609",
+        "level": 2,
+        "name": {
+          "local": "Suaman",
+          "en": "Suaman",
+          "slug": "suaman-gh1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.119",
+      "lon": "-3.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1609_gyatokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyatokrom",
+      "en": "Gyatokrom",
+      "slug": "gyatokrom"
+    },
+    "code": {
+      "id": "GH1609_gyatokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1609",
+      "level": 2,
+      "name": {
+        "local": "Suaman",
+        "en": "Suaman",
+        "slug": "suaman-gh1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1609",
+        "level": 2,
+        "name": {
+          "local": "Suaman",
+          "en": "Suaman",
+          "slug": "suaman-gh1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.297",
+      "lon": "-3.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1609_helehele",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Helehele",
+      "en": "Helehele",
+      "slug": "helehele"
+    },
+    "code": {
+      "id": "GH1609_helehele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1609",
+      "level": 2,
+      "name": {
+        "local": "Suaman",
+        "en": "Suaman",
+        "slug": "suaman-gh1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1609",
+        "level": 2,
+        "name": {
+          "local": "Suaman",
+          "en": "Suaman",
+          "slug": "suaman-gh1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.293",
+      "lon": "-3.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1609_kwesikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwesikrom",
+      "en": "Kwesikrom",
+      "slug": "kwesikrom"
+    },
+    "code": {
+      "id": "GH1609_kwesikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1609",
+      "level": 2,
+      "name": {
+        "local": "Suaman",
+        "en": "Suaman",
+        "slug": "suaman-gh1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1609",
+        "level": 2,
+        "name": {
+          "local": "Suaman",
+          "en": "Suaman",
+          "slug": "suaman-gh1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "-2.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1416",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "North Tongu",
+    "en": "North Tongu",
+    "slug": "north-tongu-gh1416"
+  },
+  "code": {
+    "id": "GH1416",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.144",
+    "lon": "0.297"
+  },
+  "metadata": {},
+  "source": {}
+}

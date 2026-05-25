@@ -1,0 +1,47 @@
+{
+  "id": "GH1008",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkwanta South Municipal",
+    "en": "Nkwanta South Municipal",
+    "slug": "nkwanta-south-municipal-gh1008"
+  },
+  "code": {
+    "id": "GH1008",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.25",
+    "lon": "0.414"
+  },
+  "metadata": {},
+  "source": {}
+}

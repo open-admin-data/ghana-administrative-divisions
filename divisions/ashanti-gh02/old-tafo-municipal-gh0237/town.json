@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0237_ahwiaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahwiaa",
+      "en": "Ahwiaa",
+      "slug": "ahwiaa"
+    },
+    "code": {
+      "id": "GH0237_ahwiaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0237",
+      "level": 2,
+      "name": {
+        "local": "Old Tafo Municipal",
+        "en": "Old Tafo Municipal",
+        "slug": "old-tafo-municipal-gh0237"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0237",
+        "level": 2,
+        "name": {
+          "local": "Old Tafo Municipal",
+          "en": "Old Tafo Municipal",
+          "slug": "old-tafo-municipal-gh0237"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.758",
+      "lon": "-1.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0237_atimatim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atimatim",
+      "en": "Atimatim",
+      "slug": "atimatim"
+    },
+    "code": {
+      "id": "GH0237_atimatim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0237",
+      "level": 2,
+      "name": {
+        "local": "Old Tafo Municipal",
+        "en": "Old Tafo Municipal",
+        "slug": "old-tafo-municipal-gh0237"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0237",
+        "level": 2,
+        "name": {
+          "local": "Old Tafo Municipal",
+          "en": "Old Tafo Municipal",
+          "slug": "old-tafo-municipal-gh0237"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.764",
+      "lon": "-1.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

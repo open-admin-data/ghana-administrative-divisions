@@ -1,0 +1,30 @@
+{
+  "id": "GH04",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bono East",
+    "en": "Bono East",
+    "slug": "bono-east-gh04"
+  },
+  "code": {
+    "id": "GH04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "town": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.975",
+    "lon": "-1.104"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0705_ada",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ada",
+      "en": "Ada",
+      "slug": "ada"
+    },
+    "code": {
+      "id": "GH0705_ada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0705",
+      "level": 2,
+      "name": {
+        "local": "Ada East",
+        "en": "Ada East",
+        "slug": "ada-east-gh0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0705",
+        "level": 2,
+        "name": {
+          "local": "Ada East",
+          "en": "Ada East",
+          "slug": "ada-east-gh0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.785",
+      "lon": "0.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0705_kasseh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kasseh",
+      "en": "Kasseh",
+      "slug": "kasseh"
+    },
+    "code": {
+      "id": "GH0705_kasseh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0705",
+      "level": 2,
+      "name": {
+        "local": "Ada East",
+        "en": "Ada East",
+        "slug": "ada-east-gh0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0705",
+        "level": 2,
+        "name": {
+          "local": "Ada East",
+          "en": "Ada East",
+          "slug": "ada-east-gh0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.897",
+      "lon": "0.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0705_pediator-kope",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pediator Kope",
+      "en": "Pediator Kope",
+      "slug": "pediator-kope"
+    },
+    "code": {
+      "id": "GH0705_pediator-kope",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0705",
+      "level": 2,
+      "name": {
+        "local": "Ada East",
+        "en": "Ada East",
+        "slug": "ada-east-gh0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0705",
+        "level": 2,
+        "name": {
+          "local": "Ada East",
+          "en": "Ada East",
+          "slug": "ada-east-gh0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.822",
+      "lon": "0.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

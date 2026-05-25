@@ -1,0 +1,47 @@
+{
+  "id": "GH1003",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kadjebi",
+    "en": "Kadjebi",
+    "slug": "kadjebi-gh1003"
+  },
+  "code": {
+    "id": "GH1003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.718",
+    "lon": "0.533"
+  },
+  "metadata": {},
+  "source": {}
+}

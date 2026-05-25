@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH1008_bonakye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonakye",
+      "en": "Bonakye",
+      "slug": "bonakye"
+    },
+    "code": {
+      "id": "GH1008_bonakye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.401",
+      "lon": "0.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_bontibor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bontibor",
+      "en": "Bontibor",
+      "slug": "bontibor"
+    },
+    "code": {
+      "id": "GH1008_bontibor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.09",
+      "lon": "0.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_brewaniase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brewaniase",
+      "en": "Brewaniase",
+      "slug": "brewaniase"
+    },
+    "code": {
+      "id": "GH1008_brewaniase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.006",
+      "lon": "0.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_kechebi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kechebi",
+      "en": "Kechebi",
+      "slug": "kechebi"
+    },
+    "code": {
+      "id": "GH1008_kechebi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "0.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_keri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Keri",
+      "en": "Keri",
+      "slug": "keri"
+    },
+    "code": {
+      "id": "GH1008_keri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.386",
+      "lon": "0.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwanta",
+      "en": "Nkwanta",
+      "slug": "nkwanta"
+    },
+    "code": {
+      "id": "GH1008_nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "0.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_nyambong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyambong",
+      "en": "Nyambong",
+      "slug": "nyambong"
+    },
+    "code": {
+      "id": "GH1008_nyambong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.36",
+      "lon": "0.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_pusupu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pusupu",
+      "en": "Pusupu",
+      "slug": "pusupu"
+    },
+    "code": {
+      "id": "GH1008_pusupu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.052",
+      "lon": "0.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1008_tutukpene",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tutukpene",
+      "en": "Tutukpene",
+      "slug": "tutukpene"
+    },
+    "code": {
+      "id": "GH1008_tutukpene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1008",
+      "level": 2,
+      "name": {
+        "local": "Nkwanta South Municipal",
+        "en": "Nkwanta South Municipal",
+        "slug": "nkwanta-south-municipal-gh1008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1008",
+        "level": 2,
+        "name": {
+          "local": "Nkwanta South Municipal",
+          "en": "Nkwanta South Municipal",
+          "slug": "nkwanta-south-municipal-gh1008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "0.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

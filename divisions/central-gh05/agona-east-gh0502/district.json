@@ -1,0 +1,47 @@
+{
+  "id": "GH0502",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Agona East",
+    "en": "Agona East",
+    "slug": "agona-east-gh0502"
+  },
+  "code": {
+    "id": "GH0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.636",
+    "lon": "-0.656"
+  },
+  "metadata": {},
+  "source": {}
+}

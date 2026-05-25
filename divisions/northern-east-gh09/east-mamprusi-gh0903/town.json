@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0903_gambaga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gambaga",
+      "en": "Gambaga",
+      "slug": "gambaga"
+    },
+    "code": {
+      "id": "GH0903_gambaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.528",
+      "lon": "-0.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_gbingbani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbingbani",
+      "en": "Gbingbani",
+      "slug": "gbingbani"
+    },
+    "code": {
+      "id": "GH0903_gbingbani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.387",
+      "lon": "-0.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_gbintiri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbintiri",
+      "en": "Gbintiri",
+      "slug": "gbintiri"
+    },
+    "code": {
+      "id": "GH0903_gbintiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.281",
+      "lon": "-0.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_langbinsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Langbinsi",
+      "en": "Langbinsi",
+      "slug": "langbinsi"
+    },
+    "code": {
+      "id": "GH0903_langbinsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.407",
+      "lon": "-0.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_nalerigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nalerigu",
+      "en": "Nalerigu",
+      "slug": "nalerigu"
+    },
+    "code": {
+      "id": "GH0903_nalerigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.52",
+      "lon": "-0.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_sakogu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sakogu",
+      "en": "Sakogu",
+      "slug": "sakogu"
+    },
+    "code": {
+      "id": "GH0903_sakogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.576",
+      "lon": "-0.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903_wundua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wundua",
+      "en": "Wundua",
+      "slug": "wundua"
+    },
+    "code": {
+      "id": "GH0903_wundua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0903",
+      "level": 2,
+      "name": {
+        "local": "East Mamprusi",
+        "en": "East Mamprusi",
+        "slug": "east-mamprusi-gh0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0903",
+        "level": 2,
+        "name": {
+          "local": "East Mamprusi",
+          "en": "East Mamprusi",
+          "slug": "east-mamprusi-gh0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.334",
+      "lon": "-0.534"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH1601_achimfo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Achimfo",
+      "en": "Achimfo",
+      "slug": "achimfo"
+    },
+    "code": {
+      "id": "GH1601_achimfo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.784",
+      "lon": "-2.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_acquai-allah",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Acquai Allah",
+      "en": "Acquai Allah",
+      "slug": "acquai-allah"
+    },
+    "code": {
+      "id": "GH1601_acquai-allah",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.884",
+      "lon": "-2.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_adjoum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adjoum",
+      "en": "Adjoum",
+      "slug": "adjoum"
+    },
+    "code": {
+      "id": "GH1601_adjoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.693",
+      "lon": "-2.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_amonie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amonie",
+      "en": "Amonie",
+      "slug": "amonie"
+    },
+    "code": {
+      "id": "GH1601_amonie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.712",
+      "lon": "-2.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_boinso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boinso",
+      "en": "Boinso",
+      "slug": "boinso"
+    },
+    "code": {
+      "id": "GH1601_boinso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "-2.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_enchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enchi",
+      "en": "Enchi",
+      "slug": "enchi"
+    },
+    "code": {
+      "id": "GH1601_enchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.809",
+      "lon": "-2.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_papueso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Papueso",
+      "en": "Papueso",
+      "slug": "papueso"
+    },
+    "code": {
+      "id": "GH1601_papueso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.747",
+      "lon": "-2.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_sewum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sewum",
+      "en": "Sewum",
+      "slug": "sewum"
+    },
+    "code": {
+      "id": "GH1601_sewum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.676",
+      "lon": "-2.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1601_yiwabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yiwabra",
+      "en": "Yiwabra",
+      "slug": "yiwabra"
+    },
+    "code": {
+      "id": "GH1601_yiwabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1601",
+      "level": 2,
+      "name": {
+        "local": "Aowin",
+        "en": "Aowin",
+        "slug": "aowin-gh1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1601",
+        "level": 2,
+        "name": {
+          "local": "Aowin",
+          "en": "Aowin",
+          "slug": "aowin-gh1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "-2.662"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

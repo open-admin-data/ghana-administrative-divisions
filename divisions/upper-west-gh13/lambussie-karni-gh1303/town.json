@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH1303_billaw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Billaw",
+      "en": "Billaw",
+      "slug": "billaw"
+    },
+    "code": {
+      "id": "GH1303_billaw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1303",
+      "level": 2,
+      "name": {
+        "local": "Lambussie-Karni",
+        "en": "Lambussie-Karni",
+        "slug": "lambussie-karni-gh1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1303",
+        "level": 2,
+        "name": {
+          "local": "Lambussie-Karni",
+          "en": "Lambussie-Karni",
+          "slug": "lambussie-karni-gh1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.921",
+      "lon": "-2.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1303_dapuori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dapuori",
+      "en": "Dapuori",
+      "slug": "dapuori"
+    },
+    "code": {
+      "id": "GH1303_dapuori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1303",
+      "level": 2,
+      "name": {
+        "local": "Lambussie-Karni",
+        "en": "Lambussie-Karni",
+        "slug": "lambussie-karni-gh1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1303",
+        "level": 2,
+        "name": {
+          "local": "Lambussie-Karni",
+          "en": "Lambussie-Karni",
+          "slug": "lambussie-karni-gh1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.876",
+      "lon": "-2.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1303_piina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Piina",
+      "en": "Piina",
+      "slug": "piina"
+    },
+    "code": {
+      "id": "GH1303_piina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1303",
+      "level": 2,
+      "name": {
+        "local": "Lambussie-Karni",
+        "en": "Lambussie-Karni",
+        "slug": "lambussie-karni-gh1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1303",
+        "level": 2,
+        "name": {
+          "local": "Lambussie-Karni",
+          "en": "Lambussie-Karni",
+          "slug": "lambussie-karni-gh1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.836",
+      "lon": "-2.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1303_samoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Samoa",
+      "en": "Samoa",
+      "slug": "samoa"
+    },
+    "code": {
+      "id": "GH1303_samoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1303",
+      "level": 2,
+      "name": {
+        "local": "Lambussie-Karni",
+        "en": "Lambussie-Karni",
+        "slug": "lambussie-karni-gh1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1303",
+        "level": 2,
+        "name": {
+          "local": "Lambussie-Karni",
+          "en": "Lambussie-Karni",
+          "slug": "lambussie-karni-gh1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.831",
+      "lon": "-2.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

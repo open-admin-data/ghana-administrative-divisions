@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0405_akuma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akuma",
+      "en": "Akuma",
+      "slug": "akuma"
+    },
+    "code": {
+      "id": "GH0405_akuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.487",
+      "lon": "-1.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_ayerede",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayerede",
+      "en": "Ayerede",
+      "slug": "ayerede"
+    },
+    "code": {
+      "id": "GH0405_ayerede",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.486",
+      "lon": "-1.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_bonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonsu",
+      "en": "Bonsu",
+      "slug": "bonsu"
+    },
+    "code": {
+      "id": "GH0405_bonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.552",
+      "lon": "-1.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_donkro-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Donkro-Nkwanta",
+      "en": "Donkro-Nkwanta",
+      "slug": "donkro-nkwanta"
+    },
+    "code": {
+      "id": "GH0405_donkro-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.435",
+      "lon": "-1.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_nkoranza",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkoranza",
+      "en": "Nkoranza",
+      "slug": "nkoranza"
+    },
+    "code": {
+      "id": "GH0405_nkoranza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.556",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_nkwabeng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwabeng",
+      "en": "Nkwabeng",
+      "slug": "nkwabeng"
+    },
+    "code": {
+      "id": "GH0405_nkwabeng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.5",
+      "lon": "-1.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405_sekyedumase-health-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekyedumase Health Centre",
+      "en": "Sekyedumase Health Centre",
+      "slug": "sekyedumase-health-centre"
+    },
+    "code": {
+      "id": "GH0405_sekyedumase-health-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0405",
+      "level": 2,
+      "name": {
+        "local": "Nkoranza South",
+        "en": "Nkoranza South",
+        "slug": "nkoranza-south-gh0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0405",
+        "level": 2,
+        "name": {
+          "local": "Nkoranza South",
+          "en": "Nkoranza South",
+          "slug": "nkoranza-south-gh0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.314",
+      "lon": "-1.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0304_akontanim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akontanim",
+      "en": "Akontanim",
+      "slug": "akontanim"
+    },
+    "code": {
+      "id": "GH0304_akontanim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0304",
+      "level": 2,
+      "name": {
+        "local": "Dormaa East",
+        "en": "Dormaa East",
+        "slug": "dormaa-east-gh0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0304",
+        "level": 2,
+        "name": {
+          "local": "Dormaa East",
+          "en": "Dormaa East",
+          "slug": "dormaa-east-gh0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.308",
+      "lon": "-2.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0304_dormaa-akwamu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dormaa Akwamu",
+      "en": "Dormaa Akwamu",
+      "slug": "dormaa-akwamu"
+    },
+    "code": {
+      "id": "GH0304_dormaa-akwamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0304",
+      "level": 2,
+      "name": {
+        "local": "Dormaa East",
+        "en": "Dormaa East",
+        "slug": "dormaa-east-gh0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0304",
+        "level": 2,
+        "name": {
+          "local": "Dormaa East",
+          "en": "Dormaa East",
+          "slug": "dormaa-east-gh0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.317",
+      "lon": "-2.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0304_kyeremasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kyeremasu",
+      "en": "Kyeremasu",
+      "slug": "kyeremasu"
+    },
+    "code": {
+      "id": "GH0304_kyeremasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0304",
+      "level": 2,
+      "name": {
+        "local": "Dormaa East",
+        "en": "Dormaa East",
+        "slug": "dormaa-east-gh0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0304",
+        "level": 2,
+        "name": {
+          "local": "Dormaa East",
+          "en": "Dormaa East",
+          "slug": "dormaa-east-gh0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.263",
+      "lon": "-2.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0304_wamanafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wamanafo",
+      "en": "Wamanafo",
+      "slug": "wamanafo"
+    },
+    "code": {
+      "id": "GH0304_wamanafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0304",
+      "level": 2,
+      "name": {
+        "local": "Dormaa East",
+        "en": "Dormaa East",
+        "slug": "dormaa-east-gh0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0304",
+        "level": 2,
+        "name": {
+          "local": "Dormaa East",
+          "en": "Dormaa East",
+          "slug": "dormaa-east-gh0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.262",
+      "lon": "-2.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0304_wamfi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wamfi",
+      "en": "Wamfi",
+      "slug": "wamfi"
+    },
+    "code": {
+      "id": "GH0304_wamfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0304",
+      "level": 2,
+      "name": {
+        "local": "Dormaa East",
+        "en": "Dormaa East",
+        "slug": "dormaa-east-gh0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0304",
+        "level": 2,
+        "name": {
+          "local": "Dormaa East",
+          "en": "Dormaa East",
+          "slug": "dormaa-east-gh0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.306",
+      "lon": "-2.737"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1401",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adaklu",
+    "en": "Adaklu",
+    "slug": "adaklu-gh1401"
+  },
+  "code": {
+    "id": "GH1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.442",
+    "lon": "0.533"
+  },
+  "metadata": {},
+  "source": {}
+}

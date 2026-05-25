@@ -1,0 +1,47 @@
+{
+  "id": "GH1001",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biakoye",
+    "en": "Biakoye",
+    "slug": "biakoye-gh1001"
+  },
+  "code": {
+    "id": "GH1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.393",
+    "lon": "0.246"
+  },
+  "metadata": {},
+  "source": {}
+}

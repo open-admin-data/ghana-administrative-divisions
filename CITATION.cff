@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Ghana Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-25"
+url: "https://github.com/open-admin-data/ghana-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/ghana-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - ghana
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Ghana's administrative hierarchy:
+  16 regions, 260 districts, 2,079 towns.
+  Bilingual with coordinates and postal codes where available.

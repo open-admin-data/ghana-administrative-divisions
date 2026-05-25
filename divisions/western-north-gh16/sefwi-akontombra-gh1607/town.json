@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH1607_akontombra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akontombra",
+      "en": "Akontombra",
+      "slug": "akontombra"
+    },
+    "code": {
+      "id": "GH1607_akontombra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1607",
+      "level": 2,
+      "name": {
+        "local": "Sefwi Akontombra",
+        "en": "Sefwi Akontombra",
+        "slug": "sefwi-akontombra-gh1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1607",
+        "level": 2,
+        "name": {
+          "local": "Sefwi Akontombra",
+          "en": "Sefwi Akontombra",
+          "slug": "sefwi-akontombra-gh1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.048",
+      "lon": "-2.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1607_asantekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asantekrom",
+      "en": "Asantekrom",
+      "slug": "asantekrom"
+    },
+    "code": {
+      "id": "GH1607_asantekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1607",
+      "level": 2,
+      "name": {
+        "local": "Sefwi Akontombra",
+        "en": "Sefwi Akontombra",
+        "slug": "sefwi-akontombra-gh1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1607",
+        "level": 2,
+        "name": {
+          "local": "Sefwi Akontombra",
+          "en": "Sefwi Akontombra",
+          "slug": "sefwi-akontombra-gh1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.06",
+      "lon": "-2.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1607_nsawora",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsawora",
+      "en": "Nsawora",
+      "slug": "nsawora"
+    },
+    "code": {
+      "id": "GH1607_nsawora",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1607",
+      "level": 2,
+      "name": {
+        "local": "Sefwi Akontombra",
+        "en": "Sefwi Akontombra",
+        "slug": "sefwi-akontombra-gh1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1607",
+        "level": 2,
+        "name": {
+          "local": "Sefwi Akontombra",
+          "en": "Sefwi Akontombra",
+          "slug": "sefwi-akontombra-gh1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.151",
+      "lon": "-2.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1607_nsawura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsawura",
+      "en": "Nsawura",
+      "slug": "nsawura"
+    },
+    "code": {
+      "id": "GH1607_nsawura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1607",
+      "level": 2,
+      "name": {
+        "local": "Sefwi Akontombra",
+        "en": "Sefwi Akontombra",
+        "slug": "sefwi-akontombra-gh1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1607",
+        "level": 2,
+        "name": {
+          "local": "Sefwi Akontombra",
+          "en": "Sefwi Akontombra",
+          "slug": "sefwi-akontombra-gh1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.152",
+      "lon": "-2.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1607_wiawso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiawso",
+      "en": "Wiawso",
+      "slug": "wiawso"
+    },
+    "code": {
+      "id": "GH1607_wiawso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1607",
+      "level": 2,
+      "name": {
+        "local": "Sefwi Akontombra",
+        "en": "Sefwi Akontombra",
+        "slug": "sefwi-akontombra-gh1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1607",
+        "level": 2,
+        "name": {
+          "local": "Sefwi Akontombra",
+          "en": "Sefwi Akontombra",
+          "slug": "sefwi-akontombra-gh1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.215",
+      "lon": "-2.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

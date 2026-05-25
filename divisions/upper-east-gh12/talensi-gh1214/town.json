@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH1214_datuko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Datuko",
+      "en": "Datuko",
+      "slug": "datuko"
+    },
+    "code": {
+      "id": "GH1214_datuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1214",
+      "level": 2,
+      "name": {
+        "local": "Talensi",
+        "en": "Talensi",
+        "slug": "talensi-gh1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1214",
+        "level": 2,
+        "name": {
+          "local": "Talensi",
+          "en": "Talensi",
+          "slug": "talensi-gh1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.715",
+      "lon": "-0.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1214_tolla",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tolla",
+      "en": "Tolla",
+      "slug": "tolla"
+    },
+    "code": {
+      "id": "GH1214_tolla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1214",
+      "level": 2,
+      "name": {
+        "local": "Talensi",
+        "en": "Talensi",
+        "slug": "talensi-gh1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1214",
+        "level": 2,
+        "name": {
+          "local": "Talensi",
+          "en": "Talensi",
+          "slug": "talensi-gh1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.599",
+      "lon": "-0.615"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "GH0812_agric",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agric",
+      "en": "Agric",
+      "slug": "agric"
+    },
+    "code": {
+      "id": "GH0812_agric",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.435",
+      "lon": "-0.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_bagabaga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bagabaga",
+      "en": "Bagabaga",
+      "slug": "bagabaga"
+    },
+    "code": {
+      "id": "GH0812_bagabaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.422",
+      "lon": "-0.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_bulpela",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bulpela",
+      "en": "Bulpela",
+      "slug": "bulpela"
+    },
+    "code": {
+      "id": "GH0812_bulpela",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.389",
+      "lon": "-0.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_changli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Changli",
+      "en": "Changli",
+      "slug": "changli"
+    },
+    "code": {
+      "id": "GH0812_changli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.243",
+      "lon": "-0.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_choggu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Choggu",
+      "en": "Choggu",
+      "slug": "choggu"
+    },
+    "code": {
+      "id": "GH0812_choggu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.425",
+      "lon": "-0.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_choggu-yapalsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Choggu Yapalsi",
+      "en": "Choggu Yapalsi",
+      "slug": "choggu-yapalsi"
+    },
+    "code": {
+      "id": "GH0812_choggu-yapalsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.432",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_gariziegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gariziegu",
+      "en": "Gariziegu",
+      "slug": "gariziegu"
+    },
+    "code": {
+      "id": "GH0812_gariziegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.398",
+      "lon": "-0.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_gurugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gurugu",
+      "en": "Gurugu",
+      "slug": "gurugu"
+    },
+    "code": {
+      "id": "GH0812_gurugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.455",
+      "lon": "-0.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_industrial-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Industrial Area",
+      "en": "Industrial Area",
+      "slug": "industrial-area"
+    },
+    "code": {
+      "id": "GH0812_industrial-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.392",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_jusonayilli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jusonayilli",
+      "en": "Jusonayilli",
+      "slug": "jusonayilli"
+    },
+    "code": {
+      "id": "GH0812_jusonayilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.448",
+      "lon": "-0.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_kalpohini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kalpohini",
+      "en": "Kalpohini",
+      "slug": "kalpohini"
+    },
+    "code": {
+      "id": "GH0812_kalpohini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.417",
+      "lon": "-0.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_kamina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kamina",
+      "en": "Kamina",
+      "slug": "kamina"
+    },
+    "code": {
+      "id": "GH0812_kamina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.539",
+      "lon": "-0.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_kotingli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kotingli",
+      "en": "Kotingli",
+      "slug": "kotingli"
+    },
+    "code": {
+      "id": "GH0812_kotingli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.34",
+      "lon": "-0.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_kpanvo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpanvo",
+      "en": "Kpanvo",
+      "slug": "kpanvo"
+    },
+    "code": {
+      "id": "GH0812_kpanvo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.371",
+      "lon": "-0.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_lahagu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lahagu",
+      "en": "Lahagu",
+      "slug": "lahagu"
+    },
+    "code": {
+      "id": "GH0812_lahagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.33",
+      "lon": "-0.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_lamashegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lamashegu",
+      "en": "Lamashegu",
+      "slug": "lamashegu"
+    },
+    "code": {
+      "id": "GH0812_lamashegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.392",
+      "lon": "-0.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_ministries",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ministries",
+      "en": "Ministries",
+      "slug": "ministries"
+    },
+    "code": {
+      "id": "GH0812_ministries",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.242",
+      "lon": "-0.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_nyohini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyohini",
+      "en": "Nyohini",
+      "slug": "nyohini"
+    },
+    "code": {
+      "id": "GH0812_nyohini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.401",
+      "lon": "-0.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_rivoly",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Rivoly",
+      "en": "Rivoly",
+      "slug": "rivoly"
+    },
+    "code": {
+      "id": "GH0812_rivoly",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.407",
+      "lon": "-0.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_sabonjida",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabonjida",
+      "en": "Sabonjida",
+      "slug": "sabonjida"
+    },
+    "code": {
+      "id": "GH0812_sabonjida",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "-0.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_sangani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sangani",
+      "en": "Sangani",
+      "slug": "sangani"
+    },
+    "code": {
+      "id": "GH0812_sangani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.417",
+      "lon": "-0.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_tamale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tamale",
+      "en": "Tamale",
+      "slug": "tamale"
+    },
+    "code": {
+      "id": "GH0812_tamale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.4",
+      "lon": "-0.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_tamale-central",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tamale Central",
+      "en": "Tamale Central",
+      "slug": "tamale-central"
+    },
+    "code": {
+      "id": "GH0812_tamale-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.401",
+      "lon": "-0.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_vittingdabogbh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vitting/Dabogbh",
+      "en": "Vitting/Dabogbh",
+      "slug": "vittingdabogbh"
+    },
+    "code": {
+      "id": "GH0812_vittingdabogbh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.383",
+      "lon": "-0.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_zagyuri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zagyuri",
+      "en": "Zagyuri",
+      "slug": "zagyuri"
+    },
+    "code": {
+      "id": "GH0812_zagyuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.46",
+      "lon": "-0.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_zobogu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zobogu",
+      "en": "Zobogu",
+      "slug": "zobogu"
+    },
+    "code": {
+      "id": "GH0812_zobogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.242",
+      "lon": "-0.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0812_zogyele",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zogyele",
+      "en": "Zogyele",
+      "slug": "zogyele"
+    },
+    "code": {
+      "id": "GH0812_zogyele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0812",
+      "level": 2,
+      "name": {
+        "local": "Tamale Metropolitan",
+        "en": "Tamale Metropolitan",
+        "slug": "tamale-metropolitan-gh0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0812",
+        "level": 2,
+        "name": {
+          "local": "Tamale Metropolitan",
+          "en": "Tamale Metropolitan",
+          "slug": "tamale-metropolitan-gh0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.4",
+      "lon": "-0.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "id": "GH1002_abotoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abotoase",
+      "en": "Abotoase",
+      "slug": "abotoase"
+    },
+    "code": {
+      "id": "GH1002_abotoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.408",
+      "lon": "0.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_akaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akaa",
+      "en": "Akaa",
+      "slug": "akaa"
+    },
+    "code": {
+      "id": "GH1002_akaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.427",
+      "lon": "0.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_amanya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amanya",
+      "en": "Amanya",
+      "slug": "amanya"
+    },
+    "code": {
+      "id": "GH1002_amanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.452",
+      "lon": "0.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_baglo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Baglo",
+      "en": "Baglo",
+      "slug": "baglo"
+    },
+    "code": {
+      "id": "GH1002_baglo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.303",
+      "lon": "0.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_baika",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Baika",
+      "en": "Baika",
+      "slug": "baika"
+    },
+    "code": {
+      "id": "GH1002_baika",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.235",
+      "lon": "0.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_bodada",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bodada",
+      "en": "Bodada",
+      "slug": "bodada"
+    },
+    "code": {
+      "id": "GH1002_bodada",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.358",
+      "lon": "0.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_bowiri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bowiri",
+      "en": "Bowiri",
+      "slug": "bowiri"
+    },
+    "code": {
+      "id": "GH1002_bowiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.332",
+      "lon": "0.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_jasikan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jasikan",
+      "en": "Jasikan",
+      "slug": "jasikan"
+    },
+    "code": {
+      "id": "GH1002_jasikan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.401",
+      "lon": "0.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_kute",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kute",
+      "en": "Kute",
+      "slug": "kute"
+    },
+    "code": {
+      "id": "GH1002_kute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.377",
+      "lon": "0.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_kwamekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamekrom",
+      "en": "Kwamekrom",
+      "slug": "kwamekrom"
+    },
+    "code": {
+      "id": "GH1002_kwamekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.296",
+      "lon": "0.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_new-ayoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Ayoma",
+      "en": "New Ayoma",
+      "slug": "new-ayoma"
+    },
+    "code": {
+      "id": "GH1002_new-ayoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.284",
+      "lon": "0.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_new-teteman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Teteman",
+      "en": "New Teteman",
+      "slug": "new-teteman"
+    },
+    "code": {
+      "id": "GH1002_new-teteman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.304",
+      "lon": "0.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_nkonya-ahenkro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkonya Ahenkro",
+      "en": "Nkonya Ahenkro",
+      "slug": "nkonya-ahenkro"
+    },
+    "code": {
+      "id": "GH1002_nkonya-ahenkro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.119",
+      "lon": "0.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_nkonya-wurupong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkonya Wurupong",
+      "en": "Nkonya Wurupong",
+      "slug": "nkonya-wurupong"
+    },
+    "code": {
+      "id": "GH1002_nkonya-wurupong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.174",
+      "lon": "0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_nsuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuta",
+      "en": "Nsuta",
+      "slug": "nsuta"
+    },
+    "code": {
+      "id": "GH1002_nsuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.505",
+      "lon": "0.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_old-ayoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old Ayoma",
+      "en": "Old Ayoma",
+      "slug": "old-ayoma"
+    },
+    "code": {
+      "id": "GH1002_old-ayoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.288",
+      "lon": "0.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_teteman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Teteman",
+      "en": "Teteman",
+      "slug": "teteman"
+    },
+    "code": {
+      "id": "GH1002_teteman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.304",
+      "lon": "0.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1002_worawora-h",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Worawora H",
+      "en": "Worawora H",
+      "slug": "worawora-h"
+    },
+    "code": {
+      "id": "GH1002_worawora-h",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1002",
+      "level": 2,
+      "name": {
+        "local": "Jasikan",
+        "en": "Jasikan",
+        "slug": "jasikan-gh1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1002",
+        "level": 2,
+        "name": {
+          "local": "Jasikan",
+          "en": "Jasikan",
+          "slug": "jasikan-gh1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.514",
+      "lon": "0.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

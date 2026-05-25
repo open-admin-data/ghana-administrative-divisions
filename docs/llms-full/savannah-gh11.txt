@@ -1,0 +1,212 @@
+# Savannah — Ghana Administrative Divisions
+
+> 7 districts, 42 towns
+> Code: GH11
+> Coordinates: 9.049, -1.494
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Bole
+
+Code: GH1101, Coordinates: 8.692, -2.179
+Towns: 6
+
+#### Bamboi
+
+Code: GH1101_bamboi, Coordinates: 8.165, -2.032
+
+#### Banda-Nkwanta
+
+Code: GH1101_banda-nkwanta, Coordinates: 8.353, -2.137
+
+#### Bole
+
+Code: GH1101_bole, Coordinates: 9.032, -2.487
+
+#### Jama
+
+Code: GH1101_jama, Coordinates: 8.3, -2.185
+
+#### Mandari
+
+Code: GH1101_mandari, Coordinates: 9.023, -2.578
+
+#### Tinga
+
+Code: GH1101_tinga, Coordinates: 8.581, -2.224
+
+### Central Gonja
+
+Code: GH1102, Coordinates: 8.941, -1.106
+Towns: 6
+
+#### Buipe
+
+Code: GH1102_buipe, Coordinates: 8.77, -1.453
+
+#### Kusawgu
+
+Code: GH1102_kusawgu, Coordinates: 9.199, -1.05
+
+#### Mpaha
+
+Code: GH1102_mpaha, Coordinates: 8.746, -1.114
+
+#### Sankpala
+
+Code: GH1102_sankpala, Coordinates: 9.264, -1.005
+
+#### Tuluwe
+
+Code: GH1102_tuluwe, Coordinates: 8.713, -0.932
+
+#### Yapei
+
+Code: GH1102_yapei, Coordinates: 9.143, -1.155
+
+### East Gonja Municipal
+
+Code: GH1103, Coordinates: 8.349, -1.026
+Towns: 16
+
+#### Abromase
+
+Code: GH1103_abromase, Coordinates: 8.464, -1.016
+
+#### Blajai
+
+Code: GH1103_blajai, Coordinates: 8.376, 0.102
+
+#### Buma
+
+Code: GH1103_buma, Coordinates: 8.298, -0.855
+
+#### Bunjai
+
+Code: GH1103_bunjai, Coordinates: 8.737, -0.506
+
+#### Ekumde
+
+Code: GH1103_ekumde, Coordinates: 8.465, -0.204
+
+#### Gulbi Quarters
+
+Code: GH1103_gulbi-quarters, Coordinates: 8.26, -0.239
+
+#### Jantong
+
+Code: GH1103_jantong, Coordinates: 9.234, -0.401
+
+#### Kitare
+
+Code: GH1103_kitare, Coordinates: 8.262, -0.181
+
+#### Kpalbe
+
+Code: GH1103_kpalbe, Coordinates: 9.12, -0.555
+
+#### Kpandai
+
+Code: GH1103_kpandai, Coordinates: 8.463, 0.006
+
+#### Loloto
+
+Code: GH1103_loloto, Coordinates: 8.366, -0.403
+
+#### Lonton
+
+Code: GH1103_lonton, Coordinates: 8.205, -0.406
+
+#### Makango
+
+Code: GH1103_makango, Coordinates: 8.324, -0.619
+
+#### Nkanchina
+
+Code: GH1103_nkanchina, Coordinates: 8.45, -0.076
+
+#### Sabonjida
+
+Code: GH1103_sabonjida, Coordinates: 8.312, -0.306
+
+#### Salaga
+
+Code: GH1103_salaga, Coordinates: 8.557, -0.514
+
+### North East Gonja
+
+Code: GH1104, Coordinates: 8.741, -0.528
+Towns: 0
+
+### North Gonja
+
+Code: GH1105, Coordinates: 9.691, -1.617
+Towns: 0
+
+### Sawla-Tuna-Kalba
+
+Code: GH1106, Coordinates: 9.479, -2.413
+Towns: 6
+
+#### Gindabuo
+
+Code: GH1106_gindabuo, Coordinates: 9.629, -2.46
+
+#### Kalba
+
+Code: GH1106_kalba, Coordinates: 9.549, -2.665
+
+#### Kulmasa
+
+Code: GH1106_kulmasa, Coordinates: 9.692, -2.488
+
+#### Sawla
+
+Code: GH1106_sawla, Coordinates: 9.268, -2.406
+
+#### Soma
+
+Code: GH1106_soma, Coordinates: 9.464, -2.318
+
+#### Tuna
+
+Code: GH1106_tuna, Coordinates: 9.492, -2.419
+
+### West Gonja
+
+Code: GH1107, Coordinates: 9.223, -1.754
+Towns: 8
+
+#### Bawena
+
+Code: GH1107_bawena, Coordinates: 9.544, -1.636
+
+#### Busunu
+
+Code: GH1107_busunu, Coordinates: 9.165, -1.51
+
+#### Daboya
+
+Code: GH1107_daboya, Coordinates: 9.529, -1.382
+
+#### Damongo
+
+Code: GH1107_damongo, Coordinates: 9.035, -1.821
+
+#### Lingbinsi
+
+Code: GH1107_lingbinsi, Coordinates: 9.571, -1.407
+
+#### Mankarigu
+
+Code: GH1107_mankarigu, Coordinates: 10.027, -1.279
+
+#### Mole Game
+
+Code: GH1107_mole-game, Coordinates: 9.252, -1.85
+
+#### West Gonja
+
+Code: GH1107_west-gonja, Coordinates: 9.086, -1.809
+

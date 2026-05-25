@@ -1,0 +1,47 @@
+{
+  "id": "GH1415",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "North Dayi",
+    "en": "North Dayi",
+    "slug": "north-dayi-gh1415"
+  },
+  "code": {
+    "id": "GH1415",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.817",
+    "lon": "0.231"
+  },
+  "metadata": {},
+  "source": {}
+}

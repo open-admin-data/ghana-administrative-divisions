@@ -1,0 +1,47 @@
+{
+  "id": "GH1309",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wa East",
+    "en": "Wa East",
+    "slug": "wa-east-gh1309"
+  },
+  "code": {
+    "id": "GH1309",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.086",
+    "lon": "-1.976"
+  },
+  "metadata": {},
+  "source": {}
+}

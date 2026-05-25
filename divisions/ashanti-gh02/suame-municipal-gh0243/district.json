@@ -1,0 +1,47 @@
+{
+  "id": "GH0243",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suame Municipal",
+    "en": "Suame Municipal",
+    "slug": "suame-municipal-gh0243"
+  },
+  "code": {
+    "id": "GH0243",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.736",
+    "lon": "-1.648"
+  },
+  "metadata": {},
+  "source": {}
+}

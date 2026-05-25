@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "GH0613_adausena",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adausena",
+      "en": "Adausena",
+      "slug": "adausena"
+    },
+    "code": {
+      "id": "GH0613_adausena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.349",
+      "lon": "-1.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_adjobue",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adjobue",
+      "en": "Adjobue",
+      "slug": "adjobue"
+    },
+    "code": {
+      "id": "GH0613_adjobue",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.959",
+      "lon": "-1.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_adubease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adubease",
+      "en": "Adubease",
+      "slug": "adubease"
+    },
+    "code": {
+      "id": "GH0613_adubease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.053",
+      "lon": "-1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_adwafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adwafo",
+      "en": "Adwafo",
+      "slug": "adwafo"
+    },
+    "code": {
+      "id": "GH0613_adwafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_afosu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afosu",
+      "en": "Afosu",
+      "slug": "afosu"
+    },
+    "code": {
+      "id": "GH0613_afosu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.387",
+      "lon": "-0.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_akoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akoase",
+      "en": "Akoase",
+      "slug": "akoase"
+    },
+    "code": {
+      "id": "GH0613_akoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.469",
+      "lon": "-0.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_akoasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akoasi",
+      "en": "Akoasi",
+      "slug": "akoasi"
+    },
+    "code": {
+      "id": "GH0613_akoasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.466",
+      "lon": "-0.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_akokooso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akokooso",
+      "en": "Akokooso",
+      "slug": "akokooso"
+    },
+    "code": {
+      "id": "GH0613_akokooso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.15",
+      "lon": "-1.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_amoana-paroso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoana Paroso",
+      "en": "Amoana Paroso",
+      "slug": "amoana-paroso"
+    },
+    "code": {
+      "id": "GH0613_amoana-paroso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.511",
+      "lon": "-0.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_anyinase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinase",
+      "en": "Anyinase",
+      "slug": "anyinase"
+    },
+    "code": {
+      "id": "GH0613_anyinase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.994",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_ayirebi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayirebi",
+      "en": "Ayirebi",
+      "slug": "ayirebi"
+    },
+    "code": {
+      "id": "GH0613_ayirebi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.085",
+      "lon": "-1.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_brenase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brenase",
+      "en": "Brenase",
+      "slug": "brenase"
+    },
+    "code": {
+      "id": "GH0613_brenase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.168",
+      "lon": "-1.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_gyaha",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyaha",
+      "en": "Gyaha",
+      "slug": "gyaha"
+    },
+    "code": {
+      "id": "GH0613_gyaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.058",
+      "lon": "-0.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_mukyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mukyia",
+      "en": "Mukyia",
+      "slug": "mukyia"
+    },
+    "code": {
+      "id": "GH0613_mukyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_new-abirem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Abirem",
+      "en": "New Abirem",
+      "slug": "new-abirem"
+    },
+    "code": {
+      "id": "GH0613_new-abirem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.336",
+      "lon": "-0.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_nkwateng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwateng",
+      "en": "Nkwateng",
+      "slug": "nkwateng"
+    },
+    "code": {
+      "id": "GH0613_nkwateng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.266",
+      "lon": "-1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_ntronang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntronang",
+      "en": "Ntronang",
+      "slug": "ntronang"
+    },
+    "code": {
+      "id": "GH0613_ntronang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.342",
+      "lon": "-1.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_nyafoman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyafoman",
+      "en": "Nyafoman",
+      "slug": "nyafoman"
+    },
+    "code": {
+      "id": "GH0613_nyafoman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.543",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_ofoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ofoase",
+      "en": "Ofoase",
+      "slug": "ofoase"
+    },
+    "code": {
+      "id": "GH0613_ofoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.17",
+      "lon": "-1.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_okaikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okaikrom",
+      "en": "Okaikrom",
+      "slug": "okaikrom"
+    },
+    "code": {
+      "id": "GH0613_okaikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.274",
+      "lon": "-0.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_okoasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okoasi",
+      "en": "Okoasi",
+      "slug": "okoasi"
+    },
+    "code": {
+      "id": "GH0613_okoasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.467",
+      "lon": "-0.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_otwereso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Otwereso",
+      "en": "Otwereso",
+      "slug": "otwereso"
+    },
+    "code": {
+      "id": "GH0613_otwereso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "-1.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_pankese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pankese",
+      "en": "Pankese",
+      "slug": "pankese"
+    },
+    "code": {
+      "id": "GH0613_pankese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.508",
+      "lon": "-0.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0613_tweapeasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tweapeasi",
+      "en": "Tweapeasi",
+      "slug": "tweapeasi"
+    },
+    "code": {
+      "id": "GH0613_tweapeasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0613",
+      "level": 2,
+      "name": {
+        "local": "Birim North",
+        "en": "Birim North",
+        "slug": "birim-north-gh0613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0613",
+        "level": 2,
+        "name": {
+          "local": "Birim North",
+          "en": "Birim North",
+          "slug": "birim-north-gh0613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.38",
+      "lon": "-0.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

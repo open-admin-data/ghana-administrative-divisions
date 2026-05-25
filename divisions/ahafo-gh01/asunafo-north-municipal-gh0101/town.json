@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0101_akrodie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrodie",
+      "en": "Akrodie",
+      "slug": "akrodie"
+    },
+    "code": {
+      "id": "GH0101_akrodie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.695",
+      "lon": "-2.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_ampenkro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ampenkro",
+      "en": "Ampenkro",
+      "slug": "ampenkro"
+    },
+    "code": {
+      "id": "GH0101_ampenkro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.944",
+      "lon": "-2.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_asumura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asumura",
+      "en": "Asumura",
+      "slug": "asumura"
+    },
+    "code": {
+      "id": "GH0101_asumura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-2.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_ayomso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayomso",
+      "en": "Ayomso",
+      "slug": "ayomso"
+    },
+    "code": {
+      "id": "GH0101_ayomso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.764",
+      "lon": "-2.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_fawohoyeden",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fawohoyeden",
+      "en": "Fawohoyeden",
+      "slug": "fawohoyeden"
+    },
+    "code": {
+      "id": "GH0101_fawohoyeden",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.737",
+      "lon": "-2.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_gaoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gaoso",
+      "en": "Gaoso",
+      "slug": "gaoso"
+    },
+    "code": {
+      "id": "GH0101_gaoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.802",
+      "lon": "-2.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_goaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goaso",
+      "en": "Goaso",
+      "slug": "goaso"
+    },
+    "code": {
+      "id": "GH0101_goaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.806",
+      "lon": "-2.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_kasapin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kasapin",
+      "en": "Kasapin",
+      "slug": "kasapin"
+    },
+    "code": {
+      "id": "GH0101_kasapin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.943",
+      "lon": "-2.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0101_mim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mim",
+      "en": "Mim",
+      "slug": "mim"
+    },
+    "code": {
+      "id": "GH0101_mim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0101",
+      "level": 2,
+      "name": {
+        "local": "Asunafo North Municipal",
+        "en": "Asunafo North Municipal",
+        "slug": "asunafo-north-municipal-gh0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0101",
+        "level": 2,
+        "name": {
+          "local": "Asunafo North Municipal",
+          "en": "Asunafo North Municipal",
+          "slug": "asunafo-north-municipal-gh0101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.906",
+      "lon": "-2.564"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

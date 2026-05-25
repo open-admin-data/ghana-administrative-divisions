@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0307_sampa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": ".Sampa",
+      "en": ".Sampa",
+      "slug": "sampa"
+    },
+    "code": {
+      "id": "GH0307_sampa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "-2.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_asiri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asiri",
+      "en": "Asiri",
+      "slug": "asiri"
+    },
+    "code": {
+      "id": "GH0307_asiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.802",
+      "lon": "-2.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_asuoko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuoko.",
+      "en": "Asuoko.",
+      "slug": "asuoko"
+    },
+    "code": {
+      "id": "GH0307_asuoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.734",
+      "lon": "-2.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_buni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buni",
+      "en": "Buni",
+      "slug": "buni"
+    },
+    "code": {
+      "id": "GH0307_buni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.802",
+      "lon": "-2.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_goka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goka",
+      "en": "Goka",
+      "slug": "goka"
+    },
+    "code": {
+      "id": "GH0307_goka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.759",
+      "lon": "-2.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_sampa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sampa",
+      "en": "Sampa",
+      "slug": "sampa"
+    },
+    "code": {
+      "id": "GH0307_sampa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "-2.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_seketia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Seketia",
+      "en": "Seketia",
+      "slug": "seketia"
+    },
+    "code": {
+      "id": "GH0307_seketia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.816",
+      "lon": "-2.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0307_suma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Suma",
+      "en": "Suma",
+      "slug": "suma"
+    },
+    "code": {
+      "id": "GH0307_suma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0307",
+      "level": 2,
+      "name": {
+        "local": "Jaman North",
+        "en": "Jaman North",
+        "slug": "jaman-north-gh0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0307",
+        "level": 2,
+        "name": {
+          "local": "Jaman North",
+          "en": "Jaman North",
+          "slug": "jaman-north-gh0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.918",
+      "lon": "-2.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

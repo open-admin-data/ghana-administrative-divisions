@@ -1,0 +1,47 @@
+{
+  "id": "GH1107",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "West Gonja",
+    "en": "West Gonja",
+    "slug": "west-gonja-gh1107"
+  },
+  "code": {
+    "id": "GH1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH11",
+    "level": 1,
+    "name": {
+      "local": "Savannah",
+      "en": "Savannah",
+      "slug": "savannah-gh11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH11",
+      "level": 1,
+      "name": {
+        "local": "Savannah",
+        "en": "Savannah",
+        "slug": "savannah-gh11"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.223",
+    "lon": "-1.754"
+  },
+  "metadata": {},
+  "source": {}
+}

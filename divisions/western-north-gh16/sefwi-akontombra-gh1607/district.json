@@ -1,0 +1,47 @@
+{
+  "id": "GH1607",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sefwi Akontombra",
+    "en": "Sefwi Akontombra",
+    "slug": "sefwi-akontombra-gh1607"
+  },
+  "code": {
+    "id": "GH1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH16",
+    "level": 1,
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.094",
+    "lon": "-2.653"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0720",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krowor Municipal",
+    "en": "Krowor Municipal",
+    "slug": "krowor-municipal-gh0720"
+  },
+  "code": {
+    "id": "GH0720",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.613",
+    "lon": "-0.083"
+  },
+  "metadata": {},
+  "source": {}
+}

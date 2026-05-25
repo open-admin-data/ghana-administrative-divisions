@@ -1,0 +1,47 @@
+{
+  "id": "GH0504",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ajumako-Enyan-Essiam",
+    "en": "Ajumako-Enyan-Essiam",
+    "slug": "ajumako-enyan-essiam-gh0504"
+  },
+  "code": {
+    "id": "GH0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.412",
+    "lon": "-0.984"
+  },
+  "metadata": {},
+  "source": {}
+}

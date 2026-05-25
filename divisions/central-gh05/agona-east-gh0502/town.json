@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0502_agona-asafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Asafo",
+      "en": "Agona Asafo",
+      "slug": "agona-asafo"
+    },
+    "code": {
+      "id": "GH0502_agona-asafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0502",
+      "level": 2,
+      "name": {
+        "local": "Agona East",
+        "en": "Agona East",
+        "slug": "agona-east-gh0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0502",
+        "level": 2,
+        "name": {
+          "local": "Agona East",
+          "en": "Agona East",
+          "slug": "agona-east-gh0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.553",
+      "lon": "-0.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0502_agona-nsaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Nsaba",
+      "en": "Agona Nsaba",
+      "slug": "agona-nsaba"
+    },
+    "code": {
+      "id": "GH0502_agona-nsaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0502",
+      "level": 2,
+      "name": {
+        "local": "Agona East",
+        "en": "Agona East",
+        "slug": "agona-east-gh0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0502",
+        "level": 2,
+        "name": {
+          "local": "Agona East",
+          "en": "Agona East",
+          "slug": "agona-east-gh0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.652",
+      "lon": "-0.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0502_duakwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duakwa",
+      "en": "Duakwa",
+      "slug": "duakwa"
+    },
+    "code": {
+      "id": "GH0502_duakwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0502",
+      "level": 2,
+      "name": {
+        "local": "Agona East",
+        "en": "Agona East",
+        "slug": "agona-east-gh0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0502",
+        "level": 2,
+        "name": {
+          "local": "Agona East",
+          "en": "Agona East",
+          "slug": "agona-east-gh0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.631",
+      "lon": "-0.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0502_kwanyako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwanyako",
+      "en": "Kwanyako",
+      "slug": "kwanyako"
+    },
+    "code": {
+      "id": "GH0502_kwanyako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0502",
+      "level": 2,
+      "name": {
+        "local": "Agona East",
+        "en": "Agona East",
+        "slug": "agona-east-gh0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0502",
+        "level": 2,
+        "name": {
+          "local": "Agona East",
+          "en": "Agona East",
+          "slug": "agona-east-gh0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.59",
+      "lon": "-0.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0502_mankrong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankrong",
+      "en": "Mankrong",
+      "slug": "mankrong"
+    },
+    "code": {
+      "id": "GH0502_mankrong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0502",
+      "level": 2,
+      "name": {
+        "local": "Agona East",
+        "en": "Agona East",
+        "slug": "agona-east-gh0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0502",
+        "level": 2,
+        "name": {
+          "local": "Agona East",
+          "en": "Agona East",
+          "slug": "agona-east-gh0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.672",
+      "lon": "-0.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

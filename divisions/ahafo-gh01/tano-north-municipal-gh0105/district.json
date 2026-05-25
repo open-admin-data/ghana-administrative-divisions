@@ -1,0 +1,47 @@
+{
+  "id": "GH0105",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tano North Municipal",
+    "en": "Tano North Municipal",
+    "slug": "tano-north-municipal-gh0105"
+  },
+  "code": {
+    "id": "GH0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH01",
+    "level": 1,
+    "name": {
+      "local": "Ahafo",
+      "en": "Ahafo",
+      "slug": "ahafo-gh01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.195",
+    "lon": "-2.208"
+  },
+  "metadata": {},
+  "source": {}
+}

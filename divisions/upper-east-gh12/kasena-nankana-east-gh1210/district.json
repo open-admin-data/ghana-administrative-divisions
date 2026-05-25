@@ -1,0 +1,47 @@
+{
+  "id": "GH1210",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kasena Nankana East",
+    "en": "Kasena Nankana East",
+    "slug": "kasena-nankana-east-gh1210"
+  },
+  "code": {
+    "id": "GH1210",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.749",
+    "lon": "-1.07"
+  },
+  "metadata": {},
+  "source": {}
+}

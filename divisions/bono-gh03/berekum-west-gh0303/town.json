@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0303_amomaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amomaso",
+      "en": "Amomaso",
+      "slug": "amomaso"
+    },
+    "code": {
+      "id": "GH0303_amomaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0303",
+      "level": 2,
+      "name": {
+        "local": "Berekum West",
+        "en": "Berekum West",
+        "slug": "berekum-west-gh0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0303",
+        "level": 2,
+        "name": {
+          "local": "Berekum West",
+          "en": "Berekum West",
+          "slug": "berekum-west-gh0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.374",
+      "lon": "-2.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0303_botokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Botokrom",
+      "en": "Botokrom",
+      "slug": "botokrom"
+    },
+    "code": {
+      "id": "GH0303_botokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0303",
+      "level": 2,
+      "name": {
+        "local": "Berekum West",
+        "en": "Berekum West",
+        "slug": "berekum-west-gh0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0303",
+        "level": 2,
+        "name": {
+          "local": "Berekum West",
+          "en": "Berekum West",
+          "slug": "berekum-west-gh0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.523",
+      "lon": "-2.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0303_jinijini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jinijini",
+      "en": "Jinijini",
+      "slug": "jinijini"
+    },
+    "code": {
+      "id": "GH0303_jinijini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0303",
+      "level": 2,
+      "name": {
+        "local": "Berekum West",
+        "en": "Berekum West",
+        "slug": "berekum-west-gh0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0303",
+        "level": 2,
+        "name": {
+          "local": "Berekum West",
+          "en": "Berekum West",
+          "slug": "berekum-west-gh0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.447",
+      "lon": "-2.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

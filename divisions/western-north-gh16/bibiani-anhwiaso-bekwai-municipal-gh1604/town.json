@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH1604_anhwiaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anhwiaso",
+      "en": "Anhwiaso",
+      "slug": "anhwiaso"
+    },
+    "code": {
+      "id": "GH1604_anhwiaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.331",
+      "lon": "-2.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_asawinso-a",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asawinso A'",
+      "en": "Asawinso A'",
+      "slug": "asawinso-a"
+    },
+    "code": {
+      "id": "GH1604_asawinso-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.256",
+      "lon": "-2.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_asempaneye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asempaneye",
+      "en": "Asempaneye",
+      "slug": "asempaneye"
+    },
+    "code": {
+      "id": "GH1604_asempaneye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.238",
+      "lon": "-2.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_awaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awaso",
+      "en": "Awaso",
+      "slug": "awaso"
+    },
+    "code": {
+      "id": "GH1604_awaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "-2.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_bassengele",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bassengele",
+      "en": "Bassengele",
+      "slug": "bassengele"
+    },
+    "code": {
+      "id": "GH1604_bassengele",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.412",
+      "lon": "-2.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_bibiani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bibiani",
+      "en": "Bibiani",
+      "slug": "bibiani"
+    },
+    "code": {
+      "id": "GH1604_bibiani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.457",
+      "lon": "-2.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_bibiani-afram-clinic",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bibiani Afram Clinic",
+      "en": "Bibiani Afram Clinic",
+      "slug": "bibiani-afram-clinic"
+    },
+    "code": {
+      "id": "GH1604_bibiani-afram-clinic",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.453",
+      "lon": "-2.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_chirano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chirano",
+      "en": "Chirano",
+      "slug": "chirano"
+    },
+    "code": {
+      "id": "GH1604_chirano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.273",
+      "lon": "-2.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_humjibre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Humjibre",
+      "en": "Humjibre",
+      "slug": "humjibre"
+    },
+    "code": {
+      "id": "GH1604_humjibre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.156",
+      "lon": "-2.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_merewa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Merewa",
+      "en": "Merewa",
+      "slug": "merewa"
+    },
+    "code": {
+      "id": "GH1604_merewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.286",
+      "lon": "-2.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_sefwi-bekwai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sefwi  Bekwai",
+      "en": "Sefwi  Bekwai",
+      "slug": "sefwi-bekwai"
+    },
+    "code": {
+      "id": "GH1604_sefwi-bekwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.188",
+      "lon": "-2.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_sefwi-wenchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sefwi Wenchi",
+      "en": "Sefwi Wenchi",
+      "slug": "sefwi-wenchi"
+    },
+    "code": {
+      "id": "GH1604_sefwi-wenchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.374",
+      "lon": "-2.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1604_subri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Subri",
+      "en": "Subri",
+      "slug": "subri"
+    },
+    "code": {
+      "id": "GH1604_subri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1604",
+      "level": 2,
+      "name": {
+        "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1604",
+        "level": 2,
+        "name": {
+          "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+          "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.277",
+      "lon": "-2.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

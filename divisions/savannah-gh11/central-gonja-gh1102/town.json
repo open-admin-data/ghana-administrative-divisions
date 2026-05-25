@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1102_buipe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buipe",
+      "en": "Buipe",
+      "slug": "buipe"
+    },
+    "code": {
+      "id": "GH1102_buipe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.77",
+      "lon": "-1.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102_kusawgu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kusawgu",
+      "en": "Kusawgu",
+      "slug": "kusawgu"
+    },
+    "code": {
+      "id": "GH1102_kusawgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.199",
+      "lon": "-1.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102_mpaha",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpaha",
+      "en": "Mpaha",
+      "slug": "mpaha"
+    },
+    "code": {
+      "id": "GH1102_mpaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.746",
+      "lon": "-1.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102_sankpala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sankpala",
+      "en": "Sankpala",
+      "slug": "sankpala"
+    },
+    "code": {
+      "id": "GH1102_sankpala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.264",
+      "lon": "-1.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102_tuluwe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tuluwe",
+      "en": "Tuluwe",
+      "slug": "tuluwe"
+    },
+    "code": {
+      "id": "GH1102_tuluwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.713",
+      "lon": "-0.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1102_yapei",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yapei",
+      "en": "Yapei",
+      "slug": "yapei"
+    },
+    "code": {
+      "id": "GH1102_yapei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1102",
+      "level": 2,
+      "name": {
+        "local": "Central Gonja",
+        "en": "Central Gonja",
+        "slug": "central-gonja-gh1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1102",
+        "level": 2,
+        "name": {
+          "local": "Central Gonja",
+          "en": "Central Gonja",
+          "slug": "central-gonja-gh1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.143",
+      "lon": "-1.155"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

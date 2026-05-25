@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH1412_devego",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Devego",
+      "en": "Devego",
+      "slug": "devego"
+    },
+    "code": {
+      "id": "GH1412_devego",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1412",
+      "level": 2,
+      "name": {
+        "local": "Ketu North",
+        "en": "Ketu North",
+        "slug": "ketu-north-gh1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1412",
+        "level": 2,
+        "name": {
+          "local": "Ketu North",
+          "en": "Ketu North",
+          "slug": "ketu-north-gh1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.177",
+      "lon": "0.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1412_dzodze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzodze",
+      "en": "Dzodze",
+      "slug": "dzodze"
+    },
+    "code": {
+      "id": "GH1412_dzodze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1412",
+      "level": 2,
+      "name": {
+        "local": "Ketu North",
+        "en": "Ketu North",
+        "slug": "ketu-north-gh1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1412",
+        "level": 2,
+        "name": {
+          "local": "Ketu North",
+          "en": "Ketu North",
+          "slug": "ketu-north-gh1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.241",
+      "lon": "0.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1412_ehie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ehie",
+      "en": "Ehie",
+      "slug": "ehie"
+    },
+    "code": {
+      "id": "GH1412_ehie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1412",
+      "level": 2,
+      "name": {
+        "local": "Ketu North",
+        "en": "Ketu North",
+        "slug": "ketu-north-gh1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1412",
+        "level": 2,
+        "name": {
+          "local": "Ketu North",
+          "en": "Ketu North",
+          "slug": "ketu-north-gh1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "1.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1412_penyi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Penyi",
+      "en": "Penyi",
+      "slug": "penyi"
+    },
+    "code": {
+      "id": "GH1412_penyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1412",
+      "level": 2,
+      "name": {
+        "local": "Ketu North",
+        "en": "Ketu North",
+        "slug": "ketu-north-gh1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1412",
+        "level": 2,
+        "name": {
+          "local": "Ketu North",
+          "en": "Ketu North",
+          "slug": "ketu-north-gh1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.223",
+      "lon": "1.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1412_tadzewu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tadzewu",
+      "en": "Tadzewu",
+      "slug": "tadzewu"
+    },
+    "code": {
+      "id": "GH1412_tadzewu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1412",
+      "level": 2,
+      "name": {
+        "local": "Ketu North",
+        "en": "Ketu North",
+        "slug": "ketu-north-gh1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1412",
+        "level": 2,
+        "name": {
+          "local": "Ketu North",
+          "en": "Ketu North",
+          "slug": "ketu-north-gh1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.189",
+      "lon": "0.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

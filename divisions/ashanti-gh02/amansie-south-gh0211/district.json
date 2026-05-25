@@ -1,0 +1,47 @@
+{
+  "id": "GH0211",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amansie South",
+    "en": "Amansie South",
+    "slug": "amansie-south-gh0211"
+  },
+  "code": {
+    "id": "GH0211",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.307",
+    "lon": "-2.011"
+  },
+  "metadata": {},
+  "source": {}
+}

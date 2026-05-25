@@ -1,0 +1,17 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0801,Gushegu,Gushegu,gushegu-gh0801,GH0801,5,9.923,-0.145
+GH0802,Karaga,Karaga,karaga-gh0802,GH0802,3,9.917,-0.536
+GH0803,Kpandai,Kpandai,kpandai-gh0803,GH0803,0,8.387,-0.065
+GH0804,Kumbungu,Kumbungu,kumbungu-gh0804,GH0804,3,9.797,-1.061
+GH0805,Mion,Mion,mion-gh0805,GH0805,0,9.453,-0.335
+GH0806,Nanton,Nanton,nanton-gh0806,GH0806,5,9.561,-0.71
+GH0807,Nanumba North,Nanumba North,nanumba-north-gh0807,GH0807,6,8.922,-0.138
+GH0808,Nanumba South,Nanumba South,nanumba-south-gh0808,GH0808,6,8.767,0.055
+GH0809,Saboba,Saboba,saboba-gh0809,GH0809,6,9.709,0.196
+GH0810,Sagnerigu,Sagnerigu,sagnerigu-gh0810,GH0810,7,9.487,-0.855
+GH0811,Savelugu,Savelugu,savelugu-gh0811,GH0811,3,9.866,-0.902
+GH0812,Tamale Metropolitan,Tamale Metropolitan,tamale-metropolitan-gh0812,GH0812,27,9.385,-0.743
+GH0813,Tatale Sanguli,Tatale Sanguli,tatale-sanguli-gh0813,GH0813,4,9.142,0.456
+GH0814,Tolon,Tolon,tolon-gh0814,GH0814,4,9.556,-1.198
+GH0815,Yendi Municipal,Yendi Municipal,yendi-municipal-gh0815,GH0815,10,9.472,0.022
+GH0816,Zabzugu,Zabzugu,zabzugu-gh0816,GH0816,4,9.091,0.308

@@ -1,0 +1,47 @@
+{
+  "id": "GH0235",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Offinso North",
+    "en": "Offinso North",
+    "slug": "offinso-north-gh0235"
+  },
+  "code": {
+    "id": "GH0235",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.28",
+    "lon": "-1.799"
+  },
+  "metadata": {},
+  "source": {}
+}

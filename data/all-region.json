@@ -1,0 +1,482 @@
+[
+  {
+    "id": "GH01",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ahafo",
+      "en": "Ahafo",
+      "slug": "ahafo-gh01"
+    },
+    "code": {
+      "id": "GH01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "town": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.874",
+      "lon": "-2.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH02",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    },
+    "code": {
+      "id": "GH02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 43,
+      "town": 389
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "-1.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH03",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    },
+    "code": {
+      "id": "GH03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "town": 76
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.817",
+      "lon": "-2.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH04",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    },
+    "code": {
+      "id": "GH04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "town": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.975",
+      "lon": "-1.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH05",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    },
+    "code": {
+      "id": "GH05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 22,
+      "town": 147
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.662",
+      "lon": "-1.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH06",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    },
+    "code": {
+      "id": "GH06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 33,
+      "town": 260
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.458",
+      "lon": "-0.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH07",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    },
+    "code": {
+      "id": "GH07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 29,
+      "town": 222
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.79",
+      "lon": "0.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH08",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-gh08"
+    },
+    "code": {
+      "id": "GH08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16,
+      "town": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.279",
+      "lon": "0.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH09",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Northern East",
+      "en": "Northern East",
+      "slug": "northern-east-gh09"
+    },
+    "code": {
+      "id": "GH09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "town": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.321",
+      "lon": "-0.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH10",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    },
+    "code": {
+      "id": "GH10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "town": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.932",
+      "lon": "0.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH11",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Savannah",
+      "en": "Savannah",
+      "slug": "savannah-gh11"
+    },
+    "code": {
+      "id": "GH11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "town": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "-1.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH12",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    },
+    "code": {
+      "id": "GH12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15,
+      "town": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.728",
+      "lon": "-0.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH13",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    },
+    "code": {
+      "id": "GH13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "town": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.334",
+      "lon": "-2.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH14",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    },
+    "code": {
+      "id": "GH14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 18,
+      "town": 173
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.537",
+      "lon": "0.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH15",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    },
+    "code": {
+      "id": "GH15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "town": 144
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.445",
+      "lon": "-2.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH16",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    },
+    "code": {
+      "id": "GH16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "town": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.176",
+      "lon": "-2.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

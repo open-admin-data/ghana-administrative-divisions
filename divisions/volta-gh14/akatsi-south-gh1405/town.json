@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH1405_agormor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agormor",
+      "en": "Agormor",
+      "slug": "agormor"
+    },
+    "code": {
+      "id": "GH1405_agormor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.249",
+      "lon": "0.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_akatsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akatsi",
+      "en": "Akatsi",
+      "slug": "akatsi"
+    },
+    "code": {
+      "id": "GH1405_akatsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.139",
+      "lon": "0.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_asafotsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asafotsi",
+      "en": "Asafotsi",
+      "slug": "asafotsi"
+    },
+    "code": {
+      "id": "GH1405_asafotsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.198",
+      "lon": "0.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_atidzive",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atidzive",
+      "en": "Atidzive",
+      "slug": "atidzive"
+    },
+    "code": {
+      "id": "GH1405_atidzive",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.12",
+      "lon": "0.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_avenorpedo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avenorpedo",
+      "en": "Avenorpedo",
+      "slug": "avenorpedo"
+    },
+    "code": {
+      "id": "GH1405_avenorpedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.058",
+      "lon": "0.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_dzogadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzogadze",
+      "en": "Dzogadze",
+      "slug": "dzogadze"
+    },
+    "code": {
+      "id": "GH1405_dzogadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.112",
+      "lon": "0.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_gefia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gefia",
+      "en": "Gefia",
+      "slug": "gefia"
+    },
+    "code": {
+      "id": "GH1405_gefia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.158",
+      "lon": "0.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_ohawu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ohawu",
+      "en": "Ohawu",
+      "slug": "ohawu"
+    },
+    "code": {
+      "id": "GH1405_ohawu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.133",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405_wute",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wute",
+      "en": "Wute",
+      "slug": "wute"
+    },
+    "code": {
+      "id": "GH1405_wute",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1405",
+      "level": 2,
+      "name": {
+        "local": "Akatsi South",
+        "en": "Akatsi South",
+        "slug": "akatsi-south-gh1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1405",
+        "level": 2,
+        "name": {
+          "local": "Akatsi South",
+          "en": "Akatsi South",
+          "slug": "akatsi-south-gh1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.217",
+      "lon": "0.725"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

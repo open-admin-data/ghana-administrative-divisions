@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1215_basyonde",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Basyonde",
+      "en": "Basyonde",
+      "slug": "basyonde"
+    },
+    "code": {
+      "id": "GH1215_basyonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.977",
+      "lon": "-0.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_benwoko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Benwoko",
+      "en": "Benwoko",
+      "slug": "benwoko"
+    },
+    "code": {
+      "id": "GH1215_benwoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.832",
+      "lon": "-0.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_bimpeka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bimpeka",
+      "en": "Bimpeka",
+      "slug": "bimpeka"
+    },
+    "code": {
+      "id": "GH1215_bimpeka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.895",
+      "lon": "-0.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_bugri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bugri",
+      "en": "Bugri",
+      "slug": "bugri"
+    },
+    "code": {
+      "id": "GH1215_bugri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.969",
+      "lon": "-0.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_kpikpira",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpikpira",
+      "en": "Kpikpira",
+      "slug": "kpikpira"
+    },
+    "code": {
+      "id": "GH1215_kpikpira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.812",
+      "lon": "-0.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_kugasheigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kugasheigu",
+      "en": "Kugasheigu",
+      "slug": "kugasheigu"
+    },
+    "code": {
+      "id": "GH1215_kugasheigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.909",
+      "lon": "-0.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_nagani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nagani",
+      "en": "Nagani",
+      "slug": "nagani"
+    },
+    "code": {
+      "id": "GH1215_nagani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.953",
+      "lon": "-0.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_sumaduri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sumaduri",
+      "en": "Sumaduri",
+      "slug": "sumaduri"
+    },
+    "code": {
+      "id": "GH1215_sumaduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.821",
+      "lon": "-0.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_woriyanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Woriyanga",
+      "en": "Woriyanga",
+      "slug": "woriyanga"
+    },
+    "code": {
+      "id": "GH1215_woriyanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.895",
+      "lon": "-0.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1215_yapala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yapala",
+      "en": "Yapala",
+      "slug": "yapala"
+    },
+    "code": {
+      "id": "GH1215_yapala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1215",
+      "level": 2,
+      "name": {
+        "local": "Tempane",
+        "en": "Tempane",
+        "slug": "tempane-gh1215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1215",
+        "level": 2,
+        "name": {
+          "local": "Tempane",
+          "en": "Tempane",
+          "slug": "tempane-gh1215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.854",
+      "lon": "-0.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

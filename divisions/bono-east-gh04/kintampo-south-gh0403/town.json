@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0403_amoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoma",
+      "en": "Amoma",
+      "slug": "amoma"
+    },
+    "code": {
+      "id": "GH0403_amoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0403",
+      "level": 2,
+      "name": {
+        "local": "Kintampo South",
+        "en": "Kintampo South",
+        "slug": "kintampo-south-gh0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0403",
+        "level": 2,
+        "name": {
+          "local": "Kintampo South",
+          "en": "Kintampo South",
+          "slug": "kintampo-south-gh0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.784",
+      "lon": "-1.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0403_anyima",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyima",
+      "en": "Anyima",
+      "slug": "anyima"
+    },
+    "code": {
+      "id": "GH0403_anyima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0403",
+      "level": 2,
+      "name": {
+        "local": "Kintampo South",
+        "en": "Kintampo South",
+        "slug": "kintampo-south-gh0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0403",
+        "level": 2,
+        "name": {
+          "local": "Kintampo South",
+          "en": "Kintampo South",
+          "slug": "kintampo-south-gh0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.893",
+      "lon": "-1.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0403_apesika",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apesika",
+      "en": "Apesika",
+      "slug": "apesika"
+    },
+    "code": {
+      "id": "GH0403_apesika",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0403",
+      "level": 2,
+      "name": {
+        "local": "Kintampo South",
+        "en": "Kintampo South",
+        "slug": "kintampo-south-gh0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0403",
+        "level": 2,
+        "name": {
+          "local": "Kintampo South",
+          "en": "Kintampo South",
+          "slug": "kintampo-south-gh0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8",
+      "lon": "-1.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0403_jema",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jema",
+      "en": "Jema",
+      "slug": "jema"
+    },
+    "code": {
+      "id": "GH0403_jema",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0403",
+      "level": 2,
+      "name": {
+        "local": "Kintampo South",
+        "en": "Kintampo South",
+        "slug": "kintampo-south-gh0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0403",
+        "level": 2,
+        "name": {
+          "local": "Kintampo South",
+          "en": "Kintampo South",
+          "slug": "kintampo-south-gh0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.891",
+      "lon": "-1.773"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

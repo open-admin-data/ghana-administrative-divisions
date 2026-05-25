@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0239_aframso-no3",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aframso No.3",
+      "en": "Aframso No.3",
+      "slug": "aframso-no3"
+    },
+    "code": {
+      "id": "GH0239_aframso-no3",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.145",
+      "lon": "-1.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_asubuasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asubuasu",
+      "en": "Asubuasu",
+      "slug": "asubuasu"
+    },
+    "code": {
+      "id": "GH0239_asubuasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.316",
+      "lon": "-1.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_atonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atonsu",
+      "en": "Atonsu",
+      "slug": "atonsu"
+    },
+    "code": {
+      "id": "GH0239_atonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.024",
+      "lon": "-1.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_beposo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Beposo",
+      "en": "Beposo",
+      "slug": "beposo"
+    },
+    "code": {
+      "id": "GH0239_beposo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.985",
+      "lon": "-1.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_isaaka-akura-afram-plains",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Isaaka Akura-Afram  Plains",
+      "en": "Isaaka Akura-Afram  Plains",
+      "slug": "isaaka-akura-afram-plains"
+    },
+    "code": {
+      "id": "GH0239_isaaka-akura-afram-plains",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.415",
+      "lon": "-1.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_jeduako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jeduako",
+      "en": "Jeduako",
+      "slug": "jeduako"
+    },
+    "code": {
+      "id": "GH0239_jeduako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.095",
+      "lon": "-1.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_kwamang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamang",
+      "en": "Kwamang",
+      "slug": "kwamang"
+    },
+    "code": {
+      "id": "GH0239_kwamang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.982",
+      "lon": "-1.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_nsuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuta",
+      "en": "Nsuta",
+      "slug": "nsuta"
+    },
+    "code": {
+      "id": "GH0239_nsuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.008",
+      "lon": "-1.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239_oku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oku",
+      "en": "Oku",
+      "slug": "oku"
+    },
+    "code": {
+      "id": "GH0239_oku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0239",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Central",
+        "en": "Sekyere Central",
+        "slug": "sekyere-central-gh0239"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0239",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Central",
+          "en": "Sekyere Central",
+          "slug": "sekyere-central-gh0239"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.348",
+      "lon": "-1.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

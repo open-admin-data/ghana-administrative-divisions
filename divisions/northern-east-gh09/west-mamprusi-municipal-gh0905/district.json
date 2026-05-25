@@ -1,0 +1,47 @@
+{
+  "id": "GH0905",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "West Mamprusi Municipal",
+    "en": "West Mamprusi Municipal",
+    "slug": "west-mamprusi-municipal-gh0905"
+  },
+  "code": {
+    "id": "GH0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH09",
+    "level": 1,
+    "name": {
+      "local": "Northern East",
+      "en": "Northern East",
+      "slug": "northern-east-gh09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.298",
+    "lon": "-0.765"
+  },
+  "metadata": {},
+  "source": {}
+}

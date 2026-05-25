@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "GH1310_airstrip",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Airstrip",
+      "en": "Airstrip",
+      "slug": "airstrip"
+    },
+    "code": {
+      "id": "GH1310_airstrip",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.08",
+      "lon": "-2.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_boli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boli",
+      "en": "Boli",
+      "slug": "boli"
+    },
+    "code": {
+      "id": "GH1310_boli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.57",
+      "lon": "-2.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_busa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Busa",
+      "en": "Busa",
+      "slug": "busa"
+    },
+    "code": {
+      "id": "GH1310_busa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.021",
+      "lon": "-2.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_charia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Charia",
+      "en": "Charia",
+      "slug": "charia"
+    },
+    "code": {
+      "id": "GH1310_charia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.064",
+      "lon": "-2.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_dobile",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dobile",
+      "en": "Dobile",
+      "slug": "dobile"
+    },
+    "code": {
+      "id": "GH1310_dobile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.041",
+      "lon": "-2.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_dondoli",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dondoli",
+      "en": "Dondoli",
+      "slug": "dondoli"
+    },
+    "code": {
+      "id": "GH1310_dondoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.041",
+      "lon": "-2.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_jang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jang",
+      "en": "Jang",
+      "slug": "jang"
+    },
+    "code": {
+      "id": "GH1310_jang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.197",
+      "lon": "-2.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_jonga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jonga",
+      "en": "Jonga",
+      "slug": "jonga"
+    },
+    "code": {
+      "id": "GH1310_jonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.033",
+      "lon": "-2.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_kanyini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kanyini",
+      "en": "Kanyini",
+      "slug": "kanyini"
+    },
+    "code": {
+      "id": "GH1310_kanyini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.16",
+      "lon": "-2.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_konta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Konta",
+      "en": "Konta",
+      "slug": "konta"
+    },
+    "code": {
+      "id": "GH1310_konta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.049",
+      "lon": "-2.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_kpaguri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpaguri",
+      "en": "Kpaguri",
+      "slug": "kpaguri"
+    },
+    "code": {
+      "id": "GH1310_kpaguri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.054",
+      "lon": "-2.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_kperisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kperisi",
+      "en": "Kperisi",
+      "slug": "kperisi"
+    },
+    "code": {
+      "id": "GH1310_kperisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.12",
+      "lon": "-2.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_kumbiehi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumbiehi",
+      "en": "Kumbiehi",
+      "slug": "kumbiehi"
+    },
+    "code": {
+      "id": "GH1310_kumbiehi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.051",
+      "lon": "-2.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_sampina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sampina",
+      "en": "Sampina",
+      "slug": "sampina"
+    },
+    "code": {
+      "id": "GH1310_sampina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.193",
+      "lon": "-2.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_tendamba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tendamba",
+      "en": "Tendamba",
+      "slug": "tendamba"
+    },
+    "code": {
+      "id": "GH1310_tendamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.054",
+      "lon": "-2.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_wa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wa",
+      "en": "Wa",
+      "slug": "wa"
+    },
+    "code": {
+      "id": "GH1310_wa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.06",
+      "lon": "-2.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_wa-kabanye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wa kabanye",
+      "en": "Wa kabanye",
+      "slug": "wa-kabanye"
+    },
+    "code": {
+      "id": "GH1310_wa-kabanye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.057",
+      "lon": "-2.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_wa-urban",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wa Urban",
+      "en": "Wa Urban",
+      "slug": "wa-urban"
+    },
+    "code": {
+      "id": "GH1310_wa-urban",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.06",
+      "lon": "-2.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310_wapani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wapani",
+      "en": "Wapani",
+      "slug": "wapani"
+    },
+    "code": {
+      "id": "GH1310_wapani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1310",
+      "level": 2,
+      "name": {
+        "local": "Wa Municipal",
+        "en": "Wa Municipal",
+        "slug": "wa-municipal-gh1310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1310",
+        "level": 2,
+        "name": {
+          "local": "Wa Municipal",
+          "en": "Wa Municipal",
+          "slug": "wa-municipal-gh1310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.065",
+      "lon": "-2.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

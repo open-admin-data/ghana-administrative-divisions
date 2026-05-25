@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0205_boamang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boamang",
+      "en": "Boamang",
+      "slug": "boamang"
+    },
+    "code": {
+      "id": "GH0205_boamang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0205",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre North",
+        "en": "Afigya Kwabre North",
+        "slug": "afigya-kwabre-north-gh0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0205",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre North",
+          "en": "Afigya Kwabre North",
+          "slug": "afigya-kwabre-north-gh0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.941",
+      "lon": "-1.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0205_kyekyewere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kyekyewere",
+      "en": "Kyekyewere",
+      "slug": "kyekyewere"
+    },
+    "code": {
+      "id": "GH0205_kyekyewere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0205",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre North",
+        "en": "Afigya Kwabre North",
+        "slug": "afigya-kwabre-north-gh0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0205",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre North",
+          "en": "Afigya Kwabre North",
+          "slug": "afigya-kwabre-north-gh0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.145",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0205_tetrem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tetrem",
+      "en": "Tetrem",
+      "slug": "tetrem"
+    },
+    "code": {
+      "id": "GH0205_tetrem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0205",
+      "level": 2,
+      "name": {
+        "local": "Afigya Kwabre North",
+        "en": "Afigya Kwabre North",
+        "slug": "afigya-kwabre-north-gh0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0205",
+        "level": 2,
+        "name": {
+          "local": "Afigya Kwabre North",
+          "en": "Afigya Kwabre North",
+          "slug": "afigya-kwabre-north-gh0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.037",
+      "lon": "-1.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

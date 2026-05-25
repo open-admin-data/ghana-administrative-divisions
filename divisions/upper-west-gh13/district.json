@@ -1,0 +1,519 @@
+[
+  {
+    "id": "GH1301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Daffiama Bussie Issa",
+      "en": "Daffiama Bussie Issa",
+      "slug": "daffiama-bussie-issa-gh1301"
+    },
+    "code": {
+      "id": "GH1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.367",
+      "lon": "-2.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jirapa",
+      "en": "Jirapa",
+      "slug": "jirapa-gh1302"
+    },
+    "code": {
+      "id": "GH1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.588",
+      "lon": "-2.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lambussie-Karni",
+      "en": "Lambussie-Karni",
+      "slug": "lambussie-karni-gh1303"
+    },
+    "code": {
+      "id": "GH1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.839",
+      "lon": "-2.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lawra",
+      "en": "Lawra",
+      "slug": "lawra-gh1304"
+    },
+    "code": {
+      "id": "GH1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.62",
+      "lon": "-2.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nadowli-Kaleo",
+      "en": "Nadowli-Kaleo",
+      "slug": "nadowli-kaleo-gh1305"
+    },
+    "code": {
+      "id": "GH1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.286",
+      "lon": "-2.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nandom",
+      "en": "Nandom",
+      "slug": "nandom-gh1306"
+    },
+    "code": {
+      "id": "GH1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.867",
+      "lon": "-2.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sissala East",
+      "en": "Sissala East",
+      "slug": "sissala-east-gh1307"
+    },
+    "code": {
+      "id": "GH1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.607",
+      "lon": "-1.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sissala West",
+      "en": "Sissala West",
+      "slug": "sissala-west-gh1308"
+    },
+    "code": {
+      "id": "GH1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.759",
+      "lon": "-2.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wa East",
+      "en": "Wa East",
+      "slug": "wa-east-gh1309"
+    },
+    "code": {
+      "id": "GH1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.086",
+      "lon": "-1.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1310",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wa Municipal",
+      "en": "Wa Municipal",
+      "slug": "wa-municipal-gh1310"
+    },
+    "code": {
+      "id": "GH1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.038",
+      "lon": "-2.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1311",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wa West",
+      "en": "Wa West",
+      "slug": "wa-west-gh1311"
+    },
+    "code": {
+      "id": "GH1311",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.918",
+      "lon": "-2.608"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

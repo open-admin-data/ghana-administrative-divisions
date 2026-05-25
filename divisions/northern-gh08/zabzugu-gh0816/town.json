@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0816_kukpalgu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukpalgu",
+      "en": "Kukpalgu",
+      "slug": "kukpalgu"
+    },
+    "code": {
+      "id": "GH0816_kukpalgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0816",
+      "level": 2,
+      "name": {
+        "local": "Zabzugu",
+        "en": "Zabzugu",
+        "slug": "zabzugu-gh0816"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0816",
+        "level": 2,
+        "name": {
+          "local": "Zabzugu",
+          "en": "Zabzugu",
+          "slug": "zabzugu-gh0816"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.181",
+      "lon": "0.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0816_nakpale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nakpale",
+      "en": "Nakpale",
+      "slug": "nakpale"
+    },
+    "code": {
+      "id": "GH0816_nakpale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0816",
+      "level": 2,
+      "name": {
+        "local": "Zabzugu",
+        "en": "Zabzugu",
+        "slug": "zabzugu-gh0816"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0816",
+        "level": 2,
+        "name": {
+          "local": "Zabzugu",
+          "en": "Zabzugu",
+          "slug": "zabzugu-gh0816"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.979",
+      "lon": "0.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0816_sabare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabare",
+      "en": "Sabare",
+      "slug": "sabare"
+    },
+    "code": {
+      "id": "GH0816_sabare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0816",
+      "level": 2,
+      "name": {
+        "local": "Zabzugu",
+        "en": "Zabzugu",
+        "slug": "zabzugu-gh0816"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0816",
+        "level": 2,
+        "name": {
+          "local": "Zabzugu",
+          "en": "Zabzugu",
+          "slug": "zabzugu-gh0816"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.278",
+      "lon": "0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0816_woriborgu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Woriborgu",
+      "en": "Woriborgu",
+      "slug": "woriborgu"
+    },
+    "code": {
+      "id": "GH0816_woriborgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0816",
+      "level": 2,
+      "name": {
+        "local": "Zabzugu",
+        "en": "Zabzugu",
+        "slug": "zabzugu-gh0816"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0816",
+        "level": 2,
+        "name": {
+          "local": "Zabzugu",
+          "en": "Zabzugu",
+          "slug": "zabzugu-gh0816"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.053",
+      "lon": "0.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

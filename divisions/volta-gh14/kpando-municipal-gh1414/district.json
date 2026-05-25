@@ -1,0 +1,47 @@
+{
+  "id": "GH1414",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kpando Municipal",
+    "en": "Kpando Municipal",
+    "slug": "kpando-municipal-gh1414"
+  },
+  "code": {
+    "id": "GH1414",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.999",
+    "lon": "0.317"
+  },
+  "metadata": {},
+  "source": {}
+}

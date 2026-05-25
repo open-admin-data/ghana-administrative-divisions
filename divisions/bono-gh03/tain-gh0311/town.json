@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0311_badu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Badu",
+      "en": "Badu",
+      "slug": "badu"
+    },
+    "code": {
+      "id": "GH0311_badu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.7",
+      "lon": "-2.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_banda-ahenkro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banda Ahenkro",
+      "en": "Banda Ahenkro",
+      "slug": "banda-ahenkro"
+    },
+    "code": {
+      "id": "GH0311_banda-ahenkro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.164",
+      "lon": "-2.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_brohani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brohani",
+      "en": "Brohani",
+      "slug": "brohani"
+    },
+    "code": {
+      "id": "GH0311_brohani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.976",
+      "lon": "-2.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_bui",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bui",
+      "en": "Bui",
+      "slug": "bui"
+    },
+    "code": {
+      "id": "GH0311_bui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.25",
+      "lon": "-2.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_debibi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Debibi",
+      "en": "Debibi",
+      "slug": "debibi"
+    },
+    "code": {
+      "id": "GH0311_debibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.896",
+      "lon": "-2.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_hani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hani",
+      "en": "Hani",
+      "slug": "hani"
+    },
+    "code": {
+      "id": "GH0311_hani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.848",
+      "lon": "-2.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_mamase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mamase",
+      "en": "Mamase",
+      "slug": "mamase"
+    },
+    "code": {
+      "id": "GH0311_mamase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.901",
+      "lon": "-2.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_menji",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Menji",
+      "en": "Menji",
+      "slug": "menji"
+    },
+    "code": {
+      "id": "GH0311_menji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.926",
+      "lon": "-2.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_nsawkaw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsawkaw",
+      "en": "Nsawkaw",
+      "slug": "nsawkaw"
+    },
+    "code": {
+      "id": "GH0311_nsawkaw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.877",
+      "lon": "-2.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_sabiye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabiye",
+      "en": "Sabiye",
+      "slug": "sabiye"
+    },
+    "code": {
+      "id": "GH0311_sabiye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.073",
+      "lon": "-2.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0311_seikwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Seikwa",
+      "en": "Seikwa",
+      "slug": "seikwa"
+    },
+    "code": {
+      "id": "GH0311_seikwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0311",
+      "level": 2,
+      "name": {
+        "local": "Tain",
+        "en": "Tain",
+        "slug": "tain-gh0311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0311",
+        "level": 2,
+        "name": {
+          "local": "Tain",
+          "en": "Tain",
+          "slug": "tain-gh0311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.728",
+      "lon": "-2.518"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

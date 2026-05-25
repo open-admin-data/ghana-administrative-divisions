@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GH0905_gbeo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbeo",
+      "en": "Gbeo",
+      "slug": "gbeo"
+    },
+    "code": {
+      "id": "GH0905_gbeo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.37",
+      "lon": "-0.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_janga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Janga",
+      "en": "Janga",
+      "slug": "janga"
+    },
+    "code": {
+      "id": "GH0905_janga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.028",
+      "lon": "-0.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_kparigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kparigu",
+      "en": "Kparigu",
+      "slug": "kparigu"
+    },
+    "code": {
+      "id": "GH0905_kparigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.3",
+      "lon": "-0.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_kpesenkpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpesenkpe",
+      "en": "Kpesenkpe",
+      "slug": "kpesenkpe"
+    },
+    "code": {
+      "id": "GH0905_kpesenkpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.447",
+      "lon": "-1.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_kubori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kubori",
+      "en": "Kubori",
+      "slug": "kubori"
+    },
+    "code": {
+      "id": "GH0905_kubori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.147",
+      "lon": "-1.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_loagri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Loagri",
+      "en": "Loagri",
+      "slug": "loagri"
+    },
+    "code": {
+      "id": "GH0905_loagri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.277",
+      "lon": "-0.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_nasia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nasia",
+      "en": "Nasia",
+      "slug": "nasia"
+    },
+    "code": {
+      "id": "GH0905_nasia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.158",
+      "lon": "-0.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_walewale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Walewale",
+      "en": "Walewale",
+      "slug": "walewale"
+    },
+    "code": {
+      "id": "GH0905_walewale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.36",
+      "lon": "-0.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_west-mamprusi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "West Mamprusi",
+      "en": "West Mamprusi",
+      "slug": "west-mamprusi"
+    },
+    "code": {
+      "id": "GH0905_west-mamprusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "-0.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_wulugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wulugu",
+      "en": "Wulugu",
+      "slug": "wulugu"
+    },
+    "code": {
+      "id": "GH0905_wulugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.618",
+      "lon": "-0.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_yagaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yagaba",
+      "en": "Yagaba",
+      "slug": "yagaba"
+    },
+    "code": {
+      "id": "GH0905_yagaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.23",
+      "lon": "-1.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_yama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yama",
+      "en": "Yama",
+      "slug": "yama"
+    },
+    "code": {
+      "id": "GH0905_yama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.339",
+      "lon": "-1.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_yikpabongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yikpabongo",
+      "en": "Yikpabongo",
+      "slug": "yikpabongo"
+    },
+    "code": {
+      "id": "GH0905_yikpabongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "-1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905_yizesi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yizesi",
+      "en": "Yizesi",
+      "slug": "yizesi"
+    },
+    "code": {
+      "id": "GH0905_yizesi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0905",
+      "level": 2,
+      "name": {
+        "local": "West Mamprusi Municipal",
+        "en": "West Mamprusi Municipal",
+        "slug": "west-mamprusi-municipal-gh0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0905",
+        "level": 2,
+        "name": {
+          "local": "West Mamprusi Municipal",
+          "en": "West Mamprusi Municipal",
+          "slug": "west-mamprusi-municipal-gh0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.284",
+      "lon": "-1.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

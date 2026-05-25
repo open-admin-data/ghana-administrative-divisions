@@ -1,0 +1,30 @@
+{
+  "id": "GH09",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Northern East",
+    "en": "Northern East",
+    "slug": "northern-east-gh09"
+  },
+  "code": {
+    "id": "GH09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "town": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.321",
+    "lon": "-0.856"
+  },
+  "metadata": {},
+  "source": {}
+}

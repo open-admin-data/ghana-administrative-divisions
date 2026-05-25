@@ -1,0 +1,47 @@
+{
+  "id": "GH0227",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Juaben Municipal",
+    "en": "Juaben Municipal",
+    "slug": "juaben-municipal-gh0227"
+  },
+  "code": {
+    "id": "GH0227",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.756",
+    "lon": "-1.378"
+  },
+  "metadata": {},
+  "source": {}
+}

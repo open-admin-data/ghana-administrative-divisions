@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0806_janjori",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Janjori",
+      "en": "Janjori",
+      "slug": "janjori"
+    },
+    "code": {
+      "id": "GH0806_janjori",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0806",
+      "level": 2,
+      "name": {
+        "local": "Nanton",
+        "en": "Nanton",
+        "slug": "nanton-gh0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0806",
+        "level": 2,
+        "name": {
+          "local": "Nanton",
+          "en": "Nanton",
+          "slug": "nanton-gh0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.653",
+      "lon": "-0.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0806_nanton",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nanton",
+      "en": "Nanton",
+      "slug": "nanton"
+    },
+    "code": {
+      "id": "GH0806_nanton",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0806",
+      "level": 2,
+      "name": {
+        "local": "Nanton",
+        "en": "Nanton",
+        "slug": "nanton-gh0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0806",
+        "level": 2,
+        "name": {
+          "local": "Nanton",
+          "en": "Nanton",
+          "slug": "nanton-gh0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.546",
+      "lon": "-0.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0806_pong-tamale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pong Tamale",
+      "en": "Pong Tamale",
+      "slug": "pong-tamale"
+    },
+    "code": {
+      "id": "GH0806_pong-tamale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0806",
+      "level": 2,
+      "name": {
+        "local": "Nanton",
+        "en": "Nanton",
+        "slug": "nanton-gh0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0806",
+        "level": 2,
+        "name": {
+          "local": "Nanton",
+          "en": "Nanton",
+          "slug": "nanton-gh0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.682",
+      "lon": "-0.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0806_savelugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Savelugu",
+      "en": "Savelugu",
+      "slug": "savelugu"
+    },
+    "code": {
+      "id": "GH0806_savelugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0806",
+      "level": 2,
+      "name": {
+        "local": "Nanton",
+        "en": "Nanton",
+        "slug": "nanton-gh0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0806",
+        "level": 2,
+        "name": {
+          "local": "Nanton",
+          "en": "Nanton",
+          "slug": "nanton-gh0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.619",
+      "lon": "-0.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0806_zoggu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zoggu",
+      "en": "Zoggu",
+      "slug": "zoggu"
+    },
+    "code": {
+      "id": "GH0806_zoggu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0806",
+      "level": 2,
+      "name": {
+        "local": "Nanton",
+        "en": "Nanton",
+        "slug": "nanton-gh0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0806",
+        "level": 2,
+        "name": {
+          "local": "Nanton",
+          "en": "Nanton",
+          "slug": "nanton-gh0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.667",
+      "lon": "-0.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH1107_bawena",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bawena",
+      "en": "Bawena",
+      "slug": "bawena"
+    },
+    "code": {
+      "id": "GH1107_bawena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.544",
+      "lon": "-1.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_busunu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Busunu",
+      "en": "Busunu",
+      "slug": "busunu"
+    },
+    "code": {
+      "id": "GH1107_busunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.165",
+      "lon": "-1.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_daboya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Daboya",
+      "en": "Daboya",
+      "slug": "daboya"
+    },
+    "code": {
+      "id": "GH1107_daboya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.529",
+      "lon": "-1.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_damongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Damongo",
+      "en": "Damongo",
+      "slug": "damongo"
+    },
+    "code": {
+      "id": "GH1107_damongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.035",
+      "lon": "-1.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_lingbinsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lingbinsi",
+      "en": "Lingbinsi",
+      "slug": "lingbinsi"
+    },
+    "code": {
+      "id": "GH1107_lingbinsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.571",
+      "lon": "-1.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_mankarigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankarigu",
+      "en": "Mankarigu",
+      "slug": "mankarigu"
+    },
+    "code": {
+      "id": "GH1107_mankarigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.027",
+      "lon": "-1.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_mole-game",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mole Game",
+      "en": "Mole Game",
+      "slug": "mole-game"
+    },
+    "code": {
+      "id": "GH1107_mole-game",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.252",
+      "lon": "-1.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1107_west-gonja",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "West Gonja",
+      "en": "West Gonja",
+      "slug": "west-gonja"
+    },
+    "code": {
+      "id": "GH1107_west-gonja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1107",
+      "level": 2,
+      "name": {
+        "local": "West Gonja",
+        "en": "West Gonja",
+        "slug": "west-gonja-gh1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH11",
+        "level": 1,
+        "name": {
+          "local": "Savannah",
+          "en": "Savannah",
+          "slug": "savannah-gh11"
+        }
+      },
+      {
+        "id": "GH1107",
+        "level": 2,
+        "name": {
+          "local": "West Gonja",
+          "en": "West Gonja",
+          "slug": "west-gonja-gh1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.086",
+      "lon": "-1.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0807_bimbilla",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bimbilla",
+      "en": "Bimbilla",
+      "slug": "bimbilla"
+    },
+    "code": {
+      "id": "GH0807_bimbilla",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.858",
+      "lon": "-0.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0807_binchera",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Binchera",
+      "en": "Binchera",
+      "slug": "binchera"
+    },
+    "code": {
+      "id": "GH0807_binchera",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.113",
+      "lon": "-0.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0807_chamba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chamba",
+      "en": "Chamba",
+      "slug": "chamba"
+    },
+    "code": {
+      "id": "GH0807_chamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.694",
+      "lon": "-0.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0807_juo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Juo",
+      "en": "Juo",
+      "slug": "juo"
+    },
+    "code": {
+      "id": "GH0807_juo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.022",
+      "lon": "-0.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0807_lanja",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lanja",
+      "en": "Lanja",
+      "slug": "lanja"
+    },
+    "code": {
+      "id": "GH0807_lanja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.177",
+      "lon": "-0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0807_makayili",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Makayili",
+      "en": "Makayili",
+      "slug": "makayili"
+    },
+    "code": {
+      "id": "GH0807_makayili",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0807",
+      "level": 2,
+      "name": {
+        "local": "Nanumba North",
+        "en": "Nanumba North",
+        "slug": "nanumba-north-gh0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0807",
+        "level": 2,
+        "name": {
+          "local": "Nanumba North",
+          "en": "Nanumba North",
+          "slug": "nanumba-north-gh0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.001",
+      "lon": "-0.017"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

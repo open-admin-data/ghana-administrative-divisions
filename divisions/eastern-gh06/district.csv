@@ -1,0 +1,34 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0601,Abuakwa North,Abuakwa North,abuakwa-north-gh0601,GH0601,9,6.236,-0.383
+GH0602,Abuakwa South,Abuakwa South,abuakwa-south-gh0602,GH0602,5,6.172,-0.471
+GH0603,Achiase,Achiase,achiase-gh0603,GH0603,0,5.795,-1.018
+GH0604,Akwapem North,Akwapem North,akwapem-north-gh0604,GH0604,6,5.958,-0.221
+GH0605,Akwapem South,Akwapem South,akwapem-south-gh0605,GH0605,7,5.844,-0.216
+GH0606,Akyem Mansa,Akyem Mansa,akyem-mansa-gh0606,GH0606,0,6.082,-1.116
+GH0607,Asene Akroso Manso,Asene Akroso Manso,asene-akroso-manso-gh0607,GH0607,0,5.856,-0.809
+GH0608,Asuogyaman,Asuogyaman,asuogyaman-gh0608,GH0608,8,6.365,0.095
+GH0609,Atiwa East,Atiwa East,atiwa-east-gh0609,GH0609,7,6.396,-0.597
+GH0610,Atiwa West,Atiwa West,atiwa-west-gh0610,GH0610,6,6.208,-0.626
+GH0611,Ayensuano,Ayensuano,ayensuano-gh0611,GH0611,5,5.945,-0.449
+GH0612,Birim Central Municipal,Birim Central Municipal,birim-central-municipal-gh0612,GH0612,0,5.976,-1.006
+GH0613,Birim North,Birim North,birim-north-gh0613,GH0613,24,6.368,-1.023
+GH0614,Birim South,Birim South,birim-south-gh0614,GH0614,19,5.901,-1.029
+GH0615,Denkyembour,Denkyembour,denkyembour-gh0615,GH0615,0,6.056,-0.815
+GH0616,Fanteakwa North,Fanteakwa North,fanteakwa-north-gh0616,GH0616,3,6.498,-0.364
+GH0617,Fanteakwa South,Fanteakwa South,fanteakwa-south-gh0617,GH0617,3,6.371,-0.312
+GH0618,Kwaebibirem,Kwaebibirem,kwaebibirem-gh0618,GH0618,20,6.233,-0.876
+GH0619,Kwahu Afram Plains North,Kwahu Afram Plains North,kwahu-afram-plains-north-gh0619,GH0619,4,6.868,-0.023
+GH0620,Kwahu Afram Plains South,Kwahu Afram Plains South,kwahu-afram-plains-south-gh0620,GH0620,4,6.877,-0.461
+GH0621,Kwahu East,Kwahu East,kwahu-east-gh0621,GH0621,0,6.731,-0.81
+GH0622,Kwahu South,Kwahu South,kwahu-south-gh0622,GH0622,24,6.628,-0.591
+GH0623,Kwahu West,Kwahu West,kwahu-west-gh0623,GH0623,13,6.491,-0.728
+GH0624,Lower Manya,Lower Manya,lower-manya-gh0624,GH0624,15,6.212,-0.041
+GH0625,New Juaben North Municipal,New Juaben North Municipal,new-juaben-north-municipal-gh0625,GH0625,3,6.145,-0.317
+GH0626,New Juaben South Municipal,New Juaben South Municipal,new-juaben-south-municipal-gh0626,GH0626,15,6.08,-0.263
+GH0627,Nsawam Adoagyiri,Nsawam Adoagyiri,nsawam-adoagyiri-gh0627,GH0627,6,5.828,-0.344
+GH0628,Okere,Okere,okere-gh0628,GH0628,10,6.04,-0.128
+GH0629,Suhum Municipal,Suhum Municipal,suhum-municipal-gh0629,GH0629,6,6.043,-0.417
+GH0630,Upper Manya,Upper Manya,upper-manya-gh0630,GH0630,6,6.384,-0.14
+GH0631,Upper West Akim,Upper West Akim,upper-west-akim-gh0631,GH0631,0,5.806,-0.54
+GH0632,West Akim,West Akim,west-akim-gh0632,GH0632,17,5.907,-0.683
+GH0633,Yilo Krobo,Yilo Krobo,yilo-krobo-gh0633,GH0633,15,6.156,-0.167

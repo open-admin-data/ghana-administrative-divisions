@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0241_drobonso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Drobonso",
+      "en": "Drobonso",
+      "slug": "drobonso"
+    },
+    "code": {
+      "id": "GH0241_drobonso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0241",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Kumawu",
+        "en": "Sekyere Kumawu",
+        "slug": "sekyere-kumawu-gh0241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0241",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Kumawu",
+          "en": "Sekyere Kumawu",
+          "slug": "sekyere-kumawu-gh0241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.007",
+      "lon": "-1.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0241_kumawu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumawu",
+      "en": "Kumawu",
+      "slug": "kumawu"
+    },
+    "code": {
+      "id": "GH0241_kumawu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0241",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Kumawu",
+        "en": "Sekyere Kumawu",
+        "slug": "sekyere-kumawu-gh0241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0241",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Kumawu",
+          "en": "Sekyere Kumawu",
+          "slug": "sekyere-kumawu-gh0241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.907",
+      "lon": "-1.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0241_kumawu-bodomasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumawu Bodomasi",
+      "en": "Kumawu Bodomasi",
+      "slug": "kumawu-bodomasi"
+    },
+    "code": {
+      "id": "GH0241_kumawu-bodomasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0241",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Kumawu",
+        "en": "Sekyere Kumawu",
+        "slug": "sekyere-kumawu-gh0241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0241",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Kumawu",
+          "en": "Sekyere Kumawu",
+          "slug": "sekyere-kumawu-gh0241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.894",
+      "lon": "-1.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0241_woraso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Woraso",
+      "en": "Woraso",
+      "slug": "woraso"
+    },
+    "code": {
+      "id": "GH0241_woraso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0241",
+      "level": 2,
+      "name": {
+        "local": "Sekyere Kumawu",
+        "en": "Sekyere Kumawu",
+        "slug": "sekyere-kumawu-gh0241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0241",
+        "level": 2,
+        "name": {
+          "local": "Sekyere Kumawu",
+          "en": "Sekyere Kumawu",
+          "slug": "sekyere-kumawu-gh0241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.876",
+      "lon": "-1.277"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

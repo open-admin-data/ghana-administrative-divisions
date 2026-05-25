@@ -1,0 +1,47 @@
+{
+  "id": "GH1508",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekondi Takoradi Metropolis",
+    "en": "Sekondi Takoradi Metropolis",
+    "slug": "sekondi-takoradi-metropolis-gh1508"
+  },
+  "code": {
+    "id": "GH1508",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.961",
+    "lon": "-1.733"
+  },
+  "metadata": {},
+  "source": {}
+}

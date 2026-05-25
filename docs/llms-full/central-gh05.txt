@@ -1,0 +1,707 @@
+# Central — Ghana Administrative Divisions
+
+> 22 districts, 147 towns
+> Code: GH05
+> Coordinates: 5.662, -1.158
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Abura-Asebu-Kwamankese
+
+Code: GH0501, Coordinates: 5.268, -1.19
+Towns: 12
+
+#### Abakrampa
+
+Code: GH0501_abakrampa, Coordinates: 5.244, -1.234
+
+#### Abura Dunkwa
+
+Code: GH0501_abura-dunkwa, Coordinates: 5.345, -1.171
+
+#### Abura Gyabankrom
+
+Code: GH0501_abura-gyabankrom, Coordinates: 5.279, -1.117
+
+#### Asomdwee
+
+Code: GH0501_asomdwee, Coordinates: 5.337, -1.282
+
+#### Ayeldu
+
+Code: GH0501_ayeldu, Coordinates: 5.338, -1.127
+
+#### Bronyi Krom
+
+Code: GH0501_bronyi-krom, Coordinates: 5.305, -1.256
+
+#### Kwamankese
+
+Code: GH0501_kwamankese, Coordinates: 5.29, -1.096
+
+#### Moree
+
+Code: GH0501_moree, Coordinates: 5.137, -1.199
+
+#### Nkwantanan
+
+Code: GH0501_nkwantanan, Coordinates: 5.281, -1.29
+
+#### Nyamedom
+
+Code: GH0501_nyamedom, Coordinates: 5.337, -1.282
+
+#### Obohen
+
+Code: GH0501_obohen, Coordinates: 5.303, -1.139
+
+#### Putubiw
+
+Code: GH0501_putubiw, Coordinates: 5.202, -1.266
+
+### Agona East
+
+Code: GH0502, Coordinates: 5.636, -0.656
+Towns: 5
+
+#### Agona Asafo
+
+Code: GH0502_agona-asafo, Coordinates: 5.553, -0.662
+
+#### Agona Nsaba
+
+Code: GH0502_agona-nsaba, Coordinates: 5.652, -0.756
+
+#### Duakwa
+
+Code: GH0502_duakwa, Coordinates: 5.631, -0.726
+
+#### Kwanyako
+
+Code: GH0502_kwanyako, Coordinates: 5.59, -0.637
+
+#### Mankrong
+
+Code: GH0502_mankrong, Coordinates: 5.672, -0.621
+
+### Agona West Municipal
+
+Code: GH0503, Coordinates: 5.629, -0.803
+Towns: 8
+
+#### Agona Abodom
+
+Code: GH0503_agona-abodom, Coordinates: 5.533, -0.823
+
+#### Agona Nyakrom
+
+Code: GH0503_agona-nyakrom, Coordinates: 5.609, -0.797
+
+#### Desuanim
+
+Code: GH0503_desuanim, Coordinates: 5.531, -0.698
+
+#### Nkum
+
+Code: GH0503_nkum, Coordinates: 5.631, -0.833
+
+#### Otsenkorang
+
+Code: GH0503_otsenkorang, Coordinates: 5.72, -0.83
+
+#### Swedru
+
+Code: GH0503_swedru, Coordinates: 5.535, -0.693
+
+#### Tsimtsimhe
+
+Code: GH0503_tsimtsimhe, Coordinates: 5.526, -0.707
+
+#### Upper Bobikuma
+
+Code: GH0503_upper-bobikuma, Coordinates: 5.55, -0.857
+
+### Ajumako-Enyan-Essiam
+
+Code: GH0504, Coordinates: 5.412, -0.984
+Towns: 12
+
+#### Ajumako
+
+Code: GH0504_ajumako, Coordinates: 5.424, -0.955
+
+#### Ajumako Ba
+
+Code: GH0504_ajumako-ba, Coordinates: 5.476, -0.934
+
+#### Ajumako Bisease
+
+Code: GH0504_ajumako-bisease, Coordinates: 5.465, -0.989
+
+#### Ajumako Entumbil
+
+Code: GH0504_ajumako-entumbil, Coordinates: 5.48, -0.932
+
+#### Ekukrom
+
+Code: GH0504_ekukrom, Coordinates: 5.411, -1.057
+
+#### Enyan Abaasa
+
+Code: GH0504_enyan-abaasa, Coordinates: 5.354, -0.952
+
+#### Enyan Maim
+
+Code: GH0504_enyan-maim, Coordinates: 5.314, -1.018
+
+#### Etsi Sonkwaa
+
+Code: GH0504_etsi-sonkwaa, Coordinates: 5.359, -1.051
+
+#### Kwanyako
+
+Code: GH0504_kwanyako, Coordinates: 5.45, -0.873
+
+#### Nkodwo
+
+Code: GH0504_nkodwo, Coordinates: 5.356, -0.972
+
+#### Nkwantanum
+
+Code: GH0504_nkwantanum, Coordinates: 5.412, -0.976
+
+#### Zion Denkyira
+
+Code: GH0504_zion-denkyira, Coordinates: 5.394, -0.982
+
+### Asikuma-Odoben-Brakwa
+
+Code: GH0505, Coordinates: 5.627, -1.025
+Towns: 7
+
+#### Anhwiam
+
+Code: GH0505_anhwiam, Coordinates: 5.645, -1.142
+
+#### Asikuma
+
+Code: GH0505_asikuma, Coordinates: 5.59, -0.995
+
+#### Bedum
+
+Code: GH0505_bedum, Coordinates: 5.526, -1.007
+
+#### Breman Amanfopong
+
+Code: GH0505_breman-amanfopong, Coordinates: 5.737, -1.012
+
+#### Breman Asikuma
+
+Code: GH0505_breman-asikuma, Coordinates: 5.581, -0.997
+
+#### Breman Brakwa
+
+Code: GH0505_breman-brakwa, Coordinates: 5.699, -0.985
+
+#### Odoben
+
+Code: GH0505_odoben, Coordinates: 5.633, -0.885
+
+### Assin Fosu
+
+Code: GH0506, Coordinates: 5.724, -1.311
+Towns: 0
+
+### Assin North
+
+Code: GH0507, Coordinates: 5.825, -1.373
+Towns: 8
+
+#### Assin Akropong
+
+Code: GH0507_assin-akropong, Coordinates: 5.774, -1.245
+
+#### Assin Bereku
+
+Code: GH0507_assin-bereku, Coordinates: 5.866, -1.34
+
+#### Assin Praso
+
+Code: GH0507_assin-praso, Coordinates: 5.7, -1.279
+
+#### Bediadua
+
+Code: GH0507_bediadua, Coordinates: 5.776, -1.495
+
+#### Foso
+
+Code: GH0507_foso, Coordinates: 5.694, -1.274
+
+#### Foso Station
+
+Code: GH0507_foso-station, Coordinates: 5.697, -1.277
+
+#### Kushea
+
+Code: GH0507_kushea, Coordinates: 5.875, -1.449
+
+#### Praso
+
+Code: GH0507_praso, Coordinates: 5.927, -1.359
+
+### Assin South
+
+Code: GH0508, Coordinates: 5.529, -1.271
+Towns: 7
+
+#### Anyinabrim
+
+Code: GH0508_anyinabrim, Coordinates: 5.609, -1.235
+
+#### Assin Ongwa
+
+Code: GH0508_assin-ongwa, Coordinates: 5.68, -1.398
+
+#### Jakai
+
+Code: GH0508_jakai, Coordinates: 5.404, -1.201
+
+#### Kyekyewere
+
+Code: GH0508_kyekyewere, Coordinates: 5.462, -1.235
+
+#### Manso
+
+Code: GH0508_manso, Coordinates: 5.524, -1.168
+
+#### Nsuta
+
+Code: GH0508_nsuta, Coordinates: 5.628, -1.233
+
+#### Nyaokumasi Ahenkro
+
+Code: GH0508_nyaokumasi-ahenkro, Coordinates: 5.383, -1.149
+
+### Awutu Senya
+
+Code: GH0509, Coordinates: 5.62, -0.501
+Towns: 8
+
+#### Ahentia
+
+Code: GH0509_ahentia, Coordinates: 5.332, -0.315
+
+#### Akrabon
+
+Code: GH0509_akrabon, Coordinates: 5.617, -0.57
+
+#### Awutu Bereku
+
+Code: GH0509_awutu-bereku, Coordinates: 5.513, -0.515
+
+#### Awutu-Bereku
+
+Code: GH0509_awutu-bereku, Coordinates: 5.513, -0.512
+
+#### Bawjiase
+
+Code: GH0509_bawjiase, Coordinates: 5.674, -0.559
+
+#### Bontrase
+
+Code: GH0509_bontrase, Coordinates: 5.608, -0.559
+
+#### Kasoa
+
+Code: GH0509_kasoa, Coordinates: 5.518, -0.416
+
+#### Senya Bereku
+
+Code: GH0509_senya-bereku, Coordinates: 5.39, -0.497
+
+### Awutu Senya East
+
+Code: GH0510, Coordinates: 5.403, -0.518
+Towns: 1
+
+#### Gyangyanadze
+
+Code: GH0510_gyangyanadze, Coordinates: 5.235, -0.344
+
+### Cape Coast Metropolitan
+
+Code: GH0511, Coordinates: 5.176, -1.312
+Towns: 20
+
+#### Aboom
+
+Code: GH0511_aboom, Coordinates: 5.112, -1.25
+
+#### Abura
+
+Code: GH0511_abura, Coordinates: 5.133, -1.266
+
+#### Adiebikrom-Abura
+
+Code: GH0511_adiebikrom-abura, Coordinates: 5.136, -1.277
+
+#### Adisadel
+
+Code: GH0511_adisadel, Coordinates: 5.117, -1.271
+
+#### Bakano
+
+Code: GH0511_bakano, Coordinates: 5.102, -1.259
+
+#### Borofoyedur
+
+Code: GH0511_borofoyedur, Coordinates: 5.111, -1.234
+
+#### Brimsu
+
+Code: GH0511_brimsu, Coordinates: 5.111, -1.182
+
+#### Brofoyedu
+
+Code: GH0511_brofoyedu, Coordinates: 5.067, -1.14
+
+#### Cape Coast
+
+Code: GH0511_cape-coast, Coordinates: 5.105, -1.283
+
+#### Efutu
+
+Code: GH0511_efutu, Coordinates: 5.211, -1.322
+
+#### Ekon
+
+Code: GH0511_ekon, Coordinates: 5.121, -1.271
+
+#### Ewim
+
+Code: GH0511_ewim, Coordinates: 5.115, -1.245
+
+#### Jukwa
+
+Code: GH0511_jukwa, Coordinates: 5.26, -1.333
+
+#### Municipal Road
+
+Code: GH0511_municipal-road, Coordinates: 5.11, -1.248
+
+#### Nkanfoa
+
+Code: GH0511_nkanfoa, Coordinates: 5.084, -1.146
+
+#### North OLA
+
+Code: GH0511_north-ola, Coordinates: 5.117, -1.271
+
+#### Ola
+
+Code: GH0511_ola, Coordinates: 5.102, -1.257
+
+#### Pedu
+
+Code: GH0511_pedu, Coordinates: 5.125, -1.275
+
+#### Pedu Junction
+
+Code: GH0511_pedu-junction, Coordinates: 5.122, -1.271
+
+#### Tantri
+
+Code: GH0511_tantri, Coordinates: 5.113, -1.241
+
+### Effutu Municipal
+
+Code: GH0512, Coordinates: 5.384, -0.597
+Towns: 1
+
+#### Winneba
+
+Code: GH0512_winneba, Coordinates: 5.338, -0.624
+
+### Ekumfi
+
+Code: GH0513, Coordinates: 5.288, -0.91
+Towns: 0
+
+### Gomoa Central
+
+Code: GH0514, Coordinates: 5.353, -0.725
+Towns: 0
+
+### Gomoa East
+
+Code: GH0515, Coordinates: 5.476, -0.589
+Towns: 10
+
+#### Buduatta
+
+Code: GH0515_buduatta, Coordinates: 5.497, -0.577
+
+#### Buduburam Camp
+
+Code: GH0515_buduburam-camp, Coordinates: 5.524, -0.475
+
+#### Budumburam Camp
+
+Code: GH0515_budumburam-camp, Coordinates: 5.524, -0.475
+
+#### Fetteh
+
+Code: GH0515_fetteh, Coordinates: 5.431, -0.477
+
+#### Mankoadze
+
+Code: GH0515_mankoadze, Coordinates: 5.318, -0.686
+
+#### Nyanyano
+
+Code: GH0515_nyanyano, Coordinates: 5.467, -0.411
+
+#### Obuasi
+
+Code: GH0515_obuasi, Coordinates: 5.504, -0.755
+
+#### Ojobi
+
+Code: GH0515_ojobi, Coordinates: 5.48, -0.531
+
+#### Okyerko
+
+Code: GH0515_okyerko, Coordinates: 5.418, -0.603
+
+#### Potsin
+
+Code: GH0515_potsin, Coordinates: 5.455, -0.593
+
+### Gomoa West
+
+Code: GH0516, Coordinates: 5.387, -0.834
+Towns: 6
+
+#### Ankamu
+
+Code: GH0516_ankamu, Coordinates: 5.337, -0.764
+
+#### Apam
+
+Code: GH0516_apam, Coordinates: 5.284, -0.737
+
+#### Mankoadze
+
+Code: GH0516_mankoadze, Coordinates: 5.318, -0.686
+
+#### Ngyiresi
+
+Code: GH0516_ngyiresi, Coordinates: 5.351, -0.844
+
+#### Noguchi
+
+Code: GH0516_noguchi, Coordinates: 5.36, -0.708
+
+#### Ogua
+
+Code: GH0516_ogua, Coordinates: 5.42, -0.815
+
+### Komenda-Edina-Eguafo-Abirem Municipal
+
+Code: GH0517, Coordinates: 5.13, -1.44
+Towns: 11
+
+#### Abrem Agona
+
+Code: GH0517_abrem-agona, Coordinates: 5.19, -1.43
+
+#### Aburansa
+
+Code: GH0517_aburansa, Coordinates: 5.079, -1.543
+
+#### Ankaful
+
+Code: GH0517_ankaful, Coordinates: 5.155, -1.323
+
+#### Antseamboa
+
+Code: GH0517_antseamboa, Coordinates: 5.155, -1.579
+
+#### Atonkwa
+
+Code: GH0517_atonkwa, Coordinates: 5.113, -1.325
+
+#### Benyadze
+
+Code: GH0517_benyadze, Coordinates: 5.117, -1.446
+
+#### Chaple Square
+
+Code: GH0517_chaple-square, Coordinates: 5.085, -1.35
+
+#### Elmina
+
+Code: GH0517_elmina, Coordinates: 5.1, -1.342
+
+#### Kissi
+
+Code: GH0517_kissi, Coordinates: 5.087, -1.506
+
+#### Komenda
+
+Code: GH0517_komenda, Coordinates: 5.053, -1.493
+
+#### Low Cost
+
+Code: GH0517_low-cost, Coordinates: 5.051, -1.498
+
+### Mfantseman Municipal
+
+Code: GH0518, Coordinates: 5.276, -1.035
+Towns: 9
+
+#### Abeadze Dominase
+
+Code: GH0518_abeadze-dominase, Coordinates: 5.351, -1.094
+
+#### Anomabo
+
+Code: GH0518_anomabo, Coordinates: 5.177, -1.128
+
+#### Biriwa
+
+Code: GH0518_biriwa, Coordinates: 5.166, -1.15
+
+#### Essuehyia
+
+Code: GH0518_essuehyia, Coordinates: 5.306, -0.89
+
+#### Mankessim
+
+Code: GH0518_mankessim, Coordinates: 5.262, -1.021
+
+#### Nanabeng
+
+Code: GH0518_nanabeng, Coordinates: 5.246, -0.948
+
+#### Otuam
+
+Code: GH0518_otuam, Coordinates: 5.219, -0.811
+
+#### Saltpond
+
+Code: GH0518_saltpond, Coordinates: 5.205, -1.056
+
+#### Yamoransa
+
+Code: GH0518_yamoransa, Coordinates: 5.166, -1.199
+
+### Twifo Atti-Morkwa
+
+Code: GH0519, Coordinates: 5.68, -1.618
+Towns: 6
+
+#### Atieku
+
+Code: GH0519_atieku, Coordinates: 5.567, -1.694
+
+#### Bempongagye
+
+Code: GH0519_bempongagye, Coordinates: 5.672, -1.542
+
+#### Twifo
+
+Code: GH0519_twifo, Coordinates: 5.703, -1.605
+
+#### Twifo Wamase
+
+Code: GH0519_twifo-wamase, Coordinates: 5.698, -1.644
+
+#### Twifu Praso
+
+Code: GH0519_twifu-praso, Coordinates: 5.609, -1.547
+
+#### TwifuMokwa
+
+Code: GH0519_twifumokwa, Coordinates: 5.746, -1.604
+
+### Twifo Hemang Lower Denkyira
+
+Code: GH0520, Coordinates: 5.379, -1.401
+Towns: 2
+
+#### Akutuase
+
+Code: GH0520_akutuase, Coordinates: 5.271, -1.481
+
+#### Frami
+
+Code: GH0520_frami, Coordinates: 5.309, -1.371
+
+### Upper Denkyira East Municipal
+
+Code: GH0521, Coordinates: 5.835, -1.739
+Towns: 7
+
+#### Atechem
+
+Code: GH0521_atechem, Coordinates: 5.968, -1.79
+
+#### Buaben
+
+Code: GH0521_buaben, Coordinates: 5.883, -1.758
+
+#### Dunkwa
+
+Code: GH0521_dunkwa, Coordinates: 5.962, -1.781
+
+#### Dunkwa-On-Offin
+
+Code: GH0521_dunkwa-on-offin, Coordinates: 5.962, -1.779
+
+#### Kyekyewere
+
+Code: GH0521_kyekyewere, Coordinates: 5.917, -1.68
+
+#### Mbraem
+
+Code: GH0521_mbraem, Coordinates: 5.814, -1.77
+
+#### Opponso
+
+Code: GH0521_opponso, Coordinates: 5.765, -1.799
+
+### Upper Denkyira West
+
+Code: GH0522, Coordinates: 6.107, -2.071
+Towns: 7
+
+#### Ayanfuri
+
+Code: GH0522_ayanfuri, Coordinates: 5.958, -1.899
+
+#### Diaso
+
+Code: GH0522_diaso, Coordinates: 6.153, -2.152
+
+#### Dominase
+
+Code: GH0522_dominase, Coordinates: 6.05, -1.958
+
+#### Dominasi
+
+Code: GH0522_dominasi, Coordinates: 6.046, -1.965
+
+#### Nkotomso
+
+Code: GH0522_nkotomso, Coordinates: 6.002, -1.923
+
+#### Ntom
+
+Code: GH0522_ntom, Coordinates: 6.2, -2.12
+
+#### Subin
+
+Code: GH0522_subin, Coordinates: 6.2, -1.043
+

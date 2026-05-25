@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0627_adoagire",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adoagire",
+      "en": "Adoagire",
+      "slug": "adoagire"
+    },
+    "code": {
+      "id": "GH0627_adoagire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.823",
+      "lon": "-0.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627_ahodjo-ketewa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahodjo Ketewa",
+      "en": "Ahodjo Ketewa",
+      "slug": "ahodjo-ketewa"
+    },
+    "code": {
+      "id": "GH0627_ahodjo-ketewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.81",
+      "lon": "-0.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627_djankrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Djankrom",
+      "en": "Djankrom",
+      "slug": "djankrom"
+    },
+    "code": {
+      "id": "GH0627_djankrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "-0.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627_marfo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Marfo",
+      "en": "Marfo",
+      "slug": "marfo"
+    },
+    "code": {
+      "id": "GH0627_marfo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.863",
+      "lon": "-0.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627_nsawam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsawam",
+      "en": "Nsawam",
+      "slug": "nsawam"
+    },
+    "code": {
+      "id": "GH0627_nsawam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.807",
+      "lon": "-0.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0627_pakro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pakro",
+      "en": "Pakro",
+      "slug": "pakro"
+    },
+    "code": {
+      "id": "GH0627_pakro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0627",
+      "level": 2,
+      "name": {
+        "local": "Nsawam Adoagyiri",
+        "en": "Nsawam Adoagyiri",
+        "slug": "nsawam-adoagyiri-gh0627"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0627",
+        "level": 2,
+        "name": {
+          "local": "Nsawam Adoagyiri",
+          "en": "Nsawam Adoagyiri",
+          "slug": "nsawam-adoagyiri-gh0627"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.906",
+      "lon": "-0.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

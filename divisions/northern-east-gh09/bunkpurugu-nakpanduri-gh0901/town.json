@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0901_binde",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Binde",
+      "en": "Binde",
+      "slug": "binde"
+    },
+    "code": {
+      "id": "GH0901_binde",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0901",
+      "level": 2,
+      "name": {
+        "local": "Bunkpurugu Nakpanduri",
+        "en": "Bunkpurugu Nakpanduri",
+        "slug": "bunkpurugu-nakpanduri-gh0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0901",
+        "level": 2,
+        "name": {
+          "local": "Bunkpurugu Nakpanduri",
+          "en": "Bunkpurugu Nakpanduri",
+          "slug": "bunkpurugu-nakpanduri-gh0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.566",
+      "lon": "-0.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0901_yunyoo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yunyoo",
+      "en": "Yunyoo",
+      "slug": "yunyoo"
+    },
+    "code": {
+      "id": "GH0901_yunyoo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0901",
+      "level": 2,
+      "name": {
+        "local": "Bunkpurugu Nakpanduri",
+        "en": "Bunkpurugu Nakpanduri",
+        "slug": "bunkpurugu-nakpanduri-gh0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0901",
+        "level": 2,
+        "name": {
+          "local": "Bunkpurugu Nakpanduri",
+          "en": "Bunkpurugu Nakpanduri",
+          "slug": "bunkpurugu-nakpanduri-gh0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.481",
+      "lon": "-0.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

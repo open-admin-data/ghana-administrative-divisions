@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH0501_abakrampa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abakrampa",
+      "en": "Abakrampa",
+      "slug": "abakrampa"
+    },
+    "code": {
+      "id": "GH0501_abakrampa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.244",
+      "lon": "-1.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_abura-dunkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abura Dunkwa",
+      "en": "Abura Dunkwa",
+      "slug": "abura-dunkwa"
+    },
+    "code": {
+      "id": "GH0501_abura-dunkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.345",
+      "lon": "-1.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_abura-gyabankrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abura Gyabankrom",
+      "en": "Abura Gyabankrom",
+      "slug": "abura-gyabankrom"
+    },
+    "code": {
+      "id": "GH0501_abura-gyabankrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.279",
+      "lon": "-1.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_asomdwee",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asomdwee",
+      "en": "Asomdwee",
+      "slug": "asomdwee"
+    },
+    "code": {
+      "id": "GH0501_asomdwee",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.337",
+      "lon": "-1.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_ayeldu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayeldu",
+      "en": "Ayeldu",
+      "slug": "ayeldu"
+    },
+    "code": {
+      "id": "GH0501_ayeldu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.338",
+      "lon": "-1.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_bronyi-krom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bronyi Krom",
+      "en": "Bronyi Krom",
+      "slug": "bronyi-krom"
+    },
+    "code": {
+      "id": "GH0501_bronyi-krom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.305",
+      "lon": "-1.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_kwamankese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamankese",
+      "en": "Kwamankese",
+      "slug": "kwamankese"
+    },
+    "code": {
+      "id": "GH0501_kwamankese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.29",
+      "lon": "-1.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_moree",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Moree",
+      "en": "Moree",
+      "slug": "moree"
+    },
+    "code": {
+      "id": "GH0501_moree",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.137",
+      "lon": "-1.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_nkwantanan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkwantanan",
+      "en": "Nkwantanan",
+      "slug": "nkwantanan"
+    },
+    "code": {
+      "id": "GH0501_nkwantanan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.281",
+      "lon": "-1.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_nyamedom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyamedom",
+      "en": "Nyamedom",
+      "slug": "nyamedom"
+    },
+    "code": {
+      "id": "GH0501_nyamedom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.337",
+      "lon": "-1.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_obohen",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obohen",
+      "en": "Obohen",
+      "slug": "obohen"
+    },
+    "code": {
+      "id": "GH0501_obohen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.303",
+      "lon": "-1.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0501_putubiw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Putubiw",
+      "en": "Putubiw",
+      "slug": "putubiw"
+    },
+    "code": {
+      "id": "GH0501_putubiw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0501",
+      "level": 2,
+      "name": {
+        "local": "Abura-Asebu-Kwamankese",
+        "en": "Abura-Asebu-Kwamankese",
+        "slug": "abura-asebu-kwamankese-gh0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0501",
+        "level": 2,
+        "name": {
+          "local": "Abura-Asebu-Kwamankese",
+          "en": "Abura-Asebu-Kwamankese",
+          "slug": "abura-asebu-kwamankese-gh0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.202",
+      "lon": "-1.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

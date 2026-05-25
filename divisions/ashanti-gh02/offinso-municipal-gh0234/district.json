@@ -1,0 +1,47 @@
+{
+  "id": "GH0234",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Offinso Municipal",
+    "en": "Offinso Municipal",
+    "slug": "offinso-municipal-gh0234"
+  },
+  "code": {
+    "id": "GH0234",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.058",
+    "lon": "-1.735"
+  },
+  "metadata": {},
+  "source": {}
+}

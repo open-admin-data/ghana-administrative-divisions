@@ -1,0 +1,47 @@
+{
+  "id": "GH1206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bongo",
+    "en": "Bongo",
+    "slug": "bongo-gh1206"
+  },
+  "code": {
+    "id": "GH1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.918",
+    "lon": "-0.805"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH1403",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Agotime Ziope",
+    "en": "Agotime Ziope",
+    "slug": "agotime-ziope-gh1403"
+  },
+  "code": {
+    "id": "GH1403",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.476",
+    "lon": "0.692"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0716",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ga South Municipal",
+    "en": "Ga South Municipal",
+    "slug": "ga-south-municipal-gh0716"
+  },
+  "code": {
+    "id": "GH0716",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.678",
+    "lon": "-0.437"
+  },
+  "metadata": {},
+  "source": {}
+}

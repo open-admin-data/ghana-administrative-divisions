@@ -1,0 +1,47 @@
+{
+  "id": "GH1507",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Prestea/Huni Valley",
+    "en": "Prestea/Huni Valley",
+    "slug": "presteahuni-valley-gh1507"
+  },
+  "code": {
+    "id": "GH1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.447",
+    "lon": "-2.04"
+  },
+  "metadata": {},
+  "source": {}
+}

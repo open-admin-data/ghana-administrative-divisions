@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0209_abuakwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abuakwa",
+      "en": "Abuakwa",
+      "slug": "abuakwa"
+    },
+    "code": {
+      "id": "GH0209_abuakwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_achiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Achiase",
+      "en": "Achiase",
+      "slug": "achiase"
+    },
+    "code": {
+      "id": "GH0209_achiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_adankwame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adankwame",
+      "en": "Adankwame",
+      "slug": "adankwame"
+    },
+    "code": {
+      "id": "GH0209_adankwame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_akropong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akropong",
+      "en": "Akropong",
+      "slug": "akropong"
+    },
+    "code": {
+      "id": "GH0209_akropong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_asuofia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuofia",
+      "en": "Asuofia",
+      "slug": "asuofia"
+    },
+    "code": {
+      "id": "GH0209_asuofia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_atwima",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atwima",
+      "en": "Atwima",
+      "slug": "atwima"
+    },
+    "code": {
+      "id": "GH0209_atwima",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_barekese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Barekese",
+      "en": "Barekese",
+      "slug": "barekese"
+    },
+    "code": {
+      "id": "GH0209_barekese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_domeabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Domeabra",
+      "en": "Domeabra",
+      "slug": "domeabra"
+    },
+    "code": {
+      "id": "GH0209_domeabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.872",
+      "lon": "-2.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_maakro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maakro",
+      "en": "Maakro",
+      "slug": "maakro"
+    },
+    "code": {
+      "id": "GH0209_maakro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_mpasaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpasaso",
+      "en": "Mpasaso",
+      "slug": "mpasaso"
+    },
+    "code": {
+      "id": "GH0209_mpasaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.803",
+      "lon": "-2.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_nkawie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkawie",
+      "en": "Nkawie",
+      "slug": "nkawie"
+    },
+    "code": {
+      "id": "GH0209_nkawie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_ntensere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntensere",
+      "en": "Ntensere",
+      "slug": "ntensere"
+    },
+    "code": {
+      "id": "GH0209_ntensere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_sepase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sepase",
+      "en": "Sepase",
+      "slug": "sepase"
+    },
+    "code": {
+      "id": "GH0209_sepase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_toase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Toase",
+      "en": "Toase",
+      "slug": "toase"
+    },
+    "code": {
+      "id": "GH0209_toase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209_wioso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wioso",
+      "en": "Wioso",
+      "slug": "wioso"
+    },
+    "code": {
+      "id": "GH0209_wioso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0209",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano South West",
+        "en": "Ahafo Ano South West",
+        "slug": "ahafo-ano-south-west-gh0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0209",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano South West",
+          "en": "Ahafo Ano South West",
+          "slug": "ahafo-ano-south-west-gh0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "-2.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

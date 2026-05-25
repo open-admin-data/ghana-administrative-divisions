@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1204_gorgo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gorgo",
+      "en": "Gorgo",
+      "slug": "gorgo"
+    },
+    "code": {
+      "id": "GH1204_gorgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.697",
+      "lon": "-0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1204_kpatia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpatia",
+      "en": "Kpatia",
+      "slug": "kpatia"
+    },
+    "code": {
+      "id": "GH1204_kpatia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.762",
+      "lon": "-0.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1204_namolgo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Namolgo",
+      "en": "Namolgo",
+      "slug": "namolgo"
+    },
+    "code": {
+      "id": "GH1204_namolgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.737",
+      "lon": "-0.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1204_tongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tongo",
+      "en": "Tongo",
+      "slug": "tongo"
+    },
+    "code": {
+      "id": "GH1204_tongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.714",
+      "lon": "-0.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1204_zanlerigu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zanlerigu",
+      "en": "Zanlerigu",
+      "slug": "zanlerigu"
+    },
+    "code": {
+      "id": "GH1204_zanlerigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.806",
+      "lon": "-0.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1204_zubeogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zubeogo",
+      "en": "Zubeogo",
+      "slug": "zubeogo"
+    },
+    "code": {
+      "id": "GH1204_zubeogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1204",
+      "level": 2,
+      "name": {
+        "local": "Bolga East",
+        "en": "Bolga East",
+        "slug": "bolga-east-gh1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1204",
+        "level": 2,
+        "name": {
+          "local": "Bolga East",
+          "en": "Bolga East",
+          "slug": "bolga-east-gh1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.714",
+      "lon": "-0.794"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0707_adenta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adenta",
+      "en": "Adenta",
+      "slug": "adenta"
+    },
+    "code": {
+      "id": "GH0707_adenta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0707",
+      "level": 2,
+      "name": {
+        "local": "Adenta Municipal",
+        "en": "Adenta Municipal",
+        "slug": "adenta-municipal-gh0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0707",
+        "level": 2,
+        "name": {
+          "local": "Adenta Municipal",
+          "en": "Adenta Municipal",
+          "slug": "adenta-municipal-gh0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.69",
+      "lon": "-0.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

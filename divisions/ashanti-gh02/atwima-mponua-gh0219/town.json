@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0219_barniekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Barniekrom",
+      "en": "Barniekrom",
+      "slug": "barniekrom"
+    },
+    "code": {
+      "id": "GH0219_barniekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.542",
+      "lon": "-2.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_bayerebon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bayerebon",
+      "en": "Bayerebon",
+      "slug": "bayerebon"
+    },
+    "code": {
+      "id": "GH0219_bayerebon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.392",
+      "lon": "-2.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_bibiani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bibiani",
+      "en": "Bibiani",
+      "slug": "bibiani"
+    },
+    "code": {
+      "id": "GH0219_bibiani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.453",
+      "lon": "-2.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_enyinamoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyinamoso",
+      "en": "Enyinamoso",
+      "slug": "enyinamoso"
+    },
+    "code": {
+      "id": "GH0219_enyinamoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.647",
+      "lon": "-1.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_gyeresu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyeresu",
+      "en": "Gyeresu",
+      "slug": "gyeresu"
+    },
+    "code": {
+      "id": "GH0219_gyeresu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.47",
+      "lon": "-2.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_mpasatia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpasatia",
+      "en": "Mpasatia",
+      "slug": "mpasatia"
+    },
+    "code": {
+      "id": "GH0219_mpasatia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.668",
+      "lon": "-1.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_ntobroso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntobroso",
+      "en": "Ntobroso",
+      "slug": "ntobroso"
+    },
+    "code": {
+      "id": "GH0219_ntobroso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.536",
+      "lon": "-2.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_nyinahin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyinahin",
+      "en": "Nyinahin",
+      "slug": "nyinahin"
+    },
+    "code": {
+      "id": "GH0219_nyinahin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.601",
+      "lon": "-2.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_saakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Saakrom",
+      "en": "Saakrom",
+      "slug": "saakrom"
+    },
+    "code": {
+      "id": "GH0219_saakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.759",
+      "lon": "-2.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_sreso-tinpom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sreso Tinpom",
+      "en": "Sreso Tinpom",
+      "slug": "sreso-tinpom"
+    },
+    "code": {
+      "id": "GH0219_sreso-tinpom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.622",
+      "lon": "-2.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219_tano-odumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tano-Odumasi",
+      "en": "Tano-Odumasi",
+      "slug": "tano-odumasi"
+    },
+    "code": {
+      "id": "GH0219_tano-odumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0219",
+      "level": 2,
+      "name": {
+        "local": "Atwima Mponua",
+        "en": "Atwima Mponua",
+        "slug": "atwima-mponua-gh0219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0219",
+        "level": 2,
+        "name": {
+          "local": "Atwima Mponua",
+          "en": "Atwima Mponua",
+          "slug": "atwima-mponua-gh0219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.497",
+      "lon": "-2.397"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

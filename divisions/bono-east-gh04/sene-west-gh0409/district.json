@@ -1,0 +1,47 @@
+{
+  "id": "GH0409",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sene West",
+    "en": "Sene West",
+    "slug": "sene-west-gh0409"
+  },
+  "code": {
+    "id": "GH0409",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH04",
+    "level": 1,
+    "name": {
+      "local": "Bono East",
+      "en": "Bono East",
+      "slug": "bono-east-gh04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.749",
+    "lon": "-0.618"
+  },
+  "metadata": {},
+  "source": {}
+}

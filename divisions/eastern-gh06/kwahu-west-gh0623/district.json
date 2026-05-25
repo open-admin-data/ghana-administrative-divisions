@@ -1,0 +1,47 @@
+{
+  "id": "GH0623",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kwahu West",
+    "en": "Kwahu West",
+    "slug": "kwahu-west-gh0623"
+  },
+  "code": {
+    "id": "GH0623",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.491",
+    "lon": "-0.728"
+  },
+  "metadata": {},
+  "source": {}
+}

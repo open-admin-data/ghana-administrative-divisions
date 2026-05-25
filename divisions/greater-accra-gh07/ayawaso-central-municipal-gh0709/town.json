@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0709_asylum-down",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asylum Down",
+      "en": "Asylum Down",
+      "slug": "asylum-down"
+    },
+    "code": {
+      "id": "GH0709_asylum-down",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.57",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_caprice-near-carprice-hotel",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Caprice (Near carprice hotel)",
+      "en": "Caprice (Near carprice hotel)",
+      "slug": "caprice-near-carprice-hotel"
+    },
+    "code": {
+      "id": "GH0709_caprice-near-carprice-hotel",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.583",
+      "lon": "-0.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_circle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Circle",
+      "en": "Circle",
+      "slug": "circle"
+    },
+    "code": {
+      "id": "GH0709_circle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "-0.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_kokomlemle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokomlemle",
+      "en": "Kokomlemle",
+      "slug": "kokomlemle"
+    },
+    "code": {
+      "id": "GH0709_kokomlemle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.577",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_mallam-atta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mallam Atta",
+      "en": "Mallam Atta",
+      "slug": "mallam-atta"
+    },
+    "code": {
+      "id": "GH0709_mallam-atta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.579",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_new-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Town",
+      "en": "New Town",
+      "slug": "new-town"
+    },
+    "code": {
+      "id": "GH0709_new-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.584",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_new-town-school-compound",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Town ( school compound)",
+      "en": "New Town ( school compound)",
+      "slug": "new-town-school-compound"
+    },
+    "code": {
+      "id": "GH0709_new-town-school-compound",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.586",
+      "lon": "-0.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_nima-mallam-atta-gutter-market-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima (Mallam atta gutter. market road)",
+      "en": "Nima (Mallam atta gutter. market road)",
+      "slug": "nima-mallam-atta-gutter-market-road"
+    },
+    "code": {
+      "id": "GH0709_nima-mallam-atta-gutter-market-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.579",
+      "lon": "-0.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_nima-near-police-station",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nima (near Police station)",
+      "en": "Nima (near Police station)",
+      "slug": "nima-near-police-station"
+    },
+    "code": {
+      "id": "GH0709_nima-near-police-station",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.576",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709_north-ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North Ridge",
+      "en": "North Ridge",
+      "slug": "north-ridge"
+    },
+    "code": {
+      "id": "GH0709_north-ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0709",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso Central Municipal",
+        "en": "Ayawaso Central Municipal",
+        "slug": "ayawaso-central-municipal-gh0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0709",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso Central Municipal",
+          "en": "Ayawaso Central Municipal",
+          "slug": "ayawaso-central-municipal-gh0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.573",
+      "lon": "-0.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

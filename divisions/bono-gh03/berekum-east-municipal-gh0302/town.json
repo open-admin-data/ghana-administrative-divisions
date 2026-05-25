@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0302_akrofro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrofro",
+      "en": "Akrofro",
+      "slug": "akrofro"
+    },
+    "code": {
+      "id": "GH0302_akrofro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0302",
+      "level": 2,
+      "name": {
+        "local": "Berekum East Municipal",
+        "en": "Berekum East Municipal",
+        "slug": "berekum-east-municipal-gh0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0302",
+        "level": 2,
+        "name": {
+          "local": "Berekum East Municipal",
+          "en": "Berekum East Municipal",
+          "slug": "berekum-east-municipal-gh0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "-2.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0302_berekum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Berekum",
+      "en": "Berekum",
+      "slug": "berekum"
+    },
+    "code": {
+      "id": "GH0302_berekum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0302",
+      "level": 2,
+      "name": {
+        "local": "Berekum East Municipal",
+        "en": "Berekum East Municipal",
+        "slug": "berekum-east-municipal-gh0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0302",
+        "level": 2,
+        "name": {
+          "local": "Berekum East Municipal",
+          "en": "Berekum East Municipal",
+          "slug": "berekum-east-municipal-gh0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.465",
+      "lon": "-2.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0302_berekum-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Berekum Zongo",
+      "en": "Berekum Zongo",
+      "slug": "berekum-zongo"
+    },
+    "code": {
+      "id": "GH0302_berekum-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0302",
+      "level": 2,
+      "name": {
+        "local": "Berekum East Municipal",
+        "en": "Berekum East Municipal",
+        "slug": "berekum-east-municipal-gh0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0302",
+        "level": 2,
+        "name": {
+          "local": "Berekum East Municipal",
+          "en": "Berekum East Municipal",
+          "slug": "berekum-east-municipal-gh0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.454",
+      "lon": "-2.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0302_mpatasei",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpatasei",
+      "en": "Mpatasei",
+      "slug": "mpatasei"
+    },
+    "code": {
+      "id": "GH0302_mpatasei",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0302",
+      "level": 2,
+      "name": {
+        "local": "Berekum East Municipal",
+        "en": "Berekum East Municipal",
+        "slug": "berekum-east-municipal-gh0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0302",
+        "level": 2,
+        "name": {
+          "local": "Berekum East Municipal",
+          "en": "Berekum East Municipal",
+          "slug": "berekum-east-municipal-gh0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.457",
+      "lon": "-2.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

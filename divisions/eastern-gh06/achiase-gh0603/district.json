@@ -1,0 +1,47 @@
+{
+  "id": "GH0603",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Achiase",
+    "en": "Achiase",
+    "slug": "achiase-gh0603"
+  },
+  "code": {
+    "id": "GH0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.795",
+    "lon": "-1.018"
+  },
+  "metadata": {},
+  "source": {}
+}

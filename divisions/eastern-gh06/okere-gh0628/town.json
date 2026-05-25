@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0628_abiriw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abiriw",
+      "en": "Abiriw",
+      "slug": "abiriw"
+    },
+    "code": {
+      "id": "GH0628_abiriw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.98",
+      "lon": "-0.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_adukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adukrom",
+      "en": "Adukrom",
+      "slug": "adukrom"
+    },
+    "code": {
+      "id": "GH0628_adukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.008",
+      "lon": "-0.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_agomeda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agomeda",
+      "en": "Agomeda",
+      "slug": "agomeda"
+    },
+    "code": {
+      "id": "GH0628_agomeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.98",
+      "lon": "0.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_akropong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akropong",
+      "en": "Akropong",
+      "slug": "akropong"
+    },
+    "code": {
+      "id": "GH0628_akropong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.981",
+      "lon": "-0.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_amanfro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amanfro",
+      "en": "Amanfro",
+      "slug": "amanfro"
+    },
+    "code": {
+      "id": "GH0628_amanfro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.109",
+      "lon": "-0.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_aseseso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aseseso",
+      "en": "Aseseso",
+      "slug": "aseseso"
+    },
+    "code": {
+      "id": "GH0628_aseseso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.01",
+      "lon": "-0.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_konko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Konko",
+      "en": "Konko",
+      "slug": "konko"
+    },
+    "code": {
+      "id": "GH0628_konko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.027",
+      "lon": "-0.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_larteh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Larteh",
+      "en": "Larteh",
+      "slug": "larteh"
+    },
+    "code": {
+      "id": "GH0628_larteh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.935",
+      "lon": "-0.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_okrakwadwo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okrakwadwo",
+      "en": "Okrakwadwo",
+      "slug": "okrakwadwo"
+    },
+    "code": {
+      "id": "GH0628_okrakwadwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.109",
+      "lon": "-0.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0628_twum-guaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twum Guaso",
+      "en": "Twum Guaso",
+      "slug": "twum-guaso"
+    },
+    "code": {
+      "id": "GH0628_twum-guaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0628",
+      "level": 2,
+      "name": {
+        "local": "Okere",
+        "en": "Okere",
+        "slug": "okere-gh0628"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0628",
+        "level": 2,
+        "name": {
+          "local": "Okere",
+          "en": "Okere",
+          "slug": "okere-gh0628"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.044",
+      "lon": "-0.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

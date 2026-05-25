@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0401_akokoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akokoa",
+      "en": "Akokoa",
+      "slug": "akokoa"
+    },
+    "code": {
+      "id": "GH0401_akokoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0401",
+      "level": 2,
+      "name": {
+        "local": "Atebubu Amantin",
+        "en": "Atebubu Amantin",
+        "slug": "atebubu-amantin-gh0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0401",
+        "level": 2,
+        "name": {
+          "local": "Atebubu Amantin",
+          "en": "Atebubu Amantin",
+          "slug": "atebubu-amantin-gh0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.585",
+      "lon": "-1.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0401_amanteng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amanteng",
+      "en": "Amanteng",
+      "slug": "amanteng"
+    },
+    "code": {
+      "id": "GH0401_amanteng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0401",
+      "level": 2,
+      "name": {
+        "local": "Atebubu Amantin",
+        "en": "Atebubu Amantin",
+        "slug": "atebubu-amantin-gh0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0401",
+        "level": 2,
+        "name": {
+          "local": "Atebubu Amantin",
+          "en": "Atebubu Amantin",
+          "slug": "atebubu-amantin-gh0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.538",
+      "lon": "-1.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0401_atebubu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atebubu",
+      "en": "Atebubu",
+      "slug": "atebubu"
+    },
+    "code": {
+      "id": "GH0401_atebubu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0401",
+      "level": 2,
+      "name": {
+        "local": "Atebubu Amantin",
+        "en": "Atebubu Amantin",
+        "slug": "atebubu-amantin-gh0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0401",
+        "level": 2,
+        "name": {
+          "local": "Atebubu Amantin",
+          "en": "Atebubu Amantin",
+          "slug": "atebubu-amantin-gh0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.748",
+      "lon": "-0.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0401_jato-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jato Zongo",
+      "en": "Jato Zongo",
+      "slug": "jato-zongo"
+    },
+    "code": {
+      "id": "GH0401_jato-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0401",
+      "level": 2,
+      "name": {
+        "local": "Atebubu Amantin",
+        "en": "Atebubu Amantin",
+        "slug": "atebubu-amantin-gh0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0401",
+        "level": 2,
+        "name": {
+          "local": "Atebubu Amantin",
+          "en": "Atebubu Amantin",
+          "slug": "atebubu-amantin-gh0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.654",
+      "lon": "-1.065"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

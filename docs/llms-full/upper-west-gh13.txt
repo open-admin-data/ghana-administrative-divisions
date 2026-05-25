@@ -1,0 +1,500 @@
+# Upper West — Ghana Administrative Divisions
+
+> 11 districts, 109 towns
+> Code: GH13
+> Coordinates: 10.334, -2.215
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Daffiama Bussie Issa
+
+Code: GH1301, Coordinates: 10.367, -2.262
+Towns: 6
+
+#### Duong
+
+Code: GH1301_duong, Coordinates: 10.209, -2.33
+
+#### Issa
+
+Code: GH1301_issa, Coordinates: 10.384, -2.328
+
+#### Kojokpere
+
+Code: GH1301_kojokpere, Coordinates: 10.361, -2.232
+
+#### Ping
+
+Code: GH1301_ping, Coordinates: 10.375, -2.303
+
+#### Samanbo
+
+Code: GH1301_samanbo, Coordinates: 10.29, -2.181
+
+#### Suke
+
+Code: GH1301_suke, Coordinates: 10.51, -2.31
+
+### Jirapa
+
+Code: GH1302, Coordinates: 10.588, -2.562
+Towns: 15
+
+#### Bussie
+
+Code: GH1302_bussie, Coordinates: 10.491, -2.501
+
+#### Dahile
+
+Code: GH1302_dahile, Coordinates: 10.573, -2.445
+
+#### Duori
+
+Code: GH1302_duori, Coordinates: 10.594, -2.784
+
+#### Hain
+
+Code: GH1302_hain, Coordinates: 10.692, -2.437
+
+#### Henteng
+
+Code: GH1302_henteng, Coordinates: 10.558, -2.371
+
+#### Jirapa
+
+Code: GH1302_jirapa, Coordinates: 10.533, -2.699
+
+#### Kamahegu
+
+Code: GH1302_kamahegu, Coordinates: 10.49, -2.491
+
+#### Karni
+
+Code: GH1302_karni, Coordinates: 10.67, -2.64
+
+#### Ping
+
+Code: GH1302_ping, Coordinates: 10.375, -2.303
+
+#### Sabuli
+
+Code: GH1302_sabuli, Coordinates: 10.572, -2.519
+
+#### Somboro
+
+Code: GH1302_somboro, Coordinates: 10.482, -2.65
+
+#### Tampaala
+
+Code: GH1302_tampaala, Coordinates: 10.482, -2.65
+
+#### Tuggo
+
+Code: GH1302_tuggo, Coordinates: 10.511, -2.801
+
+#### Ullo
+
+Code: GH1302_ullo, Coordinates: 10.693, -2.558
+
+#### Yagha
+
+Code: GH1302_yagha, Coordinates: 10.481, -2.79
+
+### Lambussie-Karni
+
+Code: GH1303, Coordinates: 10.839, -2.583
+Towns: 4
+
+#### Billaw
+
+Code: GH1303_billaw, Coordinates: 10.921, -2.682
+
+#### Dapuori
+
+Code: GH1303_dapuori, Coordinates: 10.876, -2.653
+
+#### Piina
+
+Code: GH1303_piina, Coordinates: 10.836, -2.641
+
+#### Samoa
+
+Code: GH1303_samoa, Coordinates: 10.831, -2.56
+
+### Lawra
+
+Code: GH1304, Coordinates: 10.62, -2.851
+Towns: 15
+
+#### Babile
+
+Code: GH1304_babile, Coordinates: 10.524, -2.846
+
+#### Badi
+
+Code: GH1304_badi, Coordinates: 10.654, -2.849
+
+#### Biro
+
+Code: GH1304_biro, Coordinates: 10.287, -2.511
+
+#### Dikpe
+
+Code: GH1304_dikpe, Coordinates: 10.387, -2.556
+
+#### Domwine
+
+Code: GH1304_domwine, Coordinates: 10.639, -2.744
+
+#### Gbieri
+
+Code: GH1304_gbieri, Coordinates: 10.622, -2.899
+
+#### Gengenkpe
+
+Code: GH1304_gengenkpe, Coordinates: 10.822, -2.85
+
+#### Ketuo
+
+Code: GH1304_ketuo, Coordinates: 10.905, -2.798
+
+#### Ko
+
+Code: GH1304_ko, Coordinates: 10.79, -2.73
+
+#### Konyugang
+
+Code: GH1304_konyugang, Coordinates: 10.839, -2.772
+
+#### Lawra
+
+Code: GH1304_lawra, Coordinates: 10.643, -2.889
+
+#### Nandom residential ar
+
+Code: GH1304_nandom-residential-ar, Coordinates: 10.855, -2.756
+
+#### Nanyaari
+
+Code: GH1304_nanyaari, Coordinates: 10.641, -2.854
+
+#### Segru
+
+Code: GH1304_segru, Coordinates: 10.804, -2.802
+
+#### Tuopare
+
+Code: GH1304_tuopare, Coordinates: 10.457, -2.423
+
+### Nadowli-Kaleo
+
+Code: GH1305, Coordinates: 10.286, -2.638
+Towns: 13
+
+#### Chekali
+
+Code: GH1305_chekali, Coordinates: 10.424, -2.562
+
+#### Cheri-sombo
+
+Code: GH1305_cheri-sombo, Coordinates: 10.304, -2.689
+
+#### Fian
+
+Code: GH1305_fian, Coordinates: 10.386, -2.469
+
+#### Gabilee
+
+Code: GH1305_gabilee, Coordinates: 10.357, -2.784
+
+#### Goli
+
+Code: GH1305_goli, Coordinates: 10.301, -2.624
+
+#### Kaleo
+
+Code: GH1305_kaleo, Coordinates: 10.171, -2.547
+
+#### Nadowli
+
+Code: GH1305_nadowli, Coordinates: 10.362, -2.658
+
+#### Nanvilli
+
+Code: GH1305_nanvilli, Coordinates: 10.229, -2.712
+
+#### Naro
+
+Code: GH1305_naro, Coordinates: 10.318, -2.465
+
+#### Nator
+
+Code: GH1305_nator, Coordinates: 10.268, -2.655
+
+#### Sankana
+
+Code: GH1305_sankana, Coordinates: 10.199, -2.591
+
+#### Sombo
+
+Code: GH1305_sombo, Coordinates: 10.258, -2.558
+
+#### Takpo
+
+Code: GH1305_takpo, Coordinates: 10.213, -2.65
+
+### Nandom
+
+Code: GH1306, Coordinates: 10.867, -2.8
+Towns: 2
+
+#### Hamile
+
+Code: GH1306_hamile, Coordinates: 10.993, -2.736
+
+#### Lambussie
+
+Code: GH1306_lambussie, Coordinates: 10.847, -2.704
+
+### Sissala East
+
+Code: GH1307, Coordinates: 10.607, -1.853
+Towns: 8
+
+#### Bawiesibella
+
+Code: GH1307_bawiesibella, Coordinates: 10.152, -1.445
+
+#### Kulfuo
+
+Code: GH1307_kulfuo, Coordinates: 10.605, -1.919
+
+#### Kunchogu
+
+Code: GH1307_kunchogu, Coordinates: 10.862, -1.672
+
+#### Nabugubelle
+
+Code: GH1307_nabugubelle, Coordinates: 10.708, -1.867
+
+#### Nabulo
+
+Code: GH1307_nabulo, Coordinates: 10.484, -1.791
+
+#### Sakia
+
+Code: GH1307_sakia, Coordinates: 10.732, -1.966
+
+#### Tumu
+
+Code: GH1307_tumu, Coordinates: 10.876, -1.987
+
+#### Wellembelle
+
+Code: GH1307_wellembelle, Coordinates: 10.493, -1.936
+
+### Sissala West
+
+Code: GH1308, Coordinates: 10.759, -2.305
+Towns: 4
+
+#### Fiemuo
+
+Code: GH1308_fiemuo, Coordinates: 10.973, -2.597
+
+#### Gwollu
+
+Code: GH1308_gwollu, Coordinates: 10.982, -2.223
+
+#### Jeffisi
+
+Code: GH1308_jeffisi, Coordinates: 10.77, -2.268
+
+#### Zini
+
+Code: GH1308_zini, Coordinates: 10.86, -2.409
+
+### Wa East
+
+Code: GH1309, Coordinates: 10.086, -1.976
+Towns: 11
+
+#### Bulenga
+
+Code: GH1309_bulenga, Coordinates: 9.937, -2.207
+
+#### Challa
+
+Code: GH1309_challa, Coordinates: 10.18, -2.139
+
+#### Charingu
+
+Code: GH1309_charingu, Coordinates: 10.186, -2.321
+
+#### Ducie
+
+Code: GH1309_ducie, Coordinates: 9.502, -1.595
+
+#### Funsi
+
+Code: GH1309_funsi, Coordinates: 10.3, -1.971
+
+#### Goh
+
+Code: GH1309_goh, Coordinates: 10.109, -2.136
+
+#### Holomuni
+
+Code: GH1309_holomuni, Coordinates: 9.916, -1.78
+
+#### Katua
+
+Code: GH1309_katua, Coordinates: 9.592, -1.555
+
+#### Kundugu
+
+Code: GH1309_kundugu, Coordinates: 10.132, -1.749
+
+#### Loggu
+
+Code: GH1309_loggu, Coordinates: 9.903, -2.354
+
+#### Yaala
+
+Code: GH1309_yaala, Coordinates: 10.128, -1.836
+
+### Wa Municipal
+
+Code: GH1310, Coordinates: 10.038, -2.465
+Towns: 19
+
+#### Airstrip
+
+Code: GH1310_airstrip, Coordinates: 10.08, -2.514
+
+#### Boli
+
+Code: GH1310_boli, Coordinates: 9.57, -2.234
+
+#### Busa
+
+Code: GH1310_busa, Coordinates: 10.021, -2.391
+
+#### Charia
+
+Code: GH1310_charia, Coordinates: 10.064, -2.341
+
+#### Dobile
+
+Code: GH1310_dobile, Coordinates: 10.041, -2.31
+
+#### Dondoli
+
+Code: GH1310_dondoli, Coordinates: 10.041, -2.297
+
+#### Jang
+
+Code: GH1310_jang, Coordinates: 10.197, -2.46
+
+#### Jonga
+
+Code: GH1310_jonga, Coordinates: 10.033, -2.25
+
+#### Kanyini
+
+Code: GH1310_kanyini, Coordinates: 10.16, -2.296
+
+#### Konta
+
+Code: GH1310_konta, Coordinates: 10.049, -2.492
+
+#### Kpaguri
+
+Code: GH1310_kpaguri, Coordinates: 10.054, -2.516
+
+#### Kperisi
+
+Code: GH1310_kperisi, Coordinates: 10.12, -2.456
+
+#### Kumbiehi
+
+Code: GH1310_kumbiehi, Coordinates: 10.051, -2.301
+
+#### Sampina
+
+Code: GH1310_sampina, Coordinates: 10.193, -2.488
+
+#### Tendamba
+
+Code: GH1310_tendamba, Coordinates: 10.054, -2.505
+
+#### Wa
+
+Code: GH1310_wa, Coordinates: 10.06, -2.5
+
+#### Wa kabanye
+
+Code: GH1310_wa-kabanye, Coordinates: 10.057, -2.501
+
+#### Wa Urban
+
+Code: GH1310_wa-urban, Coordinates: 10.06, -2.5
+
+#### Wapani
+
+Code: GH1310_wapani, Coordinates: 10.065, -2.506
+
+### Wa West
+
+Code: GH1311, Coordinates: 9.918, -2.608
+Towns: 12
+
+#### Chogsia
+
+Code: GH1311_chogsia, Coordinates: 9.765, -2.564
+
+#### Dabo
+
+Code: GH1311_dabo, Coordinates: 10.07, -2.46
+
+#### Dorimon
+
+Code: GH1311_dorimon, Coordinates: 10.035, -2.685
+
+#### Dornye
+
+Code: GH1311_dornye, Coordinates: 9.683, -2.705
+
+#### Eggu
+
+Code: GH1311_eggu, Coordinates: 10.146, -2.672
+
+#### Gurungu
+
+Code: GH1311_gurungu, Coordinates: 9.723, -2.576
+
+#### Kunchelleyiri
+
+Code: GH1311_kunchelleyiri, Coordinates: 9.455, -2.22
+
+#### Lassia tuolu
+
+Code: GH1311_lassia-tuolu, Coordinates: 9.837, -2.603
+
+#### Nyoli
+
+Code: GH1311_nyoli, Coordinates: 9.79, -2.515
+
+#### Poyentanga
+
+Code: GH1311_poyentanga, Coordinates: 9.866, -2.464
+
+#### Vieri
+
+Code: GH1311_vieri, Coordinates: 9.929, -2.595
+
+#### Wechau
+
+Code: GH1311_wechau, Coordinates: 9.826, -2.684
+

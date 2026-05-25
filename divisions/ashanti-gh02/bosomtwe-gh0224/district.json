@@ -1,0 +1,47 @@
+{
+  "id": "GH0224",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bosomtwe",
+    "en": "Bosomtwe",
+    "slug": "bosomtwe-gh0224"
+  },
+  "code": {
+    "id": "GH0224",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.558",
+    "lon": "-1.457"
+  },
+  "metadata": {},
+  "source": {}
+}

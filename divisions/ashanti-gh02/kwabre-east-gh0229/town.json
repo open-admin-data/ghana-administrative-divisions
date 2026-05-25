@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GH0229_abira",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abira",
+      "en": "Abira",
+      "slug": "abira"
+    },
+    "code": {
+      "id": "GH0229_abira",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "-1.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_abirem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abirem",
+      "en": "Abirem",
+      "slug": "abirem"
+    },
+    "code": {
+      "id": "GH0229_abirem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.751",
+      "lon": "-1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_adwumakase-kese",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adwumakase Kese",
+      "en": "Adwumakase Kese",
+      "slug": "adwumakase-kese"
+    },
+    "code": {
+      "id": "GH0229_adwumakase-kese",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.808",
+      "lon": "-1.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_antoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Antoa",
+      "en": "Antoa",
+      "slug": "antoa"
+    },
+    "code": {
+      "id": "GH0229_antoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.757",
+      "lon": "-1.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_asonamaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asonamaso",
+      "en": "Asonamaso",
+      "slug": "asonamaso"
+    },
+    "code": {
+      "id": "GH0229_asonamaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.802",
+      "lon": "-1.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_bonwire",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonwire",
+      "en": "Bonwire",
+      "slug": "bonwire"
+    },
+    "code": {
+      "id": "GH0229_bonwire",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.793",
+      "lon": "-1.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_ejuratia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ejuratia",
+      "en": "Ejuratia",
+      "slug": "ejuratia"
+    },
+    "code": {
+      "id": "GH0229_ejuratia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.823",
+      "lon": "-1.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_kenyasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kenyasi",
+      "en": "Kenyasi",
+      "slug": "kenyasi"
+    },
+    "code": {
+      "id": "GH0229_kenyasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.785",
+      "lon": "-1.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_kodie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kodie",
+      "en": "Kodie",
+      "slug": "kodie"
+    },
+    "code": {
+      "id": "GH0229_kodie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.789",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_medoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Medoma",
+      "en": "Medoma",
+      "slug": "medoma"
+    },
+    "code": {
+      "id": "GH0229_medoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.791",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_mowre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mowre",
+      "en": "Mowre",
+      "slug": "mowre"
+    },
+    "code": {
+      "id": "GH0229_mowre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.816",
+      "lon": "-1.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_ntonso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntonso",
+      "en": "Ntonso",
+      "slug": "ntonso"
+    },
+    "code": {
+      "id": "GH0229_ntonso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.755",
+      "lon": "-1.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_sakora-wonoo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sakora Wonoo",
+      "en": "Sakora Wonoo",
+      "slug": "sakora-wonoo"
+    },
+    "code": {
+      "id": "GH0229_sakora-wonoo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.798",
+      "lon": "-1.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229_tikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tikrom",
+      "en": "Tikrom",
+      "slug": "tikrom"
+    },
+    "code": {
+      "id": "GH0229_tikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0229",
+      "level": 2,
+      "name": {
+        "local": "Kwabre East",
+        "en": "Kwabre East",
+        "slug": "kwabre-east-gh0229"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0229",
+        "level": 2,
+        "name": {
+          "local": "Kwabre East",
+          "en": "Kwabre East",
+          "slug": "kwabre-east-gh0229"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.739",
+      "lon": "-1.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

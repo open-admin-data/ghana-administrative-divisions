@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0520_akutuase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akutuase",
+      "en": "Akutuase",
+      "slug": "akutuase"
+    },
+    "code": {
+      "id": "GH0520_akutuase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0520",
+      "level": 2,
+      "name": {
+        "local": "Twifo Hemang Lower Denkyira",
+        "en": "Twifo Hemang Lower Denkyira",
+        "slug": "twifo-hemang-lower-denkyira-gh0520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0520",
+        "level": 2,
+        "name": {
+          "local": "Twifo Hemang Lower Denkyira",
+          "en": "Twifo Hemang Lower Denkyira",
+          "slug": "twifo-hemang-lower-denkyira-gh0520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.271",
+      "lon": "-1.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0520_frami",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Frami",
+      "en": "Frami",
+      "slug": "frami"
+    },
+    "code": {
+      "id": "GH0520_frami",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0520",
+      "level": 2,
+      "name": {
+        "local": "Twifo Hemang Lower Denkyira",
+        "en": "Twifo Hemang Lower Denkyira",
+        "slug": "twifo-hemang-lower-denkyira-gh0520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0520",
+        "level": 2,
+        "name": {
+          "local": "Twifo Hemang Lower Denkyira",
+          "en": "Twifo Hemang Lower Denkyira",
+          "slug": "twifo-hemang-lower-denkyira-gh0520"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.309",
+      "lon": "-1.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

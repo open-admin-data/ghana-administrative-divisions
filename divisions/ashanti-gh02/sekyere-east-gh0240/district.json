@@ -1,0 +1,47 @@
+{
+  "id": "GH0240",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekyere East",
+    "en": "Sekyere East",
+    "slug": "sekyere-east-gh0240"
+  },
+  "code": {
+    "id": "GH0240",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.779",
+    "lon": "-1.299"
+  },
+  "metadata": {},
+  "source": {}
+}

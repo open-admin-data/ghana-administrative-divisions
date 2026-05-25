@@ -1,0 +1,47 @@
+{
+  "id": "GH0225",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ejisu Municipal",
+    "en": "Ejisu Municipal",
+    "slug": "ejisu-municipal-gh0225"
+  },
+  "code": {
+    "id": "GH0225",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.614",
+    "lon": "-1.311"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0517",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+    "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+  },
+  "code": {
+    "id": "GH0517",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.13",
+    "lon": "-1.44"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "GH0410_asantanso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asantanso",
+      "en": "Asantanso",
+      "slug": "asantanso"
+    },
+    "code": {
+      "id": "GH0410_asantanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.546",
+      "lon": "-1.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_aworowa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aworowa",
+      "en": "Aworowa",
+      "slug": "aworowa"
+    },
+    "code": {
+      "id": "GH0410_aworowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.62",
+      "lon": "-2.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_buotem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buotem",
+      "en": "Buotem",
+      "slug": "buotem"
+    },
+    "code": {
+      "id": "GH0410_buotem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.666",
+      "lon": "-1.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_fiaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fiaso",
+      "en": "Fiaso",
+      "slug": "fiaso"
+    },
+    "code": {
+      "id": "GH0410_fiaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.579",
+      "lon": "-1.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_forikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Forikrom",
+      "en": "Forikrom",
+      "slug": "forikrom"
+    },
+    "code": {
+      "id": "GH0410_forikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.594",
+      "lon": "-1.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_gyako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyako",
+      "en": "Gyako",
+      "slug": "gyako"
+    },
+    "code": {
+      "id": "GH0410_gyako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.591",
+      "lon": "-1.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_koraso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Koraso",
+      "en": "Koraso",
+      "slug": "koraso"
+    },
+    "code": {
+      "id": "GH0410_koraso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.482",
+      "lon": "-2.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_nsuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuta",
+      "en": "Nsuta",
+      "slug": "nsuta"
+    },
+    "code": {
+      "id": "GH0410_nsuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.528",
+      "lon": "-2.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_offuman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Offuman",
+      "en": "Offuman",
+      "slug": "offuman"
+    },
+    "code": {
+      "id": "GH0410_offuman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.784",
+      "lon": "-1.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_tanoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tanoso",
+      "en": "Tanoso",
+      "slug": "tanoso"
+    },
+    "code": {
+      "id": "GH0410_tanoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.471",
+      "lon": "-1.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_techiman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Techiman",
+      "en": "Techiman",
+      "slug": "techiman"
+    },
+    "code": {
+      "id": "GH0410_techiman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.562",
+      "lon": "-1.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410_tuobodom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tuobodom",
+      "en": "Tuobodom",
+      "slug": "tuobodom"
+    },
+    "code": {
+      "id": "GH0410_tuobodom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0410",
+      "level": 2,
+      "name": {
+        "local": "Techiman Municipal",
+        "en": "Techiman Municipal",
+        "slug": "techiman-municipal-gh0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0410",
+        "level": 2,
+        "name": {
+          "local": "Techiman Municipal",
+          "en": "Techiman Municipal",
+          "slug": "techiman-municipal-gh0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.635",
+      "lon": "-1.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

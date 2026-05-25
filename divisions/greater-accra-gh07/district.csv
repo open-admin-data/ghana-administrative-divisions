@@ -1,0 +1,30 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0701,Ablekuma Central Municipal,Ablekuma Central Municipal,ablekuma-central-municipal-gh0701,GH0701,22,5.555,-0.241
+GH0702,Ablekuma North Municipal,Ablekuma North Municipal,ablekuma-north-municipal-gh0702,GH0702,15,5.58,-0.247
+GH0703,Ablekuma West Municipal,Ablekuma West Municipal,ablekuma-west-municipal-gh0703,GH0703,13,5.538,-0.263
+GH0704,Accra Metropolis,Accra Metropolis,accra-metropolis-gh0704,GH0704,14,5.544,-0.211
+GH0705,Ada East,Ada East,ada-east-gh0705,GH0705,3,5.876,0.549
+GH0706,Ada West,Ada West,ada-west-gh0706,GH0706,3,5.893,0.422
+GH0707,Adenta Municipal,Adenta Municipal,adenta-municipal-gh0707,GH0707,1,5.713,-0.146
+GH0708,Ashaiman Municipal,Ashaiman Municipal,ashaiman-municipal-gh0708,GH0708,0,5.701,-0.035
+GH0709,Ayawaso Central Municipal,Ayawaso Central Municipal,ayawaso-central-municipal-gh0709,GH0709,10,5.579,-0.204
+GH0710,Ayawaso East Municipal,Ayawaso East Municipal,ayawaso-east-municipal-gh0710,GH0710,12,5.589,-0.193
+GH0711,Ayawaso North Municipal,Ayawaso North Municipal,ayawaso-north-municipal-gh0711,GH0711,9,5.595,-0.208
+GH0712,Ayawaso West,Ayawaso West,ayawaso-west-gh0712,GH0712,6,5.631,-0.164
+GH0713,Ga Central Municipal,Ga Central Municipal,ga-central-municipal-gh0713,GH0713,0,5.616,-0.307
+GH0714,Ga East,Ga East,ga-east-gh0714,GH0714,15,5.706,-0.221
+GH0715,Ga North Municipal,Ga North Municipal,ga-north-municipal-gh0715,GH0715,0,5.711,-0.28
+GH0716,Ga South Municipal,Ga South Municipal,ga-south-municipal-gh0716,GH0716,0,5.678,-0.437
+GH0717,Ga West Municipal,Ga West Municipal,ga-west-municipal-gh0717,GH0717,28,5.704,-0.357
+GH0718,Korle Klottey Municipal,Korle Klottey Municipal,korle-klottey-municipal-gh0718,GH0718,5,5.561,-0.196
+GH0719,Kpone Katamanso,Kpone Katamanso,kpone-katamanso-gh0719,GH0719,3,5.767,-0.074
+GH0720,Krowor Municipal,Krowor Municipal,krowor-municipal-gh0720,GH0720,1,5.613,-0.083
+GH0721,La Dade-Kotopon,La Dade-Kotopon,la-dade-kotopon-gh0721,GH0721,2,5.588,-0.158
+GH0722,La-Nkwantanang-Madina,La-Nkwantanang-Madina,la-nkwantanang-madina-gh0722,GH0722,0,5.741,-0.173
+GH0723,Ledzokuku Municipal,Ledzokuku Municipal,ledzokuku-municipal-gh0723,GH0723,2,5.604,-0.114
+GH0724,Ningo/Prampram,Ningo/Prampram,ningoprampram-gh0724,GH0724,5,5.815,0.139
+GH0725,Okaikwei North Municipal,Okaikwei North Municipal,okaikwei-north-municipal-gh0725,GH0725,5,5.629,-0.209
+GH0726,Shai Osudoku,Shai Osudoku,shai-osudoku-gh0726,GH0726,4,5.966,0.168
+GH0727,Tema Metropolitan,Tema Metropolitan,tema-metropolitan-gh0727,GH0727,44,5.648,-0.005
+GH0728,Tema West Municipal,Tema West Municipal,tema-west-municipal-gh0728,GH0728,0,5.651,-0.068
+GH0729,Weija Gbawe Municipal,Weija Gbawe Municipal,weija-gbawe-municipal-gh0729,GH0729,0,5.54,-0.343

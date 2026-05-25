@@ -1,0 +1,47 @@
+{
+  "id": "GH0512",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Effutu Municipal",
+    "en": "Effutu Municipal",
+    "slug": "effutu-municipal-gh0512"
+  },
+  "code": {
+    "id": "GH0512",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.384",
+    "lon": "-0.597"
+  },
+  "metadata": {},
+  "source": {}
+}

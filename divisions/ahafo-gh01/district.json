@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GH0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asunafo North Municipal",
+      "en": "Asunafo North Municipal",
+      "slug": "asunafo-north-municipal-gh0101"
+    },
+    "code": {
+      "id": "GH0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.814",
+      "lon": "-2.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asunafo South",
+      "en": "Asunafo South",
+      "slug": "asunafo-south-gh0102"
+    },
+    "code": {
+      "id": "GH0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "-2.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asutifi North",
+      "en": "Asutifi North",
+      "slug": "asutifi-north-gh0103"
+    },
+    "code": {
+      "id": "GH0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.076",
+      "lon": "-2.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asutifi South",
+      "en": "Asutifi South",
+      "slug": "asutifi-south-gh0104"
+    },
+    "code": {
+      "id": "GH0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.85",
+      "lon": "-2.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tano North Municipal",
+      "en": "Tano North Municipal",
+      "slug": "tano-north-municipal-gh0105"
+    },
+    "code": {
+      "id": "GH0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.195",
+      "lon": "-2.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tano South Municipal",
+      "en": "Tano South Municipal",
+      "slug": "tano-south-municipal-gh0106"
+    },
+    "code": {
+      "id": "GH0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.162",
+      "lon": "-1.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

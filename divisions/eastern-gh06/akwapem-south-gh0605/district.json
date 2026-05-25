@@ -1,0 +1,47 @@
+{
+  "id": "GH0605",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akwapem South",
+    "en": "Akwapem South",
+    "slug": "akwapem-south-gh0605"
+  },
+  "code": {
+    "id": "GH0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.844",
+    "lon": "-0.216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0407_abease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abease",
+      "en": "Abease",
+      "slug": "abease"
+    },
+    "code": {
+      "id": "GH0407_abease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0407",
+      "level": 2,
+      "name": {
+        "local": "Pru West",
+        "en": "Pru West",
+        "slug": "pru-west-gh0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0407",
+        "level": 2,
+        "name": {
+          "local": "Pru West",
+          "en": "Pru West",
+          "slug": "pru-west-gh0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.958",
+      "lon": "-1.182"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

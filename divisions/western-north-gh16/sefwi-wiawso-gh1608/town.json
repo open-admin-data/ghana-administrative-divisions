@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1608_ackaakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ackaakrom",
+      "en": "Ackaakrom",
+      "slug": "ackaakrom"
+    },
+    "code": {
+      "id": "GH1608_ackaakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.212",
+      "lon": "-2.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_akontombra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akontombra",
+      "en": "Akontombra",
+      "slug": "akontombra"
+    },
+    "code": {
+      "id": "GH1608_akontombra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.05",
+      "lon": "-2.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_anyinabrim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinabrim",
+      "en": "Anyinabrim",
+      "slug": "anyinabrim"
+    },
+    "code": {
+      "id": "GH1608_anyinabrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.369",
+      "lon": "-2.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_asafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asafo",
+      "en": "Asafo",
+      "slug": "asafo"
+    },
+    "code": {
+      "id": "GH1608_asafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.394",
+      "lon": "-2.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_asawinso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asawinso",
+      "en": "Asawinso",
+      "slug": "asawinso"
+    },
+    "code": {
+      "id": "GH1608_asawinso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.426",
+      "lon": "-2.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_edewarakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Edewarakrom",
+      "en": "Edewarakrom",
+      "slug": "edewarakrom"
+    },
+    "code": {
+      "id": "GH1608_edewarakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.005",
+      "lon": "-2.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_kramokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kramokrom",
+      "en": "Kramokrom",
+      "slug": "kramokrom"
+    },
+    "code": {
+      "id": "GH1608_kramokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.07",
+      "lon": "-2.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_nkonya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkonya",
+      "en": "Nkonya",
+      "slug": "nkonya"
+    },
+    "code": {
+      "id": "GH1608_nkonya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.283",
+      "lon": "-2.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_nyamegyeso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyamegyeso",
+      "en": "Nyamegyeso",
+      "slug": "nyamegyeso"
+    },
+    "code": {
+      "id": "GH1608_nyamegyeso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.249",
+      "lon": "-2.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1608_wiawso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiawso",
+      "en": "Wiawso",
+      "slug": "wiawso"
+    },
+    "code": {
+      "id": "GH1608_wiawso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1608",
+      "level": 2,
+      "name": {
+        "local": "Sefwi-Wiawso",
+        "en": "Sefwi-Wiawso",
+        "slug": "sefwi-wiawso-gh1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH16",
+        "level": 1,
+        "name": {
+          "local": "Western North",
+          "en": "Western North",
+          "slug": "western-north-gh16"
+        }
+      },
+      {
+        "id": "GH1608",
+        "level": 2,
+        "name": {
+          "local": "Sefwi-Wiawso",
+          "en": "Sefwi-Wiawso",
+          "slug": "sefwi-wiawso-gh1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.206",
+      "lon": "-2.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

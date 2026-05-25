@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "GH0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abura-Asebu-Kwamankese",
+      "en": "Abura-Asebu-Kwamankese",
+      "slug": "abura-asebu-kwamankese-gh0501"
+    },
+    "code": {
+      "id": "GH0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.268",
+      "lon": "-1.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Agona East",
+      "en": "Agona East",
+      "slug": "agona-east-gh0502"
+    },
+    "code": {
+      "id": "GH0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.636",
+      "lon": "-0.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Agona West Municipal",
+      "en": "Agona West Municipal",
+      "slug": "agona-west-municipal-gh0503"
+    },
+    "code": {
+      "id": "GH0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "-0.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ajumako-Enyan-Essiam",
+      "en": "Ajumako-Enyan-Essiam",
+      "slug": "ajumako-enyan-essiam-gh0504"
+    },
+    "code": {
+      "id": "GH0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.412",
+      "lon": "-0.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asikuma-Odoben-Brakwa",
+      "en": "Asikuma-Odoben-Brakwa",
+      "slug": "asikuma-odoben-brakwa-gh0505"
+    },
+    "code": {
+      "id": "GH0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.627",
+      "lon": "-1.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Assin Fosu",
+      "en": "Assin Fosu",
+      "slug": "assin-fosu-gh0506"
+    },
+    "code": {
+      "id": "GH0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.724",
+      "lon": "-1.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Assin North",
+      "en": "Assin North",
+      "slug": "assin-north-gh0507"
+    },
+    "code": {
+      "id": "GH0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.825",
+      "lon": "-1.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0508",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Assin South",
+      "en": "Assin South",
+      "slug": "assin-south-gh0508"
+    },
+    "code": {
+      "id": "GH0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.529",
+      "lon": "-1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Awutu Senya",
+      "en": "Awutu Senya",
+      "slug": "awutu-senya-gh0509"
+    },
+    "code": {
+      "id": "GH0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.62",
+      "lon": "-0.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0510",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Awutu Senya East",
+      "en": "Awutu Senya East",
+      "slug": "awutu-senya-east-gh0510"
+    },
+    "code": {
+      "id": "GH0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.403",
+      "lon": "-0.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0511",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cape Coast Metropolitan",
+      "en": "Cape Coast Metropolitan",
+      "slug": "cape-coast-metropolitan-gh0511"
+    },
+    "code": {
+      "id": "GH0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.176",
+      "lon": "-1.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0512",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Effutu Municipal",
+      "en": "Effutu Municipal",
+      "slug": "effutu-municipal-gh0512"
+    },
+    "code": {
+      "id": "GH0512",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.384",
+      "lon": "-0.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0513",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ekumfi",
+      "en": "Ekumfi",
+      "slug": "ekumfi-gh0513"
+    },
+    "code": {
+      "id": "GH0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.288",
+      "lon": "-0.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0514",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomoa Central",
+      "en": "Gomoa Central",
+      "slug": "gomoa-central-gh0514"
+    },
+    "code": {
+      "id": "GH0514",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.353",
+      "lon": "-0.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0515",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomoa East",
+      "en": "Gomoa East",
+      "slug": "gomoa-east-gh0515"
+    },
+    "code": {
+      "id": "GH0515",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.476",
+      "lon": "-0.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gomoa West",
+      "en": "Gomoa West",
+      "slug": "gomoa-west-gh0516"
+    },
+    "code": {
+      "id": "GH0516",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.387",
+      "lon": "-0.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0517",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Komenda-Edina-Eguafo-Abirem Municipal",
+      "en": "Komenda-Edina-Eguafo-Abirem Municipal",
+      "slug": "komenda-edina-eguafo-abirem-municipal-gh0517"
+    },
+    "code": {
+      "id": "GH0517",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.13",
+      "lon": "-1.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mfantseman Municipal",
+      "en": "Mfantseman Municipal",
+      "slug": "mfantseman-municipal-gh0518"
+    },
+    "code": {
+      "id": "GH0518",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.276",
+      "lon": "-1.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Twifo Atti-Morkwa",
+      "en": "Twifo Atti-Morkwa",
+      "slug": "twifo-atti-morkwa-gh0519"
+    },
+    "code": {
+      "id": "GH0519",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.68",
+      "lon": "-1.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0520",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Twifo Hemang Lower Denkyira",
+      "en": "Twifo Hemang Lower Denkyira",
+      "slug": "twifo-hemang-lower-denkyira-gh0520"
+    },
+    "code": {
+      "id": "GH0520",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.379",
+      "lon": "-1.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Denkyira East Municipal",
+      "en": "Upper Denkyira East Municipal",
+      "slug": "upper-denkyira-east-municipal-gh0521"
+    },
+    "code": {
+      "id": "GH0521",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.835",
+      "lon": "-1.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Upper Denkyira West",
+      "en": "Upper Denkyira West",
+      "slug": "upper-denkyira-west-gh0522"
+    },
+    "code": {
+      "id": "GH0522",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.107",
+      "lon": "-2.071"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

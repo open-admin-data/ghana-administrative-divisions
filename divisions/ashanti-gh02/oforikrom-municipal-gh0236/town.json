@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0236_apromase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apromase",
+      "en": "Apromase",
+      "slug": "apromase"
+    },
+    "code": {
+      "id": "GH0236_apromase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.671",
+      "lon": "-1.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_donyina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Donyina",
+      "en": "Donyina",
+      "slug": "donyina"
+    },
+    "code": {
+      "id": "GH0236_donyina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.64",
+      "lon": "-1.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_ejisu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ejisu",
+      "en": "Ejisu",
+      "slug": "ejisu"
+    },
+    "code": {
+      "id": "GH0236_ejisu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.721",
+      "lon": "-1.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_essienimpong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essienimpong",
+      "en": "Essienimpong",
+      "slug": "essienimpong"
+    },
+    "code": {
+      "id": "GH0236_essienimpong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.661",
+      "lon": "-1.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_krapa-ejisu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Krapa-Ejisu",
+      "en": "Krapa-Ejisu",
+      "slug": "krapa-ejisu"
+    },
+    "code": {
+      "id": "GH0236_krapa-ejisu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.72",
+      "lon": "-1.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_kwamo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamo",
+      "en": "Kwamo",
+      "slug": "kwamo"
+    },
+    "code": {
+      "id": "GH0236_kwamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.721",
+      "lon": "-1.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_onwe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Onwe",
+      "en": "Onwe",
+      "slug": "onwe"
+    },
+    "code": {
+      "id": "GH0236_onwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.68",
+      "lon": "-1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236_serwaa-akura",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Serwaa Akura",
+      "en": "Serwaa Akura",
+      "slug": "serwaa-akura"
+    },
+    "code": {
+      "id": "GH0236_serwaa-akura",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0236",
+      "level": 2,
+      "name": {
+        "local": "Oforikrom Municipal",
+        "en": "Oforikrom Municipal",
+        "slug": "oforikrom-municipal-gh0236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0236",
+        "level": 2,
+        "name": {
+          "local": "Oforikrom Municipal",
+          "en": "Oforikrom Municipal",
+          "slug": "oforikrom-municipal-gh0236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.723",
+      "lon": "-1.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

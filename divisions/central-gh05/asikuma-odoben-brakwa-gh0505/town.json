@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0505_anhwiam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anhwiam",
+      "en": "Anhwiam",
+      "slug": "anhwiam"
+    },
+    "code": {
+      "id": "GH0505_anhwiam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.645",
+      "lon": "-1.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_asikuma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asikuma",
+      "en": "Asikuma",
+      "slug": "asikuma"
+    },
+    "code": {
+      "id": "GH0505_asikuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.59",
+      "lon": "-0.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_bedum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bedum",
+      "en": "Bedum",
+      "slug": "bedum"
+    },
+    "code": {
+      "id": "GH0505_bedum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.526",
+      "lon": "-1.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_breman-amanfopong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Breman Amanfopong",
+      "en": "Breman Amanfopong",
+      "slug": "breman-amanfopong"
+    },
+    "code": {
+      "id": "GH0505_breman-amanfopong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.737",
+      "lon": "-1.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_breman-asikuma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Breman Asikuma",
+      "en": "Breman Asikuma",
+      "slug": "breman-asikuma"
+    },
+    "code": {
+      "id": "GH0505_breman-asikuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.581",
+      "lon": "-0.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_breman-brakwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Breman Brakwa",
+      "en": "Breman Brakwa",
+      "slug": "breman-brakwa"
+    },
+    "code": {
+      "id": "GH0505_breman-brakwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.699",
+      "lon": "-0.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0505_odoben",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Odoben",
+      "en": "Odoben",
+      "slug": "odoben"
+    },
+    "code": {
+      "id": "GH0505_odoben",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0505",
+      "level": 2,
+      "name": {
+        "local": "Asikuma-Odoben-Brakwa",
+        "en": "Asikuma-Odoben-Brakwa",
+        "slug": "asikuma-odoben-brakwa-gh0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0505",
+        "level": 2,
+        "name": {
+          "local": "Asikuma-Odoben-Brakwa",
+          "en": "Asikuma-Odoben-Brakwa",
+          "slug": "asikuma-odoben-brakwa-gh0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.633",
+      "lon": "-0.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

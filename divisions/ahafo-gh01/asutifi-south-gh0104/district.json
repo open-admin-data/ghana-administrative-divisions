@@ -1,0 +1,47 @@
+{
+  "id": "GH0104",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asutifi South",
+    "en": "Asutifi South",
+    "slug": "asutifi-south-gh0104"
+  },
+  "code": {
+    "id": "GH0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH01",
+    "level": 1,
+    "name": {
+      "local": "Ahafo",
+      "en": "Ahafo",
+      "slug": "ahafo-gh01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.85",
+    "lon": "-2.461"
+  },
+  "metadata": {},
+  "source": {}
+}

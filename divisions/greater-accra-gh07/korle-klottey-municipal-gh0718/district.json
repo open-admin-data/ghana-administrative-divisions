@@ -1,0 +1,47 @@
+{
+  "id": "GH0718",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Korle Klottey Municipal",
+    "en": "Korle Klottey Municipal",
+    "slug": "korle-klottey-municipal-gh0718"
+  },
+  "code": {
+    "id": "GH0718",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.561",
+    "lon": "-0.196"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0210",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amansie Central",
+    "en": "Amansie Central",
+    "slug": "amansie-central-gh0210"
+  },
+  "code": {
+    "id": "GH0210",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.207",
+    "lon": "-1.829"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0617_begoro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Begoro",
+      "en": "Begoro",
+      "slug": "begoro"
+    },
+    "code": {
+      "id": "GH0617_begoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0617",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa South",
+        "en": "Fanteakwa South",
+        "slug": "fanteakwa-south-gh0617"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0617",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa South",
+          "en": "Fanteakwa South",
+          "slug": "fanteakwa-south-gh0617"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.385",
+      "lon": "-0.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0617_ehiamenkyene",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ehiamenkyene",
+      "en": "Ehiamenkyene",
+      "slug": "ehiamenkyene"
+    },
+    "code": {
+      "id": "GH0617_ehiamenkyene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0617",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa South",
+        "en": "Fanteakwa South",
+        "slug": "fanteakwa-south-gh0617"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0617",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa South",
+          "en": "Fanteakwa South",
+          "slug": "fanteakwa-south-gh0617"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.327",
+      "lon": "-0.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0617_nkankama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkankama",
+      "en": "Nkankama",
+      "slug": "nkankama"
+    },
+    "code": {
+      "id": "GH0617_nkankama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0617",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa South",
+        "en": "Fanteakwa South",
+        "slug": "fanteakwa-south-gh0617"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0617",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa South",
+          "en": "Fanteakwa South",
+          "slug": "fanteakwa-south-gh0617"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.429",
+      "lon": "-0.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

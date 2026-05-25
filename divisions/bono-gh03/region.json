@@ -1,0 +1,30 @@
+{
+  "id": "GH03",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bono",
+    "en": "Bono",
+    "slug": "bono-gh03"
+  },
+  "code": {
+    "id": "GH03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12,
+    "town": 76
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.817",
+    "lon": "-2.37"
+  },
+  "metadata": {},
+  "source": {}
+}

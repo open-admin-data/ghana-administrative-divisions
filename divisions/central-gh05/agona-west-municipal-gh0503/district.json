@@ -1,0 +1,47 @@
+{
+  "id": "GH0503",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Agona West Municipal",
+    "en": "Agona West Municipal",
+    "slug": "agona-west-municipal-gh0503"
+  },
+  "code": {
+    "id": "GH0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.629",
+    "lon": "-0.803"
+  },
+  "metadata": {},
+  "source": {}
+}

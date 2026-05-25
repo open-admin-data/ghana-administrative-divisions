@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH1417_adzokoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adzokoe",
+      "en": "Adzokoe",
+      "slug": "adzokoe"
+    },
+    "code": {
+      "id": "GH1417_adzokoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.626",
+      "lon": "0.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_anum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anum",
+      "en": "Anum",
+      "slug": "anum"
+    },
+    "code": {
+      "id": "GH1417_anum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.491",
+      "lon": "0.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_asikuma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asikuma",
+      "en": "Asikuma",
+      "slug": "asikuma"
+    },
+    "code": {
+      "id": "GH1417_asikuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.491",
+      "lon": "0.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_boso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boso",
+      "en": "Boso",
+      "slug": "boso"
+    },
+    "code": {
+      "id": "GH1417_boso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.501",
+      "lon": "0.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_dzakeh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzakeh",
+      "en": "Dzakeh",
+      "slug": "dzakeh"
+    },
+    "code": {
+      "id": "GH1417_dzakeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.501",
+      "lon": "0.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_dzemeni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dzemeni",
+      "en": "Dzemeni",
+      "slug": "dzemeni"
+    },
+    "code": {
+      "id": "GH1417_dzemeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.6",
+      "lon": "0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_have",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Have",
+      "en": "Have",
+      "slug": "have"
+    },
+    "code": {
+      "id": "GH1417_have",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.758",
+      "lon": "0.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_kpalime-duga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpalime Duga",
+      "en": "Kpalime Duga",
+      "slug": "kpalime-duga"
+    },
+    "code": {
+      "id": "GH1417_kpalime-duga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.573",
+      "lon": "0.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_kpeve",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpeve",
+      "en": "Kpeve",
+      "slug": "kpeve"
+    },
+    "code": {
+      "id": "GH1417_kpeve",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.68",
+      "lon": "0.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_peki",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Peki",
+      "en": "Peki",
+      "slug": "peki"
+    },
+    "code": {
+      "id": "GH1417_peki",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.534",
+      "lon": "0.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_tongo-dzemeni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tongo Dzemeni",
+      "en": "Tongo Dzemeni",
+      "slug": "tongo-dzemeni"
+    },
+    "code": {
+      "id": "GH1417_tongo-dzemeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.604",
+      "lon": "0.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_tongor-tsanakpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tongor Tsanakpe",
+      "en": "Tongor Tsanakpe",
+      "slug": "tongor-tsanakpe"
+    },
+    "code": {
+      "id": "GH1417_tongor-tsanakpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.607",
+      "lon": "0.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417_wegbe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wegbe",
+      "en": "Wegbe",
+      "slug": "wegbe"
+    },
+    "code": {
+      "id": "GH1417_wegbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1417",
+      "level": 2,
+      "name": {
+        "local": "South Dayi",
+        "en": "South Dayi",
+        "slug": "south-dayi-gh1417"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1417",
+        "level": 2,
+        "name": {
+          "local": "South Dayi",
+          "en": "South Dayi",
+          "slug": "south-dayi-gh1417"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.654",
+      "lon": "0.343"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

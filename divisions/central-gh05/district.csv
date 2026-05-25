@@ -1,0 +1,23 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0501,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,abura-asebu-kwamankese-gh0501,GH0501,12,5.268,-1.19
+GH0502,Agona East,Agona East,agona-east-gh0502,GH0502,5,5.636,-0.656
+GH0503,Agona West Municipal,Agona West Municipal,agona-west-municipal-gh0503,GH0503,8,5.629,-0.803
+GH0504,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,ajumako-enyan-essiam-gh0504,GH0504,12,5.412,-0.984
+GH0505,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,asikuma-odoben-brakwa-gh0505,GH0505,7,5.627,-1.025
+GH0506,Assin Fosu,Assin Fosu,assin-fosu-gh0506,GH0506,0,5.724,-1.311
+GH0507,Assin North,Assin North,assin-north-gh0507,GH0507,8,5.825,-1.373
+GH0508,Assin South,Assin South,assin-south-gh0508,GH0508,7,5.529,-1.271
+GH0509,Awutu Senya,Awutu Senya,awutu-senya-gh0509,GH0509,8,5.62,-0.501
+GH0510,Awutu Senya East,Awutu Senya East,awutu-senya-east-gh0510,GH0510,1,5.403,-0.518
+GH0511,Cape Coast Metropolitan,Cape Coast Metropolitan,cape-coast-metropolitan-gh0511,GH0511,20,5.176,-1.312
+GH0512,Effutu Municipal,Effutu Municipal,effutu-municipal-gh0512,GH0512,1,5.384,-0.597
+GH0513,Ekumfi,Ekumfi,ekumfi-gh0513,GH0513,0,5.288,-0.91
+GH0514,Gomoa Central,Gomoa Central,gomoa-central-gh0514,GH0514,0,5.353,-0.725
+GH0515,Gomoa East,Gomoa East,gomoa-east-gh0515,GH0515,10,5.476,-0.589
+GH0516,Gomoa West,Gomoa West,gomoa-west-gh0516,GH0516,6,5.387,-0.834
+GH0517,Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem Municipal,komenda-edina-eguafo-abirem-municipal-gh0517,GH0517,11,5.13,-1.44
+GH0518,Mfantseman Municipal,Mfantseman Municipal,mfantseman-municipal-gh0518,GH0518,9,5.276,-1.035
+GH0519,Twifo Atti-Morkwa,Twifo Atti-Morkwa,twifo-atti-morkwa-gh0519,GH0519,6,5.68,-1.618
+GH0520,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,twifo-hemang-lower-denkyira-gh0520,GH0520,2,5.379,-1.401
+GH0521,Upper Denkyira East Municipal,Upper Denkyira East Municipal,upper-denkyira-east-municipal-gh0521,GH0521,7,5.835,-1.739
+GH0522,Upper Denkyira West,Upper Denkyira West,upper-denkyira-west-gh0522,GH0522,7,6.107,-2.071

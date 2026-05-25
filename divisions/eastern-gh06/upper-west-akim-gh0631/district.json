@@ -1,0 +1,47 @@
+{
+  "id": "GH0631",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upper West Akim",
+    "en": "Upper West Akim",
+    "slug": "upper-west-akim-gh0631"
+  },
+  "code": {
+    "id": "GH0631",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.806",
+    "lon": "-0.54"
+  },
+  "metadata": {},
+  "source": {}
+}

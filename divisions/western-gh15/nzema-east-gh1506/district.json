@@ -1,0 +1,47 @@
+{
+  "id": "GH1506",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nzema East",
+    "en": "Nzema East",
+    "slug": "nzema-east-gh1506"
+  },
+  "code": {
+    "id": "GH1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH15",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-gh15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.086",
+    "lon": "-2.222"
+  },
+  "metadata": {},
+  "source": {}
+}

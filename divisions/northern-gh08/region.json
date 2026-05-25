@@ -1,0 +1,30 @@
+{
+  "id": "GH08",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Northern",
+    "en": "Northern",
+    "slug": "northern-gh08"
+  },
+  "code": {
+    "id": "GH08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16,
+    "town": 93
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.279",
+    "lon": "0.003"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH0224_amakom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amakom",
+      "en": "Amakom",
+      "slug": "amakom"
+    },
+    "code": {
+      "id": "GH0224_amakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.484",
+      "lon": "-1.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_apinkra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apinkra",
+      "en": "Apinkra",
+      "slug": "apinkra"
+    },
+    "code": {
+      "id": "GH0224_apinkra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.541",
+      "lon": "-1.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_brodekwanu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brodekwanu",
+      "en": "Brodekwanu",
+      "slug": "brodekwanu"
+    },
+    "code": {
+      "id": "GH0224_brodekwanu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "-1.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_esereso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Esereso",
+      "en": "Esereso",
+      "slug": "esereso"
+    },
+    "code": {
+      "id": "GH0224_esereso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.632",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_feyiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Feyiase",
+      "en": "Feyiase",
+      "slug": "feyiase"
+    },
+    "code": {
+      "id": "GH0224_feyiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.613",
+      "lon": "-1.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_jachie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jachie",
+      "en": "Jachie",
+      "slug": "jachie"
+    },
+    "code": {
+      "id": "GH0224_jachie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.566",
+      "lon": "-1.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_konkoma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Konkoma",
+      "en": "Konkoma",
+      "slug": "konkoma"
+    },
+    "code": {
+      "id": "GH0224_konkoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.513",
+      "lon": "-1.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_kuntenase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kuntenase",
+      "en": "Kuntenase",
+      "slug": "kuntenase"
+    },
+    "code": {
+      "id": "GH0224_kuntenase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.538",
+      "lon": "-1.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_kwaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwaso",
+      "en": "Kwaso",
+      "slug": "kwaso"
+    },
+    "code": {
+      "id": "GH0224_kwaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.628",
+      "lon": "-1.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_new-kokobiriko-abijan-nkwant",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Kokobiriko (Abijan-Nkwant",
+      "en": "New Kokobiriko (Abijan-Nkwant",
+      "slug": "new-kokobiriko-abijan-nkwant"
+    },
+    "code": {
+      "id": "GH0224_new-kokobiriko-abijan-nkwant",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.579",
+      "lon": "-1.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_nyameani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyameani",
+      "en": "Nyameani",
+      "slug": "nyameani"
+    },
+    "code": {
+      "id": "GH0224_nyameani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.565",
+      "lon": "-1.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_piase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Piase",
+      "en": "Piase",
+      "slug": "piase"
+    },
+    "code": {
+      "id": "GH0224_piase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.591",
+      "lon": "-1.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224_pramso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pramso",
+      "en": "Pramso",
+      "slug": "pramso"
+    },
+    "code": {
+      "id": "GH0224_pramso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0224",
+      "level": 2,
+      "name": {
+        "local": "Bosomtwe",
+        "en": "Bosomtwe",
+        "slug": "bosomtwe-gh0224"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0224",
+        "level": 2,
+        "name": {
+          "local": "Bosomtwe",
+          "en": "Bosomtwe",
+          "slug": "bosomtwe-gh0224"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "-1.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

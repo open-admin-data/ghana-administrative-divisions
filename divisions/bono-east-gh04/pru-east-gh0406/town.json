@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0406_parambo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Parambo",
+      "en": "Parambo",
+      "slug": "parambo"
+    },
+    "code": {
+      "id": "GH0406_parambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0406",
+      "level": 2,
+      "name": {
+        "local": "Pru East",
+        "en": "Pru East",
+        "slug": "pru-east-gh0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0406",
+        "level": 2,
+        "name": {
+          "local": "Pru East",
+          "en": "Pru East",
+          "slug": "pru-east-gh0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.125",
+      "lon": "-0.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0406_prang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Prang",
+      "en": "Prang",
+      "slug": "prang"
+    },
+    "code": {
+      "id": "GH0406_prang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0406",
+      "level": 2,
+      "name": {
+        "local": "Pru East",
+        "en": "Pru East",
+        "slug": "pru-east-gh0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0406",
+        "level": 2,
+        "name": {
+          "local": "Pru East",
+          "en": "Pru East",
+          "slug": "pru-east-gh0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.995",
+      "lon": "-0.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0406_yeji",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yeji",
+      "en": "Yeji",
+      "slug": "yeji"
+    },
+    "code": {
+      "id": "GH0406_yeji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0406",
+      "level": 2,
+      "name": {
+        "local": "Pru East",
+        "en": "Pru East",
+        "slug": "pru-east-gh0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      },
+      {
+        "id": "GH0406",
+        "level": 2,
+        "name": {
+          "local": "Pru East",
+          "en": "Pru East",
+          "slug": "pru-east-gh0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.229",
+      "lon": "-0.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

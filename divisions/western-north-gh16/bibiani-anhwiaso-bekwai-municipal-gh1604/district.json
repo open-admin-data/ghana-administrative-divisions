@@ -1,0 +1,47 @@
+{
+  "id": "GH1604",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bibiani-Anhwiaso-Bekwai Municipal",
+    "en": "Bibiani-Anhwiaso-Bekwai Municipal",
+    "slug": "bibiani-anhwiaso-bekwai-municipal-gh1604"
+  },
+  "code": {
+    "id": "GH1604",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH16",
+    "level": 1,
+    "name": {
+      "local": "Western North",
+      "en": "Western North",
+      "slug": "western-north-gh16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH16",
+      "level": 1,
+      "name": {
+        "local": "Western North",
+        "en": "Western North",
+        "slug": "western-north-gh16"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.294",
+    "lon": "-2.232"
+  },
+  "metadata": {},
+  "source": {}
+}

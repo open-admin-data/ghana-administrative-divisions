@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0522_ayanfuri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayanfuri",
+      "en": "Ayanfuri",
+      "slug": "ayanfuri"
+    },
+    "code": {
+      "id": "GH0522_ayanfuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "-1.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_diaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Diaso",
+      "en": "Diaso",
+      "slug": "diaso"
+    },
+    "code": {
+      "id": "GH0522_diaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.153",
+      "lon": "-2.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_dominase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dominase",
+      "en": "Dominase",
+      "slug": "dominase"
+    },
+    "code": {
+      "id": "GH0522_dominase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.05",
+      "lon": "-1.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_dominasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dominasi",
+      "en": "Dominasi",
+      "slug": "dominasi"
+    },
+    "code": {
+      "id": "GH0522_dominasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.046",
+      "lon": "-1.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_nkotomso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkotomso",
+      "en": "Nkotomso",
+      "slug": "nkotomso"
+    },
+    "code": {
+      "id": "GH0522_nkotomso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.002",
+      "lon": "-1.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_ntom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntom",
+      "en": "Ntom",
+      "slug": "ntom"
+    },
+    "code": {
+      "id": "GH0522_ntom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.2",
+      "lon": "-2.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0522_subin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Subin",
+      "en": "Subin",
+      "slug": "subin"
+    },
+    "code": {
+      "id": "GH0522_subin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0522",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira West",
+        "en": "Upper Denkyira West",
+        "slug": "upper-denkyira-west-gh0522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0522",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira West",
+          "en": "Upper Denkyira West",
+          "slug": "upper-denkyira-west-gh0522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.2",
+      "lon": "-1.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

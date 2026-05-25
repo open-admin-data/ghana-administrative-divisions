@@ -1,0 +1,2023 @@
+[
+  {
+    "id": "GH0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adansi Akrofuom",
+      "en": "Adansi Akrofuom",
+      "slug": "adansi-akrofuom-gh0201"
+    },
+    "code": {
+      "id": "GH0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.029",
+      "lon": "-1.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adansi Asokwa",
+      "en": "Adansi Asokwa",
+      "slug": "adansi-asokwa-gh0202"
+    },
+    "code": {
+      "id": "GH0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.168",
+      "lon": "-1.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adansi North",
+      "en": "Adansi North",
+      "slug": "adansi-north-gh0203"
+    },
+    "code": {
+      "id": "GH0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.3",
+      "lon": "-1.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adansi South",
+      "en": "Adansi South",
+      "slug": "adansi-south-gh0204"
+    },
+    "code": {
+      "id": "GH0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.003",
+      "lon": "-1.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Afigya Kwabre North",
+      "en": "Afigya Kwabre North",
+      "slug": "afigya-kwabre-north-gh0205"
+    },
+    "code": {
+      "id": "GH0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.039",
+      "lon": "-1.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Afigya Kwabre South",
+      "en": "Afigya Kwabre South",
+      "slug": "afigya-kwabre-south-gh0206"
+    },
+    "code": {
+      "id": "GH0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.839",
+      "lon": "-1.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahafo Ano North",
+      "en": "Ahafo Ano North",
+      "slug": "ahafo-ano-north-gh0207"
+    },
+    "code": {
+      "id": "GH0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.91",
+      "lon": "-2.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0208",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahafo Ano South East",
+      "en": "Ahafo Ano South East",
+      "slug": "ahafo-ano-south-east-gh0208"
+    },
+    "code": {
+      "id": "GH0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.904",
+      "lon": "-1.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0209",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahafo Ano South West",
+      "en": "Ahafo Ano South West",
+      "slug": "ahafo-ano-south-west-gh0209"
+    },
+    "code": {
+      "id": "GH0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.896",
+      "lon": "-2.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0210",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amansie Central",
+      "en": "Amansie Central",
+      "slug": "amansie-central-gh0210"
+    },
+    "code": {
+      "id": "GH0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.207",
+      "lon": "-1.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0211",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amansie South",
+      "en": "Amansie South",
+      "slug": "amansie-south-gh0211"
+    },
+    "code": {
+      "id": "GH0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.307",
+      "lon": "-2.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0212",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amansie West",
+      "en": "Amansie West",
+      "slug": "amansie-west-gh0212"
+    },
+    "code": {
+      "id": "GH0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.437",
+      "lon": "-1.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0213",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asante Akim Central Municipal",
+      "en": "Asante Akim Central Municipal",
+      "slug": "asante-akim-central-municipal-gh0213"
+    },
+    "code": {
+      "id": "GH0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.565",
+      "lon": "-1.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0214",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asante Akim North",
+      "en": "Asante Akim North",
+      "slug": "asante-akim-north-gh0214"
+    },
+    "code": {
+      "id": "GH0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.842",
+      "lon": "-0.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0215",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asante Akim South",
+      "en": "Asante Akim South",
+      "slug": "asante-akim-south-gh0215"
+    },
+    "code": {
+      "id": "GH0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "-1.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0216",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asokore Mampong Municipal",
+      "en": "Asokore Mampong Municipal",
+      "slug": "asokore-mampong-municipal-gh0216"
+    },
+    "code": {
+      "id": "GH0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.712",
+      "lon": "-1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0217",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asokwa Municipal",
+      "en": "Asokwa Municipal",
+      "slug": "asokwa-municipal-gh0217"
+    },
+    "code": {
+      "id": "GH0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.645",
+      "lon": "-1.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0218",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atwima Kwanwoma",
+      "en": "Atwima Kwanwoma",
+      "slug": "atwima-kwanwoma-gh0218"
+    },
+    "code": {
+      "id": "GH0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.59",
+      "lon": "-1.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0219",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atwima Mponua",
+      "en": "Atwima Mponua",
+      "slug": "atwima-mponua-gh0219"
+    },
+    "code": {
+      "id": "GH0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.555",
+      "lon": "-2.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0220",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atwima Nwabiagya North",
+      "en": "Atwima Nwabiagya North",
+      "slug": "atwima-nwabiagya-north-gh0220"
+    },
+    "code": {
+      "id": "GH0220",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.879",
+      "lon": "-1.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0221",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atwima Nwabiagya South",
+      "en": "Atwima Nwabiagya South",
+      "slug": "atwima-nwabiagya-south-gh0221"
+    },
+    "code": {
+      "id": "GH0221",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.689",
+      "lon": "-1.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bekwai Municipal",
+      "en": "Bekwai Municipal",
+      "slug": "bekwai-municipal-gh0222"
+    },
+    "code": {
+      "id": "GH0222",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.438",
+      "lon": "-1.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0223",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bosome Freho",
+      "en": "Bosome Freho",
+      "slug": "bosome-freho-gh0223"
+    },
+    "code": {
+      "id": "GH0223",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.368",
+      "lon": "-1.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0224",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bosomtwe",
+      "en": "Bosomtwe",
+      "slug": "bosomtwe-gh0224"
+    },
+    "code": {
+      "id": "GH0224",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "-1.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0225",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ejisu Municipal",
+      "en": "Ejisu Municipal",
+      "slug": "ejisu-municipal-gh0225"
+    },
+    "code": {
+      "id": "GH0225",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.614",
+      "lon": "-1.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0226",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ejura-Sekyedumase",
+      "en": "Ejura-Sekyedumase",
+      "slug": "ejura-sekyedumase-gh0226"
+    },
+    "code": {
+      "id": "GH0226",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.385",
+      "lon": "-1.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Juaben Municipal",
+      "en": "Juaben Municipal",
+      "slug": "juaben-municipal-gh0227"
+    },
+    "code": {
+      "id": "GH0227",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.756",
+      "lon": "-1.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kumasi Metropolitan",
+      "en": "Kumasi Metropolitan",
+      "slug": "kumasi-metropolitan-gh0228"
+    },
+    "code": {
+      "id": "GH0228",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.689",
+      "lon": "-1.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0229",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwabre East",
+      "en": "Kwabre East",
+      "slug": "kwabre-east-gh0229"
+    },
+    "code": {
+      "id": "GH0229",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.788",
+      "lon": "-1.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0230",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwadaso Municipal",
+      "en": "Kwadaso Municipal",
+      "slug": "kwadaso-municipal-gh0230"
+    },
+    "code": {
+      "id": "GH0230",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.668",
+      "lon": "-1.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0231",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mampong Municipal",
+      "en": "Mampong Municipal",
+      "slug": "mampong-municipal-gh0231"
+    },
+    "code": {
+      "id": "GH0231",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.114",
+      "lon": "-1.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0232",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obuasi East",
+      "en": "Obuasi East",
+      "slug": "obuasi-east-gh0232"
+    },
+    "code": {
+      "id": "GH0232",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.18",
+      "lon": "-1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obuasi Municipal",
+      "en": "Obuasi Municipal",
+      "slug": "obuasi-municipal-gh0233"
+    },
+    "code": {
+      "id": "GH0233",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.189",
+      "lon": "-1.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Offinso Municipal",
+      "en": "Offinso Municipal",
+      "slug": "offinso-municipal-gh0234"
+    },
+    "code": {
+      "id": "GH0234",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.058",
+      "lon": "-1.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0235",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Offinso North",
+      "en": "Offinso North",
+      "slug": "offinso-north-gh0235"
+    },
+    "code": {
+      "id": "GH0235",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.28",
+      "lon": "-1.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0236",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Oforikrom Municipal",
+      "en": "Oforikrom Municipal",
+      "slug": "oforikrom-municipal-gh0236"
+    },
+    "code": {
+      "id": "GH0236",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.676",
+      "lon": "-1.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0237",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Old Tafo Municipal",
+      "en": "Old Tafo Municipal",
+      "slug": "old-tafo-municipal-gh0237"
+    },
+    "code": {
+      "id": "GH0237",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.736",
+      "lon": "-1.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0238",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekyere Afram Plains North",
+      "en": "Sekyere Afram Plains North",
+      "slug": "sekyere-afram-plains-north-gh0238"
+    },
+    "code": {
+      "id": "GH0238",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.211",
+      "lon": "-0.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0239",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekyere Central",
+      "en": "Sekyere Central",
+      "slug": "sekyere-central-gh0239"
+    },
+    "code": {
+      "id": "GH0239",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.216",
+      "lon": "-1.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekyere East",
+      "en": "Sekyere East",
+      "slug": "sekyere-east-gh0240"
+    },
+    "code": {
+      "id": "GH0240",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "-1.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0241",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekyere Kumawu",
+      "en": "Sekyere Kumawu",
+      "slug": "sekyere-kumawu-gh0241"
+    },
+    "code": {
+      "id": "GH0241",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.911",
+      "lon": "-1.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekyere South",
+      "en": "Sekyere South",
+      "slug": "sekyere-south-gh0242"
+    },
+    "code": {
+      "id": "GH0242",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.996",
+      "lon": "-1.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0243",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suame Municipal",
+      "en": "Suame Municipal",
+      "slug": "suame-municipal-gh0243"
+    },
+    "code": {
+      "id": "GH0243",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.736",
+      "lon": "-1.648"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

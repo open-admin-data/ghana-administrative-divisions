@@ -1,0 +1,1365 @@
+[
+  {
+    "id": "GH0701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ablekuma Central Municipal",
+      "en": "Ablekuma Central Municipal",
+      "slug": "ablekuma-central-municipal-gh0701"
+    },
+    "code": {
+      "id": "GH0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.555",
+      "lon": "-0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ablekuma North Municipal",
+      "en": "Ablekuma North Municipal",
+      "slug": "ablekuma-north-municipal-gh0702"
+    },
+    "code": {
+      "id": "GH0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.58",
+      "lon": "-0.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ablekuma West Municipal",
+      "en": "Ablekuma West Municipal",
+      "slug": "ablekuma-west-municipal-gh0703"
+    },
+    "code": {
+      "id": "GH0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.538",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Accra Metropolis",
+      "en": "Accra Metropolis",
+      "slug": "accra-metropolis-gh0704"
+    },
+    "code": {
+      "id": "GH0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.544",
+      "lon": "-0.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ada East",
+      "en": "Ada East",
+      "slug": "ada-east-gh0705"
+    },
+    "code": {
+      "id": "GH0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.876",
+      "lon": "0.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0706",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ada West",
+      "en": "Ada West",
+      "slug": "ada-west-gh0706"
+    },
+    "code": {
+      "id": "GH0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.893",
+      "lon": "0.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0707",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adenta Municipal",
+      "en": "Adenta Municipal",
+      "slug": "adenta-municipal-gh0707"
+    },
+    "code": {
+      "id": "GH0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.713",
+      "lon": "-0.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0708",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ashaiman Municipal",
+      "en": "Ashaiman Municipal",
+      "slug": "ashaiman-municipal-gh0708"
+    },
+    "code": {
+      "id": "GH0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "-0.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0709",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayawaso Central Municipal",
+      "en": "Ayawaso Central Municipal",
+      "slug": "ayawaso-central-municipal-gh0709"
+    },
+    "code": {
+      "id": "GH0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.579",
+      "lon": "-0.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0710",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayawaso East Municipal",
+      "en": "Ayawaso East Municipal",
+      "slug": "ayawaso-east-municipal-gh0710"
+    },
+    "code": {
+      "id": "GH0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.589",
+      "lon": "-0.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0711",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayawaso North Municipal",
+      "en": "Ayawaso North Municipal",
+      "slug": "ayawaso-north-municipal-gh0711"
+    },
+    "code": {
+      "id": "GH0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.595",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayawaso West",
+      "en": "Ayawaso West",
+      "slug": "ayawaso-west-gh0712"
+    },
+    "code": {
+      "id": "GH0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.631",
+      "lon": "-0.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0713",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ga Central Municipal",
+      "en": "Ga Central Municipal",
+      "slug": "ga-central-municipal-gh0713"
+    },
+    "code": {
+      "id": "GH0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.616",
+      "lon": "-0.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ga East",
+      "en": "Ga East",
+      "slug": "ga-east-gh0714"
+    },
+    "code": {
+      "id": "GH0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.706",
+      "lon": "-0.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0715",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ga North Municipal",
+      "en": "Ga North Municipal",
+      "slug": "ga-north-municipal-gh0715"
+    },
+    "code": {
+      "id": "GH0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.711",
+      "lon": "-0.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0716",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ga South Municipal",
+      "en": "Ga South Municipal",
+      "slug": "ga-south-municipal-gh0716"
+    },
+    "code": {
+      "id": "GH0716",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.678",
+      "lon": "-0.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0717",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ga West Municipal",
+      "en": "Ga West Municipal",
+      "slug": "ga-west-municipal-gh0717"
+    },
+    "code": {
+      "id": "GH0717",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.704",
+      "lon": "-0.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0718",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korle Klottey Municipal",
+      "en": "Korle Klottey Municipal",
+      "slug": "korle-klottey-municipal-gh0718"
+    },
+    "code": {
+      "id": "GH0718",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.561",
+      "lon": "-0.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0719",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kpone Katamanso",
+      "en": "Kpone Katamanso",
+      "slug": "kpone-katamanso-gh0719"
+    },
+    "code": {
+      "id": "GH0719",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.767",
+      "lon": "-0.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0720",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krowor Municipal",
+      "en": "Krowor Municipal",
+      "slug": "krowor-municipal-gh0720"
+    },
+    "code": {
+      "id": "GH0720",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.613",
+      "lon": "-0.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0721",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Dade-Kotopon",
+      "en": "La Dade-Kotopon",
+      "slug": "la-dade-kotopon-gh0721"
+    },
+    "code": {
+      "id": "GH0721",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.588",
+      "lon": "-0.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0722",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "La-Nkwantanang-Madina",
+      "en": "La-Nkwantanang-Madina",
+      "slug": "la-nkwantanang-madina-gh0722"
+    },
+    "code": {
+      "id": "GH0722",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.741",
+      "lon": "-0.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0723",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ledzokuku Municipal",
+      "en": "Ledzokuku Municipal",
+      "slug": "ledzokuku-municipal-gh0723"
+    },
+    "code": {
+      "id": "GH0723",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.604",
+      "lon": "-0.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0724",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ningo/Prampram",
+      "en": "Ningo/Prampram",
+      "slug": "ningoprampram-gh0724"
+    },
+    "code": {
+      "id": "GH0724",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.815",
+      "lon": "0.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0725",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okaikwei North Municipal",
+      "en": "Okaikwei North Municipal",
+      "slug": "okaikwei-north-municipal-gh0725"
+    },
+    "code": {
+      "id": "GH0725",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0726",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shai Osudoku",
+      "en": "Shai Osudoku",
+      "slug": "shai-osudoku-gh0726"
+    },
+    "code": {
+      "id": "GH0726",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.966",
+      "lon": "0.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0727",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tema Metropolitan",
+      "en": "Tema Metropolitan",
+      "slug": "tema-metropolitan-gh0727"
+    },
+    "code": {
+      "id": "GH0727",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.648",
+      "lon": "-0.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0728",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tema West Municipal",
+      "en": "Tema West Municipal",
+      "slug": "tema-west-municipal-gh0728"
+    },
+    "code": {
+      "id": "GH0728",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.651",
+      "lon": "-0.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0729",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Weija Gbawe Municipal",
+      "en": "Weija Gbawe Municipal",
+      "slug": "weija-gbawe-municipal-gh0729"
+    },
+    "code": {
+      "id": "GH0729",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.54",
+      "lon": "-0.343"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

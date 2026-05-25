@@ -1,0 +1,848 @@
+[
+  {
+    "id": "GH1401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adaklu",
+      "en": "Adaklu",
+      "slug": "adaklu-gh1401"
+    },
+    "code": {
+      "id": "GH1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.442",
+      "lon": "0.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Afadzato South",
+      "en": "Afadzato South",
+      "slug": "afadzato-south-gh1402"
+    },
+    "code": {
+      "id": "GH1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.875",
+      "lon": "0.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Agotime Ziope",
+      "en": "Agotime Ziope",
+      "slug": "agotime-ziope-gh1403"
+    },
+    "code": {
+      "id": "GH1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.476",
+      "lon": "0.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akatsi North",
+      "en": "Akatsi North",
+      "slug": "akatsi-north-gh1404"
+    },
+    "code": {
+      "id": "GH1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.311",
+      "lon": "0.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akatsi South",
+      "en": "Akatsi South",
+      "slug": "akatsi-south-gh1405"
+    },
+    "code": {
+      "id": "GH1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.153",
+      "lon": "0.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anloga",
+      "en": "Anloga",
+      "slug": "anloga-gh1406"
+    },
+    "code": {
+      "id": "GH1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.825",
+      "lon": "0.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1407",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Central Tongu",
+      "en": "Central Tongu",
+      "slug": "central-tongu-gh1407"
+    },
+    "code": {
+      "id": "GH1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.165",
+      "lon": "0.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1408",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ho Municipal",
+      "en": "Ho Municipal",
+      "slug": "ho-municipal-gh1408"
+    },
+    "code": {
+      "id": "GH1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.675",
+      "lon": "0.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1409",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ho West",
+      "en": "Ho West",
+      "slug": "ho-west-gh1409"
+    },
+    "code": {
+      "id": "GH1409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.602",
+      "lon": "0.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1410",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hohoe Municipal",
+      "en": "Hohoe Municipal",
+      "slug": "hohoe-municipal-gh1410"
+    },
+    "code": {
+      "id": "GH1410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.153",
+      "lon": "0.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keta Municipal",
+      "en": "Keta Municipal",
+      "slug": "keta-municipal-gh1411"
+    },
+    "code": {
+      "id": "GH1411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.937",
+      "lon": "0.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1412",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ketu North",
+      "en": "Ketu North",
+      "slug": "ketu-north-gh1412"
+    },
+    "code": {
+      "id": "GH1412",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.192",
+      "lon": "0.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1413",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ketu South",
+      "en": "Ketu South",
+      "slug": "ketu-south-gh1413"
+    },
+    "code": {
+      "id": "GH1413",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.08",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kpando Municipal",
+      "en": "Kpando Municipal",
+      "slug": "kpando-municipal-gh1414"
+    },
+    "code": {
+      "id": "GH1414",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.999",
+      "lon": "0.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1415",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "North Dayi",
+      "en": "North Dayi",
+      "slug": "north-dayi-gh1415"
+    },
+    "code": {
+      "id": "GH1415",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.817",
+      "lon": "0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1416",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "North Tongu",
+      "en": "North Tongu",
+      "slug": "north-tongu-gh1416"
+    },
+    "code": {
+      "id": "GH1416",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.144",
+      "lon": "0.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1417",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Dayi",
+      "en": "South Dayi",
+      "slug": "south-dayi-gh1417"
+    },
+    "code": {
+      "id": "GH1417",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.544",
+      "lon": "0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1418",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "South Tongu",
+      "en": "South Tongu",
+      "slug": "south-tongu-gh1418"
+    },
+    "code": {
+      "id": "GH1418",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.965",
+      "lon": "0.641"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

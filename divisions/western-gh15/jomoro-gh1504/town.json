@@ -1,0 +1,866 @@
+[
+  {
+    "id": "GH1504_bonyere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonyere",
+      "en": "Bonyere",
+      "slug": "bonyere"
+    },
+    "code": {
+      "id": "GH1504_bonyere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.023",
+      "lon": "-2.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_bonyere-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonyere Junction",
+      "en": "Bonyere Junction",
+      "slug": "bonyere-junction"
+    },
+    "code": {
+      "id": "GH1504_bonyere-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.033",
+      "lon": "-2.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_ekabeku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ekabeku",
+      "en": "Ekabeku",
+      "slug": "ekabeku"
+    },
+    "code": {
+      "id": "GH1504_ekabeku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.983",
+      "lon": "-2.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_ellubo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ellubo",
+      "en": "Ellubo",
+      "slug": "ellubo"
+    },
+    "code": {
+      "id": "GH1504_ellubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.29",
+      "lon": "-2.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_enzemetianu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enzemetianu.",
+      "en": "Enzemetianu.",
+      "slug": "enzemetianu"
+    },
+    "code": {
+      "id": "GH1504_enzemetianu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.073",
+      "lon": "-3.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_half-assini",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Half Assini",
+      "en": "Half Assini",
+      "slug": "half-assini"
+    },
+    "code": {
+      "id": "GH1504_half-assini",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.053",
+      "lon": "-2.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_kengen",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kengen",
+      "en": "Kengen",
+      "slug": "kengen"
+    },
+    "code": {
+      "id": "GH1504_kengen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.999",
+      "lon": "-2.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_mpataba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpataba",
+      "en": "Mpataba",
+      "slug": "mpataba"
+    },
+    "code": {
+      "id": "GH1504_mpataba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.096",
+      "lon": "-2.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_newtown",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Newtown",
+      "en": "Newtown",
+      "slug": "newtown"
+    },
+    "code": {
+      "id": "GH1504_newtown",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.092",
+      "lon": "-3.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_nuba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nuba",
+      "en": "Nuba",
+      "slug": "nuba"
+    },
+    "code": {
+      "id": "GH1504_nuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.094",
+      "lon": "-2.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_sameye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sameye",
+      "en": "Sameye",
+      "slug": "sameye"
+    },
+    "code": {
+      "id": "GH1504_sameye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.081",
+      "lon": "-2.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_sowodadzem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sowodadzem",
+      "en": "Sowodadzem",
+      "slug": "sowodadzem"
+    },
+    "code": {
+      "id": "GH1504_sowodadzem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.164",
+      "lon": "-2.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_takinta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takinta",
+      "en": "Takinta",
+      "slug": "takinta"
+    },
+    "code": {
+      "id": "GH1504_takinta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.054",
+      "lon": "-2.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_tikobo-no-1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tikobo No 1",
+      "en": "Tikobo No 1",
+      "slug": "tikobo-no-1"
+    },
+    "code": {
+      "id": "GH1504_tikobo-no-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.053",
+      "lon": "-2.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_tikobo-no-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tikobo No 2",
+      "en": "Tikobo No 2",
+      "slug": "tikobo-no-2"
+    },
+    "code": {
+      "id": "GH1504_tikobo-no-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.08",
+      "lon": "-2.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504_twenen",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twenen",
+      "en": "Twenen",
+      "slug": "twenen"
+    },
+    "code": {
+      "id": "GH1504_twenen",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1504",
+      "level": 2,
+      "name": {
+        "local": "Jomoro",
+        "en": "Jomoro",
+        "slug": "jomoro-gh1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1504",
+        "level": 2,
+        "name": {
+          "local": "Jomoro",
+          "en": "Jomoro",
+          "slug": "jomoro-gh1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.008",
+      "lon": "-2.679"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

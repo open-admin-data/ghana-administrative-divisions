@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0503_agona-abodom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Abodom",
+      "en": "Agona Abodom",
+      "slug": "agona-abodom"
+    },
+    "code": {
+      "id": "GH0503_agona-abodom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "-0.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_agona-nyakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona Nyakrom",
+      "en": "Agona Nyakrom",
+      "slug": "agona-nyakrom"
+    },
+    "code": {
+      "id": "GH0503_agona-nyakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.609",
+      "lon": "-0.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_desuanim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Desuanim",
+      "en": "Desuanim",
+      "slug": "desuanim"
+    },
+    "code": {
+      "id": "GH0503_desuanim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.531",
+      "lon": "-0.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_nkum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkum",
+      "en": "Nkum",
+      "slug": "nkum"
+    },
+    "code": {
+      "id": "GH0503_nkum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.631",
+      "lon": "-0.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_otsenkorang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Otsenkorang",
+      "en": "Otsenkorang",
+      "slug": "otsenkorang"
+    },
+    "code": {
+      "id": "GH0503_otsenkorang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.72",
+      "lon": "-0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_swedru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Swedru",
+      "en": "Swedru",
+      "slug": "swedru"
+    },
+    "code": {
+      "id": "GH0503_swedru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.535",
+      "lon": "-0.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_tsimtsimhe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tsimtsimhe",
+      "en": "Tsimtsimhe",
+      "slug": "tsimtsimhe"
+    },
+    "code": {
+      "id": "GH0503_tsimtsimhe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.526",
+      "lon": "-0.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0503_upper-bobikuma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Upper Bobikuma",
+      "en": "Upper Bobikuma",
+      "slug": "upper-bobikuma"
+    },
+    "code": {
+      "id": "GH0503_upper-bobikuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0503",
+      "level": 2,
+      "name": {
+        "local": "Agona West Municipal",
+        "en": "Agona West Municipal",
+        "slug": "agona-west-municipal-gh0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0503",
+        "level": 2,
+        "name": {
+          "local": "Agona West Municipal",
+          "en": "Agona West Municipal",
+          "slug": "agona-west-municipal-gh0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "-0.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0216_kokobra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokobra",
+      "en": "Kokobra",
+      "slug": "kokobra"
+    },
+    "code": {
+      "id": "GH0216_kokobra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0216",
+      "level": 2,
+      "name": {
+        "local": "Asokore Mampong Municipal",
+        "en": "Asokore Mampong Municipal",
+        "slug": "asokore-mampong-municipal-gh0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0216",
+        "level": 2,
+        "name": {
+          "local": "Asokore Mampong Municipal",
+          "en": "Asokore Mampong Municipal",
+          "slug": "asokore-mampong-municipal-gh0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.715",
+      "lon": "-1.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0216_okyerekrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okyerekrom",
+      "en": "Okyerekrom",
+      "slug": "okyerekrom"
+    },
+    "code": {
+      "id": "GH0216_okyerekrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0216",
+      "level": 2,
+      "name": {
+        "local": "Asokore Mampong Municipal",
+        "en": "Asokore Mampong Municipal",
+        "slug": "asokore-mampong-municipal-gh0216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0216",
+        "level": 2,
+        "name": {
+          "local": "Asokore Mampong Municipal",
+          "en": "Asokore Mampong Municipal",
+          "slug": "asokore-mampong-municipal-gh0216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.721",
+      "lon": "-1.526"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

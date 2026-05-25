@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0106_bechem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bechem",
+      "en": "Bechem",
+      "slug": "bechem"
+    },
+    "code": {
+      "id": "GH0106_bechem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0106",
+      "level": 2,
+      "name": {
+        "local": "Tano South Municipal",
+        "en": "Tano South Municipal",
+        "slug": "tano-south-municipal-gh0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0106",
+        "level": 2,
+        "name": {
+          "local": "Tano South Municipal",
+          "en": "Tano South Municipal",
+          "slug": "tano-south-municipal-gh0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.088",
+      "lon": "-2.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0106_brosankro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brosankro",
+      "en": "Brosankro",
+      "slug": "brosankro"
+    },
+    "code": {
+      "id": "GH0106_brosankro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0106",
+      "level": 2,
+      "name": {
+        "local": "Tano South Municipal",
+        "en": "Tano South Municipal",
+        "slug": "tano-south-municipal-gh0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0106",
+        "level": 2,
+        "name": {
+          "local": "Tano South Municipal",
+          "en": "Tano South Municipal",
+          "slug": "tano-south-municipal-gh0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.047",
+      "lon": "-2.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0106_derma",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Derma",
+      "en": "Derma",
+      "slug": "derma"
+    },
+    "code": {
+      "id": "GH0106_derma",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0106",
+      "level": 2,
+      "name": {
+        "local": "Tano South Municipal",
+        "en": "Tano South Municipal",
+        "slug": "tano-south-municipal-gh0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0106",
+        "level": 2,
+        "name": {
+          "local": "Tano South Municipal",
+          "en": "Tano South Municipal",
+          "slug": "tano-south-municipal-gh0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.209",
+      "lon": "-1.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0106_sabronum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabronum",
+      "en": "Sabronum",
+      "slug": "sabronum"
+    },
+    "code": {
+      "id": "GH0106_sabronum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0106",
+      "level": 2,
+      "name": {
+        "local": "Tano South Municipal",
+        "en": "Tano South Municipal",
+        "slug": "tano-south-municipal-gh0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0106",
+        "level": 2,
+        "name": {
+          "local": "Tano South Municipal",
+          "en": "Tano South Municipal",
+          "slug": "tano-south-municipal-gh0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.088",
+      "lon": "-1.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0106_techimantia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Techimantia",
+      "en": "Techimantia",
+      "slug": "techimantia"
+    },
+    "code": {
+      "id": "GH0106_techimantia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0106",
+      "level": 2,
+      "name": {
+        "local": "Tano South Municipal",
+        "en": "Tano South Municipal",
+        "slug": "tano-south-municipal-gh0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0106",
+        "level": 2,
+        "name": {
+          "local": "Tano South Municipal",
+          "en": "Tano South Municipal",
+          "slug": "tano-south-municipal-gh0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.181",
+      "lon": "-2.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

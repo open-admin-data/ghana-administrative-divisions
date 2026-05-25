@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0604_adawso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adawso",
+      "en": "Adawso",
+      "slug": "adawso"
+    },
+    "code": {
+      "id": "GH0604_adawso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.948",
+      "lon": "-0.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604_adwaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adwaso",
+      "en": "Adwaso",
+      "slug": "adwaso"
+    },
+    "code": {
+      "id": "GH0604_adwaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.949",
+      "lon": "-0.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604_kwamoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwamoso",
+      "en": "Kwamoso",
+      "slug": "kwamoso"
+    },
+    "code": {
+      "id": "GH0604_kwamoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.961",
+      "lon": "-0.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604_mampong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mampong",
+      "en": "Mampong",
+      "slug": "mampong"
+    },
+    "code": {
+      "id": "GH0604_mampong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.907",
+      "lon": "-0.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604_mangoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mangoase",
+      "en": "Mangoase",
+      "slug": "mangoase"
+    },
+    "code": {
+      "id": "GH0604_mangoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.953",
+      "lon": "-0.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0604_tadankro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tadankro",
+      "en": "Tadankro",
+      "slug": "tadankro"
+    },
+    "code": {
+      "id": "GH0604_tadankro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0604",
+      "level": 2,
+      "name": {
+        "local": "Akwapem North",
+        "en": "Akwapem North",
+        "slug": "akwapem-north-gh0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0604",
+        "level": 2,
+        "name": {
+          "local": "Akwapem North",
+          "en": "Akwapem North",
+          "slug": "akwapem-north-gh0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.913",
+      "lon": "-0.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

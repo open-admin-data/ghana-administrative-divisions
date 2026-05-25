@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0718_adabraka",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adabraka",
+      "en": "Adabraka",
+      "slug": "adabraka"
+    },
+    "code": {
+      "id": "GH0718_adabraka",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0718",
+      "level": 2,
+      "name": {
+        "local": "Korle Klottey Municipal",
+        "en": "Korle Klottey Municipal",
+        "slug": "korle-klottey-municipal-gh0718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0718",
+        "level": 2,
+        "name": {
+          "local": "Korle Klottey Municipal",
+          "en": "Korle Klottey Municipal",
+          "slug": "korle-klottey-municipal-gh0718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.562",
+      "lon": "-0.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0718_la",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "La",
+      "en": "La",
+      "slug": "la"
+    },
+    "code": {
+      "id": "GH0718_la",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0718",
+      "level": 2,
+      "name": {
+        "local": "Korle Klottey Municipal",
+        "en": "Korle Klottey Municipal",
+        "slug": "korle-klottey-municipal-gh0718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0718",
+        "level": 2,
+        "name": {
+          "local": "Korle Klottey Municipal",
+          "en": "Korle Klottey Municipal",
+          "slug": "korle-klottey-municipal-gh0718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.562",
+      "lon": "-0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0718_osu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osu",
+      "en": "Osu",
+      "slug": "osu"
+    },
+    "code": {
+      "id": "GH0718_osu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0718",
+      "level": 2,
+      "name": {
+        "local": "Korle Klottey Municipal",
+        "en": "Korle Klottey Municipal",
+        "slug": "korle-klottey-municipal-gh0718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0718",
+        "level": 2,
+        "name": {
+          "local": "Korle Klottey Municipal",
+          "en": "Korle Klottey Municipal",
+          "slug": "korle-klottey-municipal-gh0718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.566",
+      "lon": "-0.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0718_osu-nyaniba-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osu (Nyaniba Estate)",
+      "en": "Osu (Nyaniba Estate)",
+      "slug": "osu-nyaniba-estate"
+    },
+    "code": {
+      "id": "GH0718_osu-nyaniba-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0718",
+      "level": 2,
+      "name": {
+        "local": "Korle Klottey Municipal",
+        "en": "Korle Klottey Municipal",
+        "slug": "korle-klottey-municipal-gh0718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0718",
+        "level": 2,
+        "name": {
+          "local": "Korle Klottey Municipal",
+          "en": "Korle Klottey Municipal",
+          "slug": "korle-klottey-municipal-gh0718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.56",
+      "lon": "-0.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0718_ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ridge",
+      "en": "Ridge",
+      "slug": "ridge"
+    },
+    "code": {
+      "id": "GH0718_ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0718",
+      "level": 2,
+      "name": {
+        "local": "Korle Klottey Municipal",
+        "en": "Korle Klottey Municipal",
+        "slug": "korle-klottey-municipal-gh0718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0718",
+        "level": 2,
+        "name": {
+          "local": "Korle Klottey Municipal",
+          "en": "Korle Klottey Municipal",
+          "slug": "korle-klottey-municipal-gh0718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.566",
+      "lon": "-0.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

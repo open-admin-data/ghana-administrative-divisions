@@ -1,0 +1,47 @@
+{
+  "id": "GH0903",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "East Mamprusi",
+    "en": "East Mamprusi",
+    "slug": "east-mamprusi-gh0903"
+  },
+  "code": {
+    "id": "GH0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH09",
+    "level": 1,
+    "name": {
+      "local": "Northern East",
+      "en": "Northern East",
+      "slug": "northern-east-gh09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.453",
+    "lon": "-0.432"
+  },
+  "metadata": {},
+  "source": {}
+}

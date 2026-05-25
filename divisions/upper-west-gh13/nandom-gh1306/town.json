@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH1306_hamile",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hamile",
+      "en": "Hamile",
+      "slug": "hamile"
+    },
+    "code": {
+      "id": "GH1306_hamile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1306",
+      "level": 2,
+      "name": {
+        "local": "Nandom",
+        "en": "Nandom",
+        "slug": "nandom-gh1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1306",
+        "level": 2,
+        "name": {
+          "local": "Nandom",
+          "en": "Nandom",
+          "slug": "nandom-gh1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.993",
+      "lon": "-2.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1306_lambussie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lambussie",
+      "en": "Lambussie",
+      "slug": "lambussie"
+    },
+    "code": {
+      "id": "GH1306_lambussie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1306",
+      "level": 2,
+      "name": {
+        "local": "Nandom",
+        "en": "Nandom",
+        "slug": "nandom-gh1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1306",
+        "level": 2,
+        "name": {
+          "local": "Nandom",
+          "en": "Nandom",
+          "slug": "nandom-gh1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.847",
+      "lon": "-2.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

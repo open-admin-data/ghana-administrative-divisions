@@ -1,0 +1,30 @@
+{
+  "id": "GH15",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Western",
+    "en": "Western",
+    "slug": "western-gh15"
+  },
+  "code": {
+    "id": "GH15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "town": 144
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.445",
+    "lon": "-2.112"
+  },
+  "metadata": {},
+  "source": {}
+}

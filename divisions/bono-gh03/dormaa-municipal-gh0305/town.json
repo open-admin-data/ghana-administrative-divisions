@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0305_aboabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboabo",
+      "en": "Aboabo",
+      "slug": "aboabo"
+    },
+    "code": {
+      "id": "GH0305_aboabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.206",
+      "lon": "-2.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_ammasua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ammasua",
+      "en": "Ammasua",
+      "slug": "ammasua"
+    },
+    "code": {
+      "id": "GH0305_ammasua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.228",
+      "lon": "-2.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_asikasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asikasu",
+      "en": "Asikasu",
+      "slug": "asikasu"
+    },
+    "code": {
+      "id": "GH0305_asikasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.189",
+      "lon": "-2.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_danyame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Danyame",
+      "en": "Danyame",
+      "slug": "danyame"
+    },
+    "code": {
+      "id": "GH0305_danyame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.342",
+      "lon": "-2.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_dormaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dormaa",
+      "en": "Dormaa",
+      "slug": "dormaa"
+    },
+    "code": {
+      "id": "GH0305_dormaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.275",
+      "lon": "-2.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_dwomokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dwomokrom",
+      "en": "Dwomokrom",
+      "slug": "dwomokrom"
+    },
+    "code": {
+      "id": "GH0305_dwomokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.291",
+      "lon": "-2.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_kofibadukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofibadukrom",
+      "en": "Kofibadukrom",
+      "slug": "kofibadukrom"
+    },
+    "code": {
+      "id": "GH0305_kofibadukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.289",
+      "lon": "-2.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_kojokumikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kojokumikrom",
+      "en": "Kojokumikrom",
+      "slug": "kojokumikrom"
+    },
+    "code": {
+      "id": "GH0305_kojokumikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.291",
+      "lon": "-2.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_kwameasua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwameasua",
+      "en": "Kwameasua",
+      "slug": "kwameasua"
+    },
+    "code": {
+      "id": "GH0305_kwameasua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.167",
+      "lon": "-2.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_nkrankwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkrankwanta",
+      "en": "Nkrankwanta",
+      "slug": "nkrankwanta"
+    },
+    "code": {
+      "id": "GH0305_nkrankwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.02",
+      "lon": "-3.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0305_yuwusukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yuwusukrom",
+      "en": "Yuwusukrom",
+      "slug": "yuwusukrom"
+    },
+    "code": {
+      "id": "GH0305_yuwusukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0305",
+      "level": 2,
+      "name": {
+        "local": "Dormaa Municipal",
+        "en": "Dormaa Municipal",
+        "slug": "dormaa-municipal-gh0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0305",
+        "level": 2,
+        "name": {
+          "local": "Dormaa Municipal",
+          "en": "Dormaa Municipal",
+          "slug": "dormaa-municipal-gh0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "-3.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0609_akrofufu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrofufu",
+      "en": "Akrofufu",
+      "slug": "akrofufu"
+    },
+    "code": {
+      "id": "GH0609_akrofufu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.352",
+      "lon": "-0.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_asunafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asunafo",
+      "en": "Asunafo",
+      "slug": "asunafo"
+    },
+    "code": {
+      "id": "GH0609_asunafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.336",
+      "lon": "-0.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_dwenease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dwenease",
+      "en": "Dwenease",
+      "slug": "dwenease"
+    },
+    "code": {
+      "id": "GH0609_dwenease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.369",
+      "lon": "-0.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_enyiresi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyiresi",
+      "en": "Enyiresi",
+      "slug": "enyiresi"
+    },
+    "code": {
+      "id": "GH0609_enyiresi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.437",
+      "lon": "-0.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_kwabengakropong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwabeng/Akropong",
+      "en": "Kwabeng/Akropong",
+      "slug": "kwabengakropong"
+    },
+    "code": {
+      "id": "GH0609_kwabengakropong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.322",
+      "lon": "-0.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_osino",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osino",
+      "en": "Osino",
+      "slug": "osino"
+    },
+    "code": {
+      "id": "GH0609_osino",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.343",
+      "lon": "-0.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0609_sekyere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekyere",
+      "en": "Sekyere",
+      "slug": "sekyere"
+    },
+    "code": {
+      "id": "GH0609_sekyere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0609",
+      "level": 2,
+      "name": {
+        "local": "Atiwa East",
+        "en": "Atiwa East",
+        "slug": "atiwa-east-gh0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0609",
+        "level": 2,
+        "name": {
+          "local": "Atiwa East",
+          "en": "Atiwa East",
+          "slug": "atiwa-east-gh0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.444",
+      "lon": "-0.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

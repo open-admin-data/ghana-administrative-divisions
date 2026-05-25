@@ -1,0 +1,47 @@
+{
+  "id": "GH0217",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asokwa Municipal",
+    "en": "Asokwa Municipal",
+    "slug": "asokwa-municipal-gh0217"
+  },
+  "code": {
+    "id": "GH0217",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.645",
+    "lon": "-1.582"
+  },
+  "metadata": {},
+  "source": {}
+}

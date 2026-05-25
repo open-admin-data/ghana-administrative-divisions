@@ -1,0 +1,47 @@
+{
+  "id": "GH0508",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Assin South",
+    "en": "Assin South",
+    "slug": "assin-south-gh0508"
+  },
+  "code": {
+    "id": "GH0508",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.529",
+    "lon": "-1.271"
+  },
+  "metadata": {},
+  "source": {}
+}

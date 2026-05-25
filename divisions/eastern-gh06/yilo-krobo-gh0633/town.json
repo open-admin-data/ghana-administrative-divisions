@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0633_boti",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boti",
+      "en": "Boti",
+      "slug": "boti"
+    },
+    "code": {
+      "id": "GH0633_boti",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.204",
+      "lon": "-0.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_bukunor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bukunor",
+      "en": "Bukunor",
+      "slug": "bukunor"
+    },
+    "code": {
+      "id": "GH0633_bukunor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.23",
+      "lon": "-0.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_huhunya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Huhunya",
+      "en": "Huhunya",
+      "slug": "huhunya"
+    },
+    "code": {
+      "id": "GH0633_huhunya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.165",
+      "lon": "-0.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_klo-agogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Klo-Agogo",
+      "en": "Klo-Agogo",
+      "slug": "klo-agogo"
+    },
+    "code": {
+      "id": "GH0633_klo-agogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.251",
+      "lon": "-0.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_labolabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Labolabo",
+      "en": "Labolabo",
+      "slug": "labolabo"
+    },
+    "code": {
+      "id": "GH0633_labolabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.12",
+      "lon": "-0.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_new-somanyasra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Somanya/Sra",
+      "en": "New Somanya/Sra",
+      "slug": "new-somanyasra"
+    },
+    "code": {
+      "id": "GH0633_new-somanyasra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.099",
+      "lon": "-0.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_nkurakan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkurakan",
+      "en": "Nkurakan",
+      "slug": "nkurakan"
+    },
+    "code": {
+      "id": "GH0633_nkurakan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.124",
+      "lon": "-0.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_nsutapong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsutapong",
+      "en": "Nsutapong",
+      "slug": "nsutapong"
+    },
+    "code": {
+      "id": "GH0633_nsutapong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.277",
+      "lon": "-0.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_obawale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obawale",
+      "en": "Obawale",
+      "slug": "obawale"
+    },
+    "code": {
+      "id": "GH0633_obawale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.211",
+      "lon": "-0.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_okornya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okornya",
+      "en": "Okornya",
+      "slug": "okornya"
+    },
+    "code": {
+      "id": "GH0633_okornya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.124",
+      "lon": "-0.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_opesika",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Opesika",
+      "en": "Opesika",
+      "slug": "opesika"
+    },
+    "code": {
+      "id": "GH0633_opesika",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.22",
+      "lon": "-0.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_otorkpolu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Otorkpolu",
+      "en": "Otorkpolu",
+      "slug": "otorkpolu"
+    },
+    "code": {
+      "id": "GH0633_otorkpolu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "-0.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_sawer",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sawer",
+      "en": "Sawer",
+      "slug": "sawer"
+    },
+    "code": {
+      "id": "GH0633_sawer",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.112",
+      "lon": "-0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_somanya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Somanya",
+      "en": "Somanya",
+      "slug": "somanya"
+    },
+    "code": {
+      "id": "GH0633_somanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "-0.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0633_sra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sra",
+      "en": "Sra",
+      "slug": "sra"
+    },
+    "code": {
+      "id": "GH0633_sra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0633",
+      "level": 2,
+      "name": {
+        "local": "Yilo Krobo",
+        "en": "Yilo Krobo",
+        "slug": "yilo-krobo-gh0633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0633",
+        "level": 2,
+        "name": {
+          "local": "Yilo Krobo",
+          "en": "Yilo Krobo",
+          "slug": "yilo-krobo-gh0633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.102",
+      "lon": "-0.021"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

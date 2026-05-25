@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0723_teshie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Teshie",
+      "en": "Teshie",
+      "slug": "teshie"
+    },
+    "code": {
+      "id": "GH0723_teshie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0723",
+      "level": 2,
+      "name": {
+        "local": "Ledzokuku Municipal",
+        "en": "Ledzokuku Municipal",
+        "slug": "ledzokuku-municipal-gh0723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0723",
+        "level": 2,
+        "name": {
+          "local": "Ledzokuku Municipal",
+          "en": "Ledzokuku Municipal",
+          "slug": "ledzokuku-municipal-gh0723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.607",
+      "lon": "-0.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0723_teshienungua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Teshie/Nungua",
+      "en": "Teshie/Nungua",
+      "slug": "teshienungua"
+    },
+    "code": {
+      "id": "GH0723_teshienungua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0723",
+      "level": 2,
+      "name": {
+        "local": "Ledzokuku Municipal",
+        "en": "Ledzokuku Municipal",
+        "slug": "ledzokuku-municipal-gh0723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0723",
+        "level": 2,
+        "name": {
+          "local": "Ledzokuku Municipal",
+          "en": "Ledzokuku Municipal",
+          "slug": "ledzokuku-municipal-gh0723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "-0.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

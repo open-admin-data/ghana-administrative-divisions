@@ -1,0 +1,47 @@
+{
+  "id": "GH0305",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dormaa Municipal",
+    "en": "Dormaa Municipal",
+    "slug": "dormaa-municipal-gh0305"
+  },
+  "code": {
+    "id": "GH0305",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.237",
+    "lon": "-2.856"
+  },
+  "metadata": {},
+  "source": {}
+}

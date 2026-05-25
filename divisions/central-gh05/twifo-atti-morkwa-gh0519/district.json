@@ -1,0 +1,47 @@
+{
+  "id": "GH0519",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Twifo Atti-Morkwa",
+    "en": "Twifo Atti-Morkwa",
+    "slug": "twifo-atti-morkwa-gh0519"
+  },
+  "code": {
+    "id": "GH0519",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.68",
+    "lon": "-1.618"
+  },
+  "metadata": {},
+  "source": {}
+}

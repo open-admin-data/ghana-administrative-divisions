@@ -1,0 +1,47 @@
+{
+  "id": "GH1402",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Afadzato South",
+    "en": "Afadzato South",
+    "slug": "afadzato-south-gh1402"
+  },
+  "code": {
+    "id": "GH1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.875",
+    "lon": "0.365"
+  },
+  "metadata": {},
+  "source": {}
+}

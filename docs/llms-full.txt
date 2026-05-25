@@ -1,0 +1,43 @@
+# Ghana Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Ahafo](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/ahafo-gh01.txt) — 6 districts, 34 towns
+- [Ashanti](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/ashanti-gh02.txt) — 43 districts, 389 towns
+- [Bono](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/bono-gh03.txt) — 12 districts, 76 towns
+- [Bono East](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/bono-east-gh04.txt) — 11 districts, 47 towns
+- [Central](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/central-gh05.txt) — 22 districts, 147 towns
+- [Eastern](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/eastern-gh06.txt) — 33 districts, 260 towns
+- [Greater Accra](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/greater-accra-gh07.txt) — 29 districts, 222 towns
+- [Northern](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/northern-gh08.txt) — 16 districts, 93 towns
+- [Northern East](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/northern-east-gh09.txt) — 6 districts, 31 towns
+- [Oti](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/oti-gh10.txt) — 8 districts, 58 towns
+- [Savannah](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/savannah-gh11.txt) — 7 districts, 42 towns
+- [Upper East](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/upper-east-gh12.txt) — 15 districts, 169 towns
+- [Upper West](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/upper-west-gh13.txt) — 11 districts, 109 towns
+- [Volta](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/volta-gh14.txt) — 18 districts, 173 towns
+- [Western](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/western-gh15.txt) — 14 districts, 144 towns
+- [Western North](https://github.com/open-admin-data/ghana-administrative-divisions/blob/main/docs/llms-full/western-north-gh16.txt) — 9 districts, 85 towns
+
+## Summary
+
+| Region | Districts | Towns | 
+|---|---|---|
+| Ahafo | 6 | 34 | 
+| Ashanti | 43 | 389 | 
+| Bono | 12 | 76 | 
+| Bono East | 11 | 47 | 
+| Central | 22 | 147 | 
+| Eastern | 33 | 260 | 
+| Greater Accra | 29 | 222 | 
+| Northern | 16 | 93 | 
+| Northern East | 6 | 31 | 
+| Oti | 8 | 58 | 
+| Savannah | 7 | 42 | 
+| Upper East | 15 | 169 | 
+| Upper West | 11 | 109 | 
+| Volta | 18 | 173 | 
+| Western | 14 | 144 | 
+| Western North | 9 | 85 | 

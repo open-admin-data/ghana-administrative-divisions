@@ -1,0 +1,47 @@
+{
+  "id": "GH0101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asunafo North Municipal",
+    "en": "Asunafo North Municipal",
+    "slug": "asunafo-north-municipal-gh0101"
+  },
+  "code": {
+    "id": "GH0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH01",
+    "level": 1,
+    "name": {
+      "local": "Ahafo",
+      "en": "Ahafo",
+      "slug": "ahafo-gh01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH01",
+      "level": 1,
+      "name": {
+        "local": "Ahafo",
+        "en": "Ahafo",
+        "slug": "ahafo-gh01"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.814",
+    "lon": "-2.681"
+  },
+  "metadata": {},
+  "source": {}
+}

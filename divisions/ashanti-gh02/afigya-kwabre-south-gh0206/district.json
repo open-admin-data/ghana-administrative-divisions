@@ -1,0 +1,47 @@
+{
+  "id": "GH0206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Afigya Kwabre South",
+    "en": "Afigya Kwabre South",
+    "slug": "afigya-kwabre-south-gh0206"
+  },
+  "code": {
+    "id": "GH0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.839",
+    "lon": "-1.609"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH0241",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekyere Kumawu",
+    "en": "Sekyere Kumawu",
+    "slug": "sekyere-kumawu-gh0241"
+  },
+  "code": {
+    "id": "GH0241",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.911",
+    "lon": "-1.239"
+  },
+  "metadata": {},
+  "source": {}
+}

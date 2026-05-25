@@ -1,0 +1,47 @@
+{
+  "id": "GH1417",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "South Dayi",
+    "en": "South Dayi",
+    "slug": "south-dayi-gh1417"
+  },
+  "code": {
+    "id": "GH1417",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.544",
+    "lon": "0.241"
+  },
+  "metadata": {},
+  "source": {}
+}

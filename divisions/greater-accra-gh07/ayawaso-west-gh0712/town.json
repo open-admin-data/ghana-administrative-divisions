@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0712_airport-residential-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Airport residential area",
+      "en": "Airport residential area",
+      "slug": "airport-residential-area"
+    },
+    "code": {
+      "id": "GH0712_airport-residential-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.617",
+      "lon": "-0.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712_east-legon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "East Legon",
+      "en": "East Legon",
+      "slug": "east-legon"
+    },
+    "code": {
+      "id": "GH0712_east-legon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.64",
+      "lon": "-0.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712_east-legon-before-america-house-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "East Legon (before America house road)",
+      "en": "East Legon (before America house road)",
+      "slug": "east-legon-before-america-house-road"
+    },
+    "code": {
+      "id": "GH0712_east-legon-before-america-house-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.642",
+      "lon": "-0.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712_east-legon-towards-america-house--social-xtian-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "East Legon (towards America house -Social X'tian centre)",
+      "en": "East Legon (towards America house -Social X'tian centre)",
+      "slug": "east-legon-towards-america-house--social-xtian-centre"
+    },
+    "code": {
+      "id": "GH0712_east-legon-towards-america-house--social-xtian-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "-0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712_legon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Legon",
+      "en": "Legon",
+      "slug": "legon"
+    },
+    "code": {
+      "id": "GH0712_legon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.651",
+      "lon": "-0.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0712_mempeasem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mempeasem",
+      "en": "Mempeasem",
+      "slug": "mempeasem"
+    },
+    "code": {
+      "id": "GH0712_mempeasem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0712",
+      "level": 2,
+      "name": {
+        "local": "Ayawaso West",
+        "en": "Ayawaso West",
+        "slug": "ayawaso-west-gh0712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0712",
+        "level": 2,
+        "name": {
+          "local": "Ayawaso West",
+          "en": "Ayawaso West",
+          "slug": "ayawaso-west-gh0712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.651",
+      "lon": "-0.159"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

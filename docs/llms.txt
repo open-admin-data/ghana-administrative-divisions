@@ -1,0 +1,84 @@
+# Ghana Administrative Divisions
+
+> Open dataset of Ghana's administrative hierarchy:
+> 16 regions, 260 districts, 2,079 towns.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 16
+- Total districts: 260
+- Total towns: 2,079
+- Coordinates: included (all levels)
+- Last updated: 2026-05-25
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/all-district.json)
+- [All towns (JSON)](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/all-town.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Ahafo](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/ahafo-gh01/) — 6 districts, 34 towns
+- [Ashanti](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/ashanti-gh02/) — 43 districts, 389 towns
+- [Bono](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/bono-gh03/) — 12 districts, 76 towns
+- [Bono East](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/bono-east-gh04/) — 11 districts, 47 towns
+- [Central](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/central-gh05/) — 22 districts, 147 towns
+- [Eastern](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/eastern-gh06/) — 33 districts, 260 towns
+- [Greater Accra](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/greater-accra-gh07/) — 29 districts, 222 towns
+- [Northern](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/northern-gh08/) — 16 districts, 93 towns
+- [Northern East](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/northern-east-gh09/) — 6 districts, 31 towns
+- [Oti](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/oti-gh10/) — 8 districts, 58 towns
+- [Savannah](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/savannah-gh11/) — 7 districts, 42 towns
+- [Upper East](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/upper-east-gh12/) — 15 districts, 169 towns
+- [Upper West](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/upper-west-gh13/) — 11 districts, 109 towns
+- [Volta](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/volta-gh14/) — 18 districts, 173 towns
+- [Western](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/western-gh15/) — 14 districts, 144 towns
+- [Western North](https://github.com/open-admin-data/ghana-administrative-divisions/tree/main/divisions/western-north-gh16/) — 9 districts, 85 towns
+
+## Per-Region Full Data
+
+- [Ahafo](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/ahafo-gh01.txt)
+- [Ashanti](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/ashanti-gh02.txt)
+- [Bono](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/bono-gh03.txt)
+- [Bono East](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/bono-east-gh04.txt)
+- [Central](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/central-gh05.txt)
+- [Eastern](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/eastern-gh06.txt)
+- [Greater Accra](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/greater-accra-gh07.txt)
+- [Northern](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/northern-gh08.txt)
+- [Northern East](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/northern-east-gh09.txt)
+- [Oti](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/oti-gh10.txt)
+- [Savannah](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/savannah-gh11.txt)
+- [Upper East](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/upper-east-gh12.txt)
+- [Upper West](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/upper-west-gh13.txt)
+- [Volta](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/volta-gh14.txt)
+- [Western](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/western-gh15.txt)
+- [Western North](https://raw.githubusercontent.com/open-admin-data/ghana-administrative-divisions/main/docs/llms-full/western-north-gh16.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district), 3 (town)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Ghana Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/ghana-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

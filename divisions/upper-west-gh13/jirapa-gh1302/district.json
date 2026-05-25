@@ -1,0 +1,47 @@
+{
+  "id": "GH1302",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jirapa",
+    "en": "Jirapa",
+    "slug": "jirapa-gh1302"
+  },
+  "code": {
+    "id": "GH1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.588",
+    "lon": "-2.562"
+  },
+  "metadata": {},
+  "source": {}
+}

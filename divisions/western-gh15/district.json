@@ -1,0 +1,660 @@
+[
+  {
+    "id": "GH1501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahanta West Municipal",
+      "en": "Ahanta West Municipal",
+      "slug": "ahanta-west-municipal-gh1501"
+    },
+    "code": {
+      "id": "GH1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.852",
+      "lon": "-1.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Effia Kwesimintsim Municipal",
+      "en": "Effia Kwesimintsim Municipal",
+      "slug": "effia-kwesimintsim-municipal-gh1502"
+    },
+    "code": {
+      "id": "GH1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.964",
+      "lon": "-1.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ellembelle",
+      "en": "Ellembelle",
+      "slug": "ellembelle-gh1503"
+    },
+    "code": {
+      "id": "GH1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.15",
+      "lon": "-2.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jomoro",
+      "en": "Jomoro",
+      "slug": "jomoro-gh1504"
+    },
+    "code": {
+      "id": "GH1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.197",
+      "lon": "-2.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mpohor",
+      "en": "Mpohor",
+      "slug": "mpohor-gh1505"
+    },
+    "code": {
+      "id": "GH1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.058",
+      "lon": "-1.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nzema East",
+      "en": "Nzema East",
+      "slug": "nzema-east-gh1506"
+    },
+    "code": {
+      "id": "GH1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.086",
+      "lon": "-2.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Prestea/Huni Valley",
+      "en": "Prestea/Huni Valley",
+      "slug": "presteahuni-valley-gh1507"
+    },
+    "code": {
+      "id": "GH1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.447",
+      "lon": "-2.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekondi Takoradi Metropolis",
+      "en": "Sekondi Takoradi Metropolis",
+      "slug": "sekondi-takoradi-metropolis-gh1508"
+    },
+    "code": {
+      "id": "GH1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.961",
+      "lon": "-1.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1509",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shama",
+      "en": "Shama",
+      "slug": "shama-gh1509"
+    },
+    "code": {
+      "id": "GH1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.059",
+      "lon": "-1.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1510",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarkwa Nsuaem",
+      "en": "Tarkwa Nsuaem",
+      "slug": "tarkwa-nsuaem-gh1510"
+    },
+    "code": {
+      "id": "GH1510",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.138",
+      "lon": "-2.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1511",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wassa Amenfi Central",
+      "en": "Wassa Amenfi Central",
+      "slug": "wassa-amenfi-central-gh1511"
+    },
+    "code": {
+      "id": "GH1511",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.739",
+      "lon": "-2.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1512",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wassa Amenfi East",
+      "en": "Wassa Amenfi East",
+      "slug": "wassa-amenfi-east-gh1512"
+    },
+    "code": {
+      "id": "GH1512",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "-1.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1513",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wassa Amenfi West",
+      "en": "Wassa Amenfi West",
+      "slug": "wassa-amenfi-west-gh1513"
+    },
+    "code": {
+      "id": "GH1513",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.747",
+      "lon": "-2.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wassa East",
+      "en": "Wassa East",
+      "slug": "wassa-east-gh1514"
+    },
+    "code": {
+      "id": "GH1514",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH15",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-gh15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.368",
+      "lon": "-1.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

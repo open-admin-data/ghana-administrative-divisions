@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0243_bronkong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bronkong",
+      "en": "Bronkong",
+      "slug": "bronkong"
+    },
+    "code": {
+      "id": "GH0243_bronkong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0243",
+      "level": 2,
+      "name": {
+        "local": "Suame Municipal",
+        "en": "Suame Municipal",
+        "slug": "suame-municipal-gh0243"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0243",
+        "level": 2,
+        "name": {
+          "local": "Suame Municipal",
+          "en": "Suame Municipal",
+          "slug": "suame-municipal-gh0243"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.775",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

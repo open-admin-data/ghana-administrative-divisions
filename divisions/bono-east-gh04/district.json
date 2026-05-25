@@ -1,0 +1,519 @@
+[
+  {
+    "id": "GH0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atebubu Amantin",
+      "en": "Atebubu Amantin",
+      "slug": "atebubu-amantin-gh0401"
+    },
+    "code": {
+      "id": "GH0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.729",
+      "lon": "-1.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kintampo North Municipal",
+      "en": "Kintampo North Municipal",
+      "slug": "kintampo-north-municipal-gh0402"
+    },
+    "code": {
+      "id": "GH0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.386",
+      "lon": "-1.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kintampo South",
+      "en": "Kintampo South",
+      "slug": "kintampo-south-gh0403"
+    },
+    "code": {
+      "id": "GH0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.942",
+      "lon": "-1.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkoranza North",
+      "en": "Nkoranza North",
+      "slug": "nkoranza-north-gh0404"
+    },
+    "code": {
+      "id": "GH0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.72",
+      "lon": "-1.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkoranza South",
+      "en": "Nkoranza South",
+      "slug": "nkoranza-south-gh0405"
+    },
+    "code": {
+      "id": "GH0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.452",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pru East",
+      "en": "Pru East",
+      "slug": "pru-east-gh0406"
+    },
+    "code": {
+      "id": "GH0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.137",
+      "lon": "-0.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0407",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pru West",
+      "en": "Pru West",
+      "slug": "pru-west-gh0407"
+    },
+    "code": {
+      "id": "GH0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.038",
+      "lon": "-1.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0408",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sene East",
+      "en": "Sene East",
+      "slug": "sene-east-gh0408"
+    },
+    "code": {
+      "id": "GH0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.669",
+      "lon": "-0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0409",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sene West",
+      "en": "Sene West",
+      "slug": "sene-west-gh0409"
+    },
+    "code": {
+      "id": "GH0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "-0.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0410",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Techiman Municipal",
+      "en": "Techiman Municipal",
+      "slug": "techiman-municipal-gh0410"
+    },
+    "code": {
+      "id": "GH0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.526",
+      "lon": "-1.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0411",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Techiman North",
+      "en": "Techiman North",
+      "slug": "techiman-north-gh0411"
+    },
+    "code": {
+      "id": "GH0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH04",
+      "level": 1,
+      "name": {
+        "local": "Bono East",
+        "en": "Bono East",
+        "slug": "bono-east-gh04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH04",
+        "level": 1,
+        "name": {
+          "local": "Bono East",
+          "en": "Bono East",
+          "slug": "bono-east-gh04"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.702",
+      "lon": "-1.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

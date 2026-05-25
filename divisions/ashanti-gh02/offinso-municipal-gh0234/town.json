@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0234_abofour",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abofour",
+      "en": "Abofour",
+      "slug": "abofour"
+    },
+    "code": {
+      "id": "GH0234_abofour",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.075",
+      "lon": "-1.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_amoawi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoawi",
+      "en": "Amoawi",
+      "slug": "amoawi"
+    },
+    "code": {
+      "id": "GH0234_amoawi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.572",
+      "lon": "-1.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_anyinasuso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinasuso",
+      "en": "Anyinasuso",
+      "slug": "anyinasuso"
+    },
+    "code": {
+      "id": "GH0234_anyinasuso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.01",
+      "lon": "-1.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_bonsua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonsua",
+      "en": "Bonsua",
+      "slug": "bonsua"
+    },
+    "code": {
+      "id": "GH0234_bonsua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.935",
+      "lon": "-1.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_brofoyedru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brofoyedru",
+      "en": "Brofoyedru",
+      "slug": "brofoyedru"
+    },
+    "code": {
+      "id": "GH0234_brofoyedru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.563",
+      "lon": "-1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_kokoben",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokoben",
+      "en": "Kokoben",
+      "slug": "kokoben"
+    },
+    "code": {
+      "id": "GH0234_kokoben",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.021",
+      "lon": "-1.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_offinso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Offinso",
+      "en": "Offinso",
+      "slug": "offinso"
+    },
+    "code": {
+      "id": "GH0234_offinso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.938",
+      "lon": "-1.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0234_offinso-adikuro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Offinso Adikuro",
+      "en": "Offinso Adikuro",
+      "slug": "offinso-adikuro"
+    },
+    "code": {
+      "id": "GH0234_offinso-adikuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0234",
+      "level": 2,
+      "name": {
+        "local": "Offinso Municipal",
+        "en": "Offinso Municipal",
+        "slug": "offinso-municipal-gh0234"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0234",
+        "level": 2,
+        "name": {
+          "local": "Offinso Municipal",
+          "en": "Offinso Municipal",
+          "slug": "offinso-municipal-gh0234"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.95",
+      "lon": "-1.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

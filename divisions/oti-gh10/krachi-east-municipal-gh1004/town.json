@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH1004_adumadum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adumadum",
+      "en": "Adumadum",
+      "slug": "adumadum"
+    },
+    "code": {
+      "id": "GH1004_adumadum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.82",
+      "lon": "0.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004_asukawkaw",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asukawkaw",
+      "en": "Asukawkaw",
+      "slug": "asukawkaw"
+    },
+    "code": {
+      "id": "GH1004_asukawkaw",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.688",
+      "lon": "0.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004_dambai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dambai",
+      "en": "Dambai",
+      "slug": "dambai"
+    },
+    "code": {
+      "id": "GH1004_dambai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.068",
+      "lon": "0.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004_dormabin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dormabin",
+      "en": "Dormabin",
+      "slug": "dormabin"
+    },
+    "code": {
+      "id": "GH1004_dormabin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.835",
+      "lon": "0.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004_katanga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Katanga",
+      "en": "Katanga",
+      "slug": "katanga"
+    },
+    "code": {
+      "id": "GH1004_katanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.659",
+      "lon": "0.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1004_tokronu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tokronu",
+      "en": "Tokronu",
+      "slug": "tokronu"
+    },
+    "code": {
+      "id": "GH1004_tokronu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1004",
+      "level": 2,
+      "name": {
+        "local": "Krachi East Municipal",
+        "en": "Krachi East Municipal",
+        "slug": "krachi-east-municipal-gh1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1004",
+        "level": 2,
+        "name": {
+          "local": "Krachi East Municipal",
+          "en": "Krachi East Municipal",
+          "slug": "krachi-east-municipal-gh1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.771",
+      "lon": "0.042"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

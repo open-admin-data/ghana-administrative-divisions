@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH0521_atechem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atechem",
+      "en": "Atechem",
+      "slug": "atechem"
+    },
+    "code": {
+      "id": "GH0521_atechem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.968",
+      "lon": "-1.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_buaben",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buaben",
+      "en": "Buaben",
+      "slug": "buaben"
+    },
+    "code": {
+      "id": "GH0521_buaben",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "-1.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_dunkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dunkwa",
+      "en": "Dunkwa",
+      "slug": "dunkwa"
+    },
+    "code": {
+      "id": "GH0521_dunkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.962",
+      "lon": "-1.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_dunkwa-on-offin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dunkwa-On-Offin",
+      "en": "Dunkwa-On-Offin",
+      "slug": "dunkwa-on-offin"
+    },
+    "code": {
+      "id": "GH0521_dunkwa-on-offin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.962",
+      "lon": "-1.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_kyekyewere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kyekyewere",
+      "en": "Kyekyewere",
+      "slug": "kyekyewere"
+    },
+    "code": {
+      "id": "GH0521_kyekyewere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.917",
+      "lon": "-1.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_mbraem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mbraem",
+      "en": "Mbraem",
+      "slug": "mbraem"
+    },
+    "code": {
+      "id": "GH0521_mbraem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.814",
+      "lon": "-1.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0521_opponso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Opponso",
+      "en": "Opponso",
+      "slug": "opponso"
+    },
+    "code": {
+      "id": "GH0521_opponso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0521",
+      "level": 2,
+      "name": {
+        "local": "Upper Denkyira East Municipal",
+        "en": "Upper Denkyira East Municipal",
+        "slug": "upper-denkyira-east-municipal-gh0521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0521",
+        "level": 2,
+        "name": {
+          "local": "Upper Denkyira East Municipal",
+          "en": "Upper Denkyira East Municipal",
+          "slug": "upper-denkyira-east-municipal-gh0521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.765",
+      "lon": "-1.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

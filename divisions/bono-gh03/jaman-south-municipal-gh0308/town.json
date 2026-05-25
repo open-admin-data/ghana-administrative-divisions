@@ -1,0 +1,758 @@
+[
+  {
+    "id": "GH0308_abirikasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abirikasu",
+      "en": "Abirikasu",
+      "slug": "abirikasu"
+    },
+    "code": {
+      "id": "GH0308_abirikasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "-2.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_adamsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adamsu",
+      "en": "Adamsu",
+      "slug": "adamsu"
+    },
+    "code": {
+      "id": "GH0308_adamsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.744",
+      "lon": "-2.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_adiokor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adiokor",
+      "en": "Adiokor",
+      "slug": "adiokor"
+    },
+    "code": {
+      "id": "GH0308_adiokor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.75",
+      "lon": "-2.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_asare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asare",
+      "en": "Asare",
+      "slug": "asare"
+    },
+    "code": {
+      "id": "GH0308_asare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.763",
+      "lon": "-2.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_atuna",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atuna",
+      "en": "Atuna",
+      "slug": "atuna"
+    },
+    "code": {
+      "id": "GH0308_atuna",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.503",
+      "lon": "-2.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_baano",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Baano",
+      "en": "Baano",
+      "slug": "baano"
+    },
+    "code": {
+      "id": "GH0308_baano",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.61",
+      "lon": "-2.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_bodaa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bodaa",
+      "en": "Bodaa",
+      "slug": "bodaa"
+    },
+    "code": {
+      "id": "GH0308_bodaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.781",
+      "lon": "-2.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_drobo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Drobo",
+      "en": "Drobo",
+      "slug": "drobo"
+    },
+    "code": {
+      "id": "GH0308_drobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.586",
+      "lon": "-2.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_dwenem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dwenem",
+      "en": "Dwenem",
+      "slug": "dwenem"
+    },
+    "code": {
+      "id": "GH0308_dwenem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.682",
+      "lon": "-2.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_gonasua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gonasua",
+      "en": "Gonasua",
+      "slug": "gonasua"
+    },
+    "code": {
+      "id": "GH0308_gonasua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.588",
+      "lon": "-2.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_jejemiraja",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jejemiraja",
+      "en": "Jejemiraja",
+      "slug": "jejemiraja"
+    },
+    "code": {
+      "id": "GH0308_jejemiraja",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.634",
+      "lon": "-2.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_kofitiakrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofitiakrom",
+      "en": "Kofitiakrom",
+      "slug": "kofitiakrom"
+    },
+    "code": {
+      "id": "GH0308_kofitiakrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.773",
+      "lon": "-2.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_kwameseikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwameseikrom",
+      "en": "Kwameseikrom",
+      "slug": "kwameseikrom"
+    },
+    "code": {
+      "id": "GH0308_kwameseikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.636",
+      "lon": "-2.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0308_zezera",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zezera",
+      "en": "Zezera",
+      "slug": "zezera"
+    },
+    "code": {
+      "id": "GH0308_zezera",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0308",
+      "level": 2,
+      "name": {
+        "local": "Jaman South Municipal",
+        "en": "Jaman South Municipal",
+        "slug": "jaman-south-municipal-gh0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0308",
+        "level": 2,
+        "name": {
+          "local": "Jaman South Municipal",
+          "en": "Jaman South Municipal",
+          "slug": "jaman-south-municipal-gh0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.734",
+      "lon": "-2.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

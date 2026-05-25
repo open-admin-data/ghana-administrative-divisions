@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1211_adognia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adognia",
+      "en": "Adognia",
+      "slug": "adognia"
+    },
+    "code": {
+      "id": "GH1211_adognia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.851",
+      "lon": "-1.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_chiana",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chiana",
+      "en": "Chiana",
+      "slug": "chiana"
+    },
+    "code": {
+      "id": "GH1211_chiana",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.856",
+      "lon": "-1.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_kalvio",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kalvio",
+      "en": "Kalvio",
+      "slug": "kalvio"
+    },
+    "code": {
+      "id": "GH1211_kalvio",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.836",
+      "lon": "-1.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_kanania",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kanania",
+      "en": "Kanania",
+      "slug": "kanania"
+    },
+    "code": {
+      "id": "GH1211_kanania",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.831",
+      "lon": "-1.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_katiu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Katiu",
+      "en": "Katiu",
+      "slug": "katiu"
+    },
+    "code": {
+      "id": "GH1211_katiu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.844",
+      "lon": "-1.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_kayoro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kayoro",
+      "en": "Kayoro",
+      "slug": "kayoro"
+    },
+    "code": {
+      "id": "GH1211_kayoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.969",
+      "lon": "-1.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_kayorowuru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kayoro/Wuru",
+      "en": "Kayoro/Wuru",
+      "slug": "kayorowuru"
+    },
+    "code": {
+      "id": "GH1211_kayorowuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.931",
+      "lon": "-1.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_nakong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nakong",
+      "en": "Nakong",
+      "slug": "nakong"
+    },
+    "code": {
+      "id": "GH1211_nakong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "-1.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_nyagnia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyagnia",
+      "en": "Nyagnia",
+      "slug": "nyagnia"
+    },
+    "code": {
+      "id": "GH1211_nyagnia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.843",
+      "lon": "-1.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1211_pinda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pinda",
+      "en": "Pinda",
+      "slug": "pinda"
+    },
+    "code": {
+      "id": "GH1211_pinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1211",
+      "level": 2,
+      "name": {
+        "local": "Kasena Nankana West",
+        "en": "Kasena Nankana West",
+        "slug": "kasena-nankana-west-gh1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1211",
+        "level": 2,
+        "name": {
+          "local": "Kasena Nankana West",
+          "en": "Kasena Nankana West",
+          "slug": "kasena-nankana-west-gh1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.985",
+      "lon": "-1.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

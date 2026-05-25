@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0203_aboabo-no-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboabo No 2",
+      "en": "Aboabo No 2",
+      "slug": "aboabo-no-2"
+    },
+    "code": {
+      "id": "GH0203_aboabo-no-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.224",
+      "lon": "-1.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_akrokerri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrokerri",
+      "en": "Akrokerri",
+      "slug": "akrokerri"
+    },
+    "code": {
+      "id": "GH0203_akrokerri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.295",
+      "lon": "-1.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_asokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asokwa",
+      "en": "Asokwa",
+      "slug": "asokwa"
+    },
+    "code": {
+      "id": "GH0203_asokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.281",
+      "lon": "-1.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_bodwesango",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bodwesango",
+      "en": "Bodwesango",
+      "slug": "bodwesango"
+    },
+    "code": {
+      "id": "GH0203_bodwesango",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.222",
+      "lon": "-1.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_dompoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dompoase",
+      "en": "Dompoase",
+      "slug": "dompoase"
+    },
+    "code": {
+      "id": "GH0203_dompoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.323",
+      "lon": "-1.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_fomena",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fomena",
+      "en": "Fomena",
+      "slug": "fomena"
+    },
+    "code": {
+      "id": "GH0203_fomena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.28",
+      "lon": "-1.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_fumso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fumso",
+      "en": "Fumso",
+      "slug": "fumso"
+    },
+    "code": {
+      "id": "GH0203_fumso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.11",
+      "lon": "-1.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_fumso-ketewa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fumso Ketewa",
+      "en": "Fumso Ketewa",
+      "slug": "fumso-ketewa"
+    },
+    "code": {
+      "id": "GH0203_fumso-ketewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.297",
+      "lon": "-1.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_new-akrofrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Akrofrom",
+      "en": "New Akrofrom",
+      "slug": "new-akrofrom"
+    },
+    "code": {
+      "id": "GH0203_new-akrofrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.153",
+      "lon": "-1.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_new-ayaasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Ayaasi",
+      "en": "New Ayaasi",
+      "slug": "new-ayaasi"
+    },
+    "code": {
+      "id": "GH0203_new-ayaasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.296",
+      "lon": "-1.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0203_wioso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wioso",
+      "en": "Wioso",
+      "slug": "wioso"
+    },
+    "code": {
+      "id": "GH0203_wioso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0203",
+      "level": 2,
+      "name": {
+        "local": "Adansi North",
+        "en": "Adansi North",
+        "slug": "adansi-north-gh0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0203",
+        "level": 2,
+        "name": {
+          "local": "Adansi North",
+          "en": "Adansi North",
+          "slug": "adansi-north-gh0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.282",
+      "lon": "-1.661"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

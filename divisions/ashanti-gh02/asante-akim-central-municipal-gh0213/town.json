@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0213_nobewam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nobewam",
+      "en": "Nobewam",
+      "slug": "nobewam"
+    },
+    "code": {
+      "id": "GH0213_nobewam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0213",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim Central Municipal",
+        "en": "Asante Akim Central Municipal",
+        "slug": "asante-akim-central-municipal-gh0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0213",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim Central Municipal",
+          "en": "Asante Akim Central Municipal",
+          "slug": "asante-akim-central-municipal-gh0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.623",
+      "lon": "-1.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0213_peminase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Peminase",
+      "en": "Peminase",
+      "slug": "peminase"
+    },
+    "code": {
+      "id": "GH0213_peminase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0213",
+      "level": 2,
+      "name": {
+        "local": "Asante Akim Central Municipal",
+        "en": "Asante Akim Central Municipal",
+        "slug": "asante-akim-central-municipal-gh0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0213",
+        "level": 2,
+        "name": {
+          "local": "Asante Akim Central Municipal",
+          "en": "Asante Akim Central Municipal",
+          "slug": "asante-akim-central-municipal-gh0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "-1.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

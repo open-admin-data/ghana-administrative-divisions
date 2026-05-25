@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0625_akwadom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akwadom",
+      "en": "Akwadom",
+      "slug": "akwadom"
+    },
+    "code": {
+      "id": "GH0625_akwadom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0625",
+      "level": 2,
+      "name": {
+        "local": "New Juaben North Municipal",
+        "en": "New Juaben North Municipal",
+        "slug": "new-juaben-north-municipal-gh0625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0625",
+        "level": 2,
+        "name": {
+          "local": "New Juaben North Municipal",
+          "en": "New Juaben North Municipal",
+          "slug": "new-juaben-north-municipal-gh0625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.114",
+      "lon": "-0.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0625_jumapo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jumapo",
+      "en": "Jumapo",
+      "slug": "jumapo"
+    },
+    "code": {
+      "id": "GH0625_jumapo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0625",
+      "level": 2,
+      "name": {
+        "local": "New Juaben North Municipal",
+        "en": "New Juaben North Municipal",
+        "slug": "new-juaben-north-municipal-gh0625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0625",
+        "level": 2,
+        "name": {
+          "local": "New Juaben North Municipal",
+          "en": "New Juaben North Municipal",
+          "slug": "new-juaben-north-municipal-gh0625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.159",
+      "lon": "-0.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0625_oyoko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oyoko",
+      "en": "Oyoko",
+      "slug": "oyoko"
+    },
+    "code": {
+      "id": "GH0625_oyoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0625",
+      "level": 2,
+      "name": {
+        "local": "New Juaben North Municipal",
+        "en": "New Juaben North Municipal",
+        "slug": "new-juaben-north-municipal-gh0625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0625",
+        "level": 2,
+        "name": {
+          "local": "New Juaben North Municipal",
+          "en": "New Juaben North Municipal",
+          "slug": "new-juaben-north-municipal-gh0625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.138",
+      "lon": "-0.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

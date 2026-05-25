@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "GH1508_adiembra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adiembra",
+      "en": "Adiembra",
+      "slug": "adiembra"
+    },
+    "code": {
+      "id": "GH1508_adiembra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.929",
+      "lon": "-1.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_air-force-base",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Air Force Base",
+      "en": "Air Force Base",
+      "slug": "air-force-base"
+    },
+    "code": {
+      "id": "GH1508_air-force-base",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.894",
+      "lon": "-1.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_anaji",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anaji",
+      "en": "Anaji",
+      "slug": "anaji"
+    },
+    "code": {
+      "id": "GH1508_anaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.929",
+      "lon": "-1.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_cape-coast-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cape Coast Road",
+      "en": "Cape Coast Road",
+      "slug": "cape-coast-road"
+    },
+    "code": {
+      "id": "GH1508_cape-coast-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.903",
+      "lon": "-1.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_esikafoambantem-no-1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Esikafoambantem No. 1",
+      "en": "Esikafoambantem No. 1",
+      "slug": "esikafoambantem-no-1"
+    },
+    "code": {
+      "id": "GH1508_esikafoambantem-no-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.896",
+      "lon": "-1.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_esikafoambantem-no1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Esikafoambantem No1",
+      "en": "Esikafoambantem No1",
+      "slug": "esikafoambantem-no1"
+    },
+    "code": {
+      "id": "GH1508_esikafoambantem-no1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.896",
+      "lon": "-1.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_essikadu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essikadu",
+      "en": "Essikadu",
+      "slug": "essikadu"
+    },
+    "code": {
+      "id": "GH1508_essikadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.946",
+      "lon": "-1.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_essikafo-anbantem-no3",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essikafo  Anbantem No3",
+      "en": "Essikafo  Anbantem No3",
+      "slug": "essikafo-anbantem-no3"
+    },
+    "code": {
+      "id": "GH1508_essikafo-anbantem-no3",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.895",
+      "lon": "-1.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_european-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "European  Town",
+      "en": "European  Town",
+      "slug": "european-town"
+    },
+    "code": {
+      "id": "GH1508_european-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "-1.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_european-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "European Town",
+      "en": "European Town",
+      "slug": "european-town"
+    },
+    "code": {
+      "id": "GH1508_european-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.936",
+      "lon": "-1.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_fijai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fijai",
+      "en": "Fijai",
+      "slug": "fijai"
+    },
+    "code": {
+      "id": "GH1508_fijai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.94",
+      "lon": "-1.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_fijai-hill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Fijai Hill",
+      "en": "Fijai Hill",
+      "slug": "fijai-hill"
+    },
+    "code": {
+      "id": "GH1508_fijai-hill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.944",
+      "lon": "-1.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_harbour-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Harbour  Area",
+      "en": "Harbour  Area",
+      "slug": "harbour-area"
+    },
+    "code": {
+      "id": "GH1508_harbour-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.88",
+      "lon": "-1.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_industrial-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Industrial Area",
+      "en": "Industrial Area",
+      "slug": "industrial-area"
+    },
+    "code": {
+      "id": "GH1508_industrial-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.916",
+      "lon": "-1.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_john-sarbah-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "John Sarbah Road",
+      "en": "John Sarbah Road",
+      "slug": "john-sarbah-road"
+    },
+    "code": {
+      "id": "GH1508_john-sarbah-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "-1.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_ketan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ketan",
+      "en": "Ketan",
+      "slug": "ketan"
+    },
+    "code": {
+      "id": "GH1508_ketan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.951",
+      "lon": "-1.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_kojokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kojokrom",
+      "en": "Kojokrom",
+      "slug": "kojokrom"
+    },
+    "code": {
+      "id": "GH1508_kojokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.975",
+      "lon": "-1.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_liberation-road-chapel-hill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Liberation Road Chapel Hill",
+      "en": "Liberation Road Chapel Hill",
+      "slug": "liberation-road-chapel-hill"
+    },
+    "code": {
+      "id": "GH1508_liberation-road-chapel-hill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.893",
+      "lon": "-1.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_location",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Location",
+      "en": "Location",
+      "slug": "location"
+    },
+    "code": {
+      "id": "GH1508_location",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.952",
+      "lon": "-1.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_maxwell-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maxwell Road",
+      "en": "Maxwell Road",
+      "slug": "maxwell-road"
+    },
+    "code": {
+      "id": "GH1508_maxwell-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "-1.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_new-takoradi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New  Takoradi",
+      "en": "New  Takoradi",
+      "slug": "new-takoradi"
+    },
+    "code": {
+      "id": "GH1508_new-takoradi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.888",
+      "lon": "-1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_new-site",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Site",
+      "en": "New Site",
+      "slug": "new-site"
+    },
+    "code": {
+      "id": "GH1508_new-site",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.914",
+      "lon": "-1.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_new-takoradi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Takoradi",
+      "en": "New Takoradi",
+      "slug": "new-takoradi"
+    },
+    "code": {
+      "id": "GH1508_new-takoradi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "-1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_old-hospital",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old  Hospital",
+      "en": "Old  Hospital",
+      "slug": "old-hospital"
+    },
+    "code": {
+      "id": "GH1508_old-hospital",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.908",
+      "lon": "-1.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_sekondi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekondi",
+      "en": "Sekondi",
+      "slug": "sekondi"
+    },
+    "code": {
+      "id": "GH1508_sekondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.925",
+      "lon": "-1.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_takoradi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takoradi",
+      "en": "Takoradi",
+      "slug": "takoradi"
+    },
+    "code": {
+      "id": "GH1508_takoradi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.919",
+      "lon": "-1.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_takoradi-harbour-main",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takoradi Harbour Main",
+      "en": "Takoradi Harbour Main",
+      "slug": "takoradi-harbour-main"
+    },
+    "code": {
+      "id": "GH1508_takoradi-harbour-main",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.888",
+      "lon": "-1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_takoradi-market-circle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takoradi Market Circle",
+      "en": "Takoradi Market Circle",
+      "slug": "takoradi-market-circle"
+    },
+    "code": {
+      "id": "GH1508_takoradi-market-circle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "-1.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_takoradi-market-clinic",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Takoradi Market Clinic",
+      "en": "Takoradi Market Clinic",
+      "slug": "takoradi-market-clinic"
+    },
+    "code": {
+      "id": "GH1508_takoradi-market-clinic",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "-1.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_timber-bar",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Timber  Bar",
+      "en": "Timber  Bar",
+      "slug": "timber-bar"
+    },
+    "code": {
+      "id": "GH1508_timber-bar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.902",
+      "lon": "-1.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1508_windy-ridge",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Windy Ridge",
+      "en": "Windy Ridge",
+      "slug": "windy-ridge"
+    },
+    "code": {
+      "id": "GH1508_windy-ridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1508",
+      "level": 2,
+      "name": {
+        "local": "Sekondi Takoradi Metropolis",
+        "en": "Sekondi Takoradi Metropolis",
+        "slug": "sekondi-takoradi-metropolis-gh1508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1508",
+        "level": 2,
+        "name": {
+          "local": "Sekondi Takoradi Metropolis",
+          "en": "Sekondi Takoradi Metropolis",
+          "slug": "sekondi-takoradi-metropolis-gh1508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.909",
+      "lon": "-1.765"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0516_ankamu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ankamu",
+      "en": "Ankamu",
+      "slug": "ankamu"
+    },
+    "code": {
+      "id": "GH0516_ankamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.337",
+      "lon": "-0.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516_apam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apam",
+      "en": "Apam",
+      "slug": "apam"
+    },
+    "code": {
+      "id": "GH0516_apam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.284",
+      "lon": "-0.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516_mankoadze",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankoadze",
+      "en": "Mankoadze",
+      "slug": "mankoadze"
+    },
+    "code": {
+      "id": "GH0516_mankoadze",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.318",
+      "lon": "-0.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516_ngyiresi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ngyiresi",
+      "en": "Ngyiresi",
+      "slug": "ngyiresi"
+    },
+    "code": {
+      "id": "GH0516_ngyiresi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.351",
+      "lon": "-0.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516_noguchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Noguchi",
+      "en": "Noguchi",
+      "slug": "noguchi"
+    },
+    "code": {
+      "id": "GH0516_noguchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.36",
+      "lon": "-0.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0516_ogua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ogua",
+      "en": "Ogua",
+      "slug": "ogua"
+    },
+    "code": {
+      "id": "GH0516_ogua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0516",
+      "level": 2,
+      "name": {
+        "local": "Gomoa West",
+        "en": "Gomoa West",
+        "slug": "gomoa-west-gh0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0516",
+        "level": 2,
+        "name": {
+          "local": "Gomoa West",
+          "en": "Gomoa West",
+          "slug": "gomoa-west-gh0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.42",
+      "lon": "-0.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

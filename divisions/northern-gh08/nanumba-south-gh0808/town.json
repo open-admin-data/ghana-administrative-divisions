@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0808_kukuo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukuo",
+      "en": "Kukuo",
+      "slug": "kukuo"
+    },
+    "code": {
+      "id": "GH0808_kukuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.848",
+      "lon": "0.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0808_lungni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lungni",
+      "en": "Lungni",
+      "slug": "lungni"
+    },
+    "code": {
+      "id": "GH0808_lungni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.558",
+      "lon": "-0.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0808_nakpayili",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nakpayili",
+      "en": "Nakpayili",
+      "slug": "nakpayili"
+    },
+    "code": {
+      "id": "GH0808_nakpayili",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.76",
+      "lon": "0.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0808_pudua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pudua",
+      "en": "Pudua",
+      "slug": "pudua"
+    },
+    "code": {
+      "id": "GH0808_pudua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.87",
+      "lon": "0.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0808_welensi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Welensi",
+      "en": "Welensi",
+      "slug": "welensi"
+    },
+    "code": {
+      "id": "GH0808_welensi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.656",
+      "lon": "0.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0808_wulensi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wulensi",
+      "en": "Wulensi",
+      "slug": "wulensi"
+    },
+    "code": {
+      "id": "GH0808_wulensi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0808",
+      "level": 2,
+      "name": {
+        "local": "Nanumba South",
+        "en": "Nanumba South",
+        "slug": "nanumba-south-gh0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0808",
+        "level": 2,
+        "name": {
+          "local": "Nanumba South",
+          "en": "Nanumba South",
+          "slug": "nanumba-south-gh0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.656",
+      "lon": "0.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

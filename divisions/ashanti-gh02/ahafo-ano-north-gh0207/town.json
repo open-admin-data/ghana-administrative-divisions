@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0207_acherensua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Acherensua",
+      "en": "Acherensua",
+      "slug": "acherensua"
+    },
+    "code": {
+      "id": "GH0207_acherensua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.982",
+      "lon": "-2.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_akwasiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akwasiase",
+      "en": "Akwasiase",
+      "slug": "akwasiase"
+    },
+    "code": {
+      "id": "GH0207_akwasiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.995",
+      "lon": "-2.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_anyinasuso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinasuso",
+      "en": "Anyinasuso",
+      "slug": "anyinasuso"
+    },
+    "code": {
+      "id": "GH0207_anyinasuso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.959",
+      "lon": "-2.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_betiako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Betiako",
+      "en": "Betiako",
+      "slug": "betiako"
+    },
+    "code": {
+      "id": "GH0207_betiako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.866",
+      "lon": "-2.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_hwidiem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hwidiem",
+      "en": "Hwidiem",
+      "slug": "hwidiem"
+    },
+    "code": {
+      "id": "GH0207_hwidiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.933",
+      "lon": "-2.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_manfo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manfo",
+      "en": "Manfo",
+      "slug": "manfo"
+    },
+    "code": {
+      "id": "GH0207_manfo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.945",
+      "lon": "-2.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_matang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Matang",
+      "en": "Matang",
+      "slug": "matang"
+    },
+    "code": {
+      "id": "GH0207_matang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.996",
+      "lon": "-2.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_subriso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Subriso",
+      "en": "Subriso",
+      "slug": "subriso"
+    },
+    "code": {
+      "id": "GH0207_subriso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.816",
+      "lon": "-2.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0207_tepa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tepa",
+      "en": "Tepa",
+      "slug": "tepa"
+    },
+    "code": {
+      "id": "GH0207_tepa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0207",
+      "level": 2,
+      "name": {
+        "local": "Ahafo Ano North",
+        "en": "Ahafo Ano North",
+        "slug": "ahafo-ano-north-gh0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0207",
+        "level": 2,
+        "name": {
+          "local": "Ahafo Ano North",
+          "en": "Ahafo Ano North",
+          "slug": "ahafo-ano-north-gh0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7",
+      "lon": "-2.171"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

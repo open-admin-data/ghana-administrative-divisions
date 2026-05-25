@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0225_boamadumase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boamadumase",
+      "en": "Boamadumase",
+      "slug": "boamadumase"
+    },
+    "code": {
+      "id": "GH0225_boamadumase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0225",
+      "level": 2,
+      "name": {
+        "local": "Ejisu Municipal",
+        "en": "Ejisu Municipal",
+        "slug": "ejisu-municipal-gh0225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0225",
+        "level": 2,
+        "name": {
+          "local": "Ejisu Municipal",
+          "en": "Ejisu Municipal",
+          "slug": "ejisu-municipal-gh0225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.616",
+      "lon": "-1.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0225_bomfa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bomfa",
+      "en": "Bomfa",
+      "slug": "bomfa"
+    },
+    "code": {
+      "id": "GH0225_bomfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0225",
+      "level": 2,
+      "name": {
+        "local": "Ejisu Municipal",
+        "en": "Ejisu Municipal",
+        "slug": "ejisu-municipal-gh0225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0225",
+        "level": 2,
+        "name": {
+          "local": "Ejisu Municipal",
+          "en": "Ejisu Municipal",
+          "slug": "ejisu-municipal-gh0225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.596",
+      "lon": "-1.299"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

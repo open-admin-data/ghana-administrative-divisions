@@ -1,0 +1,47 @@
+{
+  "id": "GH1005",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krachi Nchumuru",
+    "en": "Krachi Nchumuru",
+    "slug": "krachi-nchumuru-gh1005"
+  },
+  "code": {
+    "id": "GH1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.189",
+    "lon": "-0.088"
+  },
+  "metadata": {},
+  "source": {}
+}

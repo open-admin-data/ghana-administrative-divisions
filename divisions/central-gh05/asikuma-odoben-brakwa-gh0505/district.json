@@ -1,0 +1,47 @@
+{
+  "id": "GH0505",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asikuma-Odoben-Brakwa",
+    "en": "Asikuma-Odoben-Brakwa",
+    "slug": "asikuma-odoben-brakwa-gh0505"
+  },
+  "code": {
+    "id": "GH0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.627",
+    "lon": "-1.025"
+  },
+  "metadata": {},
+  "source": {}
+}

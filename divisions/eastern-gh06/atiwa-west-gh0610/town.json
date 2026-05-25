@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0610_abomosu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abomosu",
+      "en": "Abomosu",
+      "slug": "abomosu"
+    },
+    "code": {
+      "id": "GH0610_abomosu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.3",
+      "lon": "-0.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610_anyinam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyinam",
+      "en": "Anyinam",
+      "slug": "anyinam"
+    },
+    "code": {
+      "id": "GH0610_anyinam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.274",
+      "lon": "-0.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610_apapam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apapam",
+      "en": "Apapam",
+      "slug": "apapam"
+    },
+    "code": {
+      "id": "GH0610_apapam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.148",
+      "lon": "-0.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610_awenare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awenare",
+      "en": "Awenare",
+      "slug": "awenare"
+    },
+    "code": {
+      "id": "GH0610_awenare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.272",
+      "lon": "-0.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610_kibi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kibi",
+      "en": "Kibi",
+      "slug": "kibi"
+    },
+    "code": {
+      "id": "GH0610_kibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.167",
+      "lon": "-0.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0610_kyebi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kyebi",
+      "en": "Kyebi",
+      "slug": "kyebi"
+    },
+    "code": {
+      "id": "GH0610_kyebi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0610",
+      "level": 2,
+      "name": {
+        "local": "Atiwa West",
+        "en": "Atiwa West",
+        "slug": "atiwa-west-gh0610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0610",
+        "level": 2,
+        "name": {
+          "local": "Atiwa West",
+          "en": "Atiwa West",
+          "slug": "atiwa-west-gh0610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.168",
+      "lon": "-0.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0904_gbedembilisi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbedembilisi",
+      "en": "Gbedembilisi",
+      "slug": "gbedembilisi"
+    },
+    "code": {
+      "id": "GH0904_gbedembilisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0904",
+      "level": 2,
+      "name": {
+        "local": "Mamprugu Moagduri",
+        "en": "Mamprugu Moagduri",
+        "slug": "mamprugu-moagduri-gh0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      },
+      {
+        "id": "GH0904",
+        "level": 2,
+        "name": {
+          "local": "Mamprugu Moagduri",
+          "en": "Mamprugu Moagduri",
+          "slug": "mamprugu-moagduri-gh0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.327",
+      "lon": "-1.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

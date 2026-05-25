@@ -1,0 +1,47 @@
+{
+  "id": "GH1006",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krachi West",
+    "en": "Krachi West",
+    "slug": "krachi-west-gh1006"
+  },
+  "code": {
+    "id": "GH1006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.89",
+    "lon": "-0.036"
+  },
+  "metadata": {},
+  "source": {}
+}

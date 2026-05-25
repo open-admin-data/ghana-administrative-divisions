@@ -1,0 +1,30 @@
+{
+  "id": "GH07",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Greater Accra",
+    "en": "Greater Accra",
+    "slug": "greater-accra-gh07"
+  },
+  "code": {
+    "id": "GH07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 29,
+    "town": 222
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.79",
+    "lon": "0.247"
+  },
+  "metadata": {},
+  "source": {}
+}

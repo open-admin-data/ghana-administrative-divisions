@@ -1,0 +1,30 @@
+{
+  "id": "GH12",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Upper East",
+    "en": "Upper East",
+    "slug": "upper-east-gh12"
+  },
+  "code": {
+    "id": "GH12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15,
+    "town": 169
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.728",
+    "lon": "-0.819"
+  },
+  "metadata": {},
+  "source": {}
+}

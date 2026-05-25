@@ -1,0 +1,47 @@
+{
+  "id": "GH1207",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Builsa North",
+    "en": "Builsa North",
+    "slug": "builsa-north-gh1207"
+  },
+  "code": {
+    "id": "GH1207",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.711",
+    "lon": "-1.258"
+  },
+  "metadata": {},
+  "source": {}
+}

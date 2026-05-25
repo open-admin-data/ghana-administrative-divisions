@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1506_aiyinase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aiyinase",
+      "en": "Aiyinase",
+      "slug": "aiyinase"
+    },
+    "code": {
+      "id": "GH1506_aiyinase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.049",
+      "lon": "-2.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_asasetre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asasetre",
+      "en": "Asasetre",
+      "slug": "asasetre"
+    },
+    "code": {
+      "id": "GH1506_asasetre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.024",
+      "lon": "-2.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_awiebo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awiebo",
+      "en": "Awiebo",
+      "slug": "awiebo"
+    },
+    "code": {
+      "id": "GH1506_awiebo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.038",
+      "lon": "-2.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_axim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Axim",
+      "en": "Axim",
+      "slug": "axim"
+    },
+    "code": {
+      "id": "GH1506_axim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.867",
+      "lon": "-2.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_bamiankor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bamiankor",
+      "en": "Bamiankor",
+      "slug": "bamiankor"
+    },
+    "code": {
+      "id": "GH1506_bamiankor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.011",
+      "lon": "-2.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_eikwe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Eikwe",
+      "en": "Eikwe",
+      "slug": "eikwe"
+    },
+    "code": {
+      "id": "GH1506_eikwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.965",
+      "lon": "-2.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_essiama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essiama",
+      "en": "Essiama",
+      "slug": "essiama"
+    },
+    "code": {
+      "id": "GH1506_essiama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.936",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_gwira-eshiem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gwira  Eshiem",
+      "en": "Gwira  Eshiem",
+      "slug": "gwira-eshiem"
+    },
+    "code": {
+      "id": "GH1506_gwira-eshiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.138",
+      "lon": "-2.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_gwira-banso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gwira Banso",
+      "en": "Gwira Banso",
+      "slug": "gwira-banso"
+    },
+    "code": {
+      "id": "GH1506_gwira-banso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.12",
+      "lon": "-2.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1506_nkroful",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkroful",
+      "en": "Nkroful",
+      "slug": "nkroful"
+    },
+    "code": {
+      "id": "GH1506_nkroful",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1506",
+      "level": 2,
+      "name": {
+        "local": "Nzema East",
+        "en": "Nzema East",
+        "slug": "nzema-east-gh1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1506",
+        "level": 2,
+        "name": {
+          "local": "Nzema East",
+          "en": "Nzema East",
+          "slug": "nzema-east-gh1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.96",
+      "lon": "-2.326"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

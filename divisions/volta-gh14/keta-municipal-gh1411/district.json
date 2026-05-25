@@ -1,0 +1,47 @@
+{
+  "id": "GH1411",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Keta Municipal",
+    "en": "Keta Municipal",
+    "slug": "keta-municipal-gh1411"
+  },
+  "code": {
+    "id": "GH1411",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH14",
+    "level": 1,
+    "name": {
+      "local": "Volta",
+      "en": "Volta",
+      "slug": "volta-gh14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH14",
+      "level": 1,
+      "name": {
+        "local": "Volta",
+        "en": "Volta",
+        "slug": "volta-gh14"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.937",
+    "lon": "0.883"
+  },
+  "metadata": {},
+  "source": {}
+}

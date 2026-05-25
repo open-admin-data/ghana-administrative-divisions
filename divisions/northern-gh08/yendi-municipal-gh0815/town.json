@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0815_adibo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adibo",
+      "en": "Adibo",
+      "slug": "adibo"
+    },
+    "code": {
+      "id": "GH0815_adibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.307",
+      "lon": "-0.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_balogu-east",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Balogu  East",
+      "en": "Balogu  East",
+      "slug": "balogu-east"
+    },
+    "code": {
+      "id": "GH0815_balogu-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.463",
+      "lon": "-0.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_bunbon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bunbon",
+      "en": "Bunbon",
+      "slug": "bunbon"
+    },
+    "code": {
+      "id": "GH0815_bunbon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.701",
+      "lon": "-0.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_dabogni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dabogni",
+      "en": "Dabogni",
+      "slug": "dabogni"
+    },
+    "code": {
+      "id": "GH0815_dabogni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.208",
+      "lon": "-0.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_jimle",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jimle",
+      "en": "Jimle",
+      "slug": "jimle"
+    },
+    "code": {
+      "id": "GH0815_jimle",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.4",
+      "lon": "-0.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_kuni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kuni",
+      "en": "Kuni",
+      "slug": "kuni"
+    },
+    "code": {
+      "id": "GH0815_kuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.246",
+      "lon": "-0.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_nyani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyani",
+      "en": "Nyani",
+      "slug": "nyani"
+    },
+    "code": {
+      "id": "GH0815_nyani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.356",
+      "lon": "-0.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_sang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sang",
+      "en": "Sang",
+      "slug": "sang"
+    },
+    "code": {
+      "id": "GH0815_sang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.419",
+      "lon": "-0.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_sunsong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sunsong",
+      "en": "Sunsong",
+      "slug": "sunsong"
+    },
+    "code": {
+      "id": "GH0815_sunsong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.597",
+      "lon": "-0.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0815_yendi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yendi",
+      "en": "Yendi",
+      "slug": "yendi"
+    },
+    "code": {
+      "id": "GH0815_yendi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0815",
+      "level": 2,
+      "name": {
+        "local": "Yendi Municipal",
+        "en": "Yendi Municipal",
+        "slug": "yendi-municipal-gh0815"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0815",
+        "level": 2,
+        "name": {
+          "local": "Yendi Municipal",
+          "en": "Yendi Municipal",
+          "slug": "yendi-municipal-gh0815"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.446",
+      "lon": "-0.004"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

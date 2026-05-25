@@ -1,0 +1,47 @@
+{
+  "id": "GH0226",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ejura-Sekyedumase",
+    "en": "Ejura-Sekyedumase",
+    "slug": "ejura-sekyedumase-gh0226"
+  },
+  "code": {
+    "id": "GH0226",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.385",
+    "lon": "-1.383"
+  },
+  "metadata": {},
+  "source": {}
+}

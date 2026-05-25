@@ -1,0 +1,218 @@
+[
+  {
+    "id": "GH0813_kandin",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kandin",
+      "en": "Kandin",
+      "slug": "kandin"
+    },
+    "code": {
+      "id": "GH0813_kandin",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0813",
+      "level": 2,
+      "name": {
+        "local": "Tatale Sanguli",
+        "en": "Tatale Sanguli",
+        "slug": "tatale-sanguli-gh0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0813",
+        "level": 2,
+        "name": {
+          "local": "Tatale Sanguli",
+          "en": "Tatale Sanguli",
+          "slug": "tatale-sanguli-gh0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.2",
+      "lon": "0.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0813_kpalbutabu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpalbutabu",
+      "en": "Kpalbutabu",
+      "slug": "kpalbutabu"
+    },
+    "code": {
+      "id": "GH0813_kpalbutabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0813",
+      "level": 2,
+      "name": {
+        "local": "Tatale Sanguli",
+        "en": "Tatale Sanguli",
+        "slug": "tatale-sanguli-gh0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0813",
+        "level": 2,
+        "name": {
+          "local": "Tatale Sanguli",
+          "en": "Tatale Sanguli",
+          "slug": "tatale-sanguli-gh0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "0.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0813_tatale",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tatale",
+      "en": "Tatale",
+      "slug": "tatale"
+    },
+    "code": {
+      "id": "GH0813_tatale",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0813",
+      "level": 2,
+      "name": {
+        "local": "Tatale Sanguli",
+        "en": "Tatale Sanguli",
+        "slug": "tatale-sanguli-gh0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0813",
+        "level": 2,
+        "name": {
+          "local": "Tatale Sanguli",
+          "en": "Tatale Sanguli",
+          "slug": "tatale-sanguli-gh0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.364",
+      "lon": "0.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0813_zabzugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zabzugu",
+      "en": "Zabzugu",
+      "slug": "zabzugu"
+    },
+    "code": {
+      "id": "GH0813_zabzugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0813",
+      "level": 2,
+      "name": {
+        "local": "Tatale Sanguli",
+        "en": "Tatale Sanguli",
+        "slug": "tatale-sanguli-gh0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0813",
+        "level": 2,
+        "name": {
+          "local": "Tatale Sanguli",
+          "en": "Tatale Sanguli",
+          "slug": "tatale-sanguli-gh0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.296",
+      "lon": "0.377"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

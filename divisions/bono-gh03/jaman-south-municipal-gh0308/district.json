@@ -1,0 +1,47 @@
+{
+  "id": "GH0308",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jaman South Municipal",
+    "en": "Jaman South Municipal",
+    "slug": "jaman-south-municipal-gh0308"
+  },
+  "code": {
+    "id": "GH0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH03",
+    "level": 1,
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono-gh03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH03",
+      "level": 1,
+      "name": {
+        "local": "Bono",
+        "en": "Bono",
+        "slug": "bono-gh03"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.623",
+    "lon": "-2.796"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GH1303",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lambussie-Karni",
+    "en": "Lambussie-Karni",
+    "slug": "lambussie-karni-gh1303"
+  },
+  "code": {
+    "id": "GH1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.839",
+    "lon": "-2.583"
+  },
+  "metadata": {},
+  "source": {}
+}

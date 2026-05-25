@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH1209_denegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Denegu",
+      "en": "Denegu",
+      "slug": "denegu"
+    },
+    "code": {
+      "id": "GH1209_denegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.727",
+      "lon": "-0.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_denugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Denugu",
+      "en": "Denugu",
+      "slug": "denugu"
+    },
+    "code": {
+      "id": "GH1209_denugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.727",
+      "lon": "-0.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "GH1209_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.849",
+      "lon": "-0.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_kpatia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpatia",
+      "en": "Kpatia",
+      "slug": "kpatia"
+    },
+    "code": {
+      "id": "GH1209_kpatia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.813",
+      "lon": "-0.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_kpattia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpattia",
+      "en": "Kpattia",
+      "slug": "kpattia"
+    },
+    "code": {
+      "id": "GH1209_kpattia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.813",
+      "lon": "-0.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_nakpanduri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nakpanduri",
+      "en": "Nakpanduri",
+      "slug": "nakpanduri"
+    },
+    "code": {
+      "id": "GH1209_nakpanduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.635",
+      "lon": "-0.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_songo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Songo",
+      "en": "Songo",
+      "slug": "songo"
+    },
+    "code": {
+      "id": "GH1209_songo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.724",
+      "lon": "-0.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1209_worikambo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Worikambo",
+      "en": "Worikambo",
+      "slug": "worikambo"
+    },
+    "code": {
+      "id": "GH1209_worikambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1209",
+      "level": 2,
+      "name": {
+        "local": "Garu",
+        "en": "Garu",
+        "slug": "garu-gh1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1209",
+        "level": 2,
+        "name": {
+          "local": "Garu",
+          "en": "Garu",
+          "slug": "garu-gh1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.772",
+      "lon": "-0.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

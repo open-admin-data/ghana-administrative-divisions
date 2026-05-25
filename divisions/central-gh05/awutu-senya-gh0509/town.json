@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0509_ahentia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahentia",
+      "en": "Ahentia",
+      "slug": "ahentia"
+    },
+    "code": {
+      "id": "GH0509_ahentia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.332",
+      "lon": "-0.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_akrabon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrabon",
+      "en": "Akrabon",
+      "slug": "akrabon"
+    },
+    "code": {
+      "id": "GH0509_akrabon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.617",
+      "lon": "-0.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_awutu-bereku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awutu Bereku",
+      "en": "Awutu Bereku",
+      "slug": "awutu-bereku"
+    },
+    "code": {
+      "id": "GH0509_awutu-bereku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.513",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_awutu-bereku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awutu-Bereku",
+      "en": "Awutu-Bereku",
+      "slug": "awutu-bereku"
+    },
+    "code": {
+      "id": "GH0509_awutu-bereku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.513",
+      "lon": "-0.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_bawjiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bawjiase",
+      "en": "Bawjiase",
+      "slug": "bawjiase"
+    },
+    "code": {
+      "id": "GH0509_bawjiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.674",
+      "lon": "-0.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_bontrase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bontrase",
+      "en": "Bontrase",
+      "slug": "bontrase"
+    },
+    "code": {
+      "id": "GH0509_bontrase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.608",
+      "lon": "-0.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_kasoa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kasoa",
+      "en": "Kasoa",
+      "slug": "kasoa"
+    },
+    "code": {
+      "id": "GH0509_kasoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.518",
+      "lon": "-0.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0509_senya-bereku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Senya Bereku",
+      "en": "Senya Bereku",
+      "slug": "senya-bereku"
+    },
+    "code": {
+      "id": "GH0509_senya-bereku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0509",
+      "level": 2,
+      "name": {
+        "local": "Awutu Senya",
+        "en": "Awutu Senya",
+        "slug": "awutu-senya-gh0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0509",
+        "level": 2,
+        "name": {
+          "local": "Awutu Senya",
+          "en": "Awutu Senya",
+          "slug": "awutu-senya-gh0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.39",
+      "lon": "-0.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

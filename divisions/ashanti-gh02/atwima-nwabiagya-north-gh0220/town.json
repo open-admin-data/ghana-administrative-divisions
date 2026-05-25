@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0220_dwenwoho",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dwenwoho",
+      "en": "Dwenwoho",
+      "slug": "dwenwoho"
+    },
+    "code": {
+      "id": "GH0220_dwenwoho",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0220",
+      "level": 2,
+      "name": {
+        "local": "Atwima Nwabiagya North",
+        "en": "Atwima Nwabiagya North",
+        "slug": "atwima-nwabiagya-north-gh0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0220",
+        "level": 2,
+        "name": {
+          "local": "Atwima Nwabiagya North",
+          "en": "Atwima Nwabiagya North",
+          "slug": "atwima-nwabiagya-north-gh0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.859",
+      "lon": "-1.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0220_essibey-nkwata",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essibey Nkwata",
+      "en": "Essibey Nkwata",
+      "slug": "essibey-nkwata"
+    },
+    "code": {
+      "id": "GH0220_essibey-nkwata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0220",
+      "level": 2,
+      "name": {
+        "local": "Atwima Nwabiagya North",
+        "en": "Atwima Nwabiagya North",
+        "slug": "atwima-nwabiagya-north-gh0220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0220",
+        "level": 2,
+        "name": {
+          "local": "Atwima Nwabiagya North",
+          "en": "Atwima Nwabiagya North",
+          "slug": "atwima-nwabiagya-north-gh0220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.846",
+      "lon": "-1.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

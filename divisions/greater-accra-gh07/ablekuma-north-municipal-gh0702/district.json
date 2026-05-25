@@ -1,0 +1,47 @@
+{
+  "id": "GH0702",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ablekuma North Municipal",
+    "en": "Ablekuma North Municipal",
+    "slug": "ablekuma-north-municipal-gh0702"
+  },
+  "code": {
+    "id": "GH0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.58",
+    "lon": "-0.247"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0802_karaga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Karaga",
+      "en": "Karaga",
+      "slug": "karaga"
+    },
+    "code": {
+      "id": "GH0802_karaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0802",
+      "level": 2,
+      "name": {
+        "local": "Karaga",
+        "en": "Karaga",
+        "slug": "karaga-gh0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0802",
+        "level": 2,
+        "name": {
+          "local": "Karaga",
+          "en": "Karaga",
+          "slug": "karaga-gh0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.916",
+      "lon": "-0.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0802_nyong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nyong",
+      "en": "Nyong",
+      "slug": "nyong"
+    },
+    "code": {
+      "id": "GH0802_nyong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0802",
+      "level": 2,
+      "name": {
+        "local": "Karaga",
+        "en": "Karaga",
+        "slug": "karaga-gh0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0802",
+        "level": 2,
+        "name": {
+          "local": "Karaga",
+          "en": "Karaga",
+          "slug": "karaga-gh0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.883",
+      "lon": "-0.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0802_pishegu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pishegu",
+      "en": "Pishegu",
+      "slug": "pishegu"
+    },
+    "code": {
+      "id": "GH0802_pishegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0802",
+      "level": 2,
+      "name": {
+        "local": "Karaga",
+        "en": "Karaga",
+        "slug": "karaga-gh0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH08",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-gh08"
+        }
+      },
+      {
+        "id": "GH0802",
+        "level": 2,
+        "name": {
+          "local": "Karaga",
+          "en": "Karaga",
+          "slug": "karaga-gh0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.967",
+      "lon": "-0.647"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

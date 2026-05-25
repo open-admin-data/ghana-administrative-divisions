@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "GH1411_abor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abor",
+      "en": "Abor",
+      "slug": "abor"
+    },
+    "code": {
+      "id": "GH1411_abor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.055",
+      "lon": "0.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_afife",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afife",
+      "en": "Afife",
+      "slug": "afife"
+    },
+    "code": {
+      "id": "GH1411_afife",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.054",
+      "lon": "0.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_agbledome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agbledome",
+      "en": "Agbledome",
+      "slug": "agbledome"
+    },
+    "code": {
+      "id": "GH1411_agbledome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.777",
+      "lon": "0.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_alakple",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Alakple",
+      "en": "Alakple",
+      "slug": "alakple"
+    },
+    "code": {
+      "id": "GH1411_alakple",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.852",
+      "lon": "0.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_angloga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Angloga",
+      "en": "Angloga",
+      "slug": "angloga"
+    },
+    "code": {
+      "id": "GH1411_angloga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.796",
+      "lon": "0.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_anlo-afiadenyigba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anlo-Afiadenyigba",
+      "en": "Anlo-Afiadenyigba",
+      "slug": "anlo-afiadenyigba"
+    },
+    "code": {
+      "id": "GH1411_anlo-afiadenyigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.045",
+      "lon": "0.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_anloga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anloga",
+      "en": "Anloga",
+      "slug": "anloga"
+    },
+    "code": {
+      "id": "GH1411_anloga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.792",
+      "lon": "0.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_anyako",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyako",
+      "en": "Anyako",
+      "slug": "anyako"
+    },
+    "code": {
+      "id": "GH1411_anyako",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.01",
+      "lon": "0.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_anyanui",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyanui",
+      "en": "Anyanui",
+      "slug": "anyanui"
+    },
+    "code": {
+      "id": "GH1411_anyanui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.78",
+      "lon": "0.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_asadame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asadame",
+      "en": "Asadame",
+      "slug": "asadame"
+    },
+    "code": {
+      "id": "GH1411_asadame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.994",
+      "lon": "0.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_atiavi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atiavi",
+      "en": "Atiavi",
+      "slug": "atiavi"
+    },
+    "code": {
+      "id": "GH1411_atiavi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.948",
+      "lon": "0.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_avenorpeme",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avenorpeme",
+      "en": "Avenorpeme",
+      "slug": "avenorpeme"
+    },
+    "code": {
+      "id": "GH1411_avenorpeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.001",
+      "lon": "0.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_avuime",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avuime",
+      "en": "Avuime",
+      "slug": "avuime"
+    },
+    "code": {
+      "id": "GH1411_avuime",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.807",
+      "lon": "0.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_galo-sota",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Galo-Sota",
+      "en": "Galo-Sota",
+      "slug": "galo-sota"
+    },
+    "code": {
+      "id": "GH1411_galo-sota",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.854",
+      "lon": "0.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_hatorgodo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hatorgodo",
+      "en": "Hatorgodo",
+      "slug": "hatorgodo"
+    },
+    "code": {
+      "id": "GH1411_hatorgodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.95",
+      "lon": "0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_keta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Keta",
+      "en": "Keta",
+      "slug": "keta"
+    },
+    "code": {
+      "id": "GH1411_keta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.888",
+      "lon": "0.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_tegbi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tegbi",
+      "en": "Tegbi",
+      "slug": "tegbi"
+    },
+    "code": {
+      "id": "GH1411_tegbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.871",
+      "lon": "0.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_tregui",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tregui",
+      "en": "Tregui",
+      "slug": "tregui"
+    },
+    "code": {
+      "id": "GH1411_tregui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.888",
+      "lon": "0.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1411_vui",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vui",
+      "en": "Vui",
+      "slug": "vui"
+    },
+    "code": {
+      "id": "GH1411_vui",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1411",
+      "level": 2,
+      "name": {
+        "local": "Keta Municipal",
+        "en": "Keta Municipal",
+        "slug": "keta-municipal-gh1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1411",
+        "level": 2,
+        "name": {
+          "local": "Keta Municipal",
+          "en": "Keta Municipal",
+          "slug": "keta-municipal-gh1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.886",
+      "lon": "0.982"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

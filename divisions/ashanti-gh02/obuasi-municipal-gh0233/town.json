@@ -1,0 +1,974 @@
+[
+  {
+    "id": "GH0233_aboagye-krom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboagye Krom",
+      "en": "Aboagye Krom",
+      "slug": "aboagye-krom"
+    },
+    "code": {
+      "id": "GH0233_aboagye-krom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.191",
+      "lon": "-1.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_abompe-new-site",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abompe    New  Site",
+      "en": "Abompe    New  Site",
+      "slug": "abompe-new-site"
+    },
+    "code": {
+      "id": "GH0233_abompe-new-site",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.219",
+      "lon": "-1.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_akaporiso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akaporiso",
+      "en": "Akaporiso",
+      "slug": "akaporiso"
+    },
+    "code": {
+      "id": "GH0233_akaporiso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "-1.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_bedieso-obuasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bedieso-Obuasi",
+      "en": "Bedieso-Obuasi",
+      "slug": "bedieso-obuasi"
+    },
+    "code": {
+      "id": "GH0233_bedieso-obuasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.207",
+      "lon": "-1.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_boete",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boete",
+      "en": "Boete",
+      "slug": "boete"
+    },
+    "code": {
+      "id": "GH0233_boete",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.113",
+      "lon": "-1.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_brahabebome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brahabebome",
+      "en": "Brahabebome",
+      "slug": "brahabebome"
+    },
+    "code": {
+      "id": "GH0233_brahabebome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.193",
+      "lon": "-1.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_brahabebome-new-site",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Brahabebome New Site",
+      "en": "Brahabebome New Site",
+      "slug": "brahabebome-new-site"
+    },
+    "code": {
+      "id": "GH0233_brahabebome-new-site",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.194",
+      "lon": "-1.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_estate-extension",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Estate Extension",
+      "en": "Estate Extension",
+      "slug": "estate-extension"
+    },
+    "code": {
+      "id": "GH0233_estate-extension",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.206",
+      "lon": "-1.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_gausu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gausu",
+      "en": "Gausu",
+      "slug": "gausu"
+    },
+    "code": {
+      "id": "GH0233_gausu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "-1.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_kofi-krom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kofi Krom",
+      "en": "Kofi Krom",
+      "slug": "kofi-krom"
+    },
+    "code": {
+      "id": "GH0233_kofi-krom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.196",
+      "lon": "-1.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_kwabrafoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwabrafoso",
+      "en": "Kwabrafoso",
+      "slug": "kwabrafoso"
+    },
+    "code": {
+      "id": "GH0233_kwabrafoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "-1.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_new-estate-obuasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New  Estate-Obuasi",
+      "en": "New  Estate-Obuasi",
+      "slug": "new-estate-obuasi"
+    },
+    "code": {
+      "id": "GH0233_new-estate-obuasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.209",
+      "lon": "-1.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_new-estate-obuasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Estate-Obuasi",
+      "en": "New Estate-Obuasi",
+      "slug": "new-estate-obuasi"
+    },
+    "code": {
+      "id": "GH0233_new-estate-obuasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.208",
+      "lon": "-1.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_obuasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obuasi",
+      "en": "Obuasi",
+      "slug": "obuasi"
+    },
+    "code": {
+      "id": "GH0233_obuasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.121",
+      "lon": "-1.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_obuasi---stadium",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obuasi - Stadium",
+      "en": "Obuasi - Stadium",
+      "slug": "obuasi---stadium"
+    },
+    "code": {
+      "id": "GH0233_obuasi---stadium",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.206",
+      "lon": "-1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_obuasi-central",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obuasi Central",
+      "en": "Obuasi Central",
+      "slug": "obuasi-central"
+    },
+    "code": {
+      "id": "GH0233_obuasi-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.203",
+      "lon": "-1.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_obuasi-anyinam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Obuasi-Anyinam",
+      "en": "Obuasi-Anyinam",
+      "slug": "obuasi-anyinam"
+    },
+    "code": {
+      "id": "GH0233_obuasi-anyinam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "-1.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0233_rams-hill",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Rams Hill",
+      "en": "Rams Hill",
+      "slug": "rams-hill"
+    },
+    "code": {
+      "id": "GH0233_rams-hill",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0233",
+      "level": 2,
+      "name": {
+        "local": "Obuasi Municipal",
+        "en": "Obuasi Municipal",
+        "slug": "obuasi-municipal-gh0233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0233",
+        "level": 2,
+        "name": {
+          "local": "Obuasi Municipal",
+          "en": "Obuasi Municipal",
+          "slug": "obuasi-municipal-gh0233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.201",
+      "lon": "-1.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

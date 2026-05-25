@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0616_aboso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboso",
+      "en": "Aboso",
+      "slug": "aboso"
+    },
+    "code": {
+      "id": "GH0616_aboso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0616",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa North",
+        "en": "Fanteakwa North",
+        "slug": "fanteakwa-north-gh0616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0616",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa North",
+          "en": "Fanteakwa North",
+          "slug": "fanteakwa-north-gh0616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.522",
+      "lon": "-0.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0616_ahodwahomasu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahodwahomasu",
+      "en": "Ahodwahomasu",
+      "slug": "ahodwahomasu"
+    },
+    "code": {
+      "id": "GH0616_ahodwahomasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0616",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa North",
+        "en": "Fanteakwa North",
+        "slug": "fanteakwa-north-gh0616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0616",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa North",
+          "en": "Fanteakwa North",
+          "slug": "fanteakwa-north-gh0616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.502",
+      "lon": "-0.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0616_dedeso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dedeso",
+      "en": "Dedeso",
+      "slug": "dedeso"
+    },
+    "code": {
+      "id": "GH0616_dedeso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0616",
+      "level": 2,
+      "name": {
+        "local": "Fanteakwa North",
+        "en": "Fanteakwa North",
+        "slug": "fanteakwa-north-gh0616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0616",
+        "level": 2,
+        "name": {
+          "local": "Fanteakwa North",
+          "en": "Fanteakwa North",
+          "slug": "fanteakwa-north-gh0616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.585",
+      "lon": "-0.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

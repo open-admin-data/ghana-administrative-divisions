@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0227_adadientam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adadientam",
+      "en": "Adadientam",
+      "slug": "adadientam"
+    },
+    "code": {
+      "id": "GH0227_adadientam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.714",
+      "lon": "-1.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227_akyawkrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akyawkrom",
+      "en": "Akyawkrom",
+      "slug": "akyawkrom"
+    },
+    "code": {
+      "id": "GH0227_akyawkrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.733",
+      "lon": "-1.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227_besease",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Besease",
+      "en": "Besease",
+      "slug": "besease"
+    },
+    "code": {
+      "id": "GH0227_besease",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.721",
+      "lon": "-1.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227_hwireso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hwireso",
+      "en": "Hwireso",
+      "slug": "hwireso"
+    },
+    "code": {
+      "id": "GH0227_hwireso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.675",
+      "lon": "-1.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227_juaben",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Juaben",
+      "en": "Juaben",
+      "slug": "juaben"
+    },
+    "code": {
+      "id": "GH0227_juaben",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.816",
+      "lon": "-1.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0227_oyoko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oyoko",
+      "en": "Oyoko",
+      "slug": "oyoko"
+    },
+    "code": {
+      "id": "GH0227_oyoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0227",
+      "level": 2,
+      "name": {
+        "local": "Juaben Municipal",
+        "en": "Juaben Municipal",
+        "slug": "juaben-municipal-gh0227"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0227",
+        "level": 2,
+        "name": {
+          "local": "Juaben Municipal",
+          "en": "Juaben Municipal",
+          "slug": "juaben-municipal-gh0227"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.865",
+      "lon": "-1.39"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

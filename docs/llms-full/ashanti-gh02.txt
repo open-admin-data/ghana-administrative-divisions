@@ -1,0 +1,1780 @@
+# Ashanti — Ghana Administrative Divisions
+
+> 43 districts, 389 towns
+> Code: GH02
+> Coordinates: 6.74, -1.628
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Adansi Akrofuom
+
+Code: GH0201, Coordinates: 6.029, -1.673
+Towns: 0
+
+### Adansi Asokwa
+
+Code: GH0202, Coordinates: 6.168, -1.437
+Towns: 0
+
+### Adansi North
+
+Code: GH0203, Coordinates: 6.3, -1.589
+Towns: 11
+
+#### Aboabo No 2
+
+Code: GH0203_aboabo-no-2, Coordinates: 6.224, -1.35
+
+#### Akrokerri
+
+Code: GH0203_akrokerri, Coordinates: 6.295, -1.632
+
+#### Asokwa
+
+Code: GH0203_asokwa, Coordinates: 6.281, -1.508
+
+#### Bodwesango
+
+Code: GH0203_bodwesango, Coordinates: 6.222, -1.31
+
+#### Dompoase
+
+Code: GH0203_dompoase, Coordinates: 6.323, -1.545
+
+#### Fomena
+
+Code: GH0203_fomena, Coordinates: 6.28, -1.51
+
+#### Fumso
+
+Code: GH0203_fumso, Coordinates: 6.11, -1.449
+
+#### Fumso Ketewa
+
+Code: GH0203_fumso-ketewa, Coordinates: 6.297, -1.631
+
+#### New Akrofrom
+
+Code: GH0203_new-akrofrom, Coordinates: 6.153, -1.476
+
+#### New Ayaasi
+
+Code: GH0203_new-ayaasi, Coordinates: 6.296, -1.523
+
+#### Wioso
+
+Code: GH0203_wioso, Coordinates: 6.282, -1.661
+
+### Adansi South
+
+Code: GH0204, Coordinates: 6.003, -1.393
+Towns: 13
+
+#### Akrofrom
+
+Code: GH0204_akrofrom, Coordinates: 6.124, -1.654
+
+#### Akutreso
+
+Code: GH0204_akutreso, Coordinates: 6.096, -1.293
+
+#### Ampunyasi
+
+Code: GH0204_ampunyasi, Coordinates: 6.055, -1.737
+
+#### Ataasi Nkwanta
+
+Code: GH0204_ataasi-nkwanta, Coordinates: 5.967, -1.365
+
+#### Atwereboana
+
+Code: GH0204_atwereboana, Coordinates: 5.962, -1.342
+
+#### Edwafo
+
+Code: GH0204_edwafo, Coordinates: 6.197, -1.574
+
+#### Hwidiem
+
+Code: GH0204_hwidiem, Coordinates: 5.894, -1.468
+
+#### Mansonso
+
+Code: GH0204_mansonso, Coordinates: 6.045, -1.59
+
+#### New Edubiase
+
+Code: GH0204_new-edubiase, Coordinates: 6.055, -1.393
+
+#### Obonsu
+
+Code: GH0204_obonsu, Coordinates: 5.953, -1.352
+
+#### Sikaman
+
+Code: GH0204_sikaman, Coordinates: 6.115, -1.58
+
+#### Subin Camp
+
+Code: GH0204_subin-camp, Coordinates: 5.967, -1.45
+
+#### Wamasi
+
+Code: GH0204_wamasi, Coordinates: 6.087, -1.696
+
+### Afigya Kwabre North
+
+Code: GH0205, Coordinates: 7.039, -1.627
+Towns: 3
+
+#### Boamang
+
+Code: GH0205_boamang, Coordinates: 6.941, -1.617
+
+#### Kyekyewere
+
+Code: GH0205_kyekyewere, Coordinates: 7.145, -1.639
+
+#### Tetrem
+
+Code: GH0205_tetrem, Coordinates: 7.037, -1.637
+
+### Afigya Kwabre South
+
+Code: GH0206, Coordinates: 6.839, -1.609
+Towns: 10
+
+#### Aboabogya
+
+Code: GH0206_aboabogya, Coordinates: 6.842, -1.611
+
+#### Aboaso
+
+Code: GH0206_aboaso, Coordinates: 6.842, -1.611
+
+#### Afrancho
+
+Code: GH0206_afrancho, Coordinates: 6.815, -1.596
+
+#### Ahenkro
+
+Code: GH0206_ahenkro, Coordinates: 6.872, -1.64
+
+#### Ankaase
+
+Code: GH0206_ankaase, Coordinates: 6.848, -1.549
+
+#### Fawade
+
+Code: GH0206_fawade, Coordinates: 6.81, -1.639
+
+#### Kwamang
+
+Code: GH0206_kwamang, Coordinates: 6.897, -1.625
+
+#### Mamponteng
+
+Code: GH0206_mamponteng, Coordinates: 6.8, -1.645
+
+#### Mpobi
+
+Code: GH0206_mpobi, Coordinates: 6.848, -1.562
+
+#### Nkukua Buoho
+
+Code: GH0206_nkukua-buoho, Coordinates: 6.815, -1.649
+
+### Ahafo Ano North
+
+Code: GH0207, Coordinates: 6.91, -2.229
+Towns: 9
+
+#### Acherensua
+
+Code: GH0207_acherensua, Coordinates: 6.982, -2.322
+
+#### Akwasiase
+
+Code: GH0207_akwasiase, Coordinates: 6.995, -2.199
+
+#### Anyinasuso
+
+Code: GH0207_anyinasuso, Coordinates: 6.959, -2.1
+
+#### Betiako
+
+Code: GH0207_betiako, Coordinates: 6.866, -2.207
+
+#### Hwidiem
+
+Code: GH0207_hwidiem, Coordinates: 6.933, -2.358
+
+#### Manfo
+
+Code: GH0207_manfo, Coordinates: 6.945, -2.23
+
+#### Matang
+
+Code: GH0207_matang, Coordinates: 6.996, -2.217
+
+#### Subriso
+
+Code: GH0207_subriso, Coordinates: 6.816, -2.267
+
+#### Tepa
+
+Code: GH0207_tepa, Coordinates: 7, -2.171
+
+### Ahafo Ano South East
+
+Code: GH0208, Coordinates: 6.904, -1.888
+Towns: 5
+
+#### Adinyana
+
+Code: GH0208_adinyana, Coordinates: 6.884, -1.873
+
+#### Adwinyama
+
+Code: GH0208_adwinyama, Coordinates: 6.88, -1.874
+
+#### Essienkyem
+
+Code: GH0208_essienkyem, Coordinates: 6.976, -1.848
+
+#### Mankranso
+
+Code: GH0208_mankranso, Coordinates: 6.821, -1.863
+
+#### Pokukrom
+
+Code: GH0208_pokukrom, Coordinates: 7.004, -1.952
+
+### Ahafo Ano South West
+
+Code: GH0209, Coordinates: 6.896, -2.058
+Towns: 15
+
+#### Abuakwa
+
+Code: GH0209_abuakwa, Coordinates: 7, -2
+
+#### Achiase
+
+Code: GH0209_achiase, Coordinates: 7, -2
+
+#### Adankwame
+
+Code: GH0209_adankwame, Coordinates: 7, -2
+
+#### Akropong
+
+Code: GH0209_akropong, Coordinates: 7, -2
+
+#### Asuofia
+
+Code: GH0209_asuofia, Coordinates: 7, -2
+
+#### Atwima
+
+Code: GH0209_atwima, Coordinates: 7, -2
+
+#### Barekese
+
+Code: GH0209_barekese, Coordinates: 7, -2
+
+#### Domeabra
+
+Code: GH0209_domeabra, Coordinates: 6.872, -2.057
+
+#### Maakro
+
+Code: GH0209_maakro, Coordinates: 7, -2
+
+#### Mpasaso
+
+Code: GH0209_mpasaso, Coordinates: 6.803, -2.139
+
+#### Nkawie
+
+Code: GH0209_nkawie, Coordinates: 7, -2
+
+#### Ntensere
+
+Code: GH0209_ntensere, Coordinates: 7, -2
+
+#### Sepase
+
+Code: GH0209_sepase, Coordinates: 7, -2
+
+#### Toase
+
+Code: GH0209_toase, Coordinates: 7, -2
+
+#### Wioso
+
+Code: GH0209_wioso, Coordinates: 6.956, -2.007
+
+### Amansie Central
+
+Code: GH0210, Coordinates: 6.207, -1.829
+Towns: 5
+
+#### Akrofrom
+
+Code: GH0210_akrofrom, Coordinates: 6.397, -1.608
+
+#### Hia
+
+Code: GH0210_hia, Coordinates: 6.208, -1.776
+
+#### Jacobu
+
+Code: GH0210_jacobu, Coordinates: 6.352, -1.678
+
+#### Mile 14
+
+Code: GH0210_mile-14, Coordinates: 6.221, -1.821
+
+#### Numereso
+
+Code: GH0210_numereso, Coordinates: 6.076, -1.855
+
+### Amansie South
+
+Code: GH0211, Coordinates: 6.307, -2.011
+Towns: 0
+
+### Amansie West
+
+Code: GH0212, Coordinates: 6.437, -1.856
+Towns: 19
+
+#### Abuoso
+
+Code: GH0212_abuoso, Coordinates: 6.313, -2.109
+
+#### Adimposo
+
+Code: GH0212_adimposo, Coordinates: 6.337, -1.926
+
+#### Agroyesum
+
+Code: GH0212_agroyesum, Coordinates: 6.413, -1.882
+
+#### Assuowin
+
+Code: GH0212_assuowin, Coordinates: 6.537, -1.865
+
+#### Datano
+
+Code: GH0212_datano, Coordinates: 6.294, -1.971
+
+#### Esaase
+
+Code: GH0212_esaase, Coordinates: 6.559, -1.89
+
+#### Keniago
+
+Code: GH0212_keniago, Coordinates: 6.373, -2.018
+
+#### Manso Abore
+
+Code: GH0212_manso-abore, Coordinates: 6.446, -1.978
+
+#### Manso Moseaso
+
+Code: GH0212_manso-moseaso, Coordinates: 6.511, -1.852
+
+#### Manso Nkran
+
+Code: GH0212_manso-nkran, Coordinates: 6.346, -1.99
+
+#### Manso Nkwanta
+
+Code: GH0212_manso-nkwanta, Coordinates: 6.477, -1.879
+
+#### Manso-Adubia
+
+Code: GH0212_manso-adubia, Coordinates: 6.403, -1.93
+
+#### Mpatoum
+
+Code: GH0212_mpatoum, Coordinates: 6.541, -1.932
+
+#### Mpatuom
+
+Code: GH0212_mpatuom, Coordinates: 6.541, -1.932
+
+#### Nipankyeremia
+
+Code: GH0212_nipankyeremia, Coordinates: 6.37, -2.158
+
+#### Odaho
+
+Code: GH0212_odaho, Coordinates: 6.274, -1.968
+
+#### Pakyi  No 2
+
+Code: GH0212_pakyi-no-2, Coordinates: 6.48, -1.495
+
+#### Tontokrom
+
+Code: GH0212_tontokrom, Coordinates: 6.249, -1.995
+
+#### Watreso
+
+Code: GH0212_watreso, Coordinates: 6.254, -1.918
+
+### Asante Akim Central Municipal
+
+Code: GH0213, Coordinates: 6.565, -1.254
+Towns: 2
+
+#### Nobewam
+
+Code: GH0213_nobewam, Coordinates: 6.623, -1.24
+
+#### Peminase
+
+Code: GH0213_peminase, Coordinates: 6.527, -1.311
+
+### Asante Akim North
+
+Code: GH0214, Coordinates: 6.842, -0.933
+Towns: 11
+
+#### Abosomtweagya
+
+Code: GH0214_abosomtweagya, Coordinates: 6.621, -1.204
+
+#### Agogo
+
+Code: GH0214_agogo, Coordinates: 6.796, -1.085
+
+#### Ahenebronuum
+
+Code: GH0214_ahenebronuum, Coordinates: 6.628, -1.213
+
+#### Akratiebesa
+
+Code: GH0214_akratiebesa, Coordinates: 6.619, -1.192
+
+#### Ananekrom
+
+Code: GH0214_ananekrom, Coordinates: 6.915, -1.015
+
+#### Bebome
+
+Code: GH0214_bebome, Coordinates: 6.867, -1.096
+
+#### Dwease
+
+Code: GH0214_dwease, Coordinates: 6.537, -1.244
+
+#### Juansa
+
+Code: GH0214_juansa, Coordinates: 6.723, -1.127
+
+#### Konongo
+
+Code: GH0214_konongo, Coordinates: 6.624, -1.218
+
+#### Nyinamponase
+
+Code: GH0214_nyinamponase, Coordinates: 6.77, -1.163
+
+#### Praaso
+
+Code: GH0214_praaso, Coordinates: 6.516, -1.267
+
+### Asante Akim South
+
+Code: GH0215, Coordinates: 6.462, -1.115
+Towns: 11
+
+#### Banka
+
+Code: GH0215_banka, Coordinates: 6.298, -1.216
+
+#### Banso
+
+Code: GH0215_banso, Coordinates: 6.476, -1.197
+
+#### Bompata
+
+Code: GH0215_bompata, Coordinates: 6.667, -1.084
+
+#### Dwendwenase
+
+Code: GH0215_dwendwenase, Coordinates: 6.412, -1.199
+
+#### Juaso
+
+Code: GH0215_juaso, Coordinates: 6.592, -1.121
+
+#### Kumeso
+
+Code: GH0215_kumeso, Coordinates: 6.462, -1.069
+
+#### Morso
+
+Code: GH0215_morso, Coordinates: 6.655, -1.107
+
+#### Muronam
+
+Code: GH0215_muronam, Coordinates: 6.247, -1.206
+
+#### Nnadieso
+
+Code: GH0215_nnadieso, Coordinates: 6.6, -1.092
+
+#### Obogu
+
+Code: GH0215_obogu, Coordinates: 6.515, -1.116
+
+#### Ofoase
+
+Code: GH0215_ofoase, Coordinates: 6.378, -1.267
+
+### Asokore Mampong Municipal
+
+Code: GH0216, Coordinates: 6.712, -1.568
+Towns: 2
+
+#### Kokobra
+
+Code: GH0216_kokobra, Coordinates: 6.715, -1.522
+
+#### Okyerekrom
+
+Code: GH0216_okyerekrom, Coordinates: 6.721, -1.526
+
+### Asokwa Municipal
+
+Code: GH0217, Coordinates: 6.645, -1.582
+Towns: 0
+
+### Atwima Kwanwoma
+
+Code: GH0218, Coordinates: 6.59, -1.712
+Towns: 8
+
+#### Aburaso
+
+Code: GH0218_aburaso, Coordinates: 6.661, -1.677
+
+#### Ahenema kokoben
+
+Code: GH0218_ahenema-kokoben, Coordinates: 6.626, -1.65
+
+#### Bebu
+
+Code: GH0218_bebu, Coordinates: 6.612, -1.685
+
+#### Brofoyeduru
+
+Code: GH0218_brofoyeduru, Coordinates: 6.615, -1.659
+
+#### Foase
+
+Code: GH0218_foase, Coordinates: 6.638, -1.751
+
+#### Kwanwoma
+
+Code: GH0218_kwanwoma, Coordinates: 6.629, -1.635
+
+#### Trabuom
+
+Code: GH0218_trabuom, Coordinates: 6.611, -1.763
+
+#### Trede
+
+Code: GH0218_trede, Coordinates: 6.578, -1.669
+
+### Atwima Mponua
+
+Code: GH0219, Coordinates: 6.555, -2.177
+Towns: 11
+
+#### Barniekrom
+
+Code: GH0219_barniekrom, Coordinates: 6.542, -2.175
+
+#### Bayerebon
+
+Code: GH0219_bayerebon, Coordinates: 6.392, -2.181
+
+#### Bibiani
+
+Code: GH0219_bibiani, Coordinates: 6.453, -2.318
+
+#### Enyinamoso
+
+Code: GH0219_enyinamoso, Coordinates: 6.647, -1.903
+
+#### Gyeresu
+
+Code: GH0219_gyeresu, Coordinates: 6.47, -2.417
+
+#### Mpasatia
+
+Code: GH0219_mpasatia, Coordinates: 6.668, -1.84
+
+#### Ntobroso
+
+Code: GH0219_ntobroso, Coordinates: 6.536, -2.042
+
+#### Nyinahin
+
+Code: GH0219_nyinahin, Coordinates: 6.601, -2.11
+
+#### Saakrom
+
+Code: GH0219_saakrom, Coordinates: 6.759, -2.03
+
+#### Sreso Tinpom
+
+Code: GH0219_sreso-tinpom, Coordinates: 6.622, -2.303
+
+#### Tano-Odumasi
+
+Code: GH0219_tano-odumasi, Coordinates: 6.497, -2.397
+
+### Atwima Nwabiagya North
+
+Code: GH0220, Coordinates: 6.879, -1.745
+Towns: 2
+
+#### Dwenwoho
+
+Code: GH0220_dwenwoho, Coordinates: 6.859, -1.756
+
+#### Essibey Nkwata
+
+Code: GH0220_essibey-nkwata, Coordinates: 6.846, -1.76
+
+### Atwima Nwabiagya South
+
+Code: GH0221, Coordinates: 6.689, -1.777
+Towns: 0
+
+### Bekwai Municipal
+
+Code: GH0222, Coordinates: 6.438, -1.594
+Towns: 11
+
+#### Amoaful
+
+Code: GH0222_amoaful, Coordinates: 6.451, -1.565
+
+#### Anwiankwanta
+
+Code: GH0222_anwiankwanta, Coordinates: 6.463, -1.586
+
+#### Apau
+
+Code: GH0222_apau, Coordinates: 6.473, -1.437
+
+#### Bekwai
+
+Code: GH0222_bekwai, Coordinates: 6.455, -1.571
+
+#### Dominase
+
+Code: GH0222_dominase, Coordinates: 6.31, -1.391
+
+#### Huntade
+
+Code: GH0222_huntade, Coordinates: 6.48, -1.495
+
+#### Kokofu
+
+Code: GH0222_kokofu, Coordinates: 6.51, -1.536
+
+#### Kortwia
+
+Code: GH0222_kortwia, Coordinates: 6.44, -1.538
+
+#### Nsuaem #2
+
+Code: GH0222_nsuaem-2, Coordinates: 6.365, -1.366
+
+#### Tebeso #2
+
+Code: GH0222_tebeso-2, Coordinates: 6.318, -1.308
+
+#### Yapesa
+
+Code: GH0222_yapesa, Coordinates: 6.451, -1.368
+
+### Bosome Freho
+
+Code: GH0223, Coordinates: 6.368, -1.366
+Towns: 6
+
+#### Achiase
+
+Code: GH0223_achiase, Coordinates: 6.455, -1.31
+
+#### Asiwa
+
+Code: GH0223_asiwa, Coordinates: 6.423, -1.334
+
+#### Brofoyedru
+
+Code: GH0223_brofoyedru, Coordinates: 6.473, -1.374
+
+#### Detieso
+
+Code: GH0223_detieso, Coordinates: 6.477, -1.442
+
+#### Duasi
+
+Code: GH0223_duasi, Coordinates: 6.469, -1.395
+
+#### Gyasikrom
+
+Code: GH0223_gyasikrom, Coordinates: 6.401, -1.473
+
+### Bosomtwe
+
+Code: GH0224, Coordinates: 6.558, -1.457
+Towns: 13
+
+#### Amakom
+
+Code: GH0224_amakom, Coordinates: 6.484, -1.374
+
+#### Apinkra
+
+Code: GH0224_apinkra, Coordinates: 6.541, -1.543
+
+#### Brodekwanu
+
+Code: GH0224_brodekwanu, Coordinates: 6.535, -1.354
+
+#### Esereso
+
+Code: GH0224_esereso, Coordinates: 6.632, -1.561
+
+#### Feyiase
+
+Code: GH0224_feyiase, Coordinates: 6.613, -1.56
+
+#### Jachie
+
+Code: GH0224_jachie, Coordinates: 6.566, -1.521
+
+#### Konkoma
+
+Code: GH0224_konkoma, Coordinates: 6.513, -1.348
+
+#### Kuntenase
+
+Code: GH0224_kuntenase, Coordinates: 6.538, -1.475
+
+#### Kwaso
+
+Code: GH0224_kwaso, Coordinates: 6.628, -1.447
+
+#### New Kokobiriko (Abijan-Nkwant
+
+Code: GH0224_new-kokobiriko-abijan-nkwant, Coordinates: 6.579, -1.544
+
+#### Nyameani
+
+Code: GH0224_nyameani, Coordinates: 6.565, -1.43
+
+#### Piase
+
+Code: GH0224_piase, Coordinates: 6.591, -1.452
+
+#### Pramso
+
+Code: GH0224_pramso, Coordinates: 6.559, -1.512
+
+### Ejisu Municipal
+
+Code: GH0225, Coordinates: 6.614, -1.311
+Towns: 2
+
+#### Boamadumase
+
+Code: GH0225_boamadumase, Coordinates: 6.616, -1.34
+
+#### Bomfa
+
+Code: GH0225_bomfa, Coordinates: 6.596, -1.299
+
+### Ejura-Sekyedumase
+
+Code: GH0226, Coordinates: 7.385, -1.383
+Towns: 8
+
+#### Ahyiayem
+
+Code: GH0226_ahyiayem, Coordinates: 7.467, -1.518
+
+#### Babaso
+
+Code: GH0226_babaso, Coordinates: 7.341, -1.324
+
+#### Ejura
+
+Code: GH0226_ejura, Coordinates: 7.389, -1.352
+
+#### Ejura Nkwanta
+
+Code: GH0226_ejura-nkwanta, Coordinates: 7.514, -1.347
+
+#### Homako
+
+Code: GH0226_homako, Coordinates: 7.429, -1.451
+
+#### Kasei
+
+Code: GH0226_kasei, Coordinates: 7.54, -1.346
+
+#### Kontokori Line
+
+Code: GH0226_kontokori-line, Coordinates: 7.379, -1.358
+
+#### Zambrama
+
+Code: GH0226_zambrama, Coordinates: 7.52, -1.42
+
+### Juaben Municipal
+
+Code: GH0227, Coordinates: 6.756, -1.378
+Towns: 6
+
+#### Adadientam
+
+Code: GH0227_adadientam, Coordinates: 6.714, -1.428
+
+#### Akyawkrom
+
+Code: GH0227_akyawkrom, Coordinates: 6.733, -1.461
+
+#### Besease
+
+Code: GH0227_besease, Coordinates: 6.721, -1.45
+
+#### Hwireso
+
+Code: GH0227_hwireso, Coordinates: 6.675, -1.382
+
+#### Juaben
+
+Code: GH0227_juaben, Coordinates: 6.816, -1.414
+
+#### Oyoko
+
+Code: GH0227_oyoko, Coordinates: 6.865, -1.39
+
+### Kumasi Metropolitan
+
+Code: GH0228, Coordinates: 6.689, -1.625
+Towns: 105
+
+#### Abed-Pankrono
+
+Code: GH0228_abed-pankrono, Coordinates: 6.753, -1.613
+
+#### Aboabo
+
+Code: GH0228_aboabo, Coordinates: 6.7, -1.599
+
+#### Abrepo
+
+Code: GH0228_abrepo, Coordinates: 6.727, -1.658
+
+#### Abrepo Junction
+
+Code: GH0228_abrepo-junction, Coordinates: 6.71, -1.638
+
+#### Adoato
+
+Code: GH0228_adoato, Coordinates: 6.71, -1.641
+
+#### Adukrom
+
+Code: GH0228_adukrom, Coordinates: 6.704, -1.585
+
+#### Adum
+
+Code: GH0228_adum, Coordinates: 6.81, -1.639
+
+#### Afful Nkwanta
+
+Code: GH0228_afful-nkwanta, Coordinates: 6.691, -1.601
+
+#### Ahenbronum-Tafo
+
+Code: GH0228_ahenbronum-tafo, Coordinates: 9.778, -1.644
+
+#### Ahinsan
+
+Code: GH0228_ahinsan, Coordinates: 6.671, -1.589
+
+#### Ahodwo Kumasi
+
+Code: GH0228_ahodwo-kumasi, Coordinates: 6.653, -1.619
+
+#### Akrome
+
+Code: GH0228_akrome, Coordinates: 6.698, -1.594
+
+#### Akwatialine
+
+Code: GH0228_akwatialine, Coordinates: 6.695, -1.607
+
+#### Akwatialine Zongo
+
+Code: GH0228_akwatialine-zongo, Coordinates: 6.695, -1.614
+
+#### Amakom
+
+Code: GH0228_amakom, Coordinates: 6.69, -1.61
+
+#### Amanfrom
+
+Code: GH0228_amanfrom, Coordinates: 6.755, -1.684
+
+#### Amena
+
+Code: GH0228_amena, Coordinates: 6.665, -1.535
+
+#### Ampabame
+
+Code: GH0228_ampabame, Coordinates: 6.764, -1.611
+
+#### Anloga
+
+Code: GH0228_anloga, Coordinates: 6.678, -1.592
+
+#### Anwiam
+
+Code: GH0228_anwiam, Coordinates: 6.694, -1.547
+
+#### Anwomase
+
+Code: GH0228_anwomase, Coordinates: 6.692, -1.527
+
+#### Anwomase-Bebre
+
+Code: GH0228_anwomase-bebre, Coordinates: 6.697, -1.533
+
+#### Anwomaso-High Tension
+
+Code: GH0228_anwomaso-high-tension, Coordinates: 6.798, -1.501
+
+#### Apatrapa
+
+Code: GH0228_apatrapa, Coordinates: 6.707, -1.683
+
+#### Asawase
+
+Code: GH0228_asawase, Coordinates: 6.706, -1.605
+
+#### Ash Town
+
+Code: GH0228_ash-town, Coordinates: 6.705, -1.623
+
+#### Ashanti New Town
+
+Code: GH0228_ashanti-new-town, Coordinates: 6.709, -1.619
+
+#### Ashanti Town
+
+Code: GH0228_ashanti-town, Coordinates: 6.7, -1.619
+
+#### Asokore Mampong
+
+Code: GH0228_asokore-mampong, Coordinates: 6.788, -1.561
+
+#### Asokwa
+
+Code: GH0228_asokwa, Coordinates: 6.669, -1.61
+
+#### Asuogya
+
+Code: GH0228_asuogya, Coordinates: 6.713, -1.643
+
+#### Asuoyeboa
+
+Code: GH0228_asuoyeboa, Coordinates: 6.692, -1.669
+
+#### Ataafoa-Pankrono
+
+Code: GH0228_ataafoa-pankrono, Coordinates: 6.75, -1.618
+
+#### Atafoa - Pankrono
+
+Code: GH0228_atafoa---pankrono, Coordinates: 6.751, -1.618
+
+#### Atasemanso
+
+Code: GH0228_atasemanso, Coordinates: 6.652, -1.633
+
+#### Atonsu
+
+Code: GH0228_atonsu, Coordinates: 6.755, -1.527
+
+#### Atonsu-Agogo
+
+Code: GH0228_atonsu-agogo, Coordinates: 6.653, -1.585
+
+#### Atonsu-Bokro
+
+Code: GH0228_atonsu-bokro, Coordinates: 6.644, -1.592
+
+#### Ayigya
+
+Code: GH0228_ayigya, Coordinates: 6.687, -1.573
+
+#### Bantama
+
+Code: GH0228_bantama, Coordinates: 6.705, -1.636
+
+#### Barracks-Bantama
+
+Code: GH0228_barracks-bantama, Coordinates: 6.808, -1.539
+
+#### Boadi
+
+Code: GH0228_boadi, Coordinates: 6.833, -1.477
+
+#### Bokro-Atonsu
+
+Code: GH0228_bokro-atonsu, Coordinates: 6.648, -1.591
+
+#### Bompata
+
+Code: GH0228_bompata, Coordinates: 6.692, -1.619
+
+#### Bomso
+
+Code: GH0228_bomso, Coordinates: 6.685, -1.579
+
+#### Bremang
+
+Code: GH0228_bremang, Coordinates: 6.742, -1.631
+
+#### Bremang - Azar Junction
+
+Code: GH0228_bremang---azar-junction, Coordinates: 6.73, -1.627
+
+#### Bremang North
+
+Code: GH0228_bremang-north, Coordinates: 6.74, -1.625
+
+#### Buokrom
+
+Code: GH0228_buokrom, Coordinates: 6.8, -1.645
+
+#### Buokrom Estate
+
+Code: GH0228_buokrom-estate, Coordinates: 6.74, -1.596
+
+#### Cocobod-Adum
+
+Code: GH0228_cocobod-adum, Coordinates: 6.684, -1.617
+
+#### Dichemso
+
+Code: GH0228_dichemso, Coordinates: 6.815, -1.596
+
+#### Dompoase
+
+Code: GH0228_dompoase, Coordinates: 6.637, -1.588
+
+#### Dr. Mensah - Ash Town
+
+Code: GH0228_dr-mensah---ash-town, Coordinates: 6.7, -1.62
+
+#### Gyinase
+
+Code: GH0228_gyinase, Coordinates: 6.662, -1.576
+
+#### Kaase
+
+Code: GH0228_kaase, Coordinates: 6.789, -1.561
+
+#### Kentinkrono
+
+Code: GH0228_kentinkrono, Coordinates: 6.697, -1.552
+
+#### Krofrom
+
+Code: GH0228_krofrom, Coordinates: 6.712, -1.612
+
+#### Kronum
+
+Code: GH0228_kronum, Coordinates: 6.751, -1.639
+
+#### Kropo
+
+Code: GH0228_kropo, Coordinates: 6.718, -1.642
+
+#### Kumasi
+
+Code: GH0228_kumasi, Coordinates: 6.415, -1.375
+
+#### Kwadaso
+
+Code: GH0228_kwadaso, Coordinates: 6.693, -1.658
+
+#### Maakro
+
+Code: GH0228_maakro, Coordinates: 6.84, -1.554
+
+#### Magazine
+
+Code: GH0228_magazine, Coordinates: 6.823, -1.522
+
+#### Makro
+
+Code: GH0228_makro, Coordinates: 6.791, -1.561
+
+#### Manhyia
+
+Code: GH0228_manhyia, Coordinates: 6.704, -1.612
+
+#### Manhyia Zongo
+
+Code: GH0228_manhyia-zongo, Coordinates: 6.7, -1.614
+
+#### Mbrom Dichemso
+
+Code: GH0228_mbrom-dichemso, Coordinates: 6.705, -1.624
+
+#### Mile 3 Old Tafo
+
+Code: GH0228_mile-3-old-tafo, Coordinates: 6.727, -1.615
+
+#### Mile 4 - Tafo
+
+Code: GH0228_mile-4---tafo, Coordinates: 6.742, -1.613
+
+#### Mile 4- Old Tafo
+
+Code: GH0228_mile-4--old-tafo, Coordinates: 6.736, -1.612
+
+#### Moshie Zongo
+
+Code: GH0228_moshie-zongo, Coordinates: 6.725, -1.601
+
+#### New Amakom
+
+Code: GH0228_new-amakom, Coordinates: 6.682, -1.599
+
+#### New Asokwa
+
+Code: GH0228_new-asokwa, Coordinates: 6.678, -1.602
+
+#### New Suame
+
+Code: GH0228_new-suame, Coordinates: 6.716, -1.634
+
+#### New Tafo
+
+Code: GH0228_new-tafo, Coordinates: 6.716, -1.616
+
+#### Nkontwima-Bremang
+
+Code: GH0228_nkontwima-bremang, Coordinates: 6.738, -1.629
+
+#### North Zong-Manhyia
+
+Code: GH0228_north-zong-manhyia, Coordinates: 6.775, -1.639
+
+#### Oduom
+
+Code: GH0228_oduom, Coordinates: 6.696, -1.542
+
+#### Oforikrom
+
+Code: GH0228_oforikrom, Coordinates: 6.69, -1.593
+
+#### Old Suame
+
+Code: GH0228_old-suame, Coordinates: 6.716, -1.63
+
+#### Old Tafo
+
+Code: GH0228_old-tafo, Coordinates: 6.731, -1.619
+
+#### Osborn Junction - Suame
+
+Code: GH0228_osborn-junction---suame, Coordinates: 6.732, -1.63
+
+#### Pankrono
+
+Code: GH0228_pankrono, Coordinates: 6.779, -1.491
+
+#### Pankrono Estate
+
+Code: GH0228_pankrono-estate, Coordinates: 6.741, -1.605
+
+#### Railways Adum
+
+Code: GH0228_railways-adum, Coordinates: 6.692, -1.619
+
+#### S-line Atonsu
+
+Code: GH0228_s-line-atonsu, Coordinates: 6.651, -1.598
+
+#### Sawaba
+
+Code: GH0228_sawaba, Coordinates: 6.848, -1.562
+
+#### Sepe Dote
+
+Code: GH0228_sepe-dote, Coordinates: 6.719, -1.579
+
+#### Sepe Timpon
+
+Code: GH0228_sepe-timpon, Coordinates: 6.816, -1.477
+
+#### Sepe-Tinpom
+
+Code: GH0228_sepe-tinpom, Coordinates: 6.708, -1.58
+
+#### Sokoban
+
+Code: GH0228_sokoban, Coordinates: 6.848, -1.549
+
+#### South Suntreso
+
+Code: GH0228_south-suntreso, Coordinates: 6.69, -1.64
+
+#### Stadium
+
+Code: GH0228_stadium, Coordinates: 6.68, -1.604
+
+#### Suntreso
+
+Code: GH0228_suntreso, Coordinates: 6.702, -1.642
+
+#### Susanso
+
+Code: GH0228_susanso, Coordinates: 6.687, -1.585
+
+#### Tafo
+
+Code: GH0228_tafo, Coordinates: 6.726, -1.613
+
+#### Tafo Nhyiaeso
+
+Code: GH0228_tafo-nhyiaeso, Coordinates: 6.719, -1.612
+
+#### Tafo Nhyiaso
+
+Code: GH0228_tafo-nhyiaso, Coordinates: 6.718, -1.612
+
+#### Tafo Zongo
+
+Code: GH0228_tafo-zongo, Coordinates: 6.733, -1.634
+
+#### Tanoso
+
+Code: GH0228_tanoso, Coordinates: 6.785, -1.567
+
+#### UGC - Bremang
+
+Code: GH0228_ugc---bremang, Coordinates: 6.75, -1.631
+
+#### Zone 3 Suame
+
+Code: GH0228_zone-3-suame, Coordinates: 6.72, -1.629
+
+#### Zone 5 - Suame
+
+Code: GH0228_zone-5---suame, Coordinates: 6.723, -1.631
+
+#### Zongo-Ayigya
+
+Code: GH0228_zongo-ayigya, Coordinates: 6.692, -1.57
+
+### Kwabre East
+
+Code: GH0229, Coordinates: 6.788, -1.539
+Towns: 14
+
+#### Abira
+
+Code: GH0229_abira, Coordinates: 6.779, -1.491
+
+#### Abirem
+
+Code: GH0229_abirem, Coordinates: 6.751, -1.542
+
+#### Adwumakase Kese
+
+Code: GH0229_adwumakase-kese, Coordinates: 6.808, -1.539
+
+#### Antoa
+
+Code: GH0229_antoa, Coordinates: 6.757, -1.526
+
+#### Asonamaso
+
+Code: GH0229_asonamaso, Coordinates: 6.802, -1.514
+
+#### Bonwire
+
+Code: GH0229_bonwire, Coordinates: 6.793, -1.472
+
+#### Ejuratia
+
+Code: GH0229_ejuratia, Coordinates: 6.823, -1.522
+
+#### Kenyasi
+
+Code: GH0229_kenyasi, Coordinates: 6.785, -1.567
+
+#### Kodie
+
+Code: GH0229_kodie, Coordinates: 6.789, -1.561
+
+#### Medoma
+
+Code: GH0229_medoma, Coordinates: 6.791, -1.561
+
+#### Mowre
+
+Code: GH0229_mowre, Coordinates: 6.816, -1.477
+
+#### Ntonso
+
+Code: GH0229_ntonso, Coordinates: 6.755, -1.527
+
+#### Sakora Wonoo
+
+Code: GH0229_sakora-wonoo, Coordinates: 6.798, -1.501
+
+#### Tikrom
+
+Code: GH0229_tikrom, Coordinates: 6.739, -1.511
+
+### Kwadaso Municipal
+
+Code: GH0230, Coordinates: 6.668, -1.67
+Towns: 0
+
+### Mampong Municipal
+
+Code: GH0231, Coordinates: 7.114, -1.424
+Towns: 12
+
+#### Adidwan
+
+Code: GH0231_adidwan, Coordinates: 7.252, -1.403
+
+#### Anyinasu
+
+Code: GH0231_anyinasu, Coordinates: 7.226, -1.58
+
+#### Apaa
+
+Code: GH0231_apaa, Coordinates: 6.955, -1.435
+
+#### Asaam
+
+Code: GH0231_asaam, Coordinates: 7.117, -1.466
+
+#### Benim
+
+Code: GH0231_benim, Coordinates: 7.091, -1.465
+
+#### Birem
+
+Code: GH0231_birem, Coordinates: 7.227, -0.992
+
+#### Kofiase
+
+Code: GH0231_kofiase, Coordinates: 7.141, -1.484
+
+#### Krobo
+
+Code: GH0231_krobo, Coordinates: 7.075, -1.424
+
+#### Kumasi
+
+Code: GH0231_kumasi, Coordinates: 7.034, -1.243
+
+#### Mampong
+
+Code: GH0231_mampong, Coordinates: 7.046, -1.402
+
+#### Mampong Kokoase
+
+Code: GH0231_mampong-kokoase, Coordinates: 7.059, -1.397
+
+#### Mampong New Town
+
+Code: GH0231_mampong-new-town, Coordinates: 7.066, -1.402
+
+### Obuasi East
+
+Code: GH0232, Coordinates: 6.18, -1.605
+Towns: 0
+
+### Obuasi Municipal
+
+Code: GH0233, Coordinates: 6.189, -1.692
+Towns: 18
+
+#### Aboagye Krom
+
+Code: GH0233_aboagye-krom, Coordinates: 6.191, -1.65
+
+#### Abompe    New  Site
+
+Code: GH0233_abompe-new-site, Coordinates: 6.219, -1.671
+
+#### Akaporiso
+
+Code: GH0233_akaporiso, Coordinates: 6.199, -1.629
+
+#### Bedieso-Obuasi
+
+Code: GH0233_bedieso-obuasi, Coordinates: 6.207, -1.681
+
+#### Boete
+
+Code: GH0233_boete, Coordinates: 6.113, -1.384
+
+#### Brahabebome
+
+Code: GH0233_brahabebome, Coordinates: 6.193, -1.625
+
+#### Brahabebome New Site
+
+Code: GH0233_brahabebome-new-site, Coordinates: 6.194, -1.63
+
+#### Estate Extension
+
+Code: GH0233_estate-extension, Coordinates: 6.206, -1.67
+
+#### Gausu
+
+Code: GH0233_gausu, Coordinates: 6.199, -1.682
+
+#### Kofi Krom
+
+Code: GH0233_kofi-krom, Coordinates: 6.196, -1.68
+
+#### Kwabrafoso
+
+Code: GH0233_kwabrafoso, Coordinates: 6.199, -1.656
+
+#### New  Estate-Obuasi
+
+Code: GH0233_new-estate-obuasi, Coordinates: 6.209, -1.671
+
+#### New Estate-Obuasi
+
+Code: GH0233_new-estate-obuasi, Coordinates: 6.208, -1.672
+
+#### Obuasi
+
+Code: GH0233_obuasi, Coordinates: 6.121, -1.411
+
+#### Obuasi - Stadium
+
+Code: GH0233_obuasi---stadium, Coordinates: 6.206, -1.684
+
+#### Obuasi Central
+
+Code: GH0233_obuasi-central, Coordinates: 6.203, -1.668
+
+#### Obuasi-Anyinam
+
+Code: GH0233_obuasi-anyinam, Coordinates: 6.199, -1.682
+
+#### Rams Hill
+
+Code: GH0233_rams-hill, Coordinates: 6.201, -1.664
+
+### Offinso Municipal
+
+Code: GH0234, Coordinates: 7.058, -1.735
+Towns: 8
+
+#### Abofour
+
+Code: GH0234_abofour, Coordinates: 7.075, -1.436
+
+#### Amoawi
+
+Code: GH0234_amoawi, Coordinates: 6.572, -1.412
+
+#### Anyinasuso
+
+Code: GH0234_anyinasuso, Coordinates: 7.01, -1.423
+
+#### Bonsua
+
+Code: GH0234_bonsua, Coordinates: 6.935, -1.676
+
+#### Brofoyedru
+
+Code: GH0234_brofoyedru, Coordinates: 6.563, -1.403
+
+#### Kokoben
+
+Code: GH0234_kokoben, Coordinates: 7.021, -1.464
+
+#### Offinso
+
+Code: GH0234_offinso, Coordinates: 6.938, -1.675
+
+#### Offinso Adikuro
+
+Code: GH0234_offinso-adikuro, Coordinates: 6.95, -1.673
+
+### Offinso North
+
+Code: GH0235, Coordinates: 7.28, -1.799
+Towns: 6
+
+#### Aboffour
+
+Code: GH0235_aboffour, Coordinates: 7.13, -1.733
+
+#### Afrancho
+
+Code: GH0235_afrancho, Coordinates: 7.408, -1.963
+
+#### Akomadan
+
+Code: GH0235_akomadan, Coordinates: 7.397, -1.953
+
+#### Akomadan zongo
+
+Code: GH0235_akomadan-zongo, Coordinates: 7.406, -1.961
+
+#### Anyinasusu
+
+Code: GH0235_anyinasusu, Coordinates: 7.015, -1.709
+
+#### Nkenkasu
+
+Code: GH0235_nkenkasu, Coordinates: 7.32, -1.903
+
+### Oforikrom Municipal
+
+Code: GH0236, Coordinates: 6.676, -1.551
+Towns: 8
+
+#### Apromase
+
+Code: GH0236_apromase, Coordinates: 6.671, -1.495
+
+#### Donyina
+
+Code: GH0236_donyina, Coordinates: 6.64, -1.498
+
+#### Ejisu
+
+Code: GH0236_ejisu, Coordinates: 6.721, -1.47
+
+#### Essienimpong
+
+Code: GH0236_essienimpong, Coordinates: 6.661, -1.45
+
+#### Krapa-Ejisu
+
+Code: GH0236_krapa-ejisu, Coordinates: 6.72, -1.481
+
+#### Kwamo
+
+Code: GH0236_kwamo, Coordinates: 6.721, -1.493
+
+#### Onwe
+
+Code: GH0236_onwe, Coordinates: 6.68, -1.542
+
+#### Serwaa Akura
+
+Code: GH0236_serwaa-akura, Coordinates: 6.723, -1.479
+
+### Old Tafo Municipal
+
+Code: GH0237, Coordinates: 6.736, -1.599
+Towns: 2
+
+#### Ahwiaa
+
+Code: GH0237_ahwiaa, Coordinates: 6.758, -1.567
+
+#### Atimatim
+
+Code: GH0237_atimatim, Coordinates: 6.764, -1.611
+
+### Sekyere Afram Plains North
+
+Code: GH0238, Coordinates: 7.211, -0.595
+Towns: 1
+
+#### Anyinofi
+
+Code: GH0238_anyinofi, Coordinates: 7.425, -0.77
+
+### Sekyere Central
+
+Code: GH0239, Coordinates: 7.216, -1.101
+Towns: 9
+
+#### Aframso No.3
+
+Code: GH0239_aframso-no3, Coordinates: 7.145, -1.122
+
+#### Asubuasu
+
+Code: GH0239_asubuasu, Coordinates: 7.316, -1.235
+
+#### Atonsu
+
+Code: GH0239_atonsu, Coordinates: 7.024, -1.309
+
+#### Beposo
+
+Code: GH0239_beposo, Coordinates: 6.985, -1.355
+
+#### Isaaka Akura-Afram  Plains
+
+Code: GH0239_isaaka-akura-afram-plains, Coordinates: 7.415, -1.138
+
+#### Jeduako
+
+Code: GH0239_jeduako, Coordinates: 7.095, -1.209
+
+#### Kwamang
+
+Code: GH0239_kwamang, Coordinates: 6.982, -1.27
+
+#### Nsuta
+
+Code: GH0239_nsuta, Coordinates: 7.008, -1.376
+
+#### Oku
+
+Code: GH0239_oku, Coordinates: 7.348, -1.003
+
+### Sekyere East
+
+Code: GH0240, Coordinates: 6.779, -1.299
+Towns: 8
+
+#### Akokuaso
+
+Code: GH0240_akokuaso, Coordinates: 6.854, -1.336
+
+#### Banko
+
+Code: GH0240_banko, Coordinates: 6.758, -1.285
+
+#### Dadiase
+
+Code: GH0240_dadiase, Coordinates: 6.881, -1.368
+
+#### Effiduase
+
+Code: GH0240_effiduase, Coordinates: 6.845, -1.384
+
+#### Okaikrom
+
+Code: GH0240_okaikrom, Coordinates: 6.826, -1.309
+
+#### Sekyere
+
+Code: GH0240_sekyere, Coordinates: 6.927, -1.375
+
+#### Seniagya
+
+Code: GH0240_seniagya, Coordinates: 6.798, -1.32
+
+#### Senkyi
+
+Code: GH0240_senkyi, Coordinates: 6.808, -1.325
+
+### Sekyere Kumawu
+
+Code: GH0241, Coordinates: 6.911, -1.239
+Towns: 4
+
+#### Drobonso
+
+Code: GH0241_drobonso, Coordinates: 7.007, -1.127
+
+#### Kumawu
+
+Code: GH0241_kumawu, Coordinates: 6.907, -1.268
+
+#### Kumawu Bodomasi
+
+Code: GH0241_kumawu-bodomasi, Coordinates: 6.894, -1.255
+
+#### Woraso
+
+Code: GH0241_woraso, Coordinates: 6.876, -1.277
+
+### Sekyere South
+
+Code: GH0242, Coordinates: 6.996, -1.503
+Towns: 10
+
+#### Afamaso
+
+Code: GH0242_afamaso, Coordinates: 6.949, -1.509
+
+#### Agona
+
+Code: GH0242_agona, Coordinates: 6.936, -1.498
+
+#### Asamang
+
+Code: GH0242_asamang, Coordinates: 7.053, -1.51
+
+#### Bepoase
+
+Code: GH0242_bepoase, Coordinates: 7.087, -1.555
+
+#### Boanim
+
+Code: GH0242_boanim, Coordinates: 7.035, -1.487
+
+#### Domeabra
+
+Code: GH0242_domeabra, Coordinates: 6.939, -1.558
+
+#### Jamasi
+
+Code: GH0242_jamasi, Coordinates: 6.978, -1.473
+
+#### Kona
+
+Code: GH0242_kona, Coordinates: 6.868, -1.512
+
+#### Wiamoase
+
+Code: GH0242_wiamoase, Coordinates: 7.052, -1.525
+
+#### Wiamose
+
+Code: GH0242_wiamose, Coordinates: 6.903, -1.433
+
+### Suame Municipal
+
+Code: GH0243, Coordinates: 6.736, -1.648
+Towns: 1
+
+#### Bronkong
+
+Code: GH0243_bronkong, Coordinates: 6.775, -1.639
+

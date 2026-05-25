@@ -1,0 +1,13 @@
+id,name.local,name.en,name.slug,code.id,children_count.town,geo.lat,geo.lon
+GH0301,Banda,Banda,banda-gh0301,GH0301,0,8.352,-2.406
+GH0302,Berekum East Municipal,Berekum East Municipal,berekum-east-municipal-gh0302,GH0302,4,7.484,-2.565
+GH0303,Berekum West,Berekum West,berekum-west-gh0303,GH0303,3,7.472,-2.71
+GH0304,Dormaa East,Dormaa East,dormaa-east-gh0304,GH0304,5,7.264,-2.64
+GH0305,Dormaa Municipal,Dormaa Municipal,dormaa-municipal-gh0305,GH0305,11,7.237,-2.856
+GH0306,Dormaa West,Dormaa West,dormaa-west-gh0306,GH0306,0,6.975,-2.946
+GH0307,Jaman North,Jaman North,jaman-north-gh0307,GH0307,8,7.913,-2.715
+GH0308,Jaman South Municipal,Jaman South Municipal,jaman-south-municipal-gh0308,GH0308,14,7.623,-2.796
+GH0309,Sunyani Municipal,Sunyani Municipal,sunyani-municipal-gh0309,GH0309,15,7.229,-2.409
+GH0310,Sunyani West,Sunyani West,sunyani-west-gh0310,GH0310,0,7.424,-2.33
+GH0311,Tain,Tain,tain-gh0311,GH0311,11,7.792,-2.384
+GH0312,Wenchi Municipal,Wenchi Municipal,wenchi-municipal-gh0312,GH0312,5,7.804,-2.081

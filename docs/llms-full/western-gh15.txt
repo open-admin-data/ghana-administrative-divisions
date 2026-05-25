@@ -1,0 +1,655 @@
+# Western — Ghana Administrative Divisions
+
+> 14 districts, 144 towns
+> Code: GH15
+> Coordinates: 5.445, -2.112
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Ahanta West Municipal
+
+Code: GH1501, Coordinates: 4.852, -1.987
+Towns: 10
+
+#### Abura
+
+Code: GH1501_abura, Coordinates: 4.904, -2.066
+
+#### Agona Nkwanta
+
+Code: GH1501_agona-nkwanta, Coordinates: 4.89, -1.964
+
+#### Apowa
+
+Code: GH1501_apowa, Coordinates: 4.888, -1.812
+
+#### Asemasa
+
+Code: GH1501_asemasa, Coordinates: 4.854, -1.891
+
+#### Dixcove
+
+Code: GH1501_dixcove, Coordinates: 4.798, -1.95
+
+#### Egyam
+
+Code: GH1501_egyam, Coordinates: 4.869, -1.858
+
+#### Egyambra
+
+Code: GH1501_egyambra, Coordinates: 4.821, -2.17
+
+#### Fasin
+
+Code: GH1501_fasin, Coordinates: 4.927, -1.943
+
+#### Fretsi
+
+Code: GH1501_fretsi, Coordinates: 4.878, -1.916
+
+#### Princesstown
+
+Code: GH1501_princesstown, Coordinates: 4.796, -2.133
+
+### Effia Kwesimintsim Municipal
+
+Code: GH1502, Coordinates: 4.964, -1.808
+Towns: 7
+
+#### Airport  Ridge
+
+Code: GH1502_airport-ridge, Coordinates: 4.902, -1.786
+
+#### Airport Ridge
+
+Code: GH1502_airport-ridge, Coordinates: 4.905, -1.777
+
+#### Apollo Junction Apremdo
+
+Code: GH1502_apollo-junction-apremdo, Coordinates: 4.91, -1.791
+
+#### Apremdo
+
+Code: GH1502_apremdo, Coordinates: 4.914, -1.806
+
+#### Kwesimintsim
+
+Code: GH1502_kwesimintsim, Coordinates: 4.917, -1.788
+
+#### Kwesimintsim Zongo
+
+Code: GH1502_kwesimintsim-zongo, Coordinates: 4.916, -1.785
+
+#### Mpohor
+
+Code: GH1502_mpohor, Coordinates: 4.979, -1.893
+
+### Ellembelle
+
+Code: GH1503, Coordinates: 5.15, -2.421
+Towns: 0
+
+### Jomoro
+
+Code: GH1504, Coordinates: 5.197, -2.614
+Towns: 16
+
+#### Bonyere
+
+Code: GH1504_bonyere, Coordinates: 5.023, -2.727
+
+#### Bonyere Junction
+
+Code: GH1504_bonyere-junction, Coordinates: 5.033, -2.718
+
+#### Ekabeku
+
+Code: GH1504_ekabeku, Coordinates: 4.983, -2.569
+
+#### Ellubo
+
+Code: GH1504_ellubo, Coordinates: 5.29, -2.775
+
+#### Enzemetianu.
+
+Code: GH1504_enzemetianu, Coordinates: 5.073, -3.007
+
+#### Half Assini
+
+Code: GH1504_half-assini, Coordinates: 5.053, -2.889
+
+#### Kengen
+
+Code: GH1504_kengen, Coordinates: 4.999, -2.639
+
+#### Mpataba
+
+Code: GH1504_mpataba, Coordinates: 5.096, -2.591
+
+#### Newtown
+
+Code: GH1504_newtown, Coordinates: 5.092, -3.092
+
+#### Nuba
+
+Code: GH1504_nuba, Coordinates: 5.094, -2.633
+
+#### Sameye
+
+Code: GH1504_sameye, Coordinates: 5.081, -2.558
+
+#### Sowodadzem
+
+Code: GH1504_sowodadzem, Coordinates: 5.164, -2.648
+
+#### Takinta
+
+Code: GH1504_takinta, Coordinates: 5.054, -2.807
+
+#### Tikobo No 1
+
+Code: GH1504_tikobo-no-1, Coordinates: 5.053, -2.692
+
+#### Tikobo No 2
+
+Code: GH1504_tikobo-no-2, Coordinates: 5.08, -2.53
+
+#### Twenen
+
+Code: GH1504_twenen, Coordinates: 5.008, -2.679
+
+### Mpohor
+
+Code: GH1505, Coordinates: 5.058, -1.827
+Towns: 3
+
+#### Adansi
+
+Code: GH1505_adansi, Coordinates: 5.133, -1.753
+
+#### Adum Bamso
+
+Code: GH1505_adum-bamso, Coordinates: 5.059, -1.901
+
+#### Manso
+
+Code: GH1505_manso, Coordinates: 5.08, -1.833
+
+### Nzema East
+
+Code: GH1506, Coordinates: 5.086, -2.222
+Towns: 10
+
+#### Aiyinase
+
+Code: GH1506_aiyinase, Coordinates: 5.049, -2.48
+
+#### Asasetre
+
+Code: GH1506_asasetre, Coordinates: 5.024, -2.348
+
+#### Awiebo
+
+Code: GH1506_awiebo, Coordinates: 5.038, -2.449
+
+#### Axim
+
+Code: GH1506_axim, Coordinates: 4.867, -2.239
+
+#### Bamiankor
+
+Code: GH1506_bamiankor, Coordinates: 5.011, -2.169
+
+#### Eikwe
+
+Code: GH1506_eikwe, Coordinates: 4.965, -2.47
+
+#### Essiama
+
+Code: GH1506_essiama, Coordinates: 4.936, -2.355
+
+#### Gwira  Eshiem
+
+Code: GH1506_gwira-eshiem, Coordinates: 5.138, -2.194
+
+#### Gwira Banso
+
+Code: GH1506_gwira-banso, Coordinates: 5.12, -2.241
+
+#### Nkroful
+
+Code: GH1506_nkroful, Coordinates: 4.96, -2.326
+
+### Prestea/Huni Valley
+
+Code: GH1507, Coordinates: 5.447, -2.04
+Towns: 13
+
+#### Aboso
+
+Code: GH1507_aboso, Coordinates: 5.366, -1.941
+
+#### Asompa
+
+Code: GH1507_asompa, Coordinates: 5.432, -2.151
+
+#### Awudua
+
+Code: GH1507_awudua, Coordinates: 5.427, -2.09
+
+#### Bogoso
+
+Code: GH1507_bogoso, Coordinates: 5.57, -2.01
+
+#### Cemetery
+
+Code: GH1507_cemetery, Coordinates: 5.438, -2.144
+
+#### Dagarti Compound
+
+Code: GH1507_dagarti-compound, Coordinates: 5.431, -2.147
+
+#### Edikanfo Village
+
+Code: GH1507_edikanfo-village, Coordinates: 5.512, -2.049
+
+#### Enyinabrim
+
+Code: GH1507_enyinabrim, Coordinates: 5.41, -1.636
+
+#### Himan
+
+Code: GH1507_himan, Coordinates: 5.454, -2.137
+
+#### Huniso
+
+Code: GH1507_huniso, Coordinates: 5.382, -2.06
+
+#### Hunivalley
+
+Code: GH1507_hunivalley, Coordinates: 5.472, -1.913
+
+#### Old Destimony
+
+Code: GH1507_old-destimony, Coordinates: 5.446, -2.132
+
+#### Prestea
+
+Code: GH1507_prestea, Coordinates: 5.427, -2.136
+
+### Sekondi Takoradi Metropolis
+
+Code: GH1508, Coordinates: 4.961, -1.733
+Towns: 31
+
+#### Adiembra
+
+Code: GH1508_adiembra, Coordinates: 4.929, -1.734
+
+#### Air Force Base
+
+Code: GH1508_air-force-base, Coordinates: 4.894, -1.773
+
+#### Anaji
+
+Code: GH1508_anaji, Coordinates: 4.929, -1.77
+
+#### Cape Coast Road
+
+Code: GH1508_cape-coast-road, Coordinates: 4.903, -1.766
+
+#### Esikafoambantem No. 1
+
+Code: GH1508_esikafoambantem-no-1, Coordinates: 4.896, -1.762
+
+#### Esikafoambantem No1
+
+Code: GH1508_esikafoambantem-no1, Coordinates: 4.896, -1.762
+
+#### Essikadu
+
+Code: GH1508_essikadu, Coordinates: 4.946, -1.715
+
+#### Essikafo  Anbantem No3
+
+Code: GH1508_essikafo-anbantem-no3, Coordinates: 4.895, -1.755
+
+#### European  Town
+
+Code: GH1508_european-town, Coordinates: 4.937, -1.709
+
+#### European Town
+
+Code: GH1508_european-town, Coordinates: 4.936, -1.709
+
+#### Fijai
+
+Code: GH1508_fijai, Coordinates: 4.94, -1.754
+
+#### Fijai Hill
+
+Code: GH1508_fijai-hill, Coordinates: 4.944, -1.75
+
+#### Harbour  Area
+
+Code: GH1508_harbour-area, Coordinates: 4.88, -1.751
+
+#### Industrial Area
+
+Code: GH1508_industrial-area, Coordinates: 4.916, -1.751
+
+#### John Sarbah Road
+
+Code: GH1508_john-sarbah-road, Coordinates: 4.897, -1.762
+
+#### Ketan
+
+Code: GH1508_ketan, Coordinates: 4.951, -1.73
+
+#### Kojokrom
+
+Code: GH1508_kojokrom, Coordinates: 4.975, -1.727
+
+#### Liberation Road Chapel Hill
+
+Code: GH1508_liberation-road-chapel-hill, Coordinates: 4.893, -1.753
+
+#### Location
+
+Code: GH1508_location, Coordinates: 4.952, -1.726
+
+#### Maxwell Road
+
+Code: GH1508_maxwell-road, Coordinates: 4.937, -1.715
+
+#### New  Takoradi
+
+Code: GH1508_new-takoradi, Coordinates: 4.888, -1.749
+
+#### New Site
+
+Code: GH1508_new-site, Coordinates: 4.914, -1.758
+
+#### New Takoradi
+
+Code: GH1508_new-takoradi, Coordinates: 4.904, -1.749
+
+#### Old  Hospital
+
+Code: GH1508_old-hospital, Coordinates: 4.908, -1.744
+
+#### Sekondi
+
+Code: GH1508_sekondi, Coordinates: 4.925, -1.745
+
+#### Takoradi
+
+Code: GH1508_takoradi, Coordinates: 4.919, -1.75
+
+#### Takoradi Harbour Main
+
+Code: GH1508_takoradi-harbour-main, Coordinates: 4.888, -1.749
+
+#### Takoradi Market Circle
+
+Code: GH1508_takoradi-market-circle, Coordinates: 4.897, -1.759
+
+#### Takoradi Market Clinic
+
+Code: GH1508_takoradi-market-clinic, Coordinates: 4.897, -1.761
+
+#### Timber  Bar
+
+Code: GH1508_timber-bar, Coordinates: 4.902, -1.766
+
+#### Windy Ridge
+
+Code: GH1508_windy-ridge, Coordinates: 4.909, -1.765
+
+### Shama
+
+Code: GH1509, Coordinates: 5.059, -1.641
+Towns: 7
+
+#### Aboadze
+
+Code: GH1509_aboadze, Coordinates: 4.974, -1.655
+
+#### Daboase
+
+Code: GH1509_daboase, Coordinates: 5.134, -1.656
+
+#### Dompim No 1
+
+Code: GH1509_dompim-no-1, Coordinates: 5.106, -1.675
+
+#### Inchaban
+
+Code: GH1509_inchaban, Coordinates: 4.996, -1.677
+
+#### Shama
+
+Code: GH1509_shama, Coordinates: 5.012, -1.635
+
+#### Supomu  Dunkwa
+
+Code: GH1509_supomu-dunkwa, Coordinates: 5.112, -1.631
+
+#### Supomu Dunkwa
+
+Code: GH1509_supomu-dunkwa, Coordinates: 5.117, -1.619
+
+### Tarkwa Nsuaem
+
+Code: GH1510, Coordinates: 5.138, -2.035
+Towns: 18
+
+#### Abontiakoon
+
+Code: GH1510_abontiakoon, Coordinates: 5.321, -1.991
+
+#### Aboso Road
+
+Code: GH1510_aboso-road, Coordinates: 5.311, -1.992
+
+#### Akyempim
+
+Code: GH1510_akyempim, Coordinates: 5.262, -2.002
+
+#### Bankyim
+
+Code: GH1510_bankyim, Coordinates: 5.264, -2.009
+
+#### Benso
+
+Code: GH1510_benso, Coordinates: 5.156, -1.893
+
+#### Commercial Street
+
+Code: GH1510_commercial-street, Coordinates: 5.306, -1.993
+
+#### Dompim
+
+Code: GH1510_dompim, Coordinates: 5.156, -2.076
+
+#### Iduapriem
+
+Code: GH1510_iduapriem, Coordinates: 5.245, -2.045
+
+#### Kwaminakrom
+
+Code: GH1510_kwaminakrom, Coordinates: 5.279, -1.995
+
+#### New Atuabo
+
+Code: GH1510_new-atuabo, Coordinates: 5.323, -1.977
+
+#### New Layout
+
+Code: GH1510_new-layout, Coordinates: 5.3, -1.989
+
+#### Nsuaem
+
+Code: GH1510_nsuaem, Coordinates: 5.003, -2.029
+
+#### Nsuta
+
+Code: GH1510_nsuta, Coordinates: 5.28, -1.982
+
+#### Nyarso
+
+Code: GH1510_nyarso, Coordinates: 4.985, -2.091
+
+#### Simpa
+
+Code: GH1510_simpa, Coordinates: 5.111, -2.108
+
+#### Tamso Estates
+
+Code: GH1510_tamso-estates, Coordinates: 5.282, -1.998
+
+#### Tarkwa
+
+Code: GH1510_tarkwa, Coordinates: 5.306, -1.986
+
+#### Tarkwa Naboso
+
+Code: GH1510_tarkwa-naboso, Coordinates: 5.301, -1.995
+
+### Wassa Amenfi Central
+
+Code: GH1511, Coordinates: 5.739, -2.26
+Towns: 0
+
+### Wassa Amenfi East
+
+Code: GH1512, Coordinates: 5.878, -1.99
+Towns: 10
+
+#### Asankragwa
+
+Code: GH1512_asankragwa, Coordinates: 5.796, -2.428
+
+#### Bawdie
+
+Code: GH1512_bawdie, Coordinates: 5.637, -2.098
+
+#### Dawurampong
+
+Code: GH1512_dawurampong, Coordinates: 5.685, -2.026
+
+#### Jukwa Hemang
+
+Code: GH1512_jukwa-hemang, Coordinates: 5.953, -2.17
+
+#### Oppon Valley
+
+Code: GH1512_oppon-valley, Coordinates: 5.697, -1.844
+
+#### Pewuako
+
+Code: GH1512_pewuako, Coordinates: 5.975, -1.972
+
+#### Wassa Akoropong
+
+Code: GH1512_wassa-akoropong, Coordinates: 5.781, -2.084
+
+#### Wassa Akropong
+
+Code: GH1512_wassa-akropong, Coordinates: 5.783, -2.085
+
+#### Wassa Manpong
+
+Code: GH1512_wassa-manpong, Coordinates: 6.034, -2.148
+
+#### Wassa Saa
+
+Code: GH1512_wassa-saa, Coordinates: 5.919, -2.015
+
+### Wassa Amenfi West
+
+Code: GH1513, Coordinates: 5.747, -2.49
+Towns: 12
+
+#### Adjakaa Manso
+
+Code: GH1513_adjakaa-manso, Coordinates: 6.034, -2.285
+
+#### Agona Amenfi
+
+Code: GH1513_agona-amenfi, Coordinates: 5.95, -2.32
+
+#### Anyinabrim
+
+Code: GH1513_anyinabrim, Coordinates: 5.75, -2.229
+
+#### Asankra Saa
+
+Code: GH1513_asankra-saa, Coordinates: 5.846, -2.419
+
+#### Asankragwa
+
+Code: GH1513_asankragwa, Coordinates: 5.801, -2.432
+
+#### Asankran Breman
+
+Code: GH1513_asankran-breman, Coordinates: 5.849, -2.449
+
+#### Gravel Yard
+
+Code: GH1513_gravel-yard, Coordinates: 5.419, -2.461
+
+#### Manso Amenfi
+
+Code: GH1513_manso-amenfi, Coordinates: 5.632, -2.258
+
+#### Nope
+
+Code: GH1513_nope, Coordinates: 5.441, -2.503
+
+#### Prestea Nkwanta
+
+Code: GH1513_prestea-nkwanta, Coordinates: 5.417, -2.37
+
+#### Samreboi
+
+Code: GH1513_samreboi, Coordinates: 5.616, -2.564
+
+#### Wassa Juabo
+
+Code: GH1513_wassa-juabo, Coordinates: 6.093, -2.214
+
+### Wassa East
+
+Code: GH1514, Coordinates: 5.368, -1.622
+Towns: 7
+
+#### Atobiase
+
+Code: GH1514_atobiase, Coordinates: 5.353, -1.557
+
+#### Enyinabrim
+
+Code: GH1514_enyinabrim, Coordinates: 5.406, -1.636
+
+#### Hemang
+
+Code: GH1514_hemang, Coordinates: 5.491, -1.533
+
+#### Manponso
+
+Code: GH1514_manponso, Coordinates: 5.429, -1.633
+
+#### Sekyere Krobo
+
+Code: GH1514_sekyere-krobo, Coordinates: 5.239, -1.608
+
+#### Senchem
+
+Code: GH1514_senchem, Coordinates: 5.476, -1.655
+
+#### Shed
+
+Code: GH1514_shed, Coordinates: 5.423, -1.539
+

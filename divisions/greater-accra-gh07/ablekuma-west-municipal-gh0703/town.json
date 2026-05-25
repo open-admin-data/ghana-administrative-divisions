@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH0703_agege-agege-road--karikari-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agege (Agege road -Karikari area)",
+      "en": "Agege (Agege road -Karikari area)",
+      "slug": "agege-agege-road--karikari-area"
+    },
+    "code": {
+      "id": "GH0703_agege-agege-road--karikari-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.531",
+      "lon": "-0.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_agege-glefe-near-largoon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agege (Glefe near largoon)",
+      "en": "Agege (Glefe near largoon)",
+      "slug": "agege-glefe-near-largoon"
+    },
+    "code": {
+      "id": "GH0703_agege-glefe-near-largoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.526",
+      "lon": "-0.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_agege-karikari-area",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agege (Karikari area)",
+      "en": "Agege (Karikari area)",
+      "slug": "agege-karikari-area"
+    },
+    "code": {
+      "id": "GH0703_agege-karikari-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.532",
+      "lon": "-0.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_chemuna-chorkor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chemuna (Chorkor)",
+      "en": "Chemuna (Chorkor)",
+      "slug": "chemuna-chorkor"
+    },
+    "code": {
+      "id": "GH0703_chemuna-chorkor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.526",
+      "lon": "-0.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_chorkor-near-abodwe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chorkor (near Abodwe)",
+      "en": "Chorkor (near Abodwe)",
+      "slug": "chorkor-near-abodwe"
+    },
+    "code": {
+      "id": "GH0703_chorkor-near-abodwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.53",
+      "lon": "-0.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman",
+      "en": "Dansoman",
+      "slug": "dansoman"
+    },
+    "code": {
+      "id": "GH0703_dansoman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.552",
+      "lon": "-0.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman-before-sahara",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman (before sahara)",
+      "en": "Dansoman (before sahara)",
+      "slug": "dansoman-before-sahara"
+    },
+    "code": {
+      "id": "GH0703_dansoman-before-sahara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.552",
+      "lon": "-0.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman-control-market",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman (Control market)",
+      "en": "Dansoman (Control market)",
+      "slug": "dansoman-control-market"
+    },
+    "code": {
+      "id": "GH0703_dansoman-control-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.542",
+      "lon": "-0.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman-ebenezer-rd",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman (Ebenezer rd)",
+      "en": "Dansoman (Ebenezer rd)",
+      "slug": "dansoman-ebenezer-rd"
+    },
+    "code": {
+      "id": "GH0703_dansoman-ebenezer-rd",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.536",
+      "lon": "-0.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman-sahara",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman (Sahara)",
+      "en": "Dansoman (Sahara)",
+      "slug": "dansoman-sahara"
+    },
+    "code": {
+      "id": "GH0703_dansoman-sahara",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.55",
+      "lon": "-0.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_dansoman-ssnit-flats",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dansoman (SSNIT flats)",
+      "en": "Dansoman (SSNIT flats)",
+      "slug": "dansoman-ssnit-flats"
+    },
+    "code": {
+      "id": "GH0703_dansoman-ssnit-flats",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.565",
+      "lon": "-0.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_glefe-behing-the-largoon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Glefe (Behing the largoon)",
+      "en": "Glefe (Behing the largoon)",
+      "slug": "glefe-behing-the-largoon"
+    },
+    "code": {
+      "id": "GH0703_glefe-behing-the-largoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.52",
+      "lon": "-0.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0703_mpoase-off-glefe-rd",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mpoase (off Glefe rd)",
+      "en": "Mpoase (off Glefe rd)",
+      "slug": "mpoase-off-glefe-rd"
+    },
+    "code": {
+      "id": "GH0703_mpoase-off-glefe-rd",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0703",
+      "level": 2,
+      "name": {
+        "local": "Ablekuma West Municipal",
+        "en": "Ablekuma West Municipal",
+        "slug": "ablekuma-west-municipal-gh0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0703",
+        "level": 2,
+        "name": {
+          "local": "Ablekuma West Municipal",
+          "en": "Ablekuma West Municipal",
+          "slug": "ablekuma-west-municipal-gh0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.524",
+      "lon": "-0.264"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

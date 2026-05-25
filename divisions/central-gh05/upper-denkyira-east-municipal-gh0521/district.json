@@ -1,0 +1,47 @@
+{
+  "id": "GH0521",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upper Denkyira East Municipal",
+    "en": "Upper Denkyira East Municipal",
+    "slug": "upper-denkyira-east-municipal-gh0521"
+  },
+  "code": {
+    "id": "GH0521",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.835",
+    "lon": "-1.739"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH1309_bulenga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bulenga",
+      "en": "Bulenga",
+      "slug": "bulenga"
+    },
+    "code": {
+      "id": "GH1309_bulenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.937",
+      "lon": "-2.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_challa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Challa",
+      "en": "Challa",
+      "slug": "challa"
+    },
+    "code": {
+      "id": "GH1309_challa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.18",
+      "lon": "-2.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_charingu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Charingu",
+      "en": "Charingu",
+      "slug": "charingu"
+    },
+    "code": {
+      "id": "GH1309_charingu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.186",
+      "lon": "-2.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_ducie",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ducie",
+      "en": "Ducie",
+      "slug": "ducie"
+    },
+    "code": {
+      "id": "GH1309_ducie",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.502",
+      "lon": "-1.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_funsi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Funsi",
+      "en": "Funsi",
+      "slug": "funsi"
+    },
+    "code": {
+      "id": "GH1309_funsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.3",
+      "lon": "-1.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_goh",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Goh",
+      "en": "Goh",
+      "slug": "goh"
+    },
+    "code": {
+      "id": "GH1309_goh",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.109",
+      "lon": "-2.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_holomuni",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Holomuni",
+      "en": "Holomuni",
+      "slug": "holomuni"
+    },
+    "code": {
+      "id": "GH1309_holomuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.916",
+      "lon": "-1.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_katua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Katua",
+      "en": "Katua",
+      "slug": "katua"
+    },
+    "code": {
+      "id": "GH1309_katua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.592",
+      "lon": "-1.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_kundugu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kundugu",
+      "en": "Kundugu",
+      "slug": "kundugu"
+    },
+    "code": {
+      "id": "GH1309_kundugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.132",
+      "lon": "-1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_loggu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Loggu",
+      "en": "Loggu",
+      "slug": "loggu"
+    },
+    "code": {
+      "id": "GH1309_loggu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "-2.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1309_yaala",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yaala",
+      "en": "Yaala",
+      "slug": "yaala"
+    },
+    "code": {
+      "id": "GH1309_yaala",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1309",
+      "level": 2,
+      "name": {
+        "local": "Wa East",
+        "en": "Wa East",
+        "slug": "wa-east-gh1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1309",
+        "level": 2,
+        "name": {
+          "local": "Wa East",
+          "en": "Wa East",
+          "slug": "wa-east-gh1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.128",
+      "lon": "-1.836"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

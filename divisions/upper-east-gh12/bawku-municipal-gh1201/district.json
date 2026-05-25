@@ -1,0 +1,47 @@
+{
+  "id": "GH1201",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bawku Municipal",
+    "en": "Bawku Municipal",
+    "slug": "bawku-municipal-gh1201"
+  },
+  "code": {
+    "id": "GH1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH12",
+    "level": 1,
+    "name": {
+      "local": "Upper East",
+      "en": "Upper East",
+      "slug": "upper-east-gh12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH12",
+      "level": 1,
+      "name": {
+        "local": "Upper East",
+        "en": "Upper East",
+        "slug": "upper-east-gh12"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.042",
+    "lon": "-0.237"
+  },
+  "metadata": {},
+  "source": {}
+}

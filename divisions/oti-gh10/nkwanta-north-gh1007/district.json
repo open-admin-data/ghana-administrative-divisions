@@ -1,0 +1,47 @@
+{
+  "id": "GH1007",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkwanta North",
+    "en": "Nkwanta North",
+    "slug": "nkwanta-north-gh1007"
+  },
+  "code": {
+    "id": "GH1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.551",
+    "lon": "0.234"
+  },
+  "metadata": {},
+  "source": {}
+}

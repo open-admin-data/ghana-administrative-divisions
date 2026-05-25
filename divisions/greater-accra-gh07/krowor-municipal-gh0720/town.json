@@ -1,0 +1,56 @@
+[
+  {
+    "id": "GH0720_nungua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nungua",
+      "en": "Nungua",
+      "slug": "nungua"
+    },
+    "code": {
+      "id": "GH0720_nungua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0720",
+      "level": 2,
+      "name": {
+        "local": "Krowor Municipal",
+        "en": "Krowor Municipal",
+        "slug": "krowor-municipal-gh0720"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0720",
+        "level": 2,
+        "name": {
+          "local": "Krowor Municipal",
+          "en": "Krowor Municipal",
+          "slug": "krowor-municipal-gh0720"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.607",
+      "lon": "-0.078"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

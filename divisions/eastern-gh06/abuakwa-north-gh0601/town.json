@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0601_bomponso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bomponso",
+      "en": "Bomponso",
+      "slug": "bomponso"
+    },
+    "code": {
+      "id": "GH0601_bomponso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.166",
+      "lon": "-0.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_bonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bonsu",
+      "en": "Bonsu",
+      "slug": "bonsu"
+    },
+    "code": {
+      "id": "GH0601_bonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.283",
+      "lon": "-0.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_bosuso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bosuso",
+      "en": "Bosuso",
+      "slug": "bosuso"
+    },
+    "code": {
+      "id": "GH0601_bosuso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.297",
+      "lon": "-0.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_crig-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Crig (Tafo)",
+      "en": "Crig (Tafo)",
+      "slug": "crig-tafo"
+    },
+    "code": {
+      "id": "GH0601_crig-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.229",
+      "lon": "-0.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_hemang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hemang",
+      "en": "Hemang",
+      "slug": "hemang"
+    },
+    "code": {
+      "id": "GH0601_hemang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.351",
+      "lon": "-0.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_kukurantumi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kukurantumi",
+      "en": "Kukurantumi",
+      "slug": "kukurantumi"
+    },
+    "code": {
+      "id": "GH0601_kukurantumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.189",
+      "lon": "-0.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_mid-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mid Tafo",
+      "en": "Mid Tafo",
+      "slug": "mid-tafo"
+    },
+    "code": {
+      "id": "GH0601_mid-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.201",
+      "lon": "-0.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_osiem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osiem",
+      "en": "Osiem",
+      "slug": "osiem"
+    },
+    "code": {
+      "id": "GH0601_osiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.252",
+      "lon": "-0.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0601_tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo",
+      "en": "Tafo",
+      "slug": "tafo"
+    },
+    "code": {
+      "id": "GH0601_tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0601",
+      "level": 2,
+      "name": {
+        "local": "Abuakwa North",
+        "en": "Abuakwa North",
+        "slug": "abuakwa-north-gh0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH06",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-gh06"
+        }
+      },
+      {
+        "id": "GH0601",
+        "level": 2,
+        "name": {
+          "local": "Abuakwa North",
+          "en": "Abuakwa North",
+          "slug": "abuakwa-north-gh0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.231",
+      "lon": "-0.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

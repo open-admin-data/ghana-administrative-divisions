@@ -1,0 +1,30 @@
+{
+  "id": "GH14",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Volta",
+    "en": "Volta",
+    "slug": "volta-gh14"
+  },
+  "code": {
+    "id": "GH14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 18,
+    "town": 173
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.537",
+    "lon": "0.458"
+  },
+  "metadata": {},
+  "source": {}
+}

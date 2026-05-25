@@ -1,0 +1,47 @@
+{
+  "id": "GH0507",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Assin North",
+    "en": "Assin North",
+    "slug": "assin-north-gh0507"
+  },
+  "code": {
+    "id": "GH0507",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH05",
+    "level": 1,
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central-gh05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH05",
+      "level": 1,
+      "name": {
+        "local": "Central",
+        "en": "Central",
+        "slug": "central-gh05"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.825",
+    "lon": "-1.373"
+  },
+  "metadata": {},
+  "source": {}
+}

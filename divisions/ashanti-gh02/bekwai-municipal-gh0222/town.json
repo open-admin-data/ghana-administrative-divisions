@@ -1,0 +1,596 @@
+[
+  {
+    "id": "GH0222_amoaful",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amoaful",
+      "en": "Amoaful",
+      "slug": "amoaful"
+    },
+    "code": {
+      "id": "GH0222_amoaful",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.451",
+      "lon": "-1.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_anwiankwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anwiankwanta",
+      "en": "Anwiankwanta",
+      "slug": "anwiankwanta"
+    },
+    "code": {
+      "id": "GH0222_anwiankwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.463",
+      "lon": "-1.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_apau",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apau",
+      "en": "Apau",
+      "slug": "apau"
+    },
+    "code": {
+      "id": "GH0222_apau",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.473",
+      "lon": "-1.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_bekwai",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bekwai",
+      "en": "Bekwai",
+      "slug": "bekwai"
+    },
+    "code": {
+      "id": "GH0222_bekwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.455",
+      "lon": "-1.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_dominase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dominase",
+      "en": "Dominase",
+      "slug": "dominase"
+    },
+    "code": {
+      "id": "GH0222_dominase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.31",
+      "lon": "-1.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_huntade",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Huntade",
+      "en": "Huntade",
+      "slug": "huntade"
+    },
+    "code": {
+      "id": "GH0222_huntade",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.48",
+      "lon": "-1.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_kokofu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokofu",
+      "en": "Kokofu",
+      "slug": "kokofu"
+    },
+    "code": {
+      "id": "GH0222_kokofu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.51",
+      "lon": "-1.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_kortwia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kortwia",
+      "en": "Kortwia",
+      "slug": "kortwia"
+    },
+    "code": {
+      "id": "GH0222_kortwia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.44",
+      "lon": "-1.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_nsuaem-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nsuaem #2",
+      "en": "Nsuaem #2",
+      "slug": "nsuaem-2"
+    },
+    "code": {
+      "id": "GH0222_nsuaem-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.365",
+      "lon": "-1.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_tebeso-2",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tebeso #2",
+      "en": "Tebeso #2",
+      "slug": "tebeso-2"
+    },
+    "code": {
+      "id": "GH0222_tebeso-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.318",
+      "lon": "-1.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0222_yapesa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yapesa",
+      "en": "Yapesa",
+      "slug": "yapesa"
+    },
+    "code": {
+      "id": "GH0222_yapesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0222",
+      "level": 2,
+      "name": {
+        "local": "Bekwai Municipal",
+        "en": "Bekwai Municipal",
+        "slug": "bekwai-municipal-gh0222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0222",
+        "level": 2,
+        "name": {
+          "local": "Bekwai Municipal",
+          "en": "Bekwai Municipal",
+          "slug": "bekwai-municipal-gh0222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.451",
+      "lon": "-1.368"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

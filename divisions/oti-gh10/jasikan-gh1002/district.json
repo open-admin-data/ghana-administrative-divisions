@@ -1,0 +1,47 @@
+{
+  "id": "GH1002",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jasikan",
+    "en": "Jasikan",
+    "slug": "jasikan-gh1002"
+  },
+  "code": {
+    "id": "GH1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH10",
+    "level": 1,
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-gh10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH10",
+      "level": 1,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-gh10"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.376",
+    "lon": "0.558"
+  },
+  "metadata": {},
+  "source": {}
+}

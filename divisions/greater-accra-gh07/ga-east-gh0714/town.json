@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH0714_abokobi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abokobi",
+      "en": "Abokobi",
+      "slug": "abokobi"
+    },
+    "code": {
+      "id": "GH0714_abokobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.734",
+      "lon": "-0.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_adenta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adenta",
+      "en": "Adenta",
+      "slug": "adenta"
+    },
+    "code": {
+      "id": "GH0714_adenta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.717",
+      "lon": "-0.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_amasaman",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amasaman",
+      "en": "Amasaman",
+      "slug": "amasaman"
+    },
+    "code": {
+      "id": "GH0714_amasaman",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.702",
+      "lon": "-0.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_atomic",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atomic",
+      "en": "Atomic",
+      "slug": "atomic"
+    },
+    "code": {
+      "id": "GH0714_atomic",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.629",
+      "lon": "-0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_atomic-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atomic Road",
+      "en": "Atomic Road",
+      "slug": "atomic-road"
+    },
+    "code": {
+      "id": "GH0714_atomic-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.667",
+      "lon": "-0.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_danfa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Danfa",
+      "en": "Danfa",
+      "slug": "danfa"
+    },
+    "code": {
+      "id": "GH0714_danfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.789",
+      "lon": "-0.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_kokrobite",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kokrobite",
+      "en": "Kokrobite",
+      "slug": "kokrobite"
+    },
+    "code": {
+      "id": "GH0714_kokrobite",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.502",
+      "lon": "-0.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_korle-bu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Korle-bu",
+      "en": "Korle-bu",
+      "slug": "korle-bu"
+    },
+    "code": {
+      "id": "GH0714_korle-bu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.537",
+      "lon": "-0.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_madina",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "GH0714_madina",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.664",
+      "lon": "-0.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_madina-near-market",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Madina (near market)",
+      "en": "Madina (near market)",
+      "slug": "madina-near-market"
+    },
+    "code": {
+      "id": "GH0714_madina-near-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.682",
+      "lon": "-0.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_madina-old-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Madina (Old road)",
+      "en": "Madina (Old road)",
+      "slug": "madina-old-road"
+    },
+    "code": {
+      "id": "GH0714_madina-old-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.679",
+      "lon": "-0.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_north-legon-off-atomic-energy-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North Legon (off Atomic Energy Road)",
+      "en": "North Legon (off Atomic Energy Road)",
+      "slug": "north-legon-off-atomic-energy-road"
+    },
+    "code": {
+      "id": "GH0714_north-legon-off-atomic-energy-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.669",
+      "lon": "-0.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_pantang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pantang",
+      "en": "Pantang",
+      "slug": "pantang"
+    },
+    "code": {
+      "id": "GH0714_pantang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.715",
+      "lon": "-0.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_pantang-hosp-road",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pantang hosp road",
+      "en": "Pantang hosp road",
+      "slug": "pantang-hosp-road"
+    },
+    "code": {
+      "id": "GH0714_pantang-hosp-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.719",
+      "lon": "-0.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0714_taifa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Taifa",
+      "en": "Taifa",
+      "slug": "taifa"
+    },
+    "code": {
+      "id": "GH0714_taifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0714",
+      "level": 2,
+      "name": {
+        "local": "Ga East",
+        "en": "Ga East",
+        "slug": "ga-east-gh0714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0714",
+        "level": 2,
+        "name": {
+          "local": "Ga East",
+          "en": "Ga East",
+          "slug": "ga-east-gh0714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.66",
+      "lon": "-0.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

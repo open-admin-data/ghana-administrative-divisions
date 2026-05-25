@@ -1,0 +1,47 @@
+{
+  "id": "GH0727",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tema Metropolitan",
+    "en": "Tema Metropolitan",
+    "slug": "tema-metropolitan-gh0727"
+  },
+  "code": {
+    "id": "GH0727",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.648",
+    "lon": "-0.005"
+  },
+  "metadata": {},
+  "source": {}
+}

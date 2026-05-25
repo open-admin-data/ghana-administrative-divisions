@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0240_akokuaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akokuaso",
+      "en": "Akokuaso",
+      "slug": "akokuaso"
+    },
+    "code": {
+      "id": "GH0240_akokuaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.854",
+      "lon": "-1.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_banko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banko",
+      "en": "Banko",
+      "slug": "banko"
+    },
+    "code": {
+      "id": "GH0240_banko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.758",
+      "lon": "-1.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_dadiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dadiase",
+      "en": "Dadiase",
+      "slug": "dadiase"
+    },
+    "code": {
+      "id": "GH0240_dadiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.881",
+      "lon": "-1.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_effiduase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Effiduase",
+      "en": "Effiduase",
+      "slug": "effiduase"
+    },
+    "code": {
+      "id": "GH0240_effiduase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.845",
+      "lon": "-1.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_okaikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Okaikrom",
+      "en": "Okaikrom",
+      "slug": "okaikrom"
+    },
+    "code": {
+      "id": "GH0240_okaikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.826",
+      "lon": "-1.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_sekyere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekyere",
+      "en": "Sekyere",
+      "slug": "sekyere"
+    },
+    "code": {
+      "id": "GH0240_sekyere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.927",
+      "lon": "-1.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_seniagya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Seniagya",
+      "en": "Seniagya",
+      "slug": "seniagya"
+    },
+    "code": {
+      "id": "GH0240_seniagya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.798",
+      "lon": "-1.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0240_senkyi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Senkyi",
+      "en": "Senkyi",
+      "slug": "senkyi"
+    },
+    "code": {
+      "id": "GH0240_senkyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0240",
+      "level": 2,
+      "name": {
+        "local": "Sekyere East",
+        "en": "Sekyere East",
+        "slug": "sekyere-east-gh0240"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0240",
+        "level": 2,
+        "name": {
+          "local": "Sekyere East",
+          "en": "Sekyere East",
+          "slug": "sekyere-east-gh0240"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.808",
+      "lon": "-1.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

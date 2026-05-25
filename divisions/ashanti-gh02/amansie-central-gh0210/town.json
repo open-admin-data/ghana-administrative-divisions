@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0210_akrofrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrofrom",
+      "en": "Akrofrom",
+      "slug": "akrofrom"
+    },
+    "code": {
+      "id": "GH0210_akrofrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0210",
+      "level": 2,
+      "name": {
+        "local": "Amansie Central",
+        "en": "Amansie Central",
+        "slug": "amansie-central-gh0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0210",
+        "level": 2,
+        "name": {
+          "local": "Amansie Central",
+          "en": "Amansie Central",
+          "slug": "amansie-central-gh0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "-1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0210_hia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hia",
+      "en": "Hia",
+      "slug": "hia"
+    },
+    "code": {
+      "id": "GH0210_hia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0210",
+      "level": 2,
+      "name": {
+        "local": "Amansie Central",
+        "en": "Amansie Central",
+        "slug": "amansie-central-gh0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0210",
+        "level": 2,
+        "name": {
+          "local": "Amansie Central",
+          "en": "Amansie Central",
+          "slug": "amansie-central-gh0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.208",
+      "lon": "-1.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0210_jacobu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jacobu",
+      "en": "Jacobu",
+      "slug": "jacobu"
+    },
+    "code": {
+      "id": "GH0210_jacobu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0210",
+      "level": 2,
+      "name": {
+        "local": "Amansie Central",
+        "en": "Amansie Central",
+        "slug": "amansie-central-gh0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0210",
+        "level": 2,
+        "name": {
+          "local": "Amansie Central",
+          "en": "Amansie Central",
+          "slug": "amansie-central-gh0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.352",
+      "lon": "-1.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0210_mile-14",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mile 14",
+      "en": "Mile 14",
+      "slug": "mile-14"
+    },
+    "code": {
+      "id": "GH0210_mile-14",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0210",
+      "level": 2,
+      "name": {
+        "local": "Amansie Central",
+        "en": "Amansie Central",
+        "slug": "amansie-central-gh0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0210",
+        "level": 2,
+        "name": {
+          "local": "Amansie Central",
+          "en": "Amansie Central",
+          "slug": "amansie-central-gh0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.221",
+      "lon": "-1.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0210_numereso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Numereso",
+      "en": "Numereso",
+      "slug": "numereso"
+    },
+    "code": {
+      "id": "GH0210_numereso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0210",
+      "level": 2,
+      "name": {
+        "local": "Amansie Central",
+        "en": "Amansie Central",
+        "slug": "amansie-central-gh0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0210",
+        "level": 2,
+        "name": {
+          "local": "Amansie Central",
+          "en": "Amansie Central",
+          "slug": "amansie-central-gh0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.076",
+      "lon": "-1.855"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

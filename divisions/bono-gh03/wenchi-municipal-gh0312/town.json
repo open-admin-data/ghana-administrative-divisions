@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH0312_droboso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Droboso",
+      "en": "Droboso",
+      "slug": "droboso"
+    },
+    "code": {
+      "id": "GH0312_droboso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0312",
+      "level": 2,
+      "name": {
+        "local": "Wenchi Municipal",
+        "en": "Wenchi Municipal",
+        "slug": "wenchi-municipal-gh0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0312",
+        "level": 2,
+        "name": {
+          "local": "Wenchi Municipal",
+          "en": "Wenchi Municipal",
+          "slug": "wenchi-municipal-gh0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.701",
+      "lon": "-2.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0312_nchiraa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nchiraa",
+      "en": "Nchiraa",
+      "slug": "nchiraa"
+    },
+    "code": {
+      "id": "GH0312_nchiraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0312",
+      "level": 2,
+      "name": {
+        "local": "Wenchi Municipal",
+        "en": "Wenchi Municipal",
+        "slug": "wenchi-municipal-gh0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0312",
+        "level": 2,
+        "name": {
+          "local": "Wenchi Municipal",
+          "en": "Wenchi Municipal",
+          "slug": "wenchi-municipal-gh0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.895",
+      "lon": "-1.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0312_subinso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Subinso",
+      "en": "Subinso",
+      "slug": "subinso"
+    },
+    "code": {
+      "id": "GH0312_subinso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0312",
+      "level": 2,
+      "name": {
+        "local": "Wenchi Municipal",
+        "en": "Wenchi Municipal",
+        "slug": "wenchi-municipal-gh0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0312",
+        "level": 2,
+        "name": {
+          "local": "Wenchi Municipal",
+          "en": "Wenchi Municipal",
+          "slug": "wenchi-municipal-gh0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.943",
+      "lon": "-2.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0312_wenchi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wenchi",
+      "en": "Wenchi",
+      "slug": "wenchi"
+    },
+    "code": {
+      "id": "GH0312_wenchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0312",
+      "level": 2,
+      "name": {
+        "local": "Wenchi Municipal",
+        "en": "Wenchi Municipal",
+        "slug": "wenchi-municipal-gh0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0312",
+        "level": 2,
+        "name": {
+          "local": "Wenchi Municipal",
+          "en": "Wenchi Municipal",
+          "slug": "wenchi-municipal-gh0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.745",
+      "lon": "-2.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0312_wenchi-bandaline",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wenchi Bandaline",
+      "en": "Wenchi Bandaline",
+      "slug": "wenchi-bandaline"
+    },
+    "code": {
+      "id": "GH0312_wenchi-bandaline",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0312",
+      "level": 2,
+      "name": {
+        "local": "Wenchi Municipal",
+        "en": "Wenchi Municipal",
+        "slug": "wenchi-municipal-gh0312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH03",
+        "level": 1,
+        "name": {
+          "local": "Bono",
+          "en": "Bono",
+          "slug": "bono-gh03"
+        }
+      },
+      {
+        "id": "GH0312",
+        "level": 2,
+        "name": {
+          "local": "Wenchi Municipal",
+          "en": "Wenchi Municipal",
+          "slug": "wenchi-municipal-gh0312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.74",
+      "lon": "-2.102"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

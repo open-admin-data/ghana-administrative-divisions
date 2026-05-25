@@ -1,0 +1,47 @@
+{
+  "id": "GH0613",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Birim North",
+    "en": "Birim North",
+    "slug": "birim-north-gh0613"
+  },
+  "code": {
+    "id": "GH0613",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.368",
+    "lon": "-1.023"
+  },
+  "metadata": {},
+  "source": {}
+}

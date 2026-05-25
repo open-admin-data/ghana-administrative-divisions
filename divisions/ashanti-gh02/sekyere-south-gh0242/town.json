@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH0242_afamaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afamaso",
+      "en": "Afamaso",
+      "slug": "afamaso"
+    },
+    "code": {
+      "id": "GH0242_afamaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.949",
+      "lon": "-1.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_agona",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agona",
+      "en": "Agona",
+      "slug": "agona"
+    },
+    "code": {
+      "id": "GH0242_agona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.936",
+      "lon": "-1.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_asamang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asamang",
+      "en": "Asamang",
+      "slug": "asamang"
+    },
+    "code": {
+      "id": "GH0242_asamang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.053",
+      "lon": "-1.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_bepoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bepoase",
+      "en": "Bepoase",
+      "slug": "bepoase"
+    },
+    "code": {
+      "id": "GH0242_bepoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.087",
+      "lon": "-1.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_boanim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boanim",
+      "en": "Boanim",
+      "slug": "boanim"
+    },
+    "code": {
+      "id": "GH0242_boanim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.035",
+      "lon": "-1.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_domeabra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Domeabra",
+      "en": "Domeabra",
+      "slug": "domeabra"
+    },
+    "code": {
+      "id": "GH0242_domeabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.939",
+      "lon": "-1.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_jamasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Jamasi",
+      "en": "Jamasi",
+      "slug": "jamasi"
+    },
+    "code": {
+      "id": "GH0242_jamasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.978",
+      "lon": "-1.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_kona",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kona",
+      "en": "Kona",
+      "slug": "kona"
+    },
+    "code": {
+      "id": "GH0242_kona",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.868",
+      "lon": "-1.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_wiamoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiamoase",
+      "en": "Wiamoase",
+      "slug": "wiamoase"
+    },
+    "code": {
+      "id": "GH0242_wiamoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.052",
+      "lon": "-1.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0242_wiamose",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wiamose",
+      "en": "Wiamose",
+      "slug": "wiamose"
+    },
+    "code": {
+      "id": "GH0242_wiamose",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0242",
+      "level": 2,
+      "name": {
+        "local": "Sekyere South",
+        "en": "Sekyere South",
+        "slug": "sekyere-south-gh0242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0242",
+        "level": 2,
+        "name": {
+          "local": "Sekyere South",
+          "en": "Sekyere South",
+          "slug": "sekyere-south-gh0242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.903",
+      "lon": "-1.433"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

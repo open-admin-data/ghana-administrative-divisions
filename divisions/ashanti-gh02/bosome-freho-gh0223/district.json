@@ -1,0 +1,47 @@
+{
+  "id": "GH0223",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bosome Freho",
+    "en": "Bosome Freho",
+    "slug": "bosome-freho-gh0223"
+  },
+  "code": {
+    "id": "GH0223",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.368",
+    "lon": "-1.366"
+  },
+  "metadata": {},
+  "source": {}
+}

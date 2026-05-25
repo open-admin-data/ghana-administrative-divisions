@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GH0518_abeadze-dominase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abeadze Dominase",
+      "en": "Abeadze Dominase",
+      "slug": "abeadze-dominase"
+    },
+    "code": {
+      "id": "GH0518_abeadze-dominase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.351",
+      "lon": "-1.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_anomabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anomabo",
+      "en": "Anomabo",
+      "slug": "anomabo"
+    },
+    "code": {
+      "id": "GH0518_anomabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.177",
+      "lon": "-1.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_biriwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Biriwa",
+      "en": "Biriwa",
+      "slug": "biriwa"
+    },
+    "code": {
+      "id": "GH0518_biriwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.166",
+      "lon": "-1.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_essuehyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Essuehyia",
+      "en": "Essuehyia",
+      "slug": "essuehyia"
+    },
+    "code": {
+      "id": "GH0518_essuehyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.306",
+      "lon": "-0.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_mankessim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mankessim",
+      "en": "Mankessim",
+      "slug": "mankessim"
+    },
+    "code": {
+      "id": "GH0518_mankessim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.262",
+      "lon": "-1.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_nanabeng",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nanabeng",
+      "en": "Nanabeng",
+      "slug": "nanabeng"
+    },
+    "code": {
+      "id": "GH0518_nanabeng",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.246",
+      "lon": "-0.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_otuam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Otuam",
+      "en": "Otuam",
+      "slug": "otuam"
+    },
+    "code": {
+      "id": "GH0518_otuam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.219",
+      "lon": "-0.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_saltpond",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Saltpond",
+      "en": "Saltpond",
+      "slug": "saltpond"
+    },
+    "code": {
+      "id": "GH0518_saltpond",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.205",
+      "lon": "-1.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0518_yamoransa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Yamoransa",
+      "en": "Yamoransa",
+      "slug": "yamoransa"
+    },
+    "code": {
+      "id": "GH0518_yamoransa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0518",
+      "level": 2,
+      "name": {
+        "local": "Mfantseman Municipal",
+        "en": "Mfantseman Municipal",
+        "slug": "mfantseman-municipal-gh0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0518",
+        "level": 2,
+        "name": {
+          "local": "Mfantseman Municipal",
+          "en": "Mfantseman Municipal",
+          "slug": "mfantseman-municipal-gh0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.166",
+      "lon": "-1.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

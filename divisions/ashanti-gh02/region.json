@@ -1,0 +1,30 @@
+{
+  "id": "GH02",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ashanti",
+    "en": "Ashanti",
+    "slug": "ashanti-gh02"
+  },
+  "code": {
+    "id": "GH02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 43,
+    "town": 389
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.74",
+    "lon": "-1.628"
+  },
+  "metadata": {},
+  "source": {}
+}

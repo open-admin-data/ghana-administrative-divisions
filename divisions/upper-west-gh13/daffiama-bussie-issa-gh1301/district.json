@@ -1,0 +1,47 @@
+{
+  "id": "GH1301",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Daffiama Bussie Issa",
+    "en": "Daffiama Bussie Issa",
+    "slug": "daffiama-bussie-issa-gh1301"
+  },
+  "code": {
+    "id": "GH1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.367",
+    "lon": "-2.262"
+  },
+  "metadata": {},
+  "source": {}
+}

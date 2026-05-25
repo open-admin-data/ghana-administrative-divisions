@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GH1006_anyiname",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anyiname",
+      "en": "Anyiname",
+      "slug": "anyiname"
+    },
+    "code": {
+      "id": "GH1006_anyiname",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.055",
+      "lon": "-0.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_banda",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "GH1006_banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.294",
+      "lon": "-0.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_borae",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Borae",
+      "en": "Borae",
+      "slug": "borae"
+    },
+    "code": {
+      "id": "GH1006_borae",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.157",
+      "lon": "-0.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_chinderi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Chinderi",
+      "en": "Chinderi",
+      "slug": "chinderi"
+    },
+    "code": {
+      "id": "GH1006_chinderi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.139",
+      "lon": "-0.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_ehiamankyene",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ehiamankyene",
+      "en": "Ehiamankyene",
+      "slug": "ehiamankyene"
+    },
+    "code": {
+      "id": "GH1006_ehiamankyene",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.998",
+      "lon": "-0.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_gyatoakroa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyatoakroa",
+      "en": "Gyatoakroa",
+      "slug": "gyatoakroa"
+    },
+    "code": {
+      "id": "GH1006_gyatoakroa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.18",
+      "lon": "0.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_krachi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Krachi",
+      "en": "Krachi",
+      "slug": "krachi"
+    },
+    "code": {
+      "id": "GH1006_krachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.795",
+      "lon": "0.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_monkra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Monkra",
+      "en": "Monkra",
+      "slug": "monkra"
+    },
+    "code": {
+      "id": "GH1006_monkra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.93",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_ntewusa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ntewusa",
+      "en": "Ntewusa",
+      "slug": "ntewusa"
+    },
+    "code": {
+      "id": "GH1006_ntewusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.992",
+      "lon": "0.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1006_ostramani",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ostramani",
+      "en": "Ostramani",
+      "slug": "ostramani"
+    },
+    "code": {
+      "id": "GH1006_ostramani",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1006",
+      "level": 2,
+      "name": {
+        "local": "Krachi West",
+        "en": "Krachi West",
+        "slug": "krachi-west-gh1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH10",
+        "level": 1,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-gh10"
+        }
+      },
+      {
+        "id": "GH1006",
+        "level": 2,
+        "name": {
+          "local": "Krachi West",
+          "en": "Krachi West",
+          "slug": "krachi-west-gh1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.956",
+      "lon": "-0.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

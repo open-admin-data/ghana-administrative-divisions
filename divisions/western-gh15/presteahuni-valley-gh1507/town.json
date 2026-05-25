@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GH1507_aboso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboso",
+      "en": "Aboso",
+      "slug": "aboso"
+    },
+    "code": {
+      "id": "GH1507_aboso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.366",
+      "lon": "-1.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_asompa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asompa",
+      "en": "Asompa",
+      "slug": "asompa"
+    },
+    "code": {
+      "id": "GH1507_asompa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.432",
+      "lon": "-2.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_awudua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awudua",
+      "en": "Awudua",
+      "slug": "awudua"
+    },
+    "code": {
+      "id": "GH1507_awudua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.427",
+      "lon": "-2.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_bogoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bogoso",
+      "en": "Bogoso",
+      "slug": "bogoso"
+    },
+    "code": {
+      "id": "GH1507_bogoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.57",
+      "lon": "-2.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_cemetery",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cemetery",
+      "en": "Cemetery",
+      "slug": "cemetery"
+    },
+    "code": {
+      "id": "GH1507_cemetery",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.438",
+      "lon": "-2.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_dagarti-compound",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dagarti Compound",
+      "en": "Dagarti Compound",
+      "slug": "dagarti-compound"
+    },
+    "code": {
+      "id": "GH1507_dagarti-compound",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.431",
+      "lon": "-2.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_edikanfo-village",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Edikanfo Village",
+      "en": "Edikanfo Village",
+      "slug": "edikanfo-village"
+    },
+    "code": {
+      "id": "GH1507_edikanfo-village",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.512",
+      "lon": "-2.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_enyinabrim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyinabrim",
+      "en": "Enyinabrim",
+      "slug": "enyinabrim"
+    },
+    "code": {
+      "id": "GH1507_enyinabrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.41",
+      "lon": "-1.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_himan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Himan",
+      "en": "Himan",
+      "slug": "himan"
+    },
+    "code": {
+      "id": "GH1507_himan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.454",
+      "lon": "-2.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_huniso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Huniso",
+      "en": "Huniso",
+      "slug": "huniso"
+    },
+    "code": {
+      "id": "GH1507_huniso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.382",
+      "lon": "-2.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_hunivalley",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hunivalley",
+      "en": "Hunivalley",
+      "slug": "hunivalley"
+    },
+    "code": {
+      "id": "GH1507_hunivalley",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.472",
+      "lon": "-1.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_old-destimony",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old Destimony",
+      "en": "Old Destimony",
+      "slug": "old-destimony"
+    },
+    "code": {
+      "id": "GH1507_old-destimony",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.446",
+      "lon": "-2.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1507_prestea",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Prestea",
+      "en": "Prestea",
+      "slug": "prestea"
+    },
+    "code": {
+      "id": "GH1507_prestea",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1507",
+      "level": 2,
+      "name": {
+        "local": "Prestea/Huni Valley",
+        "en": "Prestea/Huni Valley",
+        "slug": "presteahuni-valley-gh1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1507",
+        "level": 2,
+        "name": {
+          "local": "Prestea/Huni Valley",
+          "en": "Prestea/Huni Valley",
+          "slug": "presteahuni-valley-gh1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.427",
+      "lon": "-2.136"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

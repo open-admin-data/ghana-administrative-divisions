@@ -1,0 +1,281 @@
+# Oti — Ghana Administrative Divisions
+
+> 8 districts, 58 towns
+> Code: GH10
+> Coordinates: 7.932, 0.242
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Biakoye
+
+Code: GH1001, Coordinates: 7.393, 0.246
+Towns: 0
+
+### Jasikan
+
+Code: GH1002, Coordinates: 7.376, 0.558
+Towns: 18
+
+#### Abotoase
+
+Code: GH1002_abotoase, Coordinates: 7.408, 0.303
+
+#### Akaa
+
+Code: GH1002_akaa, Coordinates: 7.427, 0.409
+
+#### Amanya
+
+Code: GH1002_amanya, Coordinates: 7.452, 0.34
+
+#### Baglo
+
+Code: GH1002_baglo, Coordinates: 7.303, 0.638
+
+#### Baika
+
+Code: GH1002_baika, Coordinates: 7.235, 0.531
+
+#### Bodada
+
+Code: GH1002_bodada, Coordinates: 7.358, 0.49
+
+#### Bowiri
+
+Code: GH1002_bowiri, Coordinates: 7.332, 0.459
+
+#### Jasikan
+
+Code: GH1002_jasikan, Coordinates: 7.401, 0.465
+
+#### Kute
+
+Code: GH1002_kute, Coordinates: 7.377, 0.613
+
+#### Kwamekrom
+
+Code: GH1002_kwamekrom, Coordinates: 7.296, 0.331
+
+#### New Ayoma
+
+Code: GH1002_new-ayoma, Coordinates: 7.284, 0.584
+
+#### New Teteman
+
+Code: GH1002_new-teteman, Coordinates: 7.304, 0.508
+
+#### Nkonya Ahenkro
+
+Code: GH1002_nkonya-ahenkro, Coordinates: 7.119, 0.327
+
+#### Nkonya Wurupong
+
+Code: GH1002_nkonya-wurupong, Coordinates: 7.174, 0.33
+
+#### Nsuta
+
+Code: GH1002_nsuta, Coordinates: 7.505, 0.459
+
+#### Old Ayoma
+
+Code: GH1002_old-ayoma, Coordinates: 7.288, 0.634
+
+#### Teteman
+
+Code: GH1002_teteman, Coordinates: 7.304, 0.509
+
+#### Worawora H
+
+Code: GH1002_worawora-h, Coordinates: 7.514, 0.376
+
+### Kadjebi
+
+Code: GH1003, Coordinates: 7.718, 0.533
+Towns: 11
+
+#### Ahamansu
+
+Code: GH1003_ahamansu, Coordinates: 7.726, 0.55
+
+#### Dodi Papase
+
+Code: GH1003_dodi-papase, Coordinates: 7.742, 0.51
+
+#### Dodi-Mempeasem
+
+Code: GH1003_dodi-mempeasem, Coordinates: 7.634, 0.516
+
+#### Dodo Amanfrom
+
+Code: GH1003_dodo-amanfrom, Coordinates: 7.821, 0.507
+
+#### Dzamlome
+
+Code: GH1003_dzamlome, Coordinates: 7.58, 0.44
+
+#### Dzindjiso
+
+Code: GH1003_dzindjiso, Coordinates: 7.598, 0.528
+
+#### Kadjebi
+
+Code: GH1003_kadjebi, Coordinates: 7.534, 0.474
+
+#### Obanda
+
+Code: GH1003_obanda, Coordinates: 7.941, 0.511
+
+#### Pampawie
+
+Code: GH1003_pampawie, Coordinates: 7.811, 0.567
+
+#### Poase Cement
+
+Code: GH1003_poase-cement, Coordinates: 7.651, 0.52
+
+#### Woraworso
+
+Code: GH1003_woraworso, Coordinates: 7.655, 0.445
+
+### Krachi East Municipal
+
+Code: GH1004, Coordinates: 7.805, 0.264
+Towns: 6
+
+#### Adumadum
+
+Code: GH1004_adumadum, Coordinates: 7.82, 0.037
+
+#### Asukawkaw
+
+Code: GH1004_asukawkaw, Coordinates: 7.688, 0.044
+
+#### Dambai
+
+Code: GH1004_dambai, Coordinates: 8.068, 0.17
+
+#### Dormabin
+
+Code: GH1004_dormabin, Coordinates: 7.835, 0.031
+
+#### Katanga
+
+Code: GH1004_katanga, Coordinates: 7.659, 0.033
+
+#### Tokronu
+
+Code: GH1004_tokronu, Coordinates: 7.771, 0.042
+
+### Krachi Nchumuru
+
+Code: GH1005, Coordinates: 8.189, -0.088
+Towns: 0
+
+### Krachi West
+
+Code: GH1006, Coordinates: 7.89, -0.036
+Towns: 10
+
+#### Anyiname
+
+Code: GH1006_anyiname, Coordinates: 8.055, -0.154
+
+#### Banda
+
+Code: GH1006_banda, Coordinates: 8.294, -0.097
+
+#### Borae
+
+Code: GH1006_borae, Coordinates: 8.157, -0.035
+
+#### Chinderi
+
+Code: GH1006_chinderi, Coordinates: 8.139, -0.139
+
+#### Ehiamankyene
+
+Code: GH1006_ehiamankyene, Coordinates: 7.998, -0.062
+
+#### Gyatoakroa
+
+Code: GH1006_gyatoakroa, Coordinates: 8.18, 0.075
+
+#### Krachi
+
+Code: GH1006_krachi, Coordinates: 7.795, 0.057
+
+#### Monkra
+
+Code: GH1006_monkra, Coordinates: 7.93, -0.011
+
+#### Ntewusa
+
+Code: GH1006_ntewusa, Coordinates: 7.992, 0.002
+
+#### Ostramani
+
+Code: GH1006_ostramani, Coordinates: 7.956, -0.009
+
+### Nkwanta North
+
+Code: GH1007, Coordinates: 8.551, 0.234
+Towns: 4
+
+#### Damanko
+
+Code: GH1007_damanko, Coordinates: 8.688, 0.185
+
+#### Kpassa
+
+Code: GH1007_kpassa, Coordinates: 8.496, 0.314
+
+#### Sibi
+
+Code: GH1007_sibi, Coordinates: 8.612, 0.231
+
+#### Tinjase
+
+Code: GH1007_tinjase, Coordinates: 8.57, 0.405
+
+### Nkwanta South Municipal
+
+Code: GH1008, Coordinates: 8.25, 0.414
+Towns: 9
+
+#### Bonakye
+
+Code: GH1008_bonakye, Coordinates: 8.401, 0.403
+
+#### Bontibor
+
+Code: GH1008_bontibor, Coordinates: 8.09, 0.497
+
+#### Brewaniase
+
+Code: GH1008_brewaniase, Coordinates: 8.006, 0.562
+
+#### Kechebi
+
+Code: GH1008_kechebi, Coordinates: 8.205, 0.398
+
+#### Keri
+
+Code: GH1008_keri, Coordinates: 8.386, 0.528
+
+#### Nkwanta
+
+Code: GH1008_nkwanta, Coordinates: 8.258, 0.508
+
+#### Nyambong
+
+Code: GH1008_nyambong, Coordinates: 8.36, 0.478
+
+#### Pusupu
+
+Code: GH1008_pusupu, Coordinates: 8.052, 0.49
+
+#### Tutukpene
+
+Code: GH1008_tutukpene, Coordinates: 8.099, 0.394
+

@@ -1,0 +1,47 @@
+{
+  "id": "GH0201",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adansi Akrofuom",
+    "en": "Adansi Akrofuom",
+    "slug": "adansi-akrofuom-gh0201"
+  },
+  "code": {
+    "id": "GH0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.029",
+    "lon": "-1.673"
+  },
+  "metadata": {},
+  "source": {}
+}

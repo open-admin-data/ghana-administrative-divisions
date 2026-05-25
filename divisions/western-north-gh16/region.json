@@ -1,0 +1,30 @@
+{
+  "id": "GH16",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Western North",
+    "en": "Western North",
+    "slug": "western-north-gh16"
+  },
+  "code": {
+    "id": "GH16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "town": 85
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.176",
+    "lon": "-2.656"
+  },
+  "metadata": {},
+  "source": {}
+}

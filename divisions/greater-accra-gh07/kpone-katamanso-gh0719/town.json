@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH0719_afienya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afienya",
+      "en": "Afienya",
+      "slug": "afienya"
+    },
+    "code": {
+      "id": "GH0719_afienya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0719",
+      "level": 2,
+      "name": {
+        "local": "Kpone Katamanso",
+        "en": "Kpone Katamanso",
+        "slug": "kpone-katamanso-gh0719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0719",
+        "level": 2,
+        "name": {
+          "local": "Kpone Katamanso",
+          "en": "Kpone Katamanso",
+          "slug": "kpone-katamanso-gh0719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.801",
+      "lon": "0.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0719_dodowa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dodowa",
+      "en": "Dodowa",
+      "slug": "dodowa"
+    },
+    "code": {
+      "id": "GH0719_dodowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0719",
+      "level": 2,
+      "name": {
+        "local": "Kpone Katamanso",
+        "en": "Kpone Katamanso",
+        "slug": "kpone-katamanso-gh0719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0719",
+        "level": 2,
+        "name": {
+          "local": "Kpone Katamanso",
+          "en": "Kpone Katamanso",
+          "slug": "kpone-katamanso-gh0719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.886",
+      "lon": "-0.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0719_new-dawhenya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Dawhenya",
+      "en": "New Dawhenya",
+      "slug": "new-dawhenya"
+    },
+    "code": {
+      "id": "GH0719_new-dawhenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0719",
+      "level": 2,
+      "name": {
+        "local": "Kpone Katamanso",
+        "en": "Kpone Katamanso",
+        "slug": "kpone-katamanso-gh0719"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH07",
+        "level": 1,
+        "name": {
+          "local": "Greater Accra",
+          "en": "Greater Accra",
+          "slug": "greater-accra-gh07"
+        }
+      },
+      {
+        "id": "GH0719",
+        "level": 2,
+        "name": {
+          "local": "Kpone Katamanso",
+          "en": "Kpone Katamanso",
+          "slug": "kpone-katamanso-gh0719"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.755",
+      "lon": "-0.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

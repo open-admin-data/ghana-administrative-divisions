@@ -1,0 +1,380 @@
+[
+  {
+    "id": "GH1514_atobiase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atobiase",
+      "en": "Atobiase",
+      "slug": "atobiase"
+    },
+    "code": {
+      "id": "GH1514_atobiase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.353",
+      "lon": "-1.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_enyinabrim",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Enyinabrim",
+      "en": "Enyinabrim",
+      "slug": "enyinabrim"
+    },
+    "code": {
+      "id": "GH1514_enyinabrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.406",
+      "lon": "-1.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_hemang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Hemang",
+      "en": "Hemang",
+      "slug": "hemang"
+    },
+    "code": {
+      "id": "GH1514_hemang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.491",
+      "lon": "-1.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_manponso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manponso",
+      "en": "Manponso",
+      "slug": "manponso"
+    },
+    "code": {
+      "id": "GH1514_manponso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.429",
+      "lon": "-1.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_sekyere-krobo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sekyere Krobo",
+      "en": "Sekyere Krobo",
+      "slug": "sekyere-krobo"
+    },
+    "code": {
+      "id": "GH1514_sekyere-krobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.239",
+      "lon": "-1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_senchem",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Senchem",
+      "en": "Senchem",
+      "slug": "senchem"
+    },
+    "code": {
+      "id": "GH1514_senchem",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.476",
+      "lon": "-1.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1514_shed",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Shed",
+      "en": "Shed",
+      "slug": "shed"
+    },
+    "code": {
+      "id": "GH1514_shed",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1514",
+      "level": 2,
+      "name": {
+        "local": "Wassa East",
+        "en": "Wassa East",
+        "slug": "wassa-east-gh1514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH15",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-gh15"
+        }
+      },
+      {
+        "id": "GH1514",
+        "level": 2,
+        "name": {
+          "local": "Wassa East",
+          "en": "Wassa East",
+          "slug": "wassa-east-gh1514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.423",
+      "lon": "-1.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GH0901",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bunkpurugu Nakpanduri",
+      "en": "Bunkpurugu Nakpanduri",
+      "slug": "bunkpurugu-nakpanduri-gh0901"
+    },
+    "code": {
+      "id": "GH0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.509",
+      "lon": "0.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0902",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chereponi",
+      "en": "Chereponi",
+      "slug": "chereponi-gh0902"
+    },
+    "code": {
+      "id": "GH0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.179",
+      "lon": "0.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0903",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "East Mamprusi",
+      "en": "East Mamprusi",
+      "slug": "east-mamprusi-gh0903"
+    },
+    "code": {
+      "id": "GH0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.453",
+      "lon": "-0.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0904",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mamprugu Moagduri",
+      "en": "Mamprugu Moagduri",
+      "slug": "mamprugu-moagduri-gh0904"
+    },
+    "code": {
+      "id": "GH0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.258",
+      "lon": "-1.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0905",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "West Mamprusi Municipal",
+      "en": "West Mamprusi Municipal",
+      "slug": "west-mamprusi-municipal-gh0905"
+    },
+    "code": {
+      "id": "GH0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.298",
+      "lon": "-0.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0906",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yunyoo-Nasuan",
+      "en": "Yunyoo-Nasuan",
+      "slug": "yunyoo-nasuan-gh0906"
+    },
+    "code": {
+      "id": "GH0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH09",
+        "level": 1,
+        "name": {
+          "local": "Northern East",
+          "en": "Northern East",
+          "slug": "northern-east-gh09"
+        }
+      }
+    ],
+    "children_count": {
+      "town": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.434",
+      "lon": "-0.084"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GH1305",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nadowli-Kaleo",
+    "en": "Nadowli-Kaleo",
+    "slug": "nadowli-kaleo-gh1305"
+  },
+  "code": {
+    "id": "GH1305",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH13",
+    "level": 1,
+    "name": {
+      "local": "Upper West",
+      "en": "Upper West",
+      "slug": "upper-west-gh13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH13",
+      "level": 1,
+      "name": {
+        "local": "Upper West",
+        "en": "Upper West",
+        "slug": "upper-west-gh13"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.286",
+    "lon": "-2.638"
+  },
+  "metadata": {},
+  "source": {}
+}

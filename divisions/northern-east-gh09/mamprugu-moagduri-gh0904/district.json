@@ -1,0 +1,47 @@
+{
+  "id": "GH0904",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mamprugu Moagduri",
+    "en": "Mamprugu Moagduri",
+    "slug": "mamprugu-moagduri-gh0904"
+  },
+  "code": {
+    "id": "GH0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH09",
+    "level": 1,
+    "name": {
+      "local": "Northern East",
+      "en": "Northern East",
+      "slug": "northern-east-gh09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH09",
+      "level": 1,
+      "name": {
+        "local": "Northern East",
+        "en": "Northern East",
+        "slug": "northern-east-gh09"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.258",
+    "lon": "-1.318"
+  },
+  "metadata": {},
+  "source": {}
+}

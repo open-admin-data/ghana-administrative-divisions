@@ -1,0 +1,326 @@
+[
+  {
+    "id": "GH0519_atieku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atieku",
+      "en": "Atieku",
+      "slug": "atieku"
+    },
+    "code": {
+      "id": "GH0519_atieku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.567",
+      "lon": "-1.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519_bempongagye",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bempongagye",
+      "en": "Bempongagye",
+      "slug": "bempongagye"
+    },
+    "code": {
+      "id": "GH0519_bempongagye",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.672",
+      "lon": "-1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519_twifo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twifo",
+      "en": "Twifo",
+      "slug": "twifo"
+    },
+    "code": {
+      "id": "GH0519_twifo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.703",
+      "lon": "-1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519_twifo-wamase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twifo Wamase",
+      "en": "Twifo Wamase",
+      "slug": "twifo-wamase"
+    },
+    "code": {
+      "id": "GH0519_twifo-wamase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.698",
+      "lon": "-1.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519_twifu-praso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Twifu Praso",
+      "en": "Twifu Praso",
+      "slug": "twifu-praso"
+    },
+    "code": {
+      "id": "GH0519_twifu-praso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.609",
+      "lon": "-1.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0519_twifumokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "TwifuMokwa",
+      "en": "TwifuMokwa",
+      "slug": "twifumokwa"
+    },
+    "code": {
+      "id": "GH0519_twifumokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0519",
+      "level": 2,
+      "name": {
+        "local": "Twifo Atti-Morkwa",
+        "en": "Twifo Atti-Morkwa",
+        "slug": "twifo-atti-morkwa-gh0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0519",
+        "level": 2,
+        "name": {
+          "local": "Twifo Atti-Morkwa",
+          "en": "Twifo Atti-Morkwa",
+          "slug": "twifo-atti-morkwa-gh0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.746",
+      "lon": "-1.604"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

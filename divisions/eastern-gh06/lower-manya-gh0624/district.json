@@ -1,0 +1,47 @@
+{
+  "id": "GH0624",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lower Manya",
+    "en": "Lower Manya",
+    "slug": "lower-manya-gh0624"
+  },
+  "code": {
+    "id": "GH0624",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH06",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-gh06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH06",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-gh06"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.212",
+    "lon": "-0.041"
+  },
+  "metadata": {},
+  "source": {}
+}

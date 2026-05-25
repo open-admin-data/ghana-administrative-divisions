@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GH1212_duusi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Duusi",
+      "en": "Duusi",
+      "slug": "duusi"
+    },
+    "code": {
+      "id": "GH1212_duusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1212",
+      "level": 2,
+      "name": {
+        "local": "Nabdam",
+        "en": "Nabdam",
+        "slug": "nabdam-gh1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1212",
+        "level": 2,
+        "name": {
+          "local": "Nabdam",
+          "en": "Nabdam",
+          "slug": "nabdam-gh1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.779",
+      "lon": "-0.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1212_kongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kongo",
+      "en": "Kongo",
+      "slug": "kongo"
+    },
+    "code": {
+      "id": "GH1212_kongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1212",
+      "level": 2,
+      "name": {
+        "local": "Nabdam",
+        "en": "Nabdam",
+        "slug": "nabdam-gh1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1212",
+        "level": 2,
+        "name": {
+          "local": "Nabdam",
+          "en": "Nabdam",
+          "slug": "nabdam-gh1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.842",
+      "lon": "-0.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1212_nangodi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nangodi",
+      "en": "Nangodi",
+      "slug": "nangodi"
+    },
+    "code": {
+      "id": "GH1212_nangodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1212",
+      "level": 2,
+      "name": {
+        "local": "Nabdam",
+        "en": "Nabdam",
+        "slug": "nabdam-gh1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1212",
+        "level": 2,
+        "name": {
+          "local": "Nabdam",
+          "en": "Nabdam",
+          "slug": "nabdam-gh1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.863",
+      "lon": "-0.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1212_pelungu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pelungu",
+      "en": "Pelungu",
+      "slug": "pelungu"
+    },
+    "code": {
+      "id": "GH1212_pelungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1212",
+      "level": 2,
+      "name": {
+        "local": "Nabdam",
+        "en": "Nabdam",
+        "slug": "nabdam-gh1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1212",
+        "level": 2,
+        "name": {
+          "local": "Nabdam",
+          "en": "Nabdam",
+          "slug": "nabdam-gh1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.8",
+      "lon": "-0.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1212_sakote",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sakote",
+      "en": "Sakote",
+      "slug": "sakote"
+    },
+    "code": {
+      "id": "GH1212_sakote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1212",
+      "level": 2,
+      "name": {
+        "local": "Nabdam",
+        "en": "Nabdam",
+        "slug": "nabdam-gh1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH12",
+        "level": 1,
+        "name": {
+          "local": "Upper East",
+          "en": "Upper East",
+          "slug": "upper-east-gh12"
+        }
+      },
+      {
+        "id": "GH1212",
+        "level": 2,
+        "name": {
+          "local": "Nabdam",
+          "en": "Nabdam",
+          "slug": "nabdam-gh1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.791",
+      "lon": "-0.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

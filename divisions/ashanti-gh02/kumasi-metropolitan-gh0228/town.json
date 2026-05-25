@@ -1,0 +1,5672 @@
+[
+  {
+    "id": "GH0228_abed-pankrono",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abed-Pankrono",
+      "en": "Abed-Pankrono",
+      "slug": "abed-pankrono"
+    },
+    "code": {
+      "id": "GH0228_abed-pankrono",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.753",
+      "lon": "-1.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_aboabo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aboabo",
+      "en": "Aboabo",
+      "slug": "aboabo"
+    },
+    "code": {
+      "id": "GH0228_aboabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.7",
+      "lon": "-1.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_abrepo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abrepo",
+      "en": "Abrepo",
+      "slug": "abrepo"
+    },
+    "code": {
+      "id": "GH0228_abrepo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.727",
+      "lon": "-1.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_abrepo-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Abrepo Junction",
+      "en": "Abrepo Junction",
+      "slug": "abrepo-junction"
+    },
+    "code": {
+      "id": "GH0228_abrepo-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.71",
+      "lon": "-1.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_adoato",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adoato",
+      "en": "Adoato",
+      "slug": "adoato"
+    },
+    "code": {
+      "id": "GH0228_adoato",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.71",
+      "lon": "-1.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_adukrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adukrom",
+      "en": "Adukrom",
+      "slug": "adukrom"
+    },
+    "code": {
+      "id": "GH0228_adukrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.704",
+      "lon": "-1.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_adum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Adum",
+      "en": "Adum",
+      "slug": "adum"
+    },
+    "code": {
+      "id": "GH0228_adum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.81",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_afful-nkwanta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Afful Nkwanta",
+      "en": "Afful Nkwanta",
+      "slug": "afful-nkwanta"
+    },
+    "code": {
+      "id": "GH0228_afful-nkwanta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.691",
+      "lon": "-1.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ahenbronum-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahenbronum-Tafo",
+      "en": "Ahenbronum-Tafo",
+      "slug": "ahenbronum-tafo"
+    },
+    "code": {
+      "id": "GH0228_ahenbronum-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.778",
+      "lon": "-1.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ahinsan",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahinsan",
+      "en": "Ahinsan",
+      "slug": "ahinsan"
+    },
+    "code": {
+      "id": "GH0228_ahinsan",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.671",
+      "lon": "-1.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ahodwo-kumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ahodwo Kumasi",
+      "en": "Ahodwo Kumasi",
+      "slug": "ahodwo-kumasi"
+    },
+    "code": {
+      "id": "GH0228_ahodwo-kumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.653",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_akrome",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akrome",
+      "en": "Akrome",
+      "slug": "akrome"
+    },
+    "code": {
+      "id": "GH0228_akrome",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.698",
+      "lon": "-1.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_akwatialine",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akwatialine",
+      "en": "Akwatialine",
+      "slug": "akwatialine"
+    },
+    "code": {
+      "id": "GH0228_akwatialine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.695",
+      "lon": "-1.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_akwatialine-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Akwatialine Zongo",
+      "en": "Akwatialine Zongo",
+      "slug": "akwatialine-zongo"
+    },
+    "code": {
+      "id": "GH0228_akwatialine-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.695",
+      "lon": "-1.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_amakom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amakom",
+      "en": "Amakom",
+      "slug": "amakom"
+    },
+    "code": {
+      "id": "GH0228_amakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.69",
+      "lon": "-1.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_amanfrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amanfrom",
+      "en": "Amanfrom",
+      "slug": "amanfrom"
+    },
+    "code": {
+      "id": "GH0228_amanfrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.755",
+      "lon": "-1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_amena",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Amena",
+      "en": "Amena",
+      "slug": "amena"
+    },
+    "code": {
+      "id": "GH0228_amena",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.665",
+      "lon": "-1.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ampabame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ampabame",
+      "en": "Ampabame",
+      "slug": "ampabame"
+    },
+    "code": {
+      "id": "GH0228_ampabame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.764",
+      "lon": "-1.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_anloga",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anloga",
+      "en": "Anloga",
+      "slug": "anloga"
+    },
+    "code": {
+      "id": "GH0228_anloga",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.678",
+      "lon": "-1.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_anwiam",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anwiam",
+      "en": "Anwiam",
+      "slug": "anwiam"
+    },
+    "code": {
+      "id": "GH0228_anwiam",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.694",
+      "lon": "-1.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_anwomase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anwomase",
+      "en": "Anwomase",
+      "slug": "anwomase"
+    },
+    "code": {
+      "id": "GH0228_anwomase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-1.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_anwomase-bebre",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anwomase-Bebre",
+      "en": "Anwomase-Bebre",
+      "slug": "anwomase-bebre"
+    },
+    "code": {
+      "id": "GH0228_anwomase-bebre",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.697",
+      "lon": "-1.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_anwomaso-high-tension",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anwomaso-High Tension",
+      "en": "Anwomaso-High Tension",
+      "slug": "anwomaso-high-tension"
+    },
+    "code": {
+      "id": "GH0228_anwomaso-high-tension",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.798",
+      "lon": "-1.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_apatrapa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Apatrapa",
+      "en": "Apatrapa",
+      "slug": "apatrapa"
+    },
+    "code": {
+      "id": "GH0228_apatrapa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.707",
+      "lon": "-1.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_asawase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asawase",
+      "en": "Asawase",
+      "slug": "asawase"
+    },
+    "code": {
+      "id": "GH0228_asawase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.706",
+      "lon": "-1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ash-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ash Town",
+      "en": "Ash Town",
+      "slug": "ash-town"
+    },
+    "code": {
+      "id": "GH0228_ash-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "-1.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ashanti-new-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashanti New Town",
+      "en": "Ashanti New Town",
+      "slug": "ashanti-new-town"
+    },
+    "code": {
+      "id": "GH0228_ashanti-new-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.709",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ashanti-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ashanti Town",
+      "en": "Ashanti Town",
+      "slug": "ashanti-town"
+    },
+    "code": {
+      "id": "GH0228_ashanti-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.7",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_asokore-mampong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asokore Mampong",
+      "en": "Asokore Mampong",
+      "slug": "asokore-mampong"
+    },
+    "code": {
+      "id": "GH0228_asokore-mampong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.788",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_asokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asokwa",
+      "en": "Asokwa",
+      "slug": "asokwa"
+    },
+    "code": {
+      "id": "GH0228_asokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.669",
+      "lon": "-1.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_asuogya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuogya",
+      "en": "Asuogya",
+      "slug": "asuogya"
+    },
+    "code": {
+      "id": "GH0228_asuogya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.713",
+      "lon": "-1.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_asuoyeboa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Asuoyeboa",
+      "en": "Asuoyeboa",
+      "slug": "asuoyeboa"
+    },
+    "code": {
+      "id": "GH0228_asuoyeboa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-1.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ataafoa-pankrono",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ataafoa-Pankrono",
+      "en": "Ataafoa-Pankrono",
+      "slug": "ataafoa-pankrono"
+    },
+    "code": {
+      "id": "GH0228_ataafoa-pankrono",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.75",
+      "lon": "-1.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_atafoa---pankrono",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atafoa - Pankrono",
+      "en": "Atafoa - Pankrono",
+      "slug": "atafoa---pankrono"
+    },
+    "code": {
+      "id": "GH0228_atafoa---pankrono",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.751",
+      "lon": "-1.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_atasemanso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atasemanso",
+      "en": "Atasemanso",
+      "slug": "atasemanso"
+    },
+    "code": {
+      "id": "GH0228_atasemanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.652",
+      "lon": "-1.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_atonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atonsu",
+      "en": "Atonsu",
+      "slug": "atonsu"
+    },
+    "code": {
+      "id": "GH0228_atonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.755",
+      "lon": "-1.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_atonsu-agogo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atonsu-Agogo",
+      "en": "Atonsu-Agogo",
+      "slug": "atonsu-agogo"
+    },
+    "code": {
+      "id": "GH0228_atonsu-agogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.653",
+      "lon": "-1.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_atonsu-bokro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Atonsu-Bokro",
+      "en": "Atonsu-Bokro",
+      "slug": "atonsu-bokro"
+    },
+    "code": {
+      "id": "GH0228_atonsu-bokro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.644",
+      "lon": "-1.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ayigya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ayigya",
+      "en": "Ayigya",
+      "slug": "ayigya"
+    },
+    "code": {
+      "id": "GH0228_ayigya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.687",
+      "lon": "-1.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bantama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bantama",
+      "en": "Bantama",
+      "slug": "bantama"
+    },
+    "code": {
+      "id": "GH0228_bantama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "-1.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_barracks-bantama",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Barracks-Bantama",
+      "en": "Barracks-Bantama",
+      "slug": "barracks-bantama"
+    },
+    "code": {
+      "id": "GH0228_barracks-bantama",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.808",
+      "lon": "-1.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_boadi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Boadi",
+      "en": "Boadi",
+      "slug": "boadi"
+    },
+    "code": {
+      "id": "GH0228_boadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.833",
+      "lon": "-1.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bokro-atonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bokro-Atonsu",
+      "en": "Bokro-Atonsu",
+      "slug": "bokro-atonsu"
+    },
+    "code": {
+      "id": "GH0228_bokro-atonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.648",
+      "lon": "-1.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bompata",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bompata",
+      "en": "Bompata",
+      "slug": "bompata"
+    },
+    "code": {
+      "id": "GH0228_bompata",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bomso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bomso",
+      "en": "Bomso",
+      "slug": "bomso"
+    },
+    "code": {
+      "id": "GH0228_bomso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.685",
+      "lon": "-1.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bremang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bremang",
+      "en": "Bremang",
+      "slug": "bremang"
+    },
+    "code": {
+      "id": "GH0228_bremang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.742",
+      "lon": "-1.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bremang---azar-junction",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bremang - Azar Junction",
+      "en": "Bremang - Azar Junction",
+      "slug": "bremang---azar-junction"
+    },
+    "code": {
+      "id": "GH0228_bremang---azar-junction",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.73",
+      "lon": "-1.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_bremang-north",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bremang North",
+      "en": "Bremang North",
+      "slug": "bremang-north"
+    },
+    "code": {
+      "id": "GH0228_bremang-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "-1.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_buokrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buokrom",
+      "en": "Buokrom",
+      "slug": "buokrom"
+    },
+    "code": {
+      "id": "GH0228_buokrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.8",
+      "lon": "-1.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_buokrom-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Buokrom Estate",
+      "en": "Buokrom Estate",
+      "slug": "buokrom-estate"
+    },
+    "code": {
+      "id": "GH0228_buokrom-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "-1.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_cocobod-adum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Cocobod-Adum",
+      "en": "Cocobod-Adum",
+      "slug": "cocobod-adum"
+    },
+    "code": {
+      "id": "GH0228_cocobod-adum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.684",
+      "lon": "-1.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_dichemso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dichemso",
+      "en": "Dichemso",
+      "slug": "dichemso"
+    },
+    "code": {
+      "id": "GH0228_dichemso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.815",
+      "lon": "-1.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_dompoase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dompoase",
+      "en": "Dompoase",
+      "slug": "dompoase"
+    },
+    "code": {
+      "id": "GH0228_dompoase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.637",
+      "lon": "-1.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_dr-mensah---ash-town",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dr. Mensah - Ash Town",
+      "en": "Dr. Mensah - Ash Town",
+      "slug": "dr-mensah---ash-town"
+    },
+    "code": {
+      "id": "GH0228_dr-mensah---ash-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.7",
+      "lon": "-1.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_gyinase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gyinase",
+      "en": "Gyinase",
+      "slug": "gyinase"
+    },
+    "code": {
+      "id": "GH0228_gyinase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.662",
+      "lon": "-1.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kaase",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kaase",
+      "en": "Kaase",
+      "slug": "kaase"
+    },
+    "code": {
+      "id": "GH0228_kaase",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.789",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kentinkrono",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kentinkrono",
+      "en": "Kentinkrono",
+      "slug": "kentinkrono"
+    },
+    "code": {
+      "id": "GH0228_kentinkrono",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.697",
+      "lon": "-1.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_krofrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Krofrom",
+      "en": "Krofrom",
+      "slug": "krofrom"
+    },
+    "code": {
+      "id": "GH0228_krofrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.712",
+      "lon": "-1.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kronum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kronum",
+      "en": "Kronum",
+      "slug": "kronum"
+    },
+    "code": {
+      "id": "GH0228_kronum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.751",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kropo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kropo",
+      "en": "Kropo",
+      "slug": "kropo"
+    },
+    "code": {
+      "id": "GH0228_kropo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.718",
+      "lon": "-1.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kumasi",
+      "en": "Kumasi",
+      "slug": "kumasi"
+    },
+    "code": {
+      "id": "GH0228_kumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.415",
+      "lon": "-1.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_kwadaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kwadaso",
+      "en": "Kwadaso",
+      "slug": "kwadaso"
+    },
+    "code": {
+      "id": "GH0228_kwadaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.693",
+      "lon": "-1.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_maakro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Maakro",
+      "en": "Maakro",
+      "slug": "maakro"
+    },
+    "code": {
+      "id": "GH0228_maakro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.84",
+      "lon": "-1.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_magazine",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Magazine",
+      "en": "Magazine",
+      "slug": "magazine"
+    },
+    "code": {
+      "id": "GH0228_magazine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.823",
+      "lon": "-1.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_makro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Makro",
+      "en": "Makro",
+      "slug": "makro"
+    },
+    "code": {
+      "id": "GH0228_makro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.791",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_manhyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manhyia",
+      "en": "Manhyia",
+      "slug": "manhyia"
+    },
+    "code": {
+      "id": "GH0228_manhyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.704",
+      "lon": "-1.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_manhyia-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Manhyia Zongo",
+      "en": "Manhyia Zongo",
+      "slug": "manhyia-zongo"
+    },
+    "code": {
+      "id": "GH0228_manhyia-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.7",
+      "lon": "-1.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_mbrom-dichemso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mbrom Dichemso",
+      "en": "Mbrom Dichemso",
+      "slug": "mbrom-dichemso"
+    },
+    "code": {
+      "id": "GH0228_mbrom-dichemso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "-1.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_mile-3-old-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mile 3 Old Tafo",
+      "en": "Mile 3 Old Tafo",
+      "slug": "mile-3-old-tafo"
+    },
+    "code": {
+      "id": "GH0228_mile-3-old-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.727",
+      "lon": "-1.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_mile-4---tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mile 4 - Tafo",
+      "en": "Mile 4 - Tafo",
+      "slug": "mile-4---tafo"
+    },
+    "code": {
+      "id": "GH0228_mile-4---tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.742",
+      "lon": "-1.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_mile-4--old-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Mile 4- Old Tafo",
+      "en": "Mile 4- Old Tafo",
+      "slug": "mile-4--old-tafo"
+    },
+    "code": {
+      "id": "GH0228_mile-4--old-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.736",
+      "lon": "-1.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_moshie-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Moshie Zongo",
+      "en": "Moshie Zongo",
+      "slug": "moshie-zongo"
+    },
+    "code": {
+      "id": "GH0228_moshie-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.725",
+      "lon": "-1.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_new-amakom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Amakom",
+      "en": "New Amakom",
+      "slug": "new-amakom"
+    },
+    "code": {
+      "id": "GH0228_new-amakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.682",
+      "lon": "-1.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_new-asokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Asokwa",
+      "en": "New Asokwa",
+      "slug": "new-asokwa"
+    },
+    "code": {
+      "id": "GH0228_new-asokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.678",
+      "lon": "-1.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_new-suame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Suame",
+      "en": "New Suame",
+      "slug": "new-suame"
+    },
+    "code": {
+      "id": "GH0228_new-suame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.716",
+      "lon": "-1.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_new-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "New Tafo",
+      "en": "New Tafo",
+      "slug": "new-tafo"
+    },
+    "code": {
+      "id": "GH0228_new-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.716",
+      "lon": "-1.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_nkontwima-bremang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkontwima-Bremang",
+      "en": "Nkontwima-Bremang",
+      "slug": "nkontwima-bremang"
+    },
+    "code": {
+      "id": "GH0228_nkontwima-bremang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.738",
+      "lon": "-1.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_north-zong-manhyia",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "North Zong-Manhyia",
+      "en": "North Zong-Manhyia",
+      "slug": "north-zong-manhyia"
+    },
+    "code": {
+      "id": "GH0228_north-zong-manhyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.775",
+      "lon": "-1.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_oduom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oduom",
+      "en": "Oduom",
+      "slug": "oduom"
+    },
+    "code": {
+      "id": "GH0228_oduom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.696",
+      "lon": "-1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_oforikrom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Oforikrom",
+      "en": "Oforikrom",
+      "slug": "oforikrom"
+    },
+    "code": {
+      "id": "GH0228_oforikrom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.69",
+      "lon": "-1.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_old-suame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old Suame",
+      "en": "Old Suame",
+      "slug": "old-suame"
+    },
+    "code": {
+      "id": "GH0228_old-suame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.716",
+      "lon": "-1.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_old-tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Old Tafo",
+      "en": "Old Tafo",
+      "slug": "old-tafo"
+    },
+    "code": {
+      "id": "GH0228_old-tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.731",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_osborn-junction---suame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Osborn Junction - Suame",
+      "en": "Osborn Junction - Suame",
+      "slug": "osborn-junction---suame"
+    },
+    "code": {
+      "id": "GH0228_osborn-junction---suame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "-1.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_pankrono",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pankrono",
+      "en": "Pankrono",
+      "slug": "pankrono"
+    },
+    "code": {
+      "id": "GH0228_pankrono",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "-1.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_pankrono-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Pankrono Estate",
+      "en": "Pankrono Estate",
+      "slug": "pankrono-estate"
+    },
+    "code": {
+      "id": "GH0228_pankrono-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.741",
+      "lon": "-1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_railways-adum",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Railways Adum",
+      "en": "Railways Adum",
+      "slug": "railways-adum"
+    },
+    "code": {
+      "id": "GH0228_railways-adum",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-1.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_s-line-atonsu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "S-line Atonsu",
+      "en": "S-line Atonsu",
+      "slug": "s-line-atonsu"
+    },
+    "code": {
+      "id": "GH0228_s-line-atonsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.651",
+      "lon": "-1.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_sawaba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sawaba",
+      "en": "Sawaba",
+      "slug": "sawaba"
+    },
+    "code": {
+      "id": "GH0228_sawaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.848",
+      "lon": "-1.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_sepe-dote",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sepe Dote",
+      "en": "Sepe Dote",
+      "slug": "sepe-dote"
+    },
+    "code": {
+      "id": "GH0228_sepe-dote",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.719",
+      "lon": "-1.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_sepe-timpon",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sepe Timpon",
+      "en": "Sepe Timpon",
+      "slug": "sepe-timpon"
+    },
+    "code": {
+      "id": "GH0228_sepe-timpon",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.816",
+      "lon": "-1.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_sepe-tinpom",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sepe-Tinpom",
+      "en": "Sepe-Tinpom",
+      "slug": "sepe-tinpom"
+    },
+    "code": {
+      "id": "GH0228_sepe-tinpom",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.708",
+      "lon": "-1.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_sokoban",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sokoban",
+      "en": "Sokoban",
+      "slug": "sokoban"
+    },
+    "code": {
+      "id": "GH0228_sokoban",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.848",
+      "lon": "-1.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_south-suntreso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "South Suntreso",
+      "en": "South Suntreso",
+      "slug": "south-suntreso"
+    },
+    "code": {
+      "id": "GH0228_south-suntreso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.69",
+      "lon": "-1.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_stadium",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Stadium",
+      "en": "Stadium",
+      "slug": "stadium"
+    },
+    "code": {
+      "id": "GH0228_stadium",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.68",
+      "lon": "-1.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_suntreso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Suntreso",
+      "en": "Suntreso",
+      "slug": "suntreso"
+    },
+    "code": {
+      "id": "GH0228_suntreso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.702",
+      "lon": "-1.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_susanso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Susanso",
+      "en": "Susanso",
+      "slug": "susanso"
+    },
+    "code": {
+      "id": "GH0228_susanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.687",
+      "lon": "-1.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_tafo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo",
+      "en": "Tafo",
+      "slug": "tafo"
+    },
+    "code": {
+      "id": "GH0228_tafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.726",
+      "lon": "-1.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_tafo-nhyiaeso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo Nhyiaeso",
+      "en": "Tafo Nhyiaeso",
+      "slug": "tafo-nhyiaeso"
+    },
+    "code": {
+      "id": "GH0228_tafo-nhyiaeso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.719",
+      "lon": "-1.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_tafo-nhyiaso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo Nhyiaso",
+      "en": "Tafo Nhyiaso",
+      "slug": "tafo-nhyiaso"
+    },
+    "code": {
+      "id": "GH0228_tafo-nhyiaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.718",
+      "lon": "-1.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_tafo-zongo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tafo Zongo",
+      "en": "Tafo Zongo",
+      "slug": "tafo-zongo"
+    },
+    "code": {
+      "id": "GH0228_tafo-zongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.733",
+      "lon": "-1.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_tanoso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tanoso",
+      "en": "Tanoso",
+      "slug": "tanoso"
+    },
+    "code": {
+      "id": "GH0228_tanoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.785",
+      "lon": "-1.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_ugc---bremang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "UGC - Bremang",
+      "en": "UGC - Bremang",
+      "slug": "ugc---bremang"
+    },
+    "code": {
+      "id": "GH0228_ugc---bremang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.75",
+      "lon": "-1.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_zone-3-suame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zone 3 Suame",
+      "en": "Zone 3 Suame",
+      "slug": "zone-3-suame"
+    },
+    "code": {
+      "id": "GH0228_zone-3-suame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.72",
+      "lon": "-1.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_zone-5---suame",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zone 5 - Suame",
+      "en": "Zone 5 - Suame",
+      "slug": "zone-5---suame"
+    },
+    "code": {
+      "id": "GH0228_zone-5---suame",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.723",
+      "lon": "-1.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0228_zongo-ayigya",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Zongo-Ayigya",
+      "en": "Zongo-Ayigya",
+      "slug": "zongo-ayigya"
+    },
+    "code": {
+      "id": "GH0228_zongo-ayigya",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0228",
+      "level": 2,
+      "name": {
+        "local": "Kumasi Metropolitan",
+        "en": "Kumasi Metropolitan",
+        "slug": "kumasi-metropolitan-gh0228"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH02",
+        "level": 1,
+        "name": {
+          "local": "Ashanti",
+          "en": "Ashanti",
+          "slug": "ashanti-gh02"
+        }
+      },
+      {
+        "id": "GH0228",
+        "level": 2,
+        "name": {
+          "local": "Kumasi Metropolitan",
+          "en": "Kumasi Metropolitan",
+          "slug": "kumasi-metropolitan-gh0228"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.692",
+      "lon": "-1.57"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

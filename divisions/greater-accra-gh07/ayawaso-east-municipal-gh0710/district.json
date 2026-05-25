@@ -1,0 +1,47 @@
+{
+  "id": "GH0710",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ayawaso East Municipal",
+    "en": "Ayawaso East Municipal",
+    "slug": "ayawaso-east-municipal-gh0710"
+  },
+  "code": {
+    "id": "GH0710",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH07",
+    "level": 1,
+    "name": {
+      "local": "Greater Accra",
+      "en": "Greater Accra",
+      "slug": "greater-accra-gh07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH07",
+      "level": 1,
+      "name": {
+        "local": "Greater Accra",
+        "en": "Greater Accra",
+        "slug": "greater-accra-gh07"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.589",
+    "lon": "-0.193"
+  },
+  "metadata": {},
+  "source": {}
+}

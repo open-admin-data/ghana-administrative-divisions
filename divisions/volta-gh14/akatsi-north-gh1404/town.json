@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GH1404_ave-dakpa",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ave Dakpa",
+      "en": "Ave Dakpa",
+      "slug": "ave-dakpa"
+    },
+    "code": {
+      "id": "GH1404_ave-dakpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1404",
+      "level": 2,
+      "name": {
+        "local": "Akatsi North",
+        "en": "Akatsi North",
+        "slug": "akatsi-north-gh1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1404",
+        "level": 2,
+        "name": {
+          "local": "Akatsi North",
+          "en": "Akatsi North",
+          "slug": "akatsi-north-gh1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.368",
+      "lon": "0.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1404_ave-afiadenyigba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ave-Afiadenyigba",
+      "en": "Ave-Afiadenyigba",
+      "slug": "ave-afiadenyigba"
+    },
+    "code": {
+      "id": "GH1404_ave-afiadenyigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1404",
+      "level": 2,
+      "name": {
+        "local": "Akatsi North",
+        "en": "Akatsi North",
+        "slug": "akatsi-north-gh1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1404",
+        "level": 2,
+        "name": {
+          "local": "Akatsi North",
+          "en": "Akatsi North",
+          "slug": "akatsi-north-gh1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.331",
+      "lon": "0.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1404_avevi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Avevi",
+      "en": "Avevi",
+      "slug": "avevi"
+    },
+    "code": {
+      "id": "GH1404_avevi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1404",
+      "level": 2,
+      "name": {
+        "local": "Akatsi North",
+        "en": "Akatsi North",
+        "slug": "akatsi-north-gh1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1404",
+        "level": 2,
+        "name": {
+          "local": "Akatsi North",
+          "en": "Akatsi North",
+          "slug": "akatsi-north-gh1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.267",
+      "lon": "0.819"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

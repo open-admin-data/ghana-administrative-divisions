@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GH0103_gambia-no1",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gambia  No.1",
+      "en": "Gambia  No.1",
+      "slug": "gambia-no1"
+    },
+    "code": {
+      "id": "GH0103_gambia-no1",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0103",
+      "level": 2,
+      "name": {
+        "local": "Asutifi North",
+        "en": "Asutifi North",
+        "slug": "asutifi-north-gh0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0103",
+        "level": 2,
+        "name": {
+          "local": "Asutifi North",
+          "en": "Asutifi North",
+          "slug": "asutifi-north-gh0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.038",
+      "lon": "-2.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0103_nkensere",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nkensere",
+      "en": "Nkensere",
+      "slug": "nkensere"
+    },
+    "code": {
+      "id": "GH0103_nkensere",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0103",
+      "level": 2,
+      "name": {
+        "local": "Asutifi North",
+        "en": "Asutifi North",
+        "slug": "asutifi-north-gh0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH01",
+        "level": 1,
+        "name": {
+          "local": "Ahafo",
+          "en": "Ahafo",
+          "slug": "ahafo-gh01"
+        }
+      },
+      {
+        "id": "GH0103",
+        "level": 2,
+        "name": {
+          "local": "Asutifi North",
+          "en": "Asutifi North",
+          "slug": "asutifi-north-gh0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.994",
+      "lon": "-2.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

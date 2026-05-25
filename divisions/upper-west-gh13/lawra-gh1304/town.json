@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH1304_babile",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Babile",
+      "en": "Babile",
+      "slug": "babile"
+    },
+    "code": {
+      "id": "GH1304_babile",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.524",
+      "lon": "-2.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_badi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Badi",
+      "en": "Badi",
+      "slug": "badi"
+    },
+    "code": {
+      "id": "GH1304_badi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.654",
+      "lon": "-2.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_biro",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Biro",
+      "en": "Biro",
+      "slug": "biro"
+    },
+    "code": {
+      "id": "GH1304_biro",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.287",
+      "lon": "-2.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_dikpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Dikpe",
+      "en": "Dikpe",
+      "slug": "dikpe"
+    },
+    "code": {
+      "id": "GH1304_dikpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.387",
+      "lon": "-2.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_domwine",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Domwine",
+      "en": "Domwine",
+      "slug": "domwine"
+    },
+    "code": {
+      "id": "GH1304_domwine",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.639",
+      "lon": "-2.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_gbieri",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gbieri",
+      "en": "Gbieri",
+      "slug": "gbieri"
+    },
+    "code": {
+      "id": "GH1304_gbieri",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.622",
+      "lon": "-2.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_gengenkpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gengenkpe",
+      "en": "Gengenkpe",
+      "slug": "gengenkpe"
+    },
+    "code": {
+      "id": "GH1304_gengenkpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.822",
+      "lon": "-2.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_ketuo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ketuo",
+      "en": "Ketuo",
+      "slug": "ketuo"
+    },
+    "code": {
+      "id": "GH1304_ketuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.905",
+      "lon": "-2.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_ko",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Ko",
+      "en": "Ko",
+      "slug": "ko"
+    },
+    "code": {
+      "id": "GH1304_ko",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.79",
+      "lon": "-2.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_konyugang",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Konyugang",
+      "en": "Konyugang",
+      "slug": "konyugang"
+    },
+    "code": {
+      "id": "GH1304_konyugang",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.839",
+      "lon": "-2.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_lawra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Lawra",
+      "en": "Lawra",
+      "slug": "lawra"
+    },
+    "code": {
+      "id": "GH1304_lawra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.643",
+      "lon": "-2.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_nandom-residential-ar",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nandom residential ar",
+      "en": "Nandom residential ar",
+      "slug": "nandom-residential-ar"
+    },
+    "code": {
+      "id": "GH1304_nandom-residential-ar",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.855",
+      "lon": "-2.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_nanyaari",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Nanyaari",
+      "en": "Nanyaari",
+      "slug": "nanyaari"
+    },
+    "code": {
+      "id": "GH1304_nanyaari",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.641",
+      "lon": "-2.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_segru",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Segru",
+      "en": "Segru",
+      "slug": "segru"
+    },
+    "code": {
+      "id": "GH1304_segru",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.804",
+      "lon": "-2.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1304_tuopare",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tuopare",
+      "en": "Tuopare",
+      "slug": "tuopare"
+    },
+    "code": {
+      "id": "GH1304_tuopare",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1304",
+      "level": 2,
+      "name": {
+        "local": "Lawra",
+        "en": "Lawra",
+        "slug": "lawra-gh1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH13",
+        "level": 1,
+        "name": {
+          "local": "Upper West",
+          "en": "Upper West",
+          "slug": "upper-west-gh13"
+        }
+      },
+      {
+        "id": "GH1304",
+        "level": 2,
+        "name": {
+          "local": "Lawra",
+          "en": "Lawra",
+          "slug": "lawra-gh1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.457",
+      "lon": "-2.423"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

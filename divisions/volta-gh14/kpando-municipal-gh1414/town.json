@@ -1,0 +1,812 @@
+[
+  {
+    "id": "GH1414_agbenorhoe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Agbenorhoe",
+      "en": "Agbenorhoe",
+      "slug": "agbenorhoe"
+    },
+    "code": {
+      "id": "GH1414_agbenorhoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.065",
+      "lon": "0.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_anfoega",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Anfoega",
+      "en": "Anfoega",
+      "slug": "anfoega"
+    },
+    "code": {
+      "id": "GH1414_anfoega",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.88",
+      "lon": "0.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_aveme-beme",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aveme Beme",
+      "en": "Aveme Beme",
+      "slug": "aveme-beme"
+    },
+    "code": {
+      "id": "GH1414_aveme-beme",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.919",
+      "lon": "0.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_aveme-danyigba",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Aveme Danyigba",
+      "en": "Aveme Danyigba",
+      "slug": "aveme-danyigba"
+    },
+    "code": {
+      "id": "GH1414_aveme-danyigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "0.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_awate",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Awate",
+      "en": "Awate",
+      "slug": "awate"
+    },
+    "code": {
+      "id": "GH1414_awate",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.869",
+      "lon": "0.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_botoku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Botoku",
+      "en": "Botoku",
+      "slug": "botoku"
+    },
+    "code": {
+      "id": "GH1414_botoku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "0.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_gadza",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Gadza",
+      "en": "Gadza",
+      "slug": "gadza"
+    },
+    "code": {
+      "id": "GH1414_gadza",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.016",
+      "lon": "0.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_kpando",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpando",
+      "en": "Kpando",
+      "slug": "kpando"
+    },
+    "code": {
+      "id": "GH1414_kpando",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.993",
+      "lon": "0.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_kpando-torkor",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpando Torkor",
+      "en": "Kpando Torkor",
+      "slug": "kpando-torkor"
+    },
+    "code": {
+      "id": "GH1414_kpando-torkor",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.999",
+      "lon": "0.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_kpando-ziavi",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kpando Ziavi",
+      "en": "Kpando Ziavi",
+      "slug": "kpando-ziavi"
+    },
+    "code": {
+      "id": "GH1414_kpando-ziavi",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.981",
+      "lon": "0.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_kudzra",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kudzra",
+      "en": "Kudzra",
+      "slug": "kudzra"
+    },
+    "code": {
+      "id": "GH1414_kudzra",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.962",
+      "lon": "0.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_sabadu",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Sabadu",
+      "en": "Sabadu",
+      "slug": "sabadu"
+    },
+    "code": {
+      "id": "GH1414_sabadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.906",
+      "lon": "0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_tsrukpe",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Tsrukpe",
+      "en": "Tsrukpe",
+      "slug": "tsrukpe"
+    },
+    "code": {
+      "id": "GH1414_tsrukpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.796",
+      "lon": "0.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_vakpo",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Vakpo",
+      "en": "Vakpo",
+      "slug": "vakpo"
+    },
+    "code": {
+      "id": "GH1414_vakpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.857",
+      "lon": "0.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH1414_wusuta",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Wusuta",
+      "en": "Wusuta",
+      "slug": "wusuta"
+    },
+    "code": {
+      "id": "GH1414_wusuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH1414",
+      "level": 2,
+      "name": {
+        "local": "Kpando Municipal",
+        "en": "Kpando Municipal",
+        "slug": "kpando-municipal-gh1414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH14",
+        "level": 1,
+        "name": {
+          "local": "Volta",
+          "en": "Volta",
+          "slug": "volta-gh14"
+        }
+      },
+      {
+        "id": "GH1414",
+        "level": 2,
+        "name": {
+          "local": "Kpando Municipal",
+          "en": "Kpando Municipal",
+          "slug": "kpando-municipal-gh1414"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.836",
+      "lon": "0.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

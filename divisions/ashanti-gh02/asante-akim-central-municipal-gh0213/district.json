@@ -1,0 +1,47 @@
+{
+  "id": "GH0213",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asante Akim Central Municipal",
+    "en": "Asante Akim Central Municipal",
+    "slug": "asante-akim-central-municipal-gh0213"
+  },
+  "code": {
+    "id": "GH0213",
+    "iso": null
+  },
+  "parent": {
+    "id": "GH02",
+    "level": 1,
+    "name": {
+      "local": "Ashanti",
+      "en": "Ashanti",
+      "slug": "ashanti-gh02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GH02",
+      "level": 1,
+      "name": {
+        "local": "Ashanti",
+        "en": "Ashanti",
+        "slug": "ashanti-gh02"
+      }
+    }
+  ],
+  "children_count": {
+    "town": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.565",
+    "lon": "-1.254"
+  },
+  "metadata": {},
+  "source": {}
+}

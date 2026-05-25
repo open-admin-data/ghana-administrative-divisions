@@ -1,0 +1,434 @@
+[
+  {
+    "id": "GH0507_assin-akropong",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Assin Akropong",
+      "en": "Assin Akropong",
+      "slug": "assin-akropong"
+    },
+    "code": {
+      "id": "GH0507_assin-akropong",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.774",
+      "lon": "-1.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_assin-bereku",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Assin Bereku",
+      "en": "Assin Bereku",
+      "slug": "assin-bereku"
+    },
+    "code": {
+      "id": "GH0507_assin-bereku",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.866",
+      "lon": "-1.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_assin-praso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Assin Praso",
+      "en": "Assin Praso",
+      "slug": "assin-praso"
+    },
+    "code": {
+      "id": "GH0507_assin-praso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.7",
+      "lon": "-1.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_bediadua",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Bediadua",
+      "en": "Bediadua",
+      "slug": "bediadua"
+    },
+    "code": {
+      "id": "GH0507_bediadua",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.776",
+      "lon": "-1.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_foso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Foso",
+      "en": "Foso",
+      "slug": "foso"
+    },
+    "code": {
+      "id": "GH0507_foso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.694",
+      "lon": "-1.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_foso-station",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Foso Station",
+      "en": "Foso Station",
+      "slug": "foso-station"
+    },
+    "code": {
+      "id": "GH0507_foso-station",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.697",
+      "lon": "-1.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_kushea",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Kushea",
+      "en": "Kushea",
+      "slug": "kushea"
+    },
+    "code": {
+      "id": "GH0507_kushea",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.875",
+      "lon": "-1.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GH0507_praso",
+    "level": 3,
+    "level_name": {
+      "local": "Town",
+      "en": "Town"
+    },
+    "name": {
+      "local": "Praso",
+      "en": "Praso",
+      "slug": "praso"
+    },
+    "code": {
+      "id": "GH0507_praso",
+      "iso": null
+    },
+    "parent": {
+      "id": "GH0507",
+      "level": 2,
+      "name": {
+        "local": "Assin North",
+        "en": "Assin North",
+        "slug": "assin-north-gh0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GH05",
+        "level": 1,
+        "name": {
+          "local": "Central",
+          "en": "Central",
+          "slug": "central-gh05"
+        }
+      },
+      {
+        "id": "GH0507",
+        "level": 2,
+        "name": {
+          "local": "Assin North",
+          "en": "Assin North",
+          "slug": "assin-north-gh0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.927",
+      "lon": "-1.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

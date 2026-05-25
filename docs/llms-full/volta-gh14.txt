@@ -1,0 +1,791 @@
+# Volta — Ghana Administrative Divisions
+
+> 18 districts, 173 towns
+> Code: GH14
+> Coordinates: 6.537, 0.458
+> Last updated: 2026-05-25. License: CC-BY-4.0.
+
+## Districts
+
+### Adaklu
+
+Code: GH1401, Coordinates: 6.442, 0.533
+Towns: 1
+
+#### Adaklu Hlekpe
+
+Code: GH1401_adaklu-hlekpe, Coordinates: 6.49, 0.488
+
+### Afadzato South
+
+Code: GH1402, Coordinates: 6.875, 0.365
+Towns: 0
+
+### Agotime Ziope
+
+Code: GH1403, Coordinates: 6.476, 0.692
+Towns: 7
+
+#### Adaklu Sopa
+
+Code: GH1403_adaklu-sopa, Coordinates: 6.383, 0.638
+
+#### Adaklu Waya
+
+Code: GH1403_adaklu-waya, Coordinates: 6.448, 0.624
+
+#### Dzalele
+
+Code: GH1403_dzalele, Coordinates: 6.414, 0.758
+
+#### Keyime
+
+Code: GH1403_keyime, Coordinates: 6.346, 0.714
+
+#### Kpetoe
+
+Code: GH1403_kpetoe, Coordinates: 6.548, 0.694
+
+#### Wudzedeke
+
+Code: GH1403_wudzedeke, Coordinates: 6.353, 0.691
+
+#### Ziope
+
+Code: GH1403_ziope, Coordinates: 6.422, 0.738
+
+### Akatsi North
+
+Code: GH1404, Coordinates: 6.311, 0.877
+Towns: 3
+
+#### Ave Dakpa
+
+Code: GH1404_ave-dakpa, Coordinates: 6.368, 0.851
+
+#### Ave-Afiadenyigba
+
+Code: GH1404_ave-afiadenyigba, Coordinates: 6.331, 0.879
+
+#### Avevi
+
+Code: GH1404_avevi, Coordinates: 6.267, 0.819
+
+### Akatsi South
+
+Code: GH1405, Coordinates: 6.153, 0.799
+Towns: 9
+
+#### Agormor
+
+Code: GH1405_agormor, Coordinates: 6.249, 0.79
+
+#### Akatsi
+
+Code: GH1405_akatsi, Coordinates: 6.139, 0.809
+
+#### Asafotsi
+
+Code: GH1405_asafotsi, Coordinates: 6.198, 0.87
+
+#### Atidzive
+
+Code: GH1405_atidzive, Coordinates: 6.12, 0.851
+
+#### Avenorpedo
+
+Code: GH1405_avenorpedo, Coordinates: 6.058, 0.85
+
+#### Dzogadze
+
+Code: GH1405_dzogadze, Coordinates: 6.112, 0.872
+
+#### Gefia
+
+Code: GH1405_gefia, Coordinates: 6.158, 0.854
+
+#### Ohawu
+
+Code: GH1405_ohawu, Coordinates: 6.133, 0.896
+
+#### Wute
+
+Code: GH1405_wute, Coordinates: 6.217, 0.725
+
+### Anloga
+
+Code: GH1406, Coordinates: 5.825, 0.795
+Towns: 0
+
+### Central Tongu
+
+Code: GH1407, Coordinates: 6.165, 0.611
+Towns: 1
+
+#### Adaklu Ahunda
+
+Code: GH1407_adaklu-ahunda, Coordinates: 6.288, 0.545
+
+### Ho Municipal
+
+Code: GH1408, Coordinates: 6.675, 0.535
+Towns: 30
+
+#### Abutia Agove
+
+Code: GH1408_abutia-agove, Coordinates: 6.506, 0.365
+
+#### Abutia Kloe
+
+Code: GH1408_abutia-kloe, Coordinates: 6.484, 0.347
+
+#### Abutia Kpota
+
+Code: GH1408_abutia-kpota, Coordinates: 6.425, 0.288
+
+#### Akoefe
+
+Code: GH1408_akoefe, Coordinates: 6.656, 0.513
+
+#### Akrofu
+
+Code: GH1408_akrofu, Coordinates: 6.633, 0.379
+
+#### Amedzope
+
+Code: GH1408_amedzope, Coordinates: 6.852, 0.436
+
+#### Atikpui
+
+Code: GH1408_atikpui, Coordinates: 6.746, 0.624
+
+#### Dodome Awiasu
+
+Code: GH1408_dodome-awiasu, Coordinates: 6.768, 0.516
+
+#### Dodome Teleafenu
+
+Code: GH1408_dodome-teleafenu, Coordinates: 6.803, 0.504
+
+#### Dzolo Gbogame
+
+Code: GH1408_dzolo-gbogame, Coordinates: 6.775, 0.477
+
+#### Dzolo Kpuita
+
+Code: GH1408_dzolo-kpuita, Coordinates: 6.735, 0.445
+
+#### Fume
+
+Code: GH1408_fume, Coordinates: 6.879, 0.42
+
+#### Gbadzeme
+
+Code: GH1408_gbadzeme, Coordinates: 6.861, 0.441
+
+#### Hlefi
+
+Code: GH1408_hlefi, Coordinates: 6.721, 0.376
+
+#### Ho
+
+Code: GH1408_ho, Coordinates: 6.599, 0.479
+
+#### Hodzoga
+
+Code: GH1408_hodzoga, Coordinates: 6.672, 0.578
+
+#### Klefe
+
+Code: GH1408_klefe, Coordinates: 6.618, 0.444
+
+#### Kpedze
+
+Code: GH1408_kpedze, Coordinates: 6.846, 0.504
+
+#### Lume
+
+Code: GH1408_lume, Coordinates: 6.76, 0.515
+
+#### Matse
+
+Code: GH1408_matse, Coordinates: 6.689, 0.482
+
+#### Nyive
+
+Code: GH1408_nyive, Coordinates: 6.762, 0.579
+
+#### Saviefe Agorkpo
+
+Code: GH1408_saviefe-agorkpo, Coordinates: 6.784, 0.412
+
+#### Shia
+
+Code: GH1408_shia, Coordinates: 6.795, 0.562
+
+#### Tanyigbe
+
+Code: GH1408_tanyigbe, Coordinates: 6.696, 0.522
+
+#### Taviafe
+
+Code: GH1408_taviafe, Coordinates: 6.664, 0.473
+
+#### Tokokoe
+
+Code: GH1408_tokokoe, Coordinates: 6.719, 0.556
+
+#### Tsibu
+
+Code: GH1408_tsibu, Coordinates: 6.578, 0.279
+
+#### Tsito
+
+Code: GH1408_tsito, Coordinates: 6.551, 0.301
+
+#### Vane
+
+Code: GH1408_vane, Coordinates: 6.824, 0.422
+
+#### Ziavi
+
+Code: GH1408_ziavi, Coordinates: 6.65, 0.443
+
+### Ho West
+
+Code: GH1409, Coordinates: 6.602, 0.334
+Towns: 0
+
+### Hohoe Municipal
+
+Code: GH1410, Coordinates: 7.153, 0.487
+Towns: 31
+
+#### Akpafu Adorkor
+
+Code: GH1410_akpafu-adorkor, Coordinates: 7.281, 0.528
+
+#### Akpafu Mempeasem
+
+Code: GH1410_akpafu-mempeasem, Coordinates: 7.25, 0.482
+
+#### Akpafu Odomi
+
+Code: GH1410_akpafu-odomi, Coordinates: 7.276, 0.477
+
+#### Alavanyo
+
+Code: GH1410_alavanyo, Coordinates: 7.12, 0.358
+
+#### Fodome Ahor
+
+Code: GH1410_fodome-ahor, Coordinates: 7.084, 0.559
+
+#### Fodome Helu
+
+Code: GH1410_fodome-helu, Coordinates: 7.074, 0.507
+
+#### Fodome Woe
+
+Code: GH1410_fodome-woe, Coordinates: 7.07, 0.517
+
+#### Gbi Wegbe
+
+Code: GH1410_gbi-wegbe, Coordinates: 7.111, 0.459
+
+#### Gbledi
+
+Code: GH1410_gbledi, Coordinates: 7.032, 0.559
+
+#### Goviefe Agodome
+
+Code: GH1410_goviefe-agodome, Coordinates: 6.715, 0.337
+
+#### Hohoe
+
+Code: GH1410_hohoe, Coordinates: 7.158, 0.472
+
+#### Leklebi  Duga
+
+Code: GH1410_leklebi-duga, Coordinates: 6.96, 0.499
+
+#### Leklebi Kame
+
+Code: GH1410_leklebi-kame, Coordinates: 6.968, 0.516
+
+#### Liati Wote
+
+Code: GH1410_liati-wote, Coordinates: 7.021, 0.549
+
+#### Likpe Abrani
+
+Code: GH1410_likpe-abrani, Coordinates: 7.248, 0.56
+
+#### Likpe Bakwa
+
+Code: GH1410_likpe-bakwa, Coordinates: 7.163, 0.582
+
+#### Likpe Bala
+
+Code: GH1410_likpe-bala, Coordinates: 7.203, 0.608
+
+#### Likpe Kukurntumi
+
+Code: GH1410_likpe-kukurntumi, Coordinates: 7.262, 0.568
+
+#### Logba Alakpeti
+
+Code: GH1410_logba-alakpeti, Coordinates: 6.89, 0.429
+
+#### Logba Tota
+
+Code: GH1410_logba-tota, Coordinates: 6.89, 0.453
+
+#### Logba Vuinta
+
+Code: GH1410_logba-vuinta, Coordinates: 6.923, 0.461
+
+#### Lolobi Kumase
+
+Code: GH1410_lolobi-kumase, Coordinates: 7.219, 0.529
+
+#### Nyagbo Gagbefe
+
+Code: GH1410_nyagbo-gagbefe, Coordinates: 6.819, 0.375
+
+#### Nyangbo Sroe
+
+Code: GH1410_nyangbo-sroe, Coordinates: 6.774, 0.377
+
+#### Santrokofi
+
+Code: GH1410_santrokofi, Coordinates: 7.215, 0.472
+
+#### Soba Liati
+
+Code: GH1410_soba-liati, Coordinates: 7.01, 0.513
+
+#### Tafi Agoeme
+
+Code: GH1410_tafi-agoeme, Coordinates: 6.849, 0.392
+
+#### Ve Golokwati
+
+Code: GH1410_ve-golokwati, Coordinates: 7.001, 0.438
+
+#### Ve Hoeme
+
+Code: GH1410_ve-hoeme, Coordinates: 6.958, 0.459
+
+#### Ve Koloenu
+
+Code: GH1410_ve-koloenu, Coordinates: 7.045, 0.434
+
+#### Wli Afegame
+
+Code: GH1410_wli-afegame, Coordinates: 7.116, 0.586
+
+### Keta Municipal
+
+Code: GH1411, Coordinates: 5.937, 0.883
+Towns: 19
+
+#### Abor
+
+Code: GH1411_abor, Coordinates: 6.055, 0.868
+
+#### Afife
+
+Code: GH1411_afife, Coordinates: 6.054, 0.919
+
+#### Agbledome
+
+Code: GH1411_agbledome, Coordinates: 5.777, 0.741
+
+#### Alakple
+
+Code: GH1411_alakple, Coordinates: 5.852, 0.888
+
+#### Angloga
+
+Code: GH1411_angloga, Coordinates: 5.796, 0.904
+
+#### Anlo-Afiadenyigba
+
+Code: GH1411_anlo-afiadenyigba, Coordinates: 6.045, 0.978
+
+#### Anloga
+
+Code: GH1411_anloga, Coordinates: 5.792, 0.882
+
+#### Anyako
+
+Code: GH1411_anyako, Coordinates: 6.01, 0.902
+
+#### Anyanui
+
+Code: GH1411_anyanui, Coordinates: 5.78, 0.731
+
+#### Asadame
+
+Code: GH1411_asadame, Coordinates: 5.994, 0.857
+
+#### Atiavi
+
+Code: GH1411_atiavi, Coordinates: 5.948, 0.851
+
+#### Avenorpeme
+
+Code: GH1411_avenorpeme, Coordinates: 6.001, 0.825
+
+#### Avuime
+
+Code: GH1411_avuime, Coordinates: 5.807, 0.93
+
+#### Galo-Sota
+
+Code: GH1411_galo-sota, Coordinates: 5.854, 0.71
+
+#### Hatorgodo
+
+Code: GH1411_hatorgodo, Coordinates: 5.95, 0.808
+
+#### Keta
+
+Code: GH1411_keta, Coordinates: 5.888, 0.982
+
+#### Tegbi
+
+Code: GH1411_tegbi, Coordinates: 5.871, 0.981
+
+#### Tregui
+
+Code: GH1411_tregui, Coordinates: 5.888, 0.823
+
+#### Vui
+
+Code: GH1411_vui, Coordinates: 5.886, 0.982
+
+### Ketu North
+
+Code: GH1412, Coordinates: 6.192, 0.978
+Towns: 5
+
+#### Devego
+
+Code: GH1412_devego, Coordinates: 6.177, 0.914
+
+#### Dzodze
+
+Code: GH1412_dzodze, Coordinates: 6.241, 0.989
+
+#### Ehie
+
+Code: GH1412_ehie, Coordinates: 6.145, 1.003
+
+#### Penyi
+
+Code: GH1412_penyi, Coordinates: 6.223, 1.036
+
+#### Tadzewu
+
+Code: GH1412_tadzewu, Coordinates: 6.189, 0.895
+
+### Ketu South
+
+Code: GH1413, Coordinates: 6.08, 1.072
+Towns: 16
+
+#### Adina
+
+Code: GH1413_adina, Coordinates: 6.042, 1.074
+
+#### Aflao
+
+Code: GH1413_aflao, Coordinates: 6.118, 1.18
+
+#### Agavedzi
+
+Code: GH1413_agavedzi, Coordinates: 6.005, 1.043
+
+#### Agbozume
+
+Code: GH1413_agbozume, Coordinates: 6.079, 1.033
+
+#### Akporkploe
+
+Code: GH1413_akporkploe, Coordinates: 6.155, 1.166
+
+#### Avoeme  Aflao
+
+Code: GH1413_avoeme-aflao, Coordinates: 6.115, 1.169
+
+#### Blekusu
+
+Code: GH1413_blekusu, Coordinates: 5.987, 1.029
+
+#### Denu
+
+Code: GH1413_denu, Coordinates: 6.101, 1.148
+
+#### Hedzranawo
+
+Code: GH1413_hedzranawo, Coordinates: 6.097, 1.143
+
+#### Klikoor
+
+Code: GH1413_klikoor, Coordinates: 6.075, 1.028
+
+#### Kopeyia
+
+Code: GH1413_kopeyia, Coordinates: 6.141, 1.113
+
+#### Kpoglu
+
+Code: GH1413_kpoglu, Coordinates: 6.174, 1.072
+
+#### Nogokpo
+
+Code: GH1413_nogokpo, Coordinates: 6.091, 1.07
+
+#### Srohume
+
+Code: GH1413_srohume, Coordinates: 6.047, 1.016
+
+#### Viefe  Aflao
+
+Code: GH1413_viefe-aflao, Coordinates: 6.109, 1.16
+
+#### Wheta
+
+Code: GH1413_wheta, Coordinates: 6.083, 0.975
+
+### Kpando Municipal
+
+Code: GH1414, Coordinates: 6.999, 0.317
+Towns: 15
+
+#### Agbenorhoe
+
+Code: GH1414_agbenorhoe, Coordinates: 7.065, 0.306
+
+#### Anfoega
+
+Code: GH1414_anfoega, Coordinates: 6.88, 0.276
+
+#### Aveme Beme
+
+Code: GH1414_aveme-beme, Coordinates: 6.919, 0.265
+
+#### Aveme Danyigba
+
+Code: GH1414_aveme-danyigba, Coordinates: 6.928, 0.264
+
+#### Awate
+
+Code: GH1414_awate, Coordinates: 6.869, 0.237
+
+#### Botoku
+
+Code: GH1414_botoku, Coordinates: 6.76, 0.267
+
+#### Gadza
+
+Code: GH1414_gadza, Coordinates: 7.016, 0.319
+
+#### Kpando
+
+Code: GH1414_kpando, Coordinates: 6.993, 0.29
+
+#### Kpando Torkor
+
+Code: GH1414_kpando-torkor, Coordinates: 6.999, 0.258
+
+#### Kpando Ziavi
+
+Code: GH1414_kpando-ziavi, Coordinates: 6.981, 0.289
+
+#### Kudzra
+
+Code: GH1414_kudzra, Coordinates: 6.962, 0.34
+
+#### Sabadu
+
+Code: GH1414_sabadu, Coordinates: 6.906, 0.248
+
+#### Tsrukpe
+
+Code: GH1414_tsrukpe, Coordinates: 6.796, 0.277
+
+#### Vakpo
+
+Code: GH1414_vakpo, Coordinates: 6.857, 0.282
+
+#### Wusuta
+
+Code: GH1414_wusuta, Coordinates: 6.836, 0.258
+
+### North Dayi
+
+Code: GH1415, Coordinates: 6.817, 0.231
+Towns: 0
+
+### North Tongu
+
+Code: GH1416, Coordinates: 6.144, 0.297
+Towns: 12
+
+#### Adidome
+
+Code: GH1416_adidome, Coordinates: 6.074, 0.503
+
+#### Avedo
+
+Code: GH1416_avedo, Coordinates: 6.134, 0.637
+
+#### Battor
+
+Code: GH1416_battor, Coordinates: 6.068, 0.401
+
+#### Dofor Adidome
+
+Code: GH1416_dofor-adidome, Coordinates: 6.119, 0.244
+
+#### Fodzoku
+
+Code: GH1416_fodzoku, Coordinates: 6.162, 0.125
+
+#### Juapong
+
+Code: GH1416_juapong, Coordinates: 6.258, 0.141
+
+#### Kpoviadzi
+
+Code: GH1416_kpoviadzi, Coordinates: 6.203, 0.71
+
+#### Mafi Kumasi
+
+Code: GH1416_mafi-kumasi, Coordinates: 6.276, 0.571
+
+#### Mafi Sasekpe
+
+Code: GH1416_mafi-sasekpe, Coordinates: 6.272, 0.62
+
+#### Podoe
+
+Code: GH1416_podoe, Coordinates: 6.299, 0.197
+
+#### Torgome
+
+Code: GH1416_torgome, Coordinates: 6.117, 0.137
+
+#### Volo
+
+Code: GH1416_volo, Coordinates: 6.061, 0.308
+
+### South Dayi
+
+Code: GH1417, Coordinates: 6.544, 0.241
+Towns: 13
+
+#### Adzokoe
+
+Code: GH1417_adzokoe, Coordinates: 6.626, 0.313
+
+#### Anum
+
+Code: GH1417_anum, Coordinates: 6.491, 0.157
+
+#### Asikuma
+
+Code: GH1417_asikuma, Coordinates: 6.491, 0.157
+
+#### Boso
+
+Code: GH1417_boso, Coordinates: 6.501, 0.138
+
+#### Dzakeh
+
+Code: GH1417_dzakeh, Coordinates: 6.501, 0.201
+
+#### Dzemeni
+
+Code: GH1417_dzemeni, Coordinates: 6.6, 0.172
+
+#### Have
+
+Code: GH1417_have, Coordinates: 6.758, 0.361
+
+#### Kpalime Duga
+
+Code: GH1417_kpalime-duga, Coordinates: 6.573, 0.183
+
+#### Kpeve
+
+Code: GH1417_kpeve, Coordinates: 6.68, 0.325
+
+#### Peki
+
+Code: GH1417_peki, Coordinates: 6.534, 0.226
+
+#### Tongo Dzemeni
+
+Code: GH1417_tongo-dzemeni, Coordinates: 6.604, 0.175
+
+#### Tongor Tsanakpe
+
+Code: GH1417_tongor-tsanakpe, Coordinates: 6.607, 0.171
+
+#### Wegbe
+
+Code: GH1417_wegbe, Coordinates: 6.654, 0.343
+
+### South Tongu
+
+Code: GH1418, Coordinates: 5.965, 0.641
+Towns: 11
+
+#### Adutor
+
+Code: GH1418_adutor, Coordinates: 5.962, 0.696
+
+#### Agbakope
+
+Code: GH1418_agbakope, Coordinates: 6.031, 0.71
+
+#### Agorta
+
+Code: GH1418_agorta, Coordinates: 5.851, 0.661
+
+#### Asidowui
+
+Code: GH1418_asidowui, Coordinates: 5.913, 0.626
+
+#### Dabala
+
+Code: GH1418_dabala, Coordinates: 5.986, 0.676
+
+#### Dordoekope
+
+Code: GH1418_dordoekope, Coordinates: 5.877, 0.605
+
+#### Dorkplorme
+
+Code: GH1418_dorkplorme, Coordinates: 6.116, 0.706
+
+#### Gamenu
+
+Code: GH1418_gamenu, Coordinates: 5.797, 0.692
+
+#### Kpotame
+
+Code: GH1418_kpotame, Coordinates: 5.977, 0.526
+
+#### Sogakope
+
+Code: GH1418_sogakope, Coordinates: 6.002, 0.597
+
+#### Tefle
+
+Code: GH1418_tefle, Coordinates: 6.001, 0.57
+
