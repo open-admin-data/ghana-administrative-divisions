@@ -3,7 +3,7 @@
 > 11 districts, 47 towns
 > Code: GH04
 > Coordinates: 7.975, -1.104
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

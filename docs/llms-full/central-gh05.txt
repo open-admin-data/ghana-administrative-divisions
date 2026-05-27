@@ -3,7 +3,7 @@
 > 22 districts, 147 towns
 > Code: GH05
 > Coordinates: 5.662, -1.158
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

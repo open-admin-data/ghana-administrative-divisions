@@ -10,7 +10,7 @@
 - Total districts: 260
 - Total towns: 2,079
 - Coordinates: included (all levels)
-- Last updated: 2026-05-25
+- Last updated: 2026-05-27
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

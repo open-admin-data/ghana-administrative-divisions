@@ -3,7 +3,7 @@
 > 12 districts, 76 towns
 > Code: GH03
 > Coordinates: 7.817, -2.37
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 11 districts, 109 towns
 > Code: GH13
 > Coordinates: 10.334, -2.215
-> Last updated: 2026-05-25. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 
