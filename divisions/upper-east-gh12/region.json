@@ -26,5 +26,9 @@
     "lon": "-0.819"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/upper-east-gh12/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

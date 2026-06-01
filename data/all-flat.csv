@@ -1,277 +1,278 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.town,zip_codes,geo.lat,geo.lon
-GH01,1,Region,Region,Ahafo,Ahafo,ahafo-gh01,GH01,,,,,,6,34,,6.874,-2.618
-GH0101,2,District,District,Asunafo North Municipal,Asunafo North Municipal,asunafo-north-municipal-gh0101,GH0101,,GH01,Ahafo,Ahafo,,,9,,6.814,-2.681
-GH0102,2,District,District,Asunafo South,Asunafo South,asunafo-south-gh0102,GH0102,,GH01,Ahafo,Ahafo,,,7,,6.56,-2.532
-GH0103,2,District,District,Asutifi North,Asutifi North,asutifi-north-gh0103,GH0103,,GH01,Ahafo,Ahafo,,,2,,7.076,-2.527
-GH0104,2,District,District,Asutifi South,Asutifi South,asutifi-south-gh0104,GH0104,,GH01,Ahafo,Ahafo,,,5,,6.85,-2.461
-GH0105,2,District,District,Tano North Municipal,Tano North Municipal,tano-north-municipal-gh0105,GH0105,,GH01,Ahafo,Ahafo,,,6,,7.195,-2.208
-GH0106,2,District,District,Tano South Municipal,Tano South Municipal,tano-south-municipal-gh0106,GH0106,,GH01,Ahafo,Ahafo,,,5,,7.162,-1.998
-GH02,1,Region,Region,Ashanti,Ashanti,ashanti-gh02,GH02,,,,,,43,389,,6.74,-1.628
-GH0201,2,District,District,Adansi Akrofuom,Adansi Akrofuom,adansi-akrofuom-gh0201,GH0201,,GH02,Ashanti,Ashanti,,,0,,6.029,-1.673
-GH0202,2,District,District,Adansi Asokwa,Adansi Asokwa,adansi-asokwa-gh0202,GH0202,,GH02,Ashanti,Ashanti,,,0,,6.168,-1.437
-GH0203,2,District,District,Adansi North,Adansi North,adansi-north-gh0203,GH0203,,GH02,Ashanti,Ashanti,,,11,,6.3,-1.589
-GH0204,2,District,District,Adansi South,Adansi South,adansi-south-gh0204,GH0204,,GH02,Ashanti,Ashanti,,,13,,6.003,-1.393
-GH0205,2,District,District,Afigya Kwabre North,Afigya Kwabre North,afigya-kwabre-north-gh0205,GH0205,,GH02,Ashanti,Ashanti,,,3,,7.039,-1.627
-GH0206,2,District,District,Afigya Kwabre South,Afigya Kwabre South,afigya-kwabre-south-gh0206,GH0206,,GH02,Ashanti,Ashanti,,,10,,6.839,-1.609
-GH0207,2,District,District,Ahafo Ano North,Ahafo Ano North,ahafo-ano-north-gh0207,GH0207,,GH02,Ashanti,Ashanti,,,9,,6.91,-2.229
-GH0208,2,District,District,Ahafo Ano South East,Ahafo Ano South East,ahafo-ano-south-east-gh0208,GH0208,,GH02,Ashanti,Ashanti,,,5,,6.904,-1.888
-GH0209,2,District,District,Ahafo Ano South West,Ahafo Ano South West,ahafo-ano-south-west-gh0209,GH0209,,GH02,Ashanti,Ashanti,,,15,,6.896,-2.058
-GH0210,2,District,District,Amansie Central,Amansie Central,amansie-central-gh0210,GH0210,,GH02,Ashanti,Ashanti,,,5,,6.207,-1.829
-GH0211,2,District,District,Amansie South,Amansie South,amansie-south-gh0211,GH0211,,GH02,Ashanti,Ashanti,,,0,,6.307,-2.011
-GH0212,2,District,District,Amansie West,Amansie West,amansie-west-gh0212,GH0212,,GH02,Ashanti,Ashanti,,,19,,6.437,-1.856
-GH0213,2,District,District,Asante Akim Central Municipal,Asante Akim Central Municipal,asante-akim-central-municipal-gh0213,GH0213,,GH02,Ashanti,Ashanti,,,2,,6.565,-1.254
-GH0214,2,District,District,Asante Akim North,Asante Akim North,asante-akim-north-gh0214,GH0214,,GH02,Ashanti,Ashanti,,,11,,6.842,-0.933
-GH0215,2,District,District,Asante Akim South,Asante Akim South,asante-akim-south-gh0215,GH0215,,GH02,Ashanti,Ashanti,,,11,,6.462,-1.115
-GH0216,2,District,District,Asokore Mampong Municipal,Asokore Mampong Municipal,asokore-mampong-municipal-gh0216,GH0216,,GH02,Ashanti,Ashanti,,,2,,6.712,-1.568
-GH0217,2,District,District,Asokwa Municipal,Asokwa Municipal,asokwa-municipal-gh0217,GH0217,,GH02,Ashanti,Ashanti,,,0,,6.645,-1.582
-GH0218,2,District,District,Atwima Kwanwoma,Atwima Kwanwoma,atwima-kwanwoma-gh0218,GH0218,,GH02,Ashanti,Ashanti,,,8,,6.59,-1.712
-GH0219,2,District,District,Atwima Mponua,Atwima Mponua,atwima-mponua-gh0219,GH0219,,GH02,Ashanti,Ashanti,,,11,,6.555,-2.177
-GH0220,2,District,District,Atwima Nwabiagya North,Atwima Nwabiagya North,atwima-nwabiagya-north-gh0220,GH0220,,GH02,Ashanti,Ashanti,,,2,,6.879,-1.745
-GH0221,2,District,District,Atwima Nwabiagya South,Atwima Nwabiagya South,atwima-nwabiagya-south-gh0221,GH0221,,GH02,Ashanti,Ashanti,,,0,,6.689,-1.777
-GH0222,2,District,District,Bekwai Municipal,Bekwai Municipal,bekwai-municipal-gh0222,GH0222,,GH02,Ashanti,Ashanti,,,11,,6.438,-1.594
-GH0223,2,District,District,Bosome Freho,Bosome Freho,bosome-freho-gh0223,GH0223,,GH02,Ashanti,Ashanti,,,6,,6.368,-1.366
-GH0224,2,District,District,Bosomtwe,Bosomtwe,bosomtwe-gh0224,GH0224,,GH02,Ashanti,Ashanti,,,13,,6.558,-1.457
-GH0225,2,District,District,Ejisu Municipal,Ejisu Municipal,ejisu-municipal-gh0225,GH0225,,GH02,Ashanti,Ashanti,,,2,,6.614,-1.311
-GH0226,2,District,District,Ejura-Sekyedumase,Ejura-Sekyedumase,ejura-sekyedumase-gh0226,GH0226,,GH02,Ashanti,Ashanti,,,8,,7.385,-1.383
-GH0227,2,District,District,Juaben Municipal,Juaben Municipal,juaben-municipal-gh0227,GH0227,,GH02,Ashanti,Ashanti,,,6,,6.756,-1.378
-GH0228,2,District,District,Kumasi Metropolitan,Kumasi Metropolitan,kumasi-metropolitan-gh0228,GH0228,,GH02,Ashanti,Ashanti,,,105,,6.689,-1.625
-GH0229,2,District,District,Kwabre East,Kwabre East,kwabre-east-gh0229,GH0229,,GH02,Ashanti,Ashanti,,,14,,6.788,-1.539
-GH0230,2,District,District,Kwadaso Municipal,Kwadaso Municipal,kwadaso-municipal-gh0230,GH0230,,GH02,Ashanti,Ashanti,,,0,,6.668,-1.67
-GH0231,2,District,District,Mampong Municipal,Mampong Municipal,mampong-municipal-gh0231,GH0231,,GH02,Ashanti,Ashanti,,,12,,7.114,-1.424
-GH0232,2,District,District,Obuasi East,Obuasi East,obuasi-east-gh0232,GH0232,,GH02,Ashanti,Ashanti,,,0,,6.18,-1.605
-GH0233,2,District,District,Obuasi Municipal,Obuasi Municipal,obuasi-municipal-gh0233,GH0233,,GH02,Ashanti,Ashanti,,,18,,6.189,-1.692
-GH0234,2,District,District,Offinso Municipal,Offinso Municipal,offinso-municipal-gh0234,GH0234,,GH02,Ashanti,Ashanti,,,8,,7.058,-1.735
-GH0235,2,District,District,Offinso North,Offinso North,offinso-north-gh0235,GH0235,,GH02,Ashanti,Ashanti,,,6,,7.28,-1.799
-GH0236,2,District,District,Oforikrom Municipal,Oforikrom Municipal,oforikrom-municipal-gh0236,GH0236,,GH02,Ashanti,Ashanti,,,8,,6.676,-1.551
-GH0237,2,District,District,Old Tafo Municipal,Old Tafo Municipal,old-tafo-municipal-gh0237,GH0237,,GH02,Ashanti,Ashanti,,,2,,6.736,-1.599
-GH0238,2,District,District,Sekyere Afram Plains North,Sekyere Afram Plains North,sekyere-afram-plains-north-gh0238,GH0238,,GH02,Ashanti,Ashanti,,,1,,7.211,-0.595
-GH0239,2,District,District,Sekyere Central,Sekyere Central,sekyere-central-gh0239,GH0239,,GH02,Ashanti,Ashanti,,,9,,7.216,-1.101
-GH0240,2,District,District,Sekyere East,Sekyere East,sekyere-east-gh0240,GH0240,,GH02,Ashanti,Ashanti,,,8,,6.779,-1.299
-GH0241,2,District,District,Sekyere Kumawu,Sekyere Kumawu,sekyere-kumawu-gh0241,GH0241,,GH02,Ashanti,Ashanti,,,4,,6.911,-1.239
-GH0242,2,District,District,Sekyere South,Sekyere South,sekyere-south-gh0242,GH0242,,GH02,Ashanti,Ashanti,,,10,,6.996,-1.503
-GH0243,2,District,District,Suame Municipal,Suame Municipal,suame-municipal-gh0243,GH0243,,GH02,Ashanti,Ashanti,,,1,,6.736,-1.648
-GH03,1,Region,Region,Bono,Bono,bono-gh03,GH03,,,,,,12,76,,7.817,-2.37
-GH0301,2,District,District,Banda,Banda,banda-gh0301,GH0301,,GH03,Bono,Bono,,,0,,8.352,-2.406
-GH0302,2,District,District,Berekum East Municipal,Berekum East Municipal,berekum-east-municipal-gh0302,GH0302,,GH03,Bono,Bono,,,4,,7.484,-2.565
-GH0303,2,District,District,Berekum West,Berekum West,berekum-west-gh0303,GH0303,,GH03,Bono,Bono,,,3,,7.472,-2.71
-GH0304,2,District,District,Dormaa East,Dormaa East,dormaa-east-gh0304,GH0304,,GH03,Bono,Bono,,,5,,7.264,-2.64
-GH0305,2,District,District,Dormaa Municipal,Dormaa Municipal,dormaa-municipal-gh0305,GH0305,,GH03,Bono,Bono,,,11,,7.237,-2.856
-GH0306,2,District,District,Dormaa West,Dormaa West,dormaa-west-gh0306,GH0306,,GH03,Bono,Bono,,,0,,6.975,-2.946
-GH0307,2,District,District,Jaman North,Jaman North,jaman-north-gh0307,GH0307,,GH03,Bono,Bono,,,8,,7.913,-2.715
-GH0308,2,District,District,Jaman South Municipal,Jaman South Municipal,jaman-south-municipal-gh0308,GH0308,,GH03,Bono,Bono,,,14,,7.623,-2.796
-GH0309,2,District,District,Sunyani Municipal,Sunyani Municipal,sunyani-municipal-gh0309,GH0309,,GH03,Bono,Bono,,,15,,7.229,-2.409
-GH0310,2,District,District,Sunyani West,Sunyani West,sunyani-west-gh0310,GH0310,,GH03,Bono,Bono,,,0,,7.424,-2.33
-GH0311,2,District,District,Tain,Tain,tain-gh0311,GH0311,,GH03,Bono,Bono,,,11,,7.792,-2.384
-GH0312,2,District,District,Wenchi Municipal,Wenchi Municipal,wenchi-municipal-gh0312,GH0312,,GH03,Bono,Bono,,,5,,7.804,-2.081
-GH04,1,Region,Region,Bono East,Bono East,bono-east-gh04,GH04,,,,,,11,47,,7.975,-1.104
-GH0401,2,District,District,Atebubu Amantin,Atebubu Amantin,atebubu-amantin-gh0401,GH0401,,GH04,Bono East,Bono East,,,4,,7.729,-1.096
-GH0402,2,District,District,Kintampo North Municipal,Kintampo North Municipal,kintampo-north-municipal-gh0402,GH0402,,GH04,Bono East,Bono East,,,5,,8.386,-1.578
-GH0403,2,District,District,Kintampo South,Kintampo South,kintampo-south-gh0403,GH0403,,GH04,Bono East,Bono East,,,4,,7.942,-1.734
-GH0404,2,District,District,Nkoranza North,Nkoranza North,nkoranza-north-gh0404,GH0404,,GH04,Bono East,Bono East,,,3,,7.72,-1.643
-GH0405,2,District,District,Nkoranza South,Nkoranza South,nkoranza-south-gh0405,GH0405,,GH04,Bono East,Bono East,,,7,,7.452,-1.677
-GH0406,2,District,District,Pru East,Pru East,pru-east-gh0406,GH0406,,GH04,Bono East,Bono East,,,3,,8.137,-0.812
-GH0407,2,District,District,Pru West,Pru West,pru-west-gh0407,GH0407,,GH04,Bono East,Bono East,,,1,,8.038,-1.31
-GH0408,2,District,District,Sene East,Sene East,sene-east-gh0408,GH0408,,GH04,Bono East,Bono East,,,3,,7.669,-0.209
-GH0409,2,District,District,Sene West,Sene West,sene-west-gh0409,GH0409,,GH04,Bono East,Bono East,,,4,,7.749,-0.618
-GH0410,2,District,District,Techiman Municipal,Techiman Municipal,techiman-municipal-gh0410,GH0410,,GH04,Bono East,Bono East,,,12,,7.526,-1.974
-GH0411,2,District,District,Techiman North,Techiman North,techiman-north-gh0411,GH0411,,GH04,Bono East,Bono East,,,1,,7.702,-1.984
-GH05,1,Region,Region,Central,Central,central-gh05,GH05,,,,,,22,147,,5.662,-1.158
-GH0501,2,District,District,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,abura-asebu-kwamankese-gh0501,GH0501,,GH05,Central,Central,,,12,,5.268,-1.19
-GH0502,2,District,District,Agona East,Agona East,agona-east-gh0502,GH0502,,GH05,Central,Central,,,5,,5.636,-0.656
-GH0503,2,District,District,Agona West Municipal,Agona West Municipal,agona-west-municipal-gh0503,GH0503,,GH05,Central,Central,,,8,,5.629,-0.803
-GH0504,2,District,District,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,ajumako-enyan-essiam-gh0504,GH0504,,GH05,Central,Central,,,12,,5.412,-0.984
-GH0505,2,District,District,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,asikuma-odoben-brakwa-gh0505,GH0505,,GH05,Central,Central,,,7,,5.627,-1.025
-GH0506,2,District,District,Assin Fosu,Assin Fosu,assin-fosu-gh0506,GH0506,,GH05,Central,Central,,,0,,5.724,-1.311
-GH0507,2,District,District,Assin North,Assin North,assin-north-gh0507,GH0507,,GH05,Central,Central,,,8,,5.825,-1.373
-GH0508,2,District,District,Assin South,Assin South,assin-south-gh0508,GH0508,,GH05,Central,Central,,,7,,5.529,-1.271
-GH0509,2,District,District,Awutu Senya,Awutu Senya,awutu-senya-gh0509,GH0509,,GH05,Central,Central,,,8,,5.62,-0.501
-GH0510,2,District,District,Awutu Senya East,Awutu Senya East,awutu-senya-east-gh0510,GH0510,,GH05,Central,Central,,,1,,5.403,-0.518
-GH0511,2,District,District,Cape Coast Metropolitan,Cape Coast Metropolitan,cape-coast-metropolitan-gh0511,GH0511,,GH05,Central,Central,,,20,,5.176,-1.312
-GH0512,2,District,District,Effutu Municipal,Effutu Municipal,effutu-municipal-gh0512,GH0512,,GH05,Central,Central,,,1,,5.384,-0.597
-GH0513,2,District,District,Ekumfi,Ekumfi,ekumfi-gh0513,GH0513,,GH05,Central,Central,,,0,,5.288,-0.91
-GH0514,2,District,District,Gomoa Central,Gomoa Central,gomoa-central-gh0514,GH0514,,GH05,Central,Central,,,0,,5.353,-0.725
-GH0515,2,District,District,Gomoa East,Gomoa East,gomoa-east-gh0515,GH0515,,GH05,Central,Central,,,10,,5.476,-0.589
-GH0516,2,District,District,Gomoa West,Gomoa West,gomoa-west-gh0516,GH0516,,GH05,Central,Central,,,6,,5.387,-0.834
-GH0517,2,District,District,Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem Municipal,komenda-edina-eguafo-abirem-municipal-gh0517,GH0517,,GH05,Central,Central,,,11,,5.13,-1.44
-GH0518,2,District,District,Mfantseman Municipal,Mfantseman Municipal,mfantseman-municipal-gh0518,GH0518,,GH05,Central,Central,,,9,,5.276,-1.035
-GH0519,2,District,District,Twifo Atti-Morkwa,Twifo Atti-Morkwa,twifo-atti-morkwa-gh0519,GH0519,,GH05,Central,Central,,,6,,5.68,-1.618
-GH0520,2,District,District,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,twifo-hemang-lower-denkyira-gh0520,GH0520,,GH05,Central,Central,,,2,,5.379,-1.401
-GH0521,2,District,District,Upper Denkyira East Municipal,Upper Denkyira East Municipal,upper-denkyira-east-municipal-gh0521,GH0521,,GH05,Central,Central,,,7,,5.835,-1.739
-GH0522,2,District,District,Upper Denkyira West,Upper Denkyira West,upper-denkyira-west-gh0522,GH0522,,GH05,Central,Central,,,7,,6.107,-2.071
-GH06,1,Region,Region,Eastern,Eastern,eastern-gh06,GH06,,,,,,33,260,,6.458,-0.412
-GH0601,2,District,District,Abuakwa North,Abuakwa North,abuakwa-north-gh0601,GH0601,,GH06,Eastern,Eastern,,,9,,6.236,-0.383
-GH0602,2,District,District,Abuakwa South,Abuakwa South,abuakwa-south-gh0602,GH0602,,GH06,Eastern,Eastern,,,5,,6.172,-0.471
-GH0603,2,District,District,Achiase,Achiase,achiase-gh0603,GH0603,,GH06,Eastern,Eastern,,,0,,5.795,-1.018
-GH0604,2,District,District,Akwapem North,Akwapem North,akwapem-north-gh0604,GH0604,,GH06,Eastern,Eastern,,,6,,5.958,-0.221
-GH0605,2,District,District,Akwapem South,Akwapem South,akwapem-south-gh0605,GH0605,,GH06,Eastern,Eastern,,,7,,5.844,-0.216
-GH0606,2,District,District,Akyem Mansa,Akyem Mansa,akyem-mansa-gh0606,GH0606,,GH06,Eastern,Eastern,,,0,,6.082,-1.116
-GH0607,2,District,District,Asene Akroso Manso,Asene Akroso Manso,asene-akroso-manso-gh0607,GH0607,,GH06,Eastern,Eastern,,,0,,5.856,-0.809
-GH0608,2,District,District,Asuogyaman,Asuogyaman,asuogyaman-gh0608,GH0608,,GH06,Eastern,Eastern,,,8,,6.365,0.095
-GH0609,2,District,District,Atiwa East,Atiwa East,atiwa-east-gh0609,GH0609,,GH06,Eastern,Eastern,,,7,,6.396,-0.597
-GH0610,2,District,District,Atiwa West,Atiwa West,atiwa-west-gh0610,GH0610,,GH06,Eastern,Eastern,,,6,,6.208,-0.626
-GH0611,2,District,District,Ayensuano,Ayensuano,ayensuano-gh0611,GH0611,,GH06,Eastern,Eastern,,,5,,5.945,-0.449
-GH0612,2,District,District,Birim Central Municipal,Birim Central Municipal,birim-central-municipal-gh0612,GH0612,,GH06,Eastern,Eastern,,,0,,5.976,-1.006
-GH0613,2,District,District,Birim North,Birim North,birim-north-gh0613,GH0613,,GH06,Eastern,Eastern,,,24,,6.368,-1.023
-GH0614,2,District,District,Birim South,Birim South,birim-south-gh0614,GH0614,,GH06,Eastern,Eastern,,,19,,5.901,-1.029
-GH0615,2,District,District,Denkyembour,Denkyembour,denkyembour-gh0615,GH0615,,GH06,Eastern,Eastern,,,0,,6.056,-0.815
-GH0616,2,District,District,Fanteakwa North,Fanteakwa North,fanteakwa-north-gh0616,GH0616,,GH06,Eastern,Eastern,,,3,,6.498,-0.364
-GH0617,2,District,District,Fanteakwa South,Fanteakwa South,fanteakwa-south-gh0617,GH0617,,GH06,Eastern,Eastern,,,3,,6.371,-0.312
-GH0618,2,District,District,Kwaebibirem,Kwaebibirem,kwaebibirem-gh0618,GH0618,,GH06,Eastern,Eastern,,,20,,6.233,-0.876
-GH0619,2,District,District,Kwahu Afram Plains North,Kwahu Afram Plains North,kwahu-afram-plains-north-gh0619,GH0619,,GH06,Eastern,Eastern,,,4,,6.868,-0.023
-GH0620,2,District,District,Kwahu Afram Plains South,Kwahu Afram Plains South,kwahu-afram-plains-south-gh0620,GH0620,,GH06,Eastern,Eastern,,,4,,6.877,-0.461
-GH0621,2,District,District,Kwahu East,Kwahu East,kwahu-east-gh0621,GH0621,,GH06,Eastern,Eastern,,,0,,6.731,-0.81
-GH0622,2,District,District,Kwahu South,Kwahu South,kwahu-south-gh0622,GH0622,,GH06,Eastern,Eastern,,,24,,6.628,-0.591
-GH0623,2,District,District,Kwahu West,Kwahu West,kwahu-west-gh0623,GH0623,,GH06,Eastern,Eastern,,,13,,6.491,-0.728
-GH0624,2,District,District,Lower Manya,Lower Manya,lower-manya-gh0624,GH0624,,GH06,Eastern,Eastern,,,15,,6.212,-0.041
-GH0625,2,District,District,New Juaben North Municipal,New Juaben North Municipal,new-juaben-north-municipal-gh0625,GH0625,,GH06,Eastern,Eastern,,,3,,6.145,-0.317
-GH0626,2,District,District,New Juaben South Municipal,New Juaben South Municipal,new-juaben-south-municipal-gh0626,GH0626,,GH06,Eastern,Eastern,,,15,,6.08,-0.263
-GH0627,2,District,District,Nsawam Adoagyiri,Nsawam Adoagyiri,nsawam-adoagyiri-gh0627,GH0627,,GH06,Eastern,Eastern,,,6,,5.828,-0.344
-GH0628,2,District,District,Okere,Okere,okere-gh0628,GH0628,,GH06,Eastern,Eastern,,,10,,6.04,-0.128
-GH0629,2,District,District,Suhum Municipal,Suhum Municipal,suhum-municipal-gh0629,GH0629,,GH06,Eastern,Eastern,,,6,,6.043,-0.417
-GH0630,2,District,District,Upper Manya,Upper Manya,upper-manya-gh0630,GH0630,,GH06,Eastern,Eastern,,,6,,6.384,-0.14
-GH0631,2,District,District,Upper West Akim,Upper West Akim,upper-west-akim-gh0631,GH0631,,GH06,Eastern,Eastern,,,0,,5.806,-0.54
-GH0632,2,District,District,West Akim,West Akim,west-akim-gh0632,GH0632,,GH06,Eastern,Eastern,,,17,,5.907,-0.683
-GH0633,2,District,District,Yilo Krobo,Yilo Krobo,yilo-krobo-gh0633,GH0633,,GH06,Eastern,Eastern,,,15,,6.156,-0.167
-GH07,1,Region,Region,Greater Accra,Greater Accra,greater-accra-gh07,GH07,,,,,,29,222,,5.79,0.247
-GH0701,2,District,District,Ablekuma Central Municipal,Ablekuma Central Municipal,ablekuma-central-municipal-gh0701,GH0701,,GH07,Greater Accra,Greater Accra,,,22,,5.555,-0.241
-GH0702,2,District,District,Ablekuma North Municipal,Ablekuma North Municipal,ablekuma-north-municipal-gh0702,GH0702,,GH07,Greater Accra,Greater Accra,,,15,,5.58,-0.247
-GH0703,2,District,District,Ablekuma West Municipal,Ablekuma West Municipal,ablekuma-west-municipal-gh0703,GH0703,,GH07,Greater Accra,Greater Accra,,,13,,5.538,-0.263
-GH0704,2,District,District,Accra Metropolis,Accra Metropolis,accra-metropolis-gh0704,GH0704,,GH07,Greater Accra,Greater Accra,,,14,,5.544,-0.211
-GH0705,2,District,District,Ada East,Ada East,ada-east-gh0705,GH0705,,GH07,Greater Accra,Greater Accra,,,3,,5.876,0.549
-GH0706,2,District,District,Ada West,Ada West,ada-west-gh0706,GH0706,,GH07,Greater Accra,Greater Accra,,,3,,5.893,0.422
-GH0707,2,District,District,Adenta Municipal,Adenta Municipal,adenta-municipal-gh0707,GH0707,,GH07,Greater Accra,Greater Accra,,,1,,5.713,-0.146
-GH0708,2,District,District,Ashaiman Municipal,Ashaiman Municipal,ashaiman-municipal-gh0708,GH0708,,GH07,Greater Accra,Greater Accra,,,0,,5.701,-0.035
-GH0709,2,District,District,Ayawaso Central Municipal,Ayawaso Central Municipal,ayawaso-central-municipal-gh0709,GH0709,,GH07,Greater Accra,Greater Accra,,,10,,5.579,-0.204
-GH0710,2,District,District,Ayawaso East Municipal,Ayawaso East Municipal,ayawaso-east-municipal-gh0710,GH0710,,GH07,Greater Accra,Greater Accra,,,12,,5.589,-0.193
-GH0711,2,District,District,Ayawaso North Municipal,Ayawaso North Municipal,ayawaso-north-municipal-gh0711,GH0711,,GH07,Greater Accra,Greater Accra,,,9,,5.595,-0.208
-GH0712,2,District,District,Ayawaso West,Ayawaso West,ayawaso-west-gh0712,GH0712,,GH07,Greater Accra,Greater Accra,,,6,,5.631,-0.164
-GH0713,2,District,District,Ga Central Municipal,Ga Central Municipal,ga-central-municipal-gh0713,GH0713,,GH07,Greater Accra,Greater Accra,,,0,,5.616,-0.307
-GH0714,2,District,District,Ga East,Ga East,ga-east-gh0714,GH0714,,GH07,Greater Accra,Greater Accra,,,15,,5.706,-0.221
-GH0715,2,District,District,Ga North Municipal,Ga North Municipal,ga-north-municipal-gh0715,GH0715,,GH07,Greater Accra,Greater Accra,,,0,,5.711,-0.28
-GH0716,2,District,District,Ga South Municipal,Ga South Municipal,ga-south-municipal-gh0716,GH0716,,GH07,Greater Accra,Greater Accra,,,0,,5.678,-0.437
-GH0717,2,District,District,Ga West Municipal,Ga West Municipal,ga-west-municipal-gh0717,GH0717,,GH07,Greater Accra,Greater Accra,,,28,,5.704,-0.357
-GH0718,2,District,District,Korle Klottey Municipal,Korle Klottey Municipal,korle-klottey-municipal-gh0718,GH0718,,GH07,Greater Accra,Greater Accra,,,5,,5.561,-0.196
-GH0719,2,District,District,Kpone Katamanso,Kpone Katamanso,kpone-katamanso-gh0719,GH0719,,GH07,Greater Accra,Greater Accra,,,3,,5.767,-0.074
-GH0720,2,District,District,Krowor Municipal,Krowor Municipal,krowor-municipal-gh0720,GH0720,,GH07,Greater Accra,Greater Accra,,,1,,5.613,-0.083
-GH0721,2,District,District,La Dade-Kotopon,La Dade-Kotopon,la-dade-kotopon-gh0721,GH0721,,GH07,Greater Accra,Greater Accra,,,2,,5.588,-0.158
-GH0722,2,District,District,La-Nkwantanang-Madina,La-Nkwantanang-Madina,la-nkwantanang-madina-gh0722,GH0722,,GH07,Greater Accra,Greater Accra,,,0,,5.741,-0.173
-GH0723,2,District,District,Ledzokuku Municipal,Ledzokuku Municipal,ledzokuku-municipal-gh0723,GH0723,,GH07,Greater Accra,Greater Accra,,,2,,5.604,-0.114
-GH0724,2,District,District,Ningo/Prampram,Ningo/Prampram,ningoprampram-gh0724,GH0724,,GH07,Greater Accra,Greater Accra,,,5,,5.815,0.139
-GH0725,2,District,District,Okaikwei North Municipal,Okaikwei North Municipal,okaikwei-north-municipal-gh0725,GH0725,,GH07,Greater Accra,Greater Accra,,,5,,5.629,-0.209
-GH0726,2,District,District,Shai Osudoku,Shai Osudoku,shai-osudoku-gh0726,GH0726,,GH07,Greater Accra,Greater Accra,,,4,,5.966,0.168
-GH0727,2,District,District,Tema Metropolitan,Tema Metropolitan,tema-metropolitan-gh0727,GH0727,,GH07,Greater Accra,Greater Accra,,,44,,5.648,-0.005
-GH0728,2,District,District,Tema West Municipal,Tema West Municipal,tema-west-municipal-gh0728,GH0728,,GH07,Greater Accra,Greater Accra,,,0,,5.651,-0.068
-GH0729,2,District,District,Weija Gbawe Municipal,Weija Gbawe Municipal,weija-gbawe-municipal-gh0729,GH0729,,GH07,Greater Accra,Greater Accra,,,0,,5.54,-0.343
-GH08,1,Region,Region,Northern,Northern,northern-gh08,GH08,,,,,,16,93,,9.279,0.003
-GH0801,2,District,District,Gushegu,Gushegu,gushegu-gh0801,GH0801,,GH08,Northern,Northern,,,5,,9.923,-0.145
-GH0802,2,District,District,Karaga,Karaga,karaga-gh0802,GH0802,,GH08,Northern,Northern,,,3,,9.917,-0.536
-GH0803,2,District,District,Kpandai,Kpandai,kpandai-gh0803,GH0803,,GH08,Northern,Northern,,,0,,8.387,-0.065
-GH0804,2,District,District,Kumbungu,Kumbungu,kumbungu-gh0804,GH0804,,GH08,Northern,Northern,,,3,,9.797,-1.061
-GH0805,2,District,District,Mion,Mion,mion-gh0805,GH0805,,GH08,Northern,Northern,,,0,,9.453,-0.335
-GH0806,2,District,District,Nanton,Nanton,nanton-gh0806,GH0806,,GH08,Northern,Northern,,,5,,9.561,-0.71
-GH0807,2,District,District,Nanumba North,Nanumba North,nanumba-north-gh0807,GH0807,,GH08,Northern,Northern,,,6,,8.922,-0.138
-GH0808,2,District,District,Nanumba South,Nanumba South,nanumba-south-gh0808,GH0808,,GH08,Northern,Northern,,,6,,8.767,0.055
-GH0809,2,District,District,Saboba,Saboba,saboba-gh0809,GH0809,,GH08,Northern,Northern,,,6,,9.709,0.196
-GH0810,2,District,District,Sagnerigu,Sagnerigu,sagnerigu-gh0810,GH0810,,GH08,Northern,Northern,,,7,,9.487,-0.855
-GH0811,2,District,District,Savelugu,Savelugu,savelugu-gh0811,GH0811,,GH08,Northern,Northern,,,3,,9.866,-0.902
-GH0812,2,District,District,Tamale Metropolitan,Tamale Metropolitan,tamale-metropolitan-gh0812,GH0812,,GH08,Northern,Northern,,,27,,9.385,-0.743
-GH0813,2,District,District,Tatale Sanguli,Tatale Sanguli,tatale-sanguli-gh0813,GH0813,,GH08,Northern,Northern,,,4,,9.142,0.456
-GH0814,2,District,District,Tolon,Tolon,tolon-gh0814,GH0814,,GH08,Northern,Northern,,,4,,9.556,-1.198
-GH0815,2,District,District,Yendi Municipal,Yendi Municipal,yendi-municipal-gh0815,GH0815,,GH08,Northern,Northern,,,10,,9.472,0.022
-GH0816,2,District,District,Zabzugu,Zabzugu,zabzugu-gh0816,GH0816,,GH08,Northern,Northern,,,4,,9.091,0.308
-GH09,1,Region,Region,Northern East,Northern East,northern-east-gh09,GH09,,,,,,6,31,,10.321,-0.856
-GH0901,2,District,District,Bunkpurugu Nakpanduri,Bunkpurugu Nakpanduri,bunkpurugu-nakpanduri-gh0901,GH0901,,GH09,Northern East,Northern East,,,2,,10.509,0.043
-GH0902,2,District,District,Chereponi,Chereponi,chereponi-gh0902,GH0902,,GH09,Northern East,Northern East,,,4,,10.179,0.207
-GH0903,2,District,District,East Mamprusi,East Mamprusi,east-mamprusi-gh0903,GH0903,,GH09,Northern East,Northern East,,,7,,10.453,-0.432
-GH0904,2,District,District,Mamprugu Moagduri,Mamprugu Moagduri,mamprugu-moagduri-gh0904,GH0904,,GH09,Northern East,Northern East,,,1,,10.258,-1.318
-GH0905,2,District,District,West Mamprusi Municipal,West Mamprusi Municipal,west-mamprusi-municipal-gh0905,GH0905,,GH09,Northern East,Northern East,,,14,,10.298,-0.765
-GH0906,2,District,District,Yunyoo-Nasuan,Yunyoo-Nasuan,yunyoo-nasuan-gh0906,GH0906,,GH09,Northern East,Northern East,,,3,,10.434,-0.084
-GH10,1,Region,Region,Oti,Oti,oti-gh10,GH10,,,,,,8,58,,7.932,0.242
-GH1001,2,District,District,Biakoye,Biakoye,biakoye-gh1001,GH1001,,GH10,Oti,Oti,,,0,,7.393,0.246
-GH1002,2,District,District,Jasikan,Jasikan,jasikan-gh1002,GH1002,,GH10,Oti,Oti,,,18,,7.376,0.558
-GH1003,2,District,District,Kadjebi,Kadjebi,kadjebi-gh1003,GH1003,,GH10,Oti,Oti,,,11,,7.718,0.533
-GH1004,2,District,District,Krachi East Municipal,Krachi East Municipal,krachi-east-municipal-gh1004,GH1004,,GH10,Oti,Oti,,,6,,7.805,0.264
-GH1005,2,District,District,Krachi Nchumuru,Krachi Nchumuru,krachi-nchumuru-gh1005,GH1005,,GH10,Oti,Oti,,,0,,8.189,-0.088
-GH1006,2,District,District,Krachi West,Krachi West,krachi-west-gh1006,GH1006,,GH10,Oti,Oti,,,10,,7.89,-0.036
-GH1007,2,District,District,Nkwanta North,Nkwanta North,nkwanta-north-gh1007,GH1007,,GH10,Oti,Oti,,,4,,8.551,0.234
-GH1008,2,District,District,Nkwanta South Municipal,Nkwanta South Municipal,nkwanta-south-municipal-gh1008,GH1008,,GH10,Oti,Oti,,,9,,8.25,0.414
-GH11,1,Region,Region,Savannah,Savannah,savannah-gh11,GH11,,,,,,7,42,,9.049,-1.494
-GH1101,2,District,District,Bole,Bole,bole-gh1101,GH1101,,GH11,Savannah,Savannah,,,6,,8.692,-2.179
-GH1102,2,District,District,Central Gonja,Central Gonja,central-gonja-gh1102,GH1102,,GH11,Savannah,Savannah,,,6,,8.941,-1.106
-GH1103,2,District,District,East Gonja Municipal,East Gonja Municipal,east-gonja-municipal-gh1103,GH1103,,GH11,Savannah,Savannah,,,16,,8.349,-1.026
-GH1104,2,District,District,North East Gonja,North East Gonja,north-east-gonja-gh1104,GH1104,,GH11,Savannah,Savannah,,,0,,8.741,-0.528
-GH1105,2,District,District,North Gonja,North Gonja,north-gonja-gh1105,GH1105,,GH11,Savannah,Savannah,,,0,,9.691,-1.617
-GH1106,2,District,District,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba,sawla-tuna-kalba-gh1106,GH1106,,GH11,Savannah,Savannah,,,6,,9.479,-2.413
-GH1107,2,District,District,West Gonja,West Gonja,west-gonja-gh1107,GH1107,,GH11,Savannah,Savannah,,,8,,9.223,-1.754
-GH12,1,Region,Region,Upper East,Upper East,upper-east-gh12,GH12,,,,,,15,169,,10.728,-0.819
-GH1201,2,District,District,Bawku Municipal,Bawku Municipal,bawku-municipal-gh1201,GH1201,,GH12,Upper East,Upper East,,,19,,11.042,-0.237
-GH1202,2,District,District,Bawku West,Bawku West,bawku-west-gh1202,GH1202,,GH12,Upper East,Upper East,,,19,,10.843,-0.493
-GH1203,2,District,District,Binduri,Binduri,binduri-gh1203,GH1203,,GH12,Upper East,Upper East,,,0,,10.946,-0.302
-GH1204,2,District,District,Bolga East,Bolga East,bolga-east-gh1204,GH1204,,GH12,Upper East,Upper East,,,6,,10.803,-0.798
-GH1205,2,District,District,Bolgatanga Municipal,Bolgatanga Municipal,bolgatanga-municipal-gh1205,GH1205,,GH12,Upper East,Upper East,,,20,,10.749,-0.933
-GH1206,2,District,District,Bongo,Bongo,bongo-gh1206,GH1206,,GH12,Upper East,Upper East,,,35,,10.918,-0.805
-GH1207,2,District,District,Builsa North,Builsa North,builsa-north-gh1207,GH1207,,GH12,Upper East,Upper East,,,7,,10.711,-1.258
-GH1208,2,District,District,Builsa South,Builsa South,builsa-south-gh1208,GH1208,,GH12,Upper East,Upper East,,,9,,10.532,-1.263
-GH1209,2,District,District,Garu,Garu,garu-gh1209,GH1209,,GH12,Upper East,Upper East,,,8,,10.77,-0.223
-GH1210,2,District,District,Kasena Nankana East,Kasena Nankana East,kasena-nankana-east-gh1210,GH1210,,GH12,Upper East,Upper East,,,19,,10.749,-1.07
-GH1211,2,District,District,Kasena Nankana West,Kasena Nankana West,kasena-nankana-west-gh1211,GH1211,,GH12,Upper East,Upper East,,,10,,10.873,-1.316
-GH1212,2,District,District,Nabdam,Nabdam,nabdam-gh1212,GH1212,,GH12,Upper East,Upper East,,,5,,10.847,-0.661
-GH1213,2,District,District,Pusiga,Pusiga,pusiga-gh1213,GH1213,,GH12,Upper East,Upper East,,,0,,11.077,-0.092
-GH1214,2,District,District,Talensi,Talensi,talensi-gh1214,GH1214,,GH12,Upper East,Upper East,,,2,,10.642,-0.624
-GH1215,2,District,District,Tempane,Tempane,tempane-gh1215,GH1215,,GH12,Upper East,Upper East,,,10,,10.901,-0.09
-GH13,1,Region,Region,Upper West,Upper West,upper-west-gh13,GH13,,,,,,11,109,,10.334,-2.215
-GH1301,2,District,District,Daffiama Bussie Issa,Daffiama Bussie Issa,daffiama-bussie-issa-gh1301,GH1301,,GH13,Upper West,Upper West,,,6,,10.367,-2.262
-GH1302,2,District,District,Jirapa,Jirapa,jirapa-gh1302,GH1302,,GH13,Upper West,Upper West,,,15,,10.588,-2.562
-GH1303,2,District,District,Lambussie-Karni,Lambussie-Karni,lambussie-karni-gh1303,GH1303,,GH13,Upper West,Upper West,,,4,,10.839,-2.583
-GH1304,2,District,District,Lawra,Lawra,lawra-gh1304,GH1304,,GH13,Upper West,Upper West,,,15,,10.62,-2.851
-GH1305,2,District,District,Nadowli-Kaleo,Nadowli-Kaleo,nadowli-kaleo-gh1305,GH1305,,GH13,Upper West,Upper West,,,13,,10.286,-2.638
-GH1306,2,District,District,Nandom,Nandom,nandom-gh1306,GH1306,,GH13,Upper West,Upper West,,,2,,10.867,-2.8
-GH1307,2,District,District,Sissala East,Sissala East,sissala-east-gh1307,GH1307,,GH13,Upper West,Upper West,,,8,,10.607,-1.853
-GH1308,2,District,District,Sissala West,Sissala West,sissala-west-gh1308,GH1308,,GH13,Upper West,Upper West,,,4,,10.759,-2.305
-GH1309,2,District,District,Wa East,Wa East,wa-east-gh1309,GH1309,,GH13,Upper West,Upper West,,,11,,10.086,-1.976
-GH1310,2,District,District,Wa Municipal,Wa Municipal,wa-municipal-gh1310,GH1310,,GH13,Upper West,Upper West,,,19,,10.038,-2.465
-GH1311,2,District,District,Wa West,Wa West,wa-west-gh1311,GH1311,,GH13,Upper West,Upper West,,,12,,9.918,-2.608
-GH14,1,Region,Region,Volta,Volta,volta-gh14,GH14,,,,,,18,173,,6.537,0.458
-GH1401,2,District,District,Adaklu,Adaklu,adaklu-gh1401,GH1401,,GH14,Volta,Volta,,,1,,6.442,0.533
-GH1402,2,District,District,Afadzato South,Afadzato South,afadzato-south-gh1402,GH1402,,GH14,Volta,Volta,,,0,,6.875,0.365
-GH1403,2,District,District,Agotime Ziope,Agotime Ziope,agotime-ziope-gh1403,GH1403,,GH14,Volta,Volta,,,7,,6.476,0.692
-GH1404,2,District,District,Akatsi North,Akatsi North,akatsi-north-gh1404,GH1404,,GH14,Volta,Volta,,,3,,6.311,0.877
-GH1405,2,District,District,Akatsi South,Akatsi South,akatsi-south-gh1405,GH1405,,GH14,Volta,Volta,,,9,,6.153,0.799
-GH1406,2,District,District,Anloga,Anloga,anloga-gh1406,GH1406,,GH14,Volta,Volta,,,0,,5.825,0.795
-GH1407,2,District,District,Central Tongu,Central Tongu,central-tongu-gh1407,GH1407,,GH14,Volta,Volta,,,1,,6.165,0.611
-GH1408,2,District,District,Ho Municipal,Ho Municipal,ho-municipal-gh1408,GH1408,,GH14,Volta,Volta,,,30,,6.675,0.535
-GH1409,2,District,District,Ho West,Ho West,ho-west-gh1409,GH1409,,GH14,Volta,Volta,,,0,,6.602,0.334
-GH1410,2,District,District,Hohoe Municipal,Hohoe Municipal,hohoe-municipal-gh1410,GH1410,,GH14,Volta,Volta,,,31,,7.153,0.487
-GH1411,2,District,District,Keta Municipal,Keta Municipal,keta-municipal-gh1411,GH1411,,GH14,Volta,Volta,,,19,,5.937,0.883
-GH1412,2,District,District,Ketu North,Ketu North,ketu-north-gh1412,GH1412,,GH14,Volta,Volta,,,5,,6.192,0.978
-GH1413,2,District,District,Ketu South,Ketu South,ketu-south-gh1413,GH1413,,GH14,Volta,Volta,,,16,,6.08,1.072
-GH1414,2,District,District,Kpando Municipal,Kpando Municipal,kpando-municipal-gh1414,GH1414,,GH14,Volta,Volta,,,15,,6.999,0.317
-GH1415,2,District,District,North Dayi,North Dayi,north-dayi-gh1415,GH1415,,GH14,Volta,Volta,,,0,,6.817,0.231
-GH1416,2,District,District,North Tongu,North Tongu,north-tongu-gh1416,GH1416,,GH14,Volta,Volta,,,12,,6.144,0.297
-GH1417,2,District,District,South Dayi,South Dayi,south-dayi-gh1417,GH1417,,GH14,Volta,Volta,,,13,,6.544,0.241
-GH1418,2,District,District,South Tongu,South Tongu,south-tongu-gh1418,GH1418,,GH14,Volta,Volta,,,11,,5.965,0.641
-GH15,1,Region,Region,Western,Western,western-gh15,GH15,,,,,,14,144,,5.445,-2.112
-GH1501,2,District,District,Ahanta West Municipal,Ahanta West Municipal,ahanta-west-municipal-gh1501,GH1501,,GH15,Western,Western,,,10,,4.852,-1.987
-GH1502,2,District,District,Effia Kwesimintsim Municipal,Effia Kwesimintsim Municipal,effia-kwesimintsim-municipal-gh1502,GH1502,,GH15,Western,Western,,,7,,4.964,-1.808
-GH1503,2,District,District,Ellembelle,Ellembelle,ellembelle-gh1503,GH1503,,GH15,Western,Western,,,0,,5.15,-2.421
-GH1504,2,District,District,Jomoro,Jomoro,jomoro-gh1504,GH1504,,GH15,Western,Western,,,16,,5.197,-2.614
-GH1505,2,District,District,Mpohor,Mpohor,mpohor-gh1505,GH1505,,GH15,Western,Western,,,3,,5.058,-1.827
-GH1506,2,District,District,Nzema East,Nzema East,nzema-east-gh1506,GH1506,,GH15,Western,Western,,,10,,5.086,-2.222
-GH1507,2,District,District,Prestea/Huni Valley,Prestea/Huni Valley,presteahuni-valley-gh1507,GH1507,,GH15,Western,Western,,,13,,5.447,-2.04
-GH1508,2,District,District,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,sekondi-takoradi-metropolis-gh1508,GH1508,,GH15,Western,Western,,,31,,4.961,-1.733
-GH1509,2,District,District,Shama,Shama,shama-gh1509,GH1509,,GH15,Western,Western,,,7,,5.059,-1.641
-GH1510,2,District,District,Tarkwa Nsuaem,Tarkwa Nsuaem,tarkwa-nsuaem-gh1510,GH1510,,GH15,Western,Western,,,18,,5.138,-2.035
-GH1511,2,District,District,Wassa Amenfi Central,Wassa Amenfi Central,wassa-amenfi-central-gh1511,GH1511,,GH15,Western,Western,,,0,,5.739,-2.26
-GH1512,2,District,District,Wassa Amenfi East,Wassa Amenfi East,wassa-amenfi-east-gh1512,GH1512,,GH15,Western,Western,,,10,,5.878,-1.99
-GH1513,2,District,District,Wassa Amenfi West,Wassa Amenfi West,wassa-amenfi-west-gh1513,GH1513,,GH15,Western,Western,,,12,,5.747,-2.49
-GH1514,2,District,District,Wassa East,Wassa East,wassa-east-gh1514,GH1514,,GH15,Western,Western,,,7,,5.368,-1.622
-GH16,1,Region,Region,Western North,Western North,western-north-gh16,GH16,,,,,,9,85,,6.176,-2.656
-GH1601,2,District,District,Aowin,Aowin,aowin-gh1601,GH1601,,GH16,Western North,Western North,,,9,,5.695,-2.754
-GH1602,2,District,District,Bia East,Bia East,bia-east-gh1602,GH1602,,GH16,Western North,Western North,,,13,,6.828,-3.041
-GH1603,2,District,District,Bia West,Bia West,bia-west-gh1603,GH1603,,GH16,Western North,Western North,,,14,,6.569,-3.066
-GH1604,2,District,District,Bibiani-Anhwiaso-Bekwai Municipal,Bibiani-Anhwiaso-Bekwai Municipal,bibiani-anhwiaso-bekwai-municipal-gh1604,GH1604,,GH16,Western North,Western North,,,13,,6.294,-2.232
-GH1605,2,District,District,Bodi,Bodi,bodi-gh1605,GH1605,,GH16,Western North,Western North,,,8,,6.24,-2.855
-GH1606,2,District,District,Juaboso,Juaboso,juaboso-gh1606,GH1606,,GH16,Western North,Western North,,,8,,6.432,-2.913
-GH1607,2,District,District,Sefwi Akontombra,Sefwi Akontombra,sefwi-akontombra-gh1607,GH1607,,GH16,Western North,Western North,,,5,,6.094,-2.653
-GH1608,2,District,District,Sefwi-Wiawso,Sefwi-Wiawso,sefwi-wiawso-gh1608,GH1608,,GH16,Western North,Western North,,,10,,6.307,-2.518
-GH1609,2,District,District,Suaman,Suaman,suaman-gh1609,GH1609,,GH16,Western North,Western North,,,5,,6.107,-3.008
+# Data from Open Admin Data (https://openadmindata.org/gh/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/ghana-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.town,zip_codes,geo.lat,geo.lon,source_url
+GH01,1,Region,Region,Ahafo,Ahafo,ahafo-gh01,GH01,,,,,,6,34,,6.874,-2.618,https://openadmindata.org/gh/regions/ahafo-gh01/
+GH0101,2,District,District,Asunafo North Municipal,Asunafo North Municipal,asunafo-north-municipal-gh0101,GH0101,,GH01,Ahafo,Ahafo,,,9,,6.814,-2.681,
+GH0102,2,District,District,Asunafo South,Asunafo South,asunafo-south-gh0102,GH0102,,GH01,Ahafo,Ahafo,,,7,,6.56,-2.532,
+GH0103,2,District,District,Asutifi North,Asutifi North,asutifi-north-gh0103,GH0103,,GH01,Ahafo,Ahafo,,,2,,7.076,-2.527,
+GH0104,2,District,District,Asutifi South,Asutifi South,asutifi-south-gh0104,GH0104,,GH01,Ahafo,Ahafo,,,5,,6.85,-2.461,
+GH0105,2,District,District,Tano North Municipal,Tano North Municipal,tano-north-municipal-gh0105,GH0105,,GH01,Ahafo,Ahafo,,,6,,7.195,-2.208,
+GH0106,2,District,District,Tano South Municipal,Tano South Municipal,tano-south-municipal-gh0106,GH0106,,GH01,Ahafo,Ahafo,,,5,,7.162,-1.998,
+GH02,1,Region,Region,Ashanti,Ashanti,ashanti-gh02,GH02,,,,,,43,389,,6.74,-1.628,https://openadmindata.org/gh/regions/ashanti-gh02/
+GH0201,2,District,District,Adansi Akrofuom,Adansi Akrofuom,adansi-akrofuom-gh0201,GH0201,,GH02,Ashanti,Ashanti,,,0,,6.029,-1.673,
+GH0202,2,District,District,Adansi Asokwa,Adansi Asokwa,adansi-asokwa-gh0202,GH0202,,GH02,Ashanti,Ashanti,,,0,,6.168,-1.437,
+GH0203,2,District,District,Adansi North,Adansi North,adansi-north-gh0203,GH0203,,GH02,Ashanti,Ashanti,,,11,,6.3,-1.589,
+GH0204,2,District,District,Adansi South,Adansi South,adansi-south-gh0204,GH0204,,GH02,Ashanti,Ashanti,,,13,,6.003,-1.393,
+GH0205,2,District,District,Afigya Kwabre North,Afigya Kwabre North,afigya-kwabre-north-gh0205,GH0205,,GH02,Ashanti,Ashanti,,,3,,7.039,-1.627,
+GH0206,2,District,District,Afigya Kwabre South,Afigya Kwabre South,afigya-kwabre-south-gh0206,GH0206,,GH02,Ashanti,Ashanti,,,10,,6.839,-1.609,
+GH0207,2,District,District,Ahafo Ano North,Ahafo Ano North,ahafo-ano-north-gh0207,GH0207,,GH02,Ashanti,Ashanti,,,9,,6.91,-2.229,
+GH0208,2,District,District,Ahafo Ano South East,Ahafo Ano South East,ahafo-ano-south-east-gh0208,GH0208,,GH02,Ashanti,Ashanti,,,5,,6.904,-1.888,
+GH0209,2,District,District,Ahafo Ano South West,Ahafo Ano South West,ahafo-ano-south-west-gh0209,GH0209,,GH02,Ashanti,Ashanti,,,15,,6.896,-2.058,
+GH0210,2,District,District,Amansie Central,Amansie Central,amansie-central-gh0210,GH0210,,GH02,Ashanti,Ashanti,,,5,,6.207,-1.829,
+GH0211,2,District,District,Amansie South,Amansie South,amansie-south-gh0211,GH0211,,GH02,Ashanti,Ashanti,,,0,,6.307,-2.011,
+GH0212,2,District,District,Amansie West,Amansie West,amansie-west-gh0212,GH0212,,GH02,Ashanti,Ashanti,,,19,,6.437,-1.856,
+GH0213,2,District,District,Asante Akim Central Municipal,Asante Akim Central Municipal,asante-akim-central-municipal-gh0213,GH0213,,GH02,Ashanti,Ashanti,,,2,,6.565,-1.254,
+GH0214,2,District,District,Asante Akim North,Asante Akim North,asante-akim-north-gh0214,GH0214,,GH02,Ashanti,Ashanti,,,11,,6.842,-0.933,
+GH0215,2,District,District,Asante Akim South,Asante Akim South,asante-akim-south-gh0215,GH0215,,GH02,Ashanti,Ashanti,,,11,,6.462,-1.115,
+GH0216,2,District,District,Asokore Mampong Municipal,Asokore Mampong Municipal,asokore-mampong-municipal-gh0216,GH0216,,GH02,Ashanti,Ashanti,,,2,,6.712,-1.568,
+GH0217,2,District,District,Asokwa Municipal,Asokwa Municipal,asokwa-municipal-gh0217,GH0217,,GH02,Ashanti,Ashanti,,,0,,6.645,-1.582,
+GH0218,2,District,District,Atwima Kwanwoma,Atwima Kwanwoma,atwima-kwanwoma-gh0218,GH0218,,GH02,Ashanti,Ashanti,,,8,,6.59,-1.712,
+GH0219,2,District,District,Atwima Mponua,Atwima Mponua,atwima-mponua-gh0219,GH0219,,GH02,Ashanti,Ashanti,,,11,,6.555,-2.177,
+GH0220,2,District,District,Atwima Nwabiagya North,Atwima Nwabiagya North,atwima-nwabiagya-north-gh0220,GH0220,,GH02,Ashanti,Ashanti,,,2,,6.879,-1.745,
+GH0221,2,District,District,Atwima Nwabiagya South,Atwima Nwabiagya South,atwima-nwabiagya-south-gh0221,GH0221,,GH02,Ashanti,Ashanti,,,0,,6.689,-1.777,
+GH0222,2,District,District,Bekwai Municipal,Bekwai Municipal,bekwai-municipal-gh0222,GH0222,,GH02,Ashanti,Ashanti,,,11,,6.438,-1.594,
+GH0223,2,District,District,Bosome Freho,Bosome Freho,bosome-freho-gh0223,GH0223,,GH02,Ashanti,Ashanti,,,6,,6.368,-1.366,
+GH0224,2,District,District,Bosomtwe,Bosomtwe,bosomtwe-gh0224,GH0224,,GH02,Ashanti,Ashanti,,,13,,6.558,-1.457,
+GH0225,2,District,District,Ejisu Municipal,Ejisu Municipal,ejisu-municipal-gh0225,GH0225,,GH02,Ashanti,Ashanti,,,2,,6.614,-1.311,
+GH0226,2,District,District,Ejura-Sekyedumase,Ejura-Sekyedumase,ejura-sekyedumase-gh0226,GH0226,,GH02,Ashanti,Ashanti,,,8,,7.385,-1.383,
+GH0227,2,District,District,Juaben Municipal,Juaben Municipal,juaben-municipal-gh0227,GH0227,,GH02,Ashanti,Ashanti,,,6,,6.756,-1.378,
+GH0228,2,District,District,Kumasi Metropolitan,Kumasi Metropolitan,kumasi-metropolitan-gh0228,GH0228,,GH02,Ashanti,Ashanti,,,105,,6.689,-1.625,
+GH0229,2,District,District,Kwabre East,Kwabre East,kwabre-east-gh0229,GH0229,,GH02,Ashanti,Ashanti,,,14,,6.788,-1.539,
+GH0230,2,District,District,Kwadaso Municipal,Kwadaso Municipal,kwadaso-municipal-gh0230,GH0230,,GH02,Ashanti,Ashanti,,,0,,6.668,-1.67,
+GH0231,2,District,District,Mampong Municipal,Mampong Municipal,mampong-municipal-gh0231,GH0231,,GH02,Ashanti,Ashanti,,,12,,7.114,-1.424,
+GH0232,2,District,District,Obuasi East,Obuasi East,obuasi-east-gh0232,GH0232,,GH02,Ashanti,Ashanti,,,0,,6.18,-1.605,
+GH0233,2,District,District,Obuasi Municipal,Obuasi Municipal,obuasi-municipal-gh0233,GH0233,,GH02,Ashanti,Ashanti,,,18,,6.189,-1.692,
+GH0234,2,District,District,Offinso Municipal,Offinso Municipal,offinso-municipal-gh0234,GH0234,,GH02,Ashanti,Ashanti,,,8,,7.058,-1.735,
+GH0235,2,District,District,Offinso North,Offinso North,offinso-north-gh0235,GH0235,,GH02,Ashanti,Ashanti,,,6,,7.28,-1.799,
+GH0236,2,District,District,Oforikrom Municipal,Oforikrom Municipal,oforikrom-municipal-gh0236,GH0236,,GH02,Ashanti,Ashanti,,,8,,6.676,-1.551,
+GH0237,2,District,District,Old Tafo Municipal,Old Tafo Municipal,old-tafo-municipal-gh0237,GH0237,,GH02,Ashanti,Ashanti,,,2,,6.736,-1.599,
+GH0238,2,District,District,Sekyere Afram Plains North,Sekyere Afram Plains North,sekyere-afram-plains-north-gh0238,GH0238,,GH02,Ashanti,Ashanti,,,1,,7.211,-0.595,
+GH0239,2,District,District,Sekyere Central,Sekyere Central,sekyere-central-gh0239,GH0239,,GH02,Ashanti,Ashanti,,,9,,7.216,-1.101,
+GH0240,2,District,District,Sekyere East,Sekyere East,sekyere-east-gh0240,GH0240,,GH02,Ashanti,Ashanti,,,8,,6.779,-1.299,
+GH0241,2,District,District,Sekyere Kumawu,Sekyere Kumawu,sekyere-kumawu-gh0241,GH0241,,GH02,Ashanti,Ashanti,,,4,,6.911,-1.239,
+GH0242,2,District,District,Sekyere South,Sekyere South,sekyere-south-gh0242,GH0242,,GH02,Ashanti,Ashanti,,,10,,6.996,-1.503,
+GH0243,2,District,District,Suame Municipal,Suame Municipal,suame-municipal-gh0243,GH0243,,GH02,Ashanti,Ashanti,,,1,,6.736,-1.648,
+GH03,1,Region,Region,Bono,Bono,bono-gh03,GH03,,,,,,12,76,,7.817,-2.37,https://openadmindata.org/gh/regions/bono-gh03/
+GH0301,2,District,District,Banda,Banda,banda-gh0301,GH0301,,GH03,Bono,Bono,,,0,,8.352,-2.406,
+GH0302,2,District,District,Berekum East Municipal,Berekum East Municipal,berekum-east-municipal-gh0302,GH0302,,GH03,Bono,Bono,,,4,,7.484,-2.565,
+GH0303,2,District,District,Berekum West,Berekum West,berekum-west-gh0303,GH0303,,GH03,Bono,Bono,,,3,,7.472,-2.71,
+GH0304,2,District,District,Dormaa East,Dormaa East,dormaa-east-gh0304,GH0304,,GH03,Bono,Bono,,,5,,7.264,-2.64,
+GH0305,2,District,District,Dormaa Municipal,Dormaa Municipal,dormaa-municipal-gh0305,GH0305,,GH03,Bono,Bono,,,11,,7.237,-2.856,
+GH0306,2,District,District,Dormaa West,Dormaa West,dormaa-west-gh0306,GH0306,,GH03,Bono,Bono,,,0,,6.975,-2.946,
+GH0307,2,District,District,Jaman North,Jaman North,jaman-north-gh0307,GH0307,,GH03,Bono,Bono,,,8,,7.913,-2.715,
+GH0308,2,District,District,Jaman South Municipal,Jaman South Municipal,jaman-south-municipal-gh0308,GH0308,,GH03,Bono,Bono,,,14,,7.623,-2.796,
+GH0309,2,District,District,Sunyani Municipal,Sunyani Municipal,sunyani-municipal-gh0309,GH0309,,GH03,Bono,Bono,,,15,,7.229,-2.409,
+GH0310,2,District,District,Sunyani West,Sunyani West,sunyani-west-gh0310,GH0310,,GH03,Bono,Bono,,,0,,7.424,-2.33,
+GH0311,2,District,District,Tain,Tain,tain-gh0311,GH0311,,GH03,Bono,Bono,,,11,,7.792,-2.384,
+GH0312,2,District,District,Wenchi Municipal,Wenchi Municipal,wenchi-municipal-gh0312,GH0312,,GH03,Bono,Bono,,,5,,7.804,-2.081,
+GH04,1,Region,Region,Bono East,Bono East,bono-east-gh04,GH04,,,,,,11,47,,7.975,-1.104,https://openadmindata.org/gh/regions/bono-east-gh04/
+GH0401,2,District,District,Atebubu Amantin,Atebubu Amantin,atebubu-amantin-gh0401,GH0401,,GH04,Bono East,Bono East,,,4,,7.729,-1.096,
+GH0402,2,District,District,Kintampo North Municipal,Kintampo North Municipal,kintampo-north-municipal-gh0402,GH0402,,GH04,Bono East,Bono East,,,5,,8.386,-1.578,
+GH0403,2,District,District,Kintampo South,Kintampo South,kintampo-south-gh0403,GH0403,,GH04,Bono East,Bono East,,,4,,7.942,-1.734,
+GH0404,2,District,District,Nkoranza North,Nkoranza North,nkoranza-north-gh0404,GH0404,,GH04,Bono East,Bono East,,,3,,7.72,-1.643,
+GH0405,2,District,District,Nkoranza South,Nkoranza South,nkoranza-south-gh0405,GH0405,,GH04,Bono East,Bono East,,,7,,7.452,-1.677,
+GH0406,2,District,District,Pru East,Pru East,pru-east-gh0406,GH0406,,GH04,Bono East,Bono East,,,3,,8.137,-0.812,
+GH0407,2,District,District,Pru West,Pru West,pru-west-gh0407,GH0407,,GH04,Bono East,Bono East,,,1,,8.038,-1.31,
+GH0408,2,District,District,Sene East,Sene East,sene-east-gh0408,GH0408,,GH04,Bono East,Bono East,,,3,,7.669,-0.209,
+GH0409,2,District,District,Sene West,Sene West,sene-west-gh0409,GH0409,,GH04,Bono East,Bono East,,,4,,7.749,-0.618,
+GH0410,2,District,District,Techiman Municipal,Techiman Municipal,techiman-municipal-gh0410,GH0410,,GH04,Bono East,Bono East,,,12,,7.526,-1.974,
+GH0411,2,District,District,Techiman North,Techiman North,techiman-north-gh0411,GH0411,,GH04,Bono East,Bono East,,,1,,7.702,-1.984,
+GH05,1,Region,Region,Central,Central,central-gh05,GH05,,,,,,22,147,,5.662,-1.158,https://openadmindata.org/gh/regions/central-gh05/
+GH0501,2,District,District,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,abura-asebu-kwamankese-gh0501,GH0501,,GH05,Central,Central,,,12,,5.268,-1.19,
+GH0502,2,District,District,Agona East,Agona East,agona-east-gh0502,GH0502,,GH05,Central,Central,,,5,,5.636,-0.656,
+GH0503,2,District,District,Agona West Municipal,Agona West Municipal,agona-west-municipal-gh0503,GH0503,,GH05,Central,Central,,,8,,5.629,-0.803,
+GH0504,2,District,District,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,ajumako-enyan-essiam-gh0504,GH0504,,GH05,Central,Central,,,12,,5.412,-0.984,
+GH0505,2,District,District,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,asikuma-odoben-brakwa-gh0505,GH0505,,GH05,Central,Central,,,7,,5.627,-1.025,
+GH0506,2,District,District,Assin Fosu,Assin Fosu,assin-fosu-gh0506,GH0506,,GH05,Central,Central,,,0,,5.724,-1.311,
+GH0507,2,District,District,Assin North,Assin North,assin-north-gh0507,GH0507,,GH05,Central,Central,,,8,,5.825,-1.373,
+GH0508,2,District,District,Assin South,Assin South,assin-south-gh0508,GH0508,,GH05,Central,Central,,,7,,5.529,-1.271,
+GH0509,2,District,District,Awutu Senya,Awutu Senya,awutu-senya-gh0509,GH0509,,GH05,Central,Central,,,8,,5.62,-0.501,
+GH0510,2,District,District,Awutu Senya East,Awutu Senya East,awutu-senya-east-gh0510,GH0510,,GH05,Central,Central,,,1,,5.403,-0.518,
+GH0511,2,District,District,Cape Coast Metropolitan,Cape Coast Metropolitan,cape-coast-metropolitan-gh0511,GH0511,,GH05,Central,Central,,,20,,5.176,-1.312,
+GH0512,2,District,District,Effutu Municipal,Effutu Municipal,effutu-municipal-gh0512,GH0512,,GH05,Central,Central,,,1,,5.384,-0.597,
+GH0513,2,District,District,Ekumfi,Ekumfi,ekumfi-gh0513,GH0513,,GH05,Central,Central,,,0,,5.288,-0.91,
+GH0514,2,District,District,Gomoa Central,Gomoa Central,gomoa-central-gh0514,GH0514,,GH05,Central,Central,,,0,,5.353,-0.725,
+GH0515,2,District,District,Gomoa East,Gomoa East,gomoa-east-gh0515,GH0515,,GH05,Central,Central,,,10,,5.476,-0.589,
+GH0516,2,District,District,Gomoa West,Gomoa West,gomoa-west-gh0516,GH0516,,GH05,Central,Central,,,6,,5.387,-0.834,
+GH0517,2,District,District,Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem Municipal,komenda-edina-eguafo-abirem-municipal-gh0517,GH0517,,GH05,Central,Central,,,11,,5.13,-1.44,
+GH0518,2,District,District,Mfantseman Municipal,Mfantseman Municipal,mfantseman-municipal-gh0518,GH0518,,GH05,Central,Central,,,9,,5.276,-1.035,
+GH0519,2,District,District,Twifo Atti-Morkwa,Twifo Atti-Morkwa,twifo-atti-morkwa-gh0519,GH0519,,GH05,Central,Central,,,6,,5.68,-1.618,
+GH0520,2,District,District,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,twifo-hemang-lower-denkyira-gh0520,GH0520,,GH05,Central,Central,,,2,,5.379,-1.401,
+GH0521,2,District,District,Upper Denkyira East Municipal,Upper Denkyira East Municipal,upper-denkyira-east-municipal-gh0521,GH0521,,GH05,Central,Central,,,7,,5.835,-1.739,
+GH0522,2,District,District,Upper Denkyira West,Upper Denkyira West,upper-denkyira-west-gh0522,GH0522,,GH05,Central,Central,,,7,,6.107,-2.071,
+GH06,1,Region,Region,Eastern,Eastern,eastern-gh06,GH06,,,,,,33,260,,6.458,-0.412,https://openadmindata.org/gh/regions/eastern-gh06/
+GH0601,2,District,District,Abuakwa North,Abuakwa North,abuakwa-north-gh0601,GH0601,,GH06,Eastern,Eastern,,,9,,6.236,-0.383,
+GH0602,2,District,District,Abuakwa South,Abuakwa South,abuakwa-south-gh0602,GH0602,,GH06,Eastern,Eastern,,,5,,6.172,-0.471,
+GH0603,2,District,District,Achiase,Achiase,achiase-gh0603,GH0603,,GH06,Eastern,Eastern,,,0,,5.795,-1.018,
+GH0604,2,District,District,Akwapem North,Akwapem North,akwapem-north-gh0604,GH0604,,GH06,Eastern,Eastern,,,6,,5.958,-0.221,
+GH0605,2,District,District,Akwapem South,Akwapem South,akwapem-south-gh0605,GH0605,,GH06,Eastern,Eastern,,,7,,5.844,-0.216,
+GH0606,2,District,District,Akyem Mansa,Akyem Mansa,akyem-mansa-gh0606,GH0606,,GH06,Eastern,Eastern,,,0,,6.082,-1.116,
+GH0607,2,District,District,Asene Akroso Manso,Asene Akroso Manso,asene-akroso-manso-gh0607,GH0607,,GH06,Eastern,Eastern,,,0,,5.856,-0.809,
+GH0608,2,District,District,Asuogyaman,Asuogyaman,asuogyaman-gh0608,GH0608,,GH06,Eastern,Eastern,,,8,,6.365,0.095,
+GH0609,2,District,District,Atiwa East,Atiwa East,atiwa-east-gh0609,GH0609,,GH06,Eastern,Eastern,,,7,,6.396,-0.597,
+GH0610,2,District,District,Atiwa West,Atiwa West,atiwa-west-gh0610,GH0610,,GH06,Eastern,Eastern,,,6,,6.208,-0.626,
+GH0611,2,District,District,Ayensuano,Ayensuano,ayensuano-gh0611,GH0611,,GH06,Eastern,Eastern,,,5,,5.945,-0.449,
+GH0612,2,District,District,Birim Central Municipal,Birim Central Municipal,birim-central-municipal-gh0612,GH0612,,GH06,Eastern,Eastern,,,0,,5.976,-1.006,
+GH0613,2,District,District,Birim North,Birim North,birim-north-gh0613,GH0613,,GH06,Eastern,Eastern,,,24,,6.368,-1.023,
+GH0614,2,District,District,Birim South,Birim South,birim-south-gh0614,GH0614,,GH06,Eastern,Eastern,,,19,,5.901,-1.029,
+GH0615,2,District,District,Denkyembour,Denkyembour,denkyembour-gh0615,GH0615,,GH06,Eastern,Eastern,,,0,,6.056,-0.815,
+GH0616,2,District,District,Fanteakwa North,Fanteakwa North,fanteakwa-north-gh0616,GH0616,,GH06,Eastern,Eastern,,,3,,6.498,-0.364,
+GH0617,2,District,District,Fanteakwa South,Fanteakwa South,fanteakwa-south-gh0617,GH0617,,GH06,Eastern,Eastern,,,3,,6.371,-0.312,
+GH0618,2,District,District,Kwaebibirem,Kwaebibirem,kwaebibirem-gh0618,GH0618,,GH06,Eastern,Eastern,,,20,,6.233,-0.876,
+GH0619,2,District,District,Kwahu Afram Plains North,Kwahu Afram Plains North,kwahu-afram-plains-north-gh0619,GH0619,,GH06,Eastern,Eastern,,,4,,6.868,-0.023,
+GH0620,2,District,District,Kwahu Afram Plains South,Kwahu Afram Plains South,kwahu-afram-plains-south-gh0620,GH0620,,GH06,Eastern,Eastern,,,4,,6.877,-0.461,
+GH0621,2,District,District,Kwahu East,Kwahu East,kwahu-east-gh0621,GH0621,,GH06,Eastern,Eastern,,,0,,6.731,-0.81,
+GH0622,2,District,District,Kwahu South,Kwahu South,kwahu-south-gh0622,GH0622,,GH06,Eastern,Eastern,,,24,,6.628,-0.591,
+GH0623,2,District,District,Kwahu West,Kwahu West,kwahu-west-gh0623,GH0623,,GH06,Eastern,Eastern,,,13,,6.491,-0.728,
+GH0624,2,District,District,Lower Manya,Lower Manya,lower-manya-gh0624,GH0624,,GH06,Eastern,Eastern,,,15,,6.212,-0.041,
+GH0625,2,District,District,New Juaben North Municipal,New Juaben North Municipal,new-juaben-north-municipal-gh0625,GH0625,,GH06,Eastern,Eastern,,,3,,6.145,-0.317,
+GH0626,2,District,District,New Juaben South Municipal,New Juaben South Municipal,new-juaben-south-municipal-gh0626,GH0626,,GH06,Eastern,Eastern,,,15,,6.08,-0.263,
+GH0627,2,District,District,Nsawam Adoagyiri,Nsawam Adoagyiri,nsawam-adoagyiri-gh0627,GH0627,,GH06,Eastern,Eastern,,,6,,5.828,-0.344,
+GH0628,2,District,District,Okere,Okere,okere-gh0628,GH0628,,GH06,Eastern,Eastern,,,10,,6.04,-0.128,
+GH0629,2,District,District,Suhum Municipal,Suhum Municipal,suhum-municipal-gh0629,GH0629,,GH06,Eastern,Eastern,,,6,,6.043,-0.417,
+GH0630,2,District,District,Upper Manya,Upper Manya,upper-manya-gh0630,GH0630,,GH06,Eastern,Eastern,,,6,,6.384,-0.14,
+GH0631,2,District,District,Upper West Akim,Upper West Akim,upper-west-akim-gh0631,GH0631,,GH06,Eastern,Eastern,,,0,,5.806,-0.54,
+GH0632,2,District,District,West Akim,West Akim,west-akim-gh0632,GH0632,,GH06,Eastern,Eastern,,,17,,5.907,-0.683,
+GH0633,2,District,District,Yilo Krobo,Yilo Krobo,yilo-krobo-gh0633,GH0633,,GH06,Eastern,Eastern,,,15,,6.156,-0.167,
+GH07,1,Region,Region,Greater Accra,Greater Accra,greater-accra-gh07,GH07,,,,,,29,222,,5.79,0.247,https://openadmindata.org/gh/regions/greater-accra-gh07/
+GH0701,2,District,District,Ablekuma Central Municipal,Ablekuma Central Municipal,ablekuma-central-municipal-gh0701,GH0701,,GH07,Greater Accra,Greater Accra,,,22,,5.555,-0.241,
+GH0702,2,District,District,Ablekuma North Municipal,Ablekuma North Municipal,ablekuma-north-municipal-gh0702,GH0702,,GH07,Greater Accra,Greater Accra,,,15,,5.58,-0.247,
+GH0703,2,District,District,Ablekuma West Municipal,Ablekuma West Municipal,ablekuma-west-municipal-gh0703,GH0703,,GH07,Greater Accra,Greater Accra,,,13,,5.538,-0.263,
+GH0704,2,District,District,Accra Metropolis,Accra Metropolis,accra-metropolis-gh0704,GH0704,,GH07,Greater Accra,Greater Accra,,,14,,5.544,-0.211,
+GH0705,2,District,District,Ada East,Ada East,ada-east-gh0705,GH0705,,GH07,Greater Accra,Greater Accra,,,3,,5.876,0.549,
+GH0706,2,District,District,Ada West,Ada West,ada-west-gh0706,GH0706,,GH07,Greater Accra,Greater Accra,,,3,,5.893,0.422,
+GH0707,2,District,District,Adenta Municipal,Adenta Municipal,adenta-municipal-gh0707,GH0707,,GH07,Greater Accra,Greater Accra,,,1,,5.713,-0.146,
+GH0708,2,District,District,Ashaiman Municipal,Ashaiman Municipal,ashaiman-municipal-gh0708,GH0708,,GH07,Greater Accra,Greater Accra,,,0,,5.701,-0.035,
+GH0709,2,District,District,Ayawaso Central Municipal,Ayawaso Central Municipal,ayawaso-central-municipal-gh0709,GH0709,,GH07,Greater Accra,Greater Accra,,,10,,5.579,-0.204,
+GH0710,2,District,District,Ayawaso East Municipal,Ayawaso East Municipal,ayawaso-east-municipal-gh0710,GH0710,,GH07,Greater Accra,Greater Accra,,,12,,5.589,-0.193,
+GH0711,2,District,District,Ayawaso North Municipal,Ayawaso North Municipal,ayawaso-north-municipal-gh0711,GH0711,,GH07,Greater Accra,Greater Accra,,,9,,5.595,-0.208,
+GH0712,2,District,District,Ayawaso West,Ayawaso West,ayawaso-west-gh0712,GH0712,,GH07,Greater Accra,Greater Accra,,,6,,5.631,-0.164,
+GH0713,2,District,District,Ga Central Municipal,Ga Central Municipal,ga-central-municipal-gh0713,GH0713,,GH07,Greater Accra,Greater Accra,,,0,,5.616,-0.307,
+GH0714,2,District,District,Ga East,Ga East,ga-east-gh0714,GH0714,,GH07,Greater Accra,Greater Accra,,,15,,5.706,-0.221,
+GH0715,2,District,District,Ga North Municipal,Ga North Municipal,ga-north-municipal-gh0715,GH0715,,GH07,Greater Accra,Greater Accra,,,0,,5.711,-0.28,
+GH0716,2,District,District,Ga South Municipal,Ga South Municipal,ga-south-municipal-gh0716,GH0716,,GH07,Greater Accra,Greater Accra,,,0,,5.678,-0.437,
+GH0717,2,District,District,Ga West Municipal,Ga West Municipal,ga-west-municipal-gh0717,GH0717,,GH07,Greater Accra,Greater Accra,,,28,,5.704,-0.357,
+GH0718,2,District,District,Korle Klottey Municipal,Korle Klottey Municipal,korle-klottey-municipal-gh0718,GH0718,,GH07,Greater Accra,Greater Accra,,,5,,5.561,-0.196,
+GH0719,2,District,District,Kpone Katamanso,Kpone Katamanso,kpone-katamanso-gh0719,GH0719,,GH07,Greater Accra,Greater Accra,,,3,,5.767,-0.074,
+GH0720,2,District,District,Krowor Municipal,Krowor Municipal,krowor-municipal-gh0720,GH0720,,GH07,Greater Accra,Greater Accra,,,1,,5.613,-0.083,
+GH0721,2,District,District,La Dade-Kotopon,La Dade-Kotopon,la-dade-kotopon-gh0721,GH0721,,GH07,Greater Accra,Greater Accra,,,2,,5.588,-0.158,
+GH0722,2,District,District,La-Nkwantanang-Madina,La-Nkwantanang-Madina,la-nkwantanang-madina-gh0722,GH0722,,GH07,Greater Accra,Greater Accra,,,0,,5.741,-0.173,
+GH0723,2,District,District,Ledzokuku Municipal,Ledzokuku Municipal,ledzokuku-municipal-gh0723,GH0723,,GH07,Greater Accra,Greater Accra,,,2,,5.604,-0.114,
+GH0724,2,District,District,Ningo/Prampram,Ningo/Prampram,ningoprampram-gh0724,GH0724,,GH07,Greater Accra,Greater Accra,,,5,,5.815,0.139,
+GH0725,2,District,District,Okaikwei North Municipal,Okaikwei North Municipal,okaikwei-north-municipal-gh0725,GH0725,,GH07,Greater Accra,Greater Accra,,,5,,5.629,-0.209,
+GH0726,2,District,District,Shai Osudoku,Shai Osudoku,shai-osudoku-gh0726,GH0726,,GH07,Greater Accra,Greater Accra,,,4,,5.966,0.168,
+GH0727,2,District,District,Tema Metropolitan,Tema Metropolitan,tema-metropolitan-gh0727,GH0727,,GH07,Greater Accra,Greater Accra,,,44,,5.648,-0.005,
+GH0728,2,District,District,Tema West Municipal,Tema West Municipal,tema-west-municipal-gh0728,GH0728,,GH07,Greater Accra,Greater Accra,,,0,,5.651,-0.068,
+GH0729,2,District,District,Weija Gbawe Municipal,Weija Gbawe Municipal,weija-gbawe-municipal-gh0729,GH0729,,GH07,Greater Accra,Greater Accra,,,0,,5.54,-0.343,
+GH08,1,Region,Region,Northern,Northern,northern-gh08,GH08,,,,,,16,93,,9.279,0.003,https://openadmindata.org/gh/regions/northern-gh08/
+GH0801,2,District,District,Gushegu,Gushegu,gushegu-gh0801,GH0801,,GH08,Northern,Northern,,,5,,9.923,-0.145,
+GH0802,2,District,District,Karaga,Karaga,karaga-gh0802,GH0802,,GH08,Northern,Northern,,,3,,9.917,-0.536,
+GH0803,2,District,District,Kpandai,Kpandai,kpandai-gh0803,GH0803,,GH08,Northern,Northern,,,0,,8.387,-0.065,
+GH0804,2,District,District,Kumbungu,Kumbungu,kumbungu-gh0804,GH0804,,GH08,Northern,Northern,,,3,,9.797,-1.061,
+GH0805,2,District,District,Mion,Mion,mion-gh0805,GH0805,,GH08,Northern,Northern,,,0,,9.453,-0.335,
+GH0806,2,District,District,Nanton,Nanton,nanton-gh0806,GH0806,,GH08,Northern,Northern,,,5,,9.561,-0.71,
+GH0807,2,District,District,Nanumba North,Nanumba North,nanumba-north-gh0807,GH0807,,GH08,Northern,Northern,,,6,,8.922,-0.138,
+GH0808,2,District,District,Nanumba South,Nanumba South,nanumba-south-gh0808,GH0808,,GH08,Northern,Northern,,,6,,8.767,0.055,
+GH0809,2,District,District,Saboba,Saboba,saboba-gh0809,GH0809,,GH08,Northern,Northern,,,6,,9.709,0.196,
+GH0810,2,District,District,Sagnerigu,Sagnerigu,sagnerigu-gh0810,GH0810,,GH08,Northern,Northern,,,7,,9.487,-0.855,
+GH0811,2,District,District,Savelugu,Savelugu,savelugu-gh0811,GH0811,,GH08,Northern,Northern,,,3,,9.866,-0.902,
+GH0812,2,District,District,Tamale Metropolitan,Tamale Metropolitan,tamale-metropolitan-gh0812,GH0812,,GH08,Northern,Northern,,,27,,9.385,-0.743,
+GH0813,2,District,District,Tatale Sanguli,Tatale Sanguli,tatale-sanguli-gh0813,GH0813,,GH08,Northern,Northern,,,4,,9.142,0.456,
+GH0814,2,District,District,Tolon,Tolon,tolon-gh0814,GH0814,,GH08,Northern,Northern,,,4,,9.556,-1.198,
+GH0815,2,District,District,Yendi Municipal,Yendi Municipal,yendi-municipal-gh0815,GH0815,,GH08,Northern,Northern,,,10,,9.472,0.022,
+GH0816,2,District,District,Zabzugu,Zabzugu,zabzugu-gh0816,GH0816,,GH08,Northern,Northern,,,4,,9.091,0.308,
+GH09,1,Region,Region,Northern East,Northern East,northern-east-gh09,GH09,,,,,,6,31,,10.321,-0.856,https://openadmindata.org/gh/regions/northern-east-gh09/
+GH0901,2,District,District,Bunkpurugu Nakpanduri,Bunkpurugu Nakpanduri,bunkpurugu-nakpanduri-gh0901,GH0901,,GH09,Northern East,Northern East,,,2,,10.509,0.043,
+GH0902,2,District,District,Chereponi,Chereponi,chereponi-gh0902,GH0902,,GH09,Northern East,Northern East,,,4,,10.179,0.207,
+GH0903,2,District,District,East Mamprusi,East Mamprusi,east-mamprusi-gh0903,GH0903,,GH09,Northern East,Northern East,,,7,,10.453,-0.432,
+GH0904,2,District,District,Mamprugu Moagduri,Mamprugu Moagduri,mamprugu-moagduri-gh0904,GH0904,,GH09,Northern East,Northern East,,,1,,10.258,-1.318,
+GH0905,2,District,District,West Mamprusi Municipal,West Mamprusi Municipal,west-mamprusi-municipal-gh0905,GH0905,,GH09,Northern East,Northern East,,,14,,10.298,-0.765,
+GH0906,2,District,District,Yunyoo-Nasuan,Yunyoo-Nasuan,yunyoo-nasuan-gh0906,GH0906,,GH09,Northern East,Northern East,,,3,,10.434,-0.084,
+GH10,1,Region,Region,Oti,Oti,oti-gh10,GH10,,,,,,8,58,,7.932,0.242,https://openadmindata.org/gh/regions/oti-gh10/
+GH1001,2,District,District,Biakoye,Biakoye,biakoye-gh1001,GH1001,,GH10,Oti,Oti,,,0,,7.393,0.246,
+GH1002,2,District,District,Jasikan,Jasikan,jasikan-gh1002,GH1002,,GH10,Oti,Oti,,,18,,7.376,0.558,
+GH1003,2,District,District,Kadjebi,Kadjebi,kadjebi-gh1003,GH1003,,GH10,Oti,Oti,,,11,,7.718,0.533,
+GH1004,2,District,District,Krachi East Municipal,Krachi East Municipal,krachi-east-municipal-gh1004,GH1004,,GH10,Oti,Oti,,,6,,7.805,0.264,
+GH1005,2,District,District,Krachi Nchumuru,Krachi Nchumuru,krachi-nchumuru-gh1005,GH1005,,GH10,Oti,Oti,,,0,,8.189,-0.088,
+GH1006,2,District,District,Krachi West,Krachi West,krachi-west-gh1006,GH1006,,GH10,Oti,Oti,,,10,,7.89,-0.036,
+GH1007,2,District,District,Nkwanta North,Nkwanta North,nkwanta-north-gh1007,GH1007,,GH10,Oti,Oti,,,4,,8.551,0.234,
+GH1008,2,District,District,Nkwanta South Municipal,Nkwanta South Municipal,nkwanta-south-municipal-gh1008,GH1008,,GH10,Oti,Oti,,,9,,8.25,0.414,
+GH11,1,Region,Region,Savannah,Savannah,savannah-gh11,GH11,,,,,,7,42,,9.049,-1.494,https://openadmindata.org/gh/regions/savannah-gh11/
+GH1101,2,District,District,Bole,Bole,bole-gh1101,GH1101,,GH11,Savannah,Savannah,,,6,,8.692,-2.179,
+GH1102,2,District,District,Central Gonja,Central Gonja,central-gonja-gh1102,GH1102,,GH11,Savannah,Savannah,,,6,,8.941,-1.106,
+GH1103,2,District,District,East Gonja Municipal,East Gonja Municipal,east-gonja-municipal-gh1103,GH1103,,GH11,Savannah,Savannah,,,16,,8.349,-1.026,
+GH1104,2,District,District,North East Gonja,North East Gonja,north-east-gonja-gh1104,GH1104,,GH11,Savannah,Savannah,,,0,,8.741,-0.528,
+GH1105,2,District,District,North Gonja,North Gonja,north-gonja-gh1105,GH1105,,GH11,Savannah,Savannah,,,0,,9.691,-1.617,
+GH1106,2,District,District,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba,sawla-tuna-kalba-gh1106,GH1106,,GH11,Savannah,Savannah,,,6,,9.479,-2.413,
+GH1107,2,District,District,West Gonja,West Gonja,west-gonja-gh1107,GH1107,,GH11,Savannah,Savannah,,,8,,9.223,-1.754,
+GH12,1,Region,Region,Upper East,Upper East,upper-east-gh12,GH12,,,,,,15,169,,10.728,-0.819,https://openadmindata.org/gh/regions/upper-east-gh12/
+GH1201,2,District,District,Bawku Municipal,Bawku Municipal,bawku-municipal-gh1201,GH1201,,GH12,Upper East,Upper East,,,19,,11.042,-0.237,
+GH1202,2,District,District,Bawku West,Bawku West,bawku-west-gh1202,GH1202,,GH12,Upper East,Upper East,,,19,,10.843,-0.493,
+GH1203,2,District,District,Binduri,Binduri,binduri-gh1203,GH1203,,GH12,Upper East,Upper East,,,0,,10.946,-0.302,
+GH1204,2,District,District,Bolga East,Bolga East,bolga-east-gh1204,GH1204,,GH12,Upper East,Upper East,,,6,,10.803,-0.798,
+GH1205,2,District,District,Bolgatanga Municipal,Bolgatanga Municipal,bolgatanga-municipal-gh1205,GH1205,,GH12,Upper East,Upper East,,,20,,10.749,-0.933,
+GH1206,2,District,District,Bongo,Bongo,bongo-gh1206,GH1206,,GH12,Upper East,Upper East,,,35,,10.918,-0.805,
+GH1207,2,District,District,Builsa North,Builsa North,builsa-north-gh1207,GH1207,,GH12,Upper East,Upper East,,,7,,10.711,-1.258,
+GH1208,2,District,District,Builsa South,Builsa South,builsa-south-gh1208,GH1208,,GH12,Upper East,Upper East,,,9,,10.532,-1.263,
+GH1209,2,District,District,Garu,Garu,garu-gh1209,GH1209,,GH12,Upper East,Upper East,,,8,,10.77,-0.223,
+GH1210,2,District,District,Kasena Nankana East,Kasena Nankana East,kasena-nankana-east-gh1210,GH1210,,GH12,Upper East,Upper East,,,19,,10.749,-1.07,
+GH1211,2,District,District,Kasena Nankana West,Kasena Nankana West,kasena-nankana-west-gh1211,GH1211,,GH12,Upper East,Upper East,,,10,,10.873,-1.316,
+GH1212,2,District,District,Nabdam,Nabdam,nabdam-gh1212,GH1212,,GH12,Upper East,Upper East,,,5,,10.847,-0.661,
+GH1213,2,District,District,Pusiga,Pusiga,pusiga-gh1213,GH1213,,GH12,Upper East,Upper East,,,0,,11.077,-0.092,
+GH1214,2,District,District,Talensi,Talensi,talensi-gh1214,GH1214,,GH12,Upper East,Upper East,,,2,,10.642,-0.624,
+GH1215,2,District,District,Tempane,Tempane,tempane-gh1215,GH1215,,GH12,Upper East,Upper East,,,10,,10.901,-0.09,
+GH13,1,Region,Region,Upper West,Upper West,upper-west-gh13,GH13,,,,,,11,109,,10.334,-2.215,https://openadmindata.org/gh/regions/upper-west-gh13/
+GH1301,2,District,District,Daffiama Bussie Issa,Daffiama Bussie Issa,daffiama-bussie-issa-gh1301,GH1301,,GH13,Upper West,Upper West,,,6,,10.367,-2.262,
+GH1302,2,District,District,Jirapa,Jirapa,jirapa-gh1302,GH1302,,GH13,Upper West,Upper West,,,15,,10.588,-2.562,
+GH1303,2,District,District,Lambussie-Karni,Lambussie-Karni,lambussie-karni-gh1303,GH1303,,GH13,Upper West,Upper West,,,4,,10.839,-2.583,
+GH1304,2,District,District,Lawra,Lawra,lawra-gh1304,GH1304,,GH13,Upper West,Upper West,,,15,,10.62,-2.851,
+GH1305,2,District,District,Nadowli-Kaleo,Nadowli-Kaleo,nadowli-kaleo-gh1305,GH1305,,GH13,Upper West,Upper West,,,13,,10.286,-2.638,
+GH1306,2,District,District,Nandom,Nandom,nandom-gh1306,GH1306,,GH13,Upper West,Upper West,,,2,,10.867,-2.8,
+GH1307,2,District,District,Sissala East,Sissala East,sissala-east-gh1307,GH1307,,GH13,Upper West,Upper West,,,8,,10.607,-1.853,
+GH1308,2,District,District,Sissala West,Sissala West,sissala-west-gh1308,GH1308,,GH13,Upper West,Upper West,,,4,,10.759,-2.305,
+GH1309,2,District,District,Wa East,Wa East,wa-east-gh1309,GH1309,,GH13,Upper West,Upper West,,,11,,10.086,-1.976,
+GH1310,2,District,District,Wa Municipal,Wa Municipal,wa-municipal-gh1310,GH1310,,GH13,Upper West,Upper West,,,19,,10.038,-2.465,
+GH1311,2,District,District,Wa West,Wa West,wa-west-gh1311,GH1311,,GH13,Upper West,Upper West,,,12,,9.918,-2.608,
+GH14,1,Region,Region,Volta,Volta,volta-gh14,GH14,,,,,,18,173,,6.537,0.458,https://openadmindata.org/gh/regions/volta-gh14/
+GH1401,2,District,District,Adaklu,Adaklu,adaklu-gh1401,GH1401,,GH14,Volta,Volta,,,1,,6.442,0.533,
+GH1402,2,District,District,Afadzato South,Afadzato South,afadzato-south-gh1402,GH1402,,GH14,Volta,Volta,,,0,,6.875,0.365,
+GH1403,2,District,District,Agotime Ziope,Agotime Ziope,agotime-ziope-gh1403,GH1403,,GH14,Volta,Volta,,,7,,6.476,0.692,
+GH1404,2,District,District,Akatsi North,Akatsi North,akatsi-north-gh1404,GH1404,,GH14,Volta,Volta,,,3,,6.311,0.877,
+GH1405,2,District,District,Akatsi South,Akatsi South,akatsi-south-gh1405,GH1405,,GH14,Volta,Volta,,,9,,6.153,0.799,
+GH1406,2,District,District,Anloga,Anloga,anloga-gh1406,GH1406,,GH14,Volta,Volta,,,0,,5.825,0.795,
+GH1407,2,District,District,Central Tongu,Central Tongu,central-tongu-gh1407,GH1407,,GH14,Volta,Volta,,,1,,6.165,0.611,
+GH1408,2,District,District,Ho Municipal,Ho Municipal,ho-municipal-gh1408,GH1408,,GH14,Volta,Volta,,,30,,6.675,0.535,
+GH1409,2,District,District,Ho West,Ho West,ho-west-gh1409,GH1409,,GH14,Volta,Volta,,,0,,6.602,0.334,
+GH1410,2,District,District,Hohoe Municipal,Hohoe Municipal,hohoe-municipal-gh1410,GH1410,,GH14,Volta,Volta,,,31,,7.153,0.487,
+GH1411,2,District,District,Keta Municipal,Keta Municipal,keta-municipal-gh1411,GH1411,,GH14,Volta,Volta,,,19,,5.937,0.883,
+GH1412,2,District,District,Ketu North,Ketu North,ketu-north-gh1412,GH1412,,GH14,Volta,Volta,,,5,,6.192,0.978,
+GH1413,2,District,District,Ketu South,Ketu South,ketu-south-gh1413,GH1413,,GH14,Volta,Volta,,,16,,6.08,1.072,
+GH1414,2,District,District,Kpando Municipal,Kpando Municipal,kpando-municipal-gh1414,GH1414,,GH14,Volta,Volta,,,15,,6.999,0.317,
+GH1415,2,District,District,North Dayi,North Dayi,north-dayi-gh1415,GH1415,,GH14,Volta,Volta,,,0,,6.817,0.231,
+GH1416,2,District,District,North Tongu,North Tongu,north-tongu-gh1416,GH1416,,GH14,Volta,Volta,,,12,,6.144,0.297,
+GH1417,2,District,District,South Dayi,South Dayi,south-dayi-gh1417,GH1417,,GH14,Volta,Volta,,,13,,6.544,0.241,
+GH1418,2,District,District,South Tongu,South Tongu,south-tongu-gh1418,GH1418,,GH14,Volta,Volta,,,11,,5.965,0.641,
+GH15,1,Region,Region,Western,Western,western-gh15,GH15,,,,,,14,144,,5.445,-2.112,https://openadmindata.org/gh/regions/western-gh15/
+GH1501,2,District,District,Ahanta West Municipal,Ahanta West Municipal,ahanta-west-municipal-gh1501,GH1501,,GH15,Western,Western,,,10,,4.852,-1.987,
+GH1502,2,District,District,Effia Kwesimintsim Municipal,Effia Kwesimintsim Municipal,effia-kwesimintsim-municipal-gh1502,GH1502,,GH15,Western,Western,,,7,,4.964,-1.808,
+GH1503,2,District,District,Ellembelle,Ellembelle,ellembelle-gh1503,GH1503,,GH15,Western,Western,,,0,,5.15,-2.421,
+GH1504,2,District,District,Jomoro,Jomoro,jomoro-gh1504,GH1504,,GH15,Western,Western,,,16,,5.197,-2.614,
+GH1505,2,District,District,Mpohor,Mpohor,mpohor-gh1505,GH1505,,GH15,Western,Western,,,3,,5.058,-1.827,
+GH1506,2,District,District,Nzema East,Nzema East,nzema-east-gh1506,GH1506,,GH15,Western,Western,,,10,,5.086,-2.222,
+GH1507,2,District,District,Prestea/Huni Valley,Prestea/Huni Valley,presteahuni-valley-gh1507,GH1507,,GH15,Western,Western,,,13,,5.447,-2.04,
+GH1508,2,District,District,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,sekondi-takoradi-metropolis-gh1508,GH1508,,GH15,Western,Western,,,31,,4.961,-1.733,
+GH1509,2,District,District,Shama,Shama,shama-gh1509,GH1509,,GH15,Western,Western,,,7,,5.059,-1.641,
+GH1510,2,District,District,Tarkwa Nsuaem,Tarkwa Nsuaem,tarkwa-nsuaem-gh1510,GH1510,,GH15,Western,Western,,,18,,5.138,-2.035,
+GH1511,2,District,District,Wassa Amenfi Central,Wassa Amenfi Central,wassa-amenfi-central-gh1511,GH1511,,GH15,Western,Western,,,0,,5.739,-2.26,
+GH1512,2,District,District,Wassa Amenfi East,Wassa Amenfi East,wassa-amenfi-east-gh1512,GH1512,,GH15,Western,Western,,,10,,5.878,-1.99,
+GH1513,2,District,District,Wassa Amenfi West,Wassa Amenfi West,wassa-amenfi-west-gh1513,GH1513,,GH15,Western,Western,,,12,,5.747,-2.49,
+GH1514,2,District,District,Wassa East,Wassa East,wassa-east-gh1514,GH1514,,GH15,Western,Western,,,7,,5.368,-1.622,
+GH16,1,Region,Region,Western North,Western North,western-north-gh16,GH16,,,,,,9,85,,6.176,-2.656,https://openadmindata.org/gh/regions/western-north-gh16/
+GH1601,2,District,District,Aowin,Aowin,aowin-gh1601,GH1601,,GH16,Western North,Western North,,,9,,5.695,-2.754,
+GH1602,2,District,District,Bia East,Bia East,bia-east-gh1602,GH1602,,GH16,Western North,Western North,,,13,,6.828,-3.041,
+GH1603,2,District,District,Bia West,Bia West,bia-west-gh1603,GH1603,,GH16,Western North,Western North,,,14,,6.569,-3.066,
+GH1604,2,District,District,Bibiani-Anhwiaso-Bekwai Municipal,Bibiani-Anhwiaso-Bekwai Municipal,bibiani-anhwiaso-bekwai-municipal-gh1604,GH1604,,GH16,Western North,Western North,,,13,,6.294,-2.232,
+GH1605,2,District,District,Bodi,Bodi,bodi-gh1605,GH1605,,GH16,Western North,Western North,,,8,,6.24,-2.855,
+GH1606,2,District,District,Juaboso,Juaboso,juaboso-gh1606,GH1606,,GH16,Western North,Western North,,,8,,6.432,-2.913,
+GH1607,2,District,District,Sefwi Akontombra,Sefwi Akontombra,sefwi-akontombra-gh1607,GH1607,,GH16,Western North,Western North,,,5,,6.094,-2.653,
+GH1608,2,District,District,Sefwi-Wiawso,Sefwi-Wiawso,sefwi-wiawso-gh1608,GH1608,,GH16,Western North,Western North,,,10,,6.307,-2.518,
+GH1609,2,District,District,Suaman,Suaman,suaman-gh1609,GH1609,,GH16,Western North,Western North,,,5,,6.107,-3.008,

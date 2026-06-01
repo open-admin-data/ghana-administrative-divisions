@@ -26,5 +26,9 @@
     "lon": "-0.412"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/eastern-gh06/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

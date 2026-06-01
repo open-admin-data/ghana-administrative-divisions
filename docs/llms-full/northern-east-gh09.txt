@@ -3,7 +3,7 @@
 > 6 districts, 31 towns
 > Code: GH09
 > Coordinates: 10.321, -0.856
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

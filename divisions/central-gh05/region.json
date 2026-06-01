@@ -26,5 +26,9 @@
     "lon": "-1.158"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/central-gh05/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

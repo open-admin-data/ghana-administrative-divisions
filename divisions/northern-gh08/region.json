@@ -26,5 +26,9 @@
     "lon": "0.003"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/northern-gh08/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

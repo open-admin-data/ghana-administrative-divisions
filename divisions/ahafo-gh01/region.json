@@ -26,5 +26,9 @@
     "lon": "-2.618"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/ahafo-gh01/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

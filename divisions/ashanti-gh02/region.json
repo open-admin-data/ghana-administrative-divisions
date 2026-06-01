@@ -26,5 +26,9 @@
     "lon": "-1.628"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/ashanti-gh02/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

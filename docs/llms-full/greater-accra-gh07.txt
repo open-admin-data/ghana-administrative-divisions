@@ -3,7 +3,7 @@
 > 29 districts, 222 towns
 > Code: GH07
 > Coordinates: 5.79, 0.247
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 9 districts, 85 towns
 > Code: GH16
 > Coordinates: 6.176, -2.656
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

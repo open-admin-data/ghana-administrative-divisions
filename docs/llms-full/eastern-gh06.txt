@@ -3,7 +3,7 @@
 > 33 districts, 260 towns
 > Code: GH06
 > Coordinates: 6.458, -0.412
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

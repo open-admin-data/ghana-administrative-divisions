@@ -27,7 +27,11 @@
       "lon": "-2.618"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/ahafo-gh01/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH02",
@@ -57,7 +61,11 @@
       "lon": "-1.628"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/ashanti-gh02/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH03",
@@ -87,7 +95,11 @@
       "lon": "-2.37"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/bono-gh03/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH04",
@@ -117,7 +129,11 @@
       "lon": "-1.104"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/bono-east-gh04/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH05",
@@ -147,7 +163,11 @@
       "lon": "-1.158"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/central-gh05/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH06",
@@ -177,7 +197,11 @@
       "lon": "-0.412"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/eastern-gh06/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH07",
@@ -207,7 +231,11 @@
       "lon": "0.247"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/greater-accra-gh07/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH08",
@@ -237,7 +265,11 @@
       "lon": "0.003"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/northern-gh08/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH09",
@@ -267,7 +299,11 @@
       "lon": "-0.856"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/northern-east-gh09/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH10",
@@ -297,7 +333,11 @@
       "lon": "0.242"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/oti-gh10/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH11",
@@ -327,7 +367,11 @@
       "lon": "-1.494"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/savannah-gh11/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH12",
@@ -357,7 +401,11 @@
       "lon": "-0.819"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/upper-east-gh12/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH13",
@@ -387,7 +435,11 @@
       "lon": "-2.215"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/upper-west-gh13/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH14",
@@ -417,7 +469,11 @@
       "lon": "0.458"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/volta-gh14/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH15",
@@ -447,7 +503,11 @@
       "lon": "-2.112"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/western-gh15/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   },
   {
     "id": "GH16",
@@ -477,6 +537,10 @@
       "lon": "-2.656"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gh/regions/western-north-gh16/",
+      "api": "https://openadmindata.org/api/gh/"
+    }
   }
 ]

@@ -26,5 +26,9 @@
     "lon": "0.242"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/oti-gh10/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "-2.112"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/western-gh15/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "-2.215"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/upper-west-gh13/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

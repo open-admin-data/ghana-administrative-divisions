@@ -3,7 +3,7 @@
 > 8 districts, 58 towns
 > Code: GH10
 > Coordinates: 7.932, 0.242
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

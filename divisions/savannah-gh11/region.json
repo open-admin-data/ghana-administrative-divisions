@@ -26,5 +26,9 @@
     "lon": "-1.494"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/savannah-gh11/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

@@ -3,7 +3,7 @@
 > 6 districts, 34 towns
 > Code: GH01
 > Coordinates: 6.874, -2.618
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

@@ -26,5 +26,9 @@
     "lon": "-1.104"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gh/regions/bono-east-gh04/",
+    "api": "https://openadmindata.org/api/gh/"
+  }
 }

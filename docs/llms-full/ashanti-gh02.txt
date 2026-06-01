@@ -3,7 +3,7 @@
 > 43 districts, 389 towns
 > Code: GH02
 > Coordinates: 6.74, -1.628
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 
